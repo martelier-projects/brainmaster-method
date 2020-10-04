@@ -1,0 +1,8 @@
+# Build
+_site
+
+# Modules
+node_modules
+
+# Code editors
+.vscode

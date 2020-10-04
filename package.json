@@ -1,0 +1,20 @@
+{
+  "name": "meditation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx @11ty/eleventy --serve",
+    "format": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "prettier": "^2.1.2"
+  },
+  "dependencies": {
+    "eleventy-plugin-sass": "^1.1.1"
+  }
+}

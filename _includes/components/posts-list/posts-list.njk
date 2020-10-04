@@ -1,0 +1,11 @@
+<nav class="posts-list">
+    <ol class="posts-list__list">
+        {%- for post in collections.post -%}
+            <li class="posts-list__item">
+                <a class="posts-list__link" href="{{ post.url }}">
+                    {{ post.url }}
+                </a>
+            </li>
+        {%- endfor -%}
+    </ol>
+</nav>
