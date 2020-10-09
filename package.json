@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grrr-amsterdam/tiim.git"
+    "url": "git+https://github.com/martelier-projects/brainmethod.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/grrr-amsterdam/tiim/issues"
+    "url": "https://github.com/martelier-projects/brainmethod/issues"
   },
-  "homepage": "https://github.com/grrr-amsterdam/tiim#readme",
+  "homepage": "https://github.com/martelier-projects/brainmethod#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0",
     "@babel/preset-env": "^7.11.5",
