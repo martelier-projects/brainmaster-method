@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{{ labels.title }} || Brain method</title>
+
+        <link rel="stylesheet" href="/assets/styles/base.css" />
+    </head>
+
+    <body>
+        {% include "../components/header.njk" %}
+
+        <main>
+            {{ content | safe }}
+        </main>
+
+        {% include "../components/footer.njk" %}
+
+        <script src="/assets/scripts/bundle.js"></script>
+    </body>
+</html>

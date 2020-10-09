@@ -1,8 +1,4 @@
-# Build
-_site
-
-# Modules
-node_modules
-
-# Code editors
-.vscode
+node_modules/
+dist/
+.env
+src/compiled-assets
