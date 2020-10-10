@@ -1,0 +1,17 @@
+// .main-nav {
+// }
+.main-nav__list {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.main-nav__item {
+  margin: 0;
+  padding: 0;
+}
+.main-nav__link {
+  text-decoration: none;
+  color: inherit;
+  padding: $spacing-m;
+}

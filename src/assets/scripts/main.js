@@ -1,1 +1,1 @@
-console.log("JS IS RUNNING!");
+console.log('JS IS RUNNING!')

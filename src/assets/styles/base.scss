@@ -1,5 +1,4 @@
-/* stylelint-disable selector-max-universal */
+@import './base/layout.scss';
+@import './base/colors.scss';
 
-* {
-  outline: 1px solid lime;
-}
+@import './components/*.scss';

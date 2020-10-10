@@ -1,18 +1,22 @@
 [
     {
-        "label": "sfsf1",
+        "label": "Voor jou",
         "src": "/"
     },
     {
-        "label": "sfsf2",
+        "label": "Voor organisaties",
         "src": "/"
     },
     {
-        "label": "sfsf3",
+        "label": "Voor zorgverleners",
         "src": "/"
     },
     {
-        "label": "sfsf4",
+        "label": "Blog",
+        "src": "/"
+    },
+    {
+        "label": "Contact",
         "src": "/"
     }
 ]
