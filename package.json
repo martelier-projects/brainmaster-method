@@ -7,7 +7,8 @@
     "watch:data": "npx eleventy --serve",
     "watch:assets": "gulp watch --cwd . --gulpfile 'node_modules/@grrr/gulpfile/gulpfile.js'",
     "watch": "yarn run watch:data && yarn run watch:assets",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "build": "gulp --cwd . --gulpfile 'node_modules/@grrr/gulpfile/gulpfile.js' && npx eleventy"
   },
   "repository": {
     "type": "git",
@@ -25,6 +26,7 @@
     "@babel/preset-env": "^7.11.5",
     "@grrr/gulpfile": "^8.0.2",
     "dotenv": "^8.2.0",
+    "js-yaml": "^3.14.0",
     "prettier": "^2.1.2"
   }
 }
