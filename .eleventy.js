@@ -1,3 +1,5 @@
+const yaml = require('js-yaml')
+
 module.exports = function (eleventyConfig) {
   eleventyConfig.setUseGitIgnore(false)
 
@@ -7,7 +9,14 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget('./src/compiled-assets/scripts/modernizr.js')
 
   // Copy src/compiled-assets to /assets.
-  eleventyConfig.addPassthroughCopy({ 'src/compiled-assets': 'assets' })
+  eleventyConfig.addPassthroughCopy({
+    'src/compiled-assets': 'assets',
+    './src/admin/config.yml': '../dist/admin/config.yml',
+  })
+
+  // To Support .yaml Extension in _data,
+  // .yaml files are created by the NetlifyCMS automatically.
+  eleventyConfig.addDataExtension('yaml', contents => yaml.safeLoad(contents))
 
   return {
     dir: {
