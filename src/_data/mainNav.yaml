@@ -2,10 +2,10 @@ items:
   - label: Voor jou
     url: /voor-jou
   - label: Voor organisaties
-    url: voor-organisaties
+    url: /voor-organisaties
   - label: Voor zorgverleners
-    url: voor-zorgverleners
+    url: /voor-zorgverleners
   - label: Blog
-    url: blog
+    url: /blog
   - label: Contact
-    url: contact
+    url: /contact
