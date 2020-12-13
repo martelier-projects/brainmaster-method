@@ -13,8 +13,8 @@
 - Build and watch the assets folder: `yarn run watch:assets`
 - Build and watch with Eleventy: `yarn run watch:data`
 
-- Site will be hosted on: (http://localhost:8081/)[http://localhost:8081]
-- CMS will be hosted on: (http://localhost:8082/admin/#/)[http://localhost:8082/admin/#/]
+- Site will be hosted on: [http://localhost:8082](http://localhost:8082)
+- CMS will be hosted on: [http://localhost:8082/admin/#/](http://localhost:8082/admin/#/)
 
 ## Mock content
 
