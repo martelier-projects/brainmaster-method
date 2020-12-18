@@ -1,4 +1,6 @@
 const yaml = require('js-yaml')
+const Nunjucks = require('nunjucks')
+const ComponentTag = require('./utils/component')
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setUseGitIgnore(false)
@@ -17,6 +19,17 @@ module.exports = function (eleventyConfig) {
   // To Support .yaml Extension in _data,
   // .yaml files are created by the NetlifyCMS automatically.
   eleventyConfig.addDataExtension('yaml', contents => yaml.safeLoad(contents))
+
+  // Custom nunjucks env!
+  const nunjucksEnvironment = new Nunjucks.Environment(
+    new Nunjucks.FileSystemLoader('src/_includes')
+  )
+  nunjucksEnvironment.addExtension(
+    'component',
+    new ComponentTag(Nunjucks, nunjucksEnvironment)
+  )
+
+  eleventyConfig.setLibrary('njk', nunjucksEnvironment)
 
   return {
     dir: {

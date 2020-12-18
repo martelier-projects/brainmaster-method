@@ -23,3 +23,19 @@ To used the mock content:
 - Add `.env` file
 - Add `MOCK_CONTENT=true` to `.env` file
 - Restart `watch` command
+
+## Custom component tag
+
+If you want to pass data into a component, don't use the `include` but the custom `component` tag.
+
+```twig
+// Import component without data
+<div>
+  {% component 'test-without-data' %}
+</div>
+
+// Import component with data
+<div>
+  {% component 'test-with-data', { title: "Hi I'm data!" } %}
+</div>
+```
