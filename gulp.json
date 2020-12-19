@@ -7,6 +7,7 @@
     "dist": "src/compiled-assets"
   },
   "tasks": {
+    "copy": ["src/assets/fonts/**/*"],
     "icons": {
       "src": "src/assets/images/icons/**/*.svg",
       "dist": "src/compiled-assets/images"

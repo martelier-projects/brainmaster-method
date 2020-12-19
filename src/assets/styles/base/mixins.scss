@@ -1,0 +1,58 @@
+/* stylelint-disable selector-max-universal */
+
+/**
+ * Allows long words (like links) to be properly broken.
+ */
+@mixin word-break {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+}
+
+@mixin hocus {
+  &:hover,
+  &:focus {
+    @content;
+  }
+}
+
+/**
+ * Resets
+ */
+
+// Figure reset
+@mixin figure-reset {
+  margin: 0;
+  line-height: 0;
+  img {
+    width: 100%;
+    line-height: normal;
+  }
+}
+
+// Bare button
+@mixin bare-button {
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+  appearance: none;
+  &:active {
+    outline: none;
+  }
+}
+
+// Bare list
+@mixin bare-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/**
+ * Dev mixins
+ */
+@mixin outline {
+  * {
+    outline: 1px solid lime;
+  }
+}

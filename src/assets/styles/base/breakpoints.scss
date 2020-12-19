@@ -1,0 +1,12 @@
+$bp-s: 540px;
+$bp-m: 720px;
+$bp-ml: 900px;
+$bp-l: 1020px;
+$bp-xl: 1500px;
+$bp-huge: 1800px;
+
+@mixin bp-min($min) {
+  @media (min-width: ($min)) {
+    @content;
+  }
+}

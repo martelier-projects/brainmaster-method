@@ -1,0 +1,36 @@
+$font-weight-regular: 400;
+$font-weight-bold: 700;
+
+/*
+ * Poppins
+ */
+@font-face {
+  font-family: 'DMSerifDisplay';
+  src: url('../fonts/dm-serif-display/dm-serif-display-regular.woff2')
+      format('woff2'),
+    url('../fonts/dm-serif-display/dm-serif-display-regular.woff')
+      format('woff');
+  font-weight: $font-weight-regular;
+  font-style: normal;
+  font-display: swap;
+}
+
+/*
+ * Roboto
+ */
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/roboto/roboto-regular.woff2') format('woff2'),
+    url('../fonts/roboto/roboto-regular.woff') format('woff');
+  font-weight: $font-weight-regular;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/roboto/roboto-700.woff2') format('woff2'),
+    url('../fonts/roboto/roboto-700.woff') format('woff');
+  font-weight: $font-weight-bold;
+  font-style: normal;
+  font-display: swap;
+}

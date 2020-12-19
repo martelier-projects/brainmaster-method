@@ -954,6 +954,18 @@
     stylelint-scss "^3.18.0"
     yargs "^15.0.2"
 
+"@grrr/hansel@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@grrr/hansel/-/hansel-2.1.0.tgz#d1d6ffd888c355be209c74559136dcf80d3b3aa9"
+  integrity sha512-QUN9QlwHsr+0wgmY64H0osgyTapWOf8vGZsb738W41bbTRKe1ak3bi5loBwPj8K7h1CLEOd3VFs+UUqFwdKxXA==
+  dependencies:
+    "@grrr/utils" "^2.3.0"
+
+"@grrr/utils@^2.3.0":
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/@grrr/utils/-/utils-2.4.1.tgz#4724e5bf2beca7cf84930f00cd031e34b5aa7e23"
+  integrity sha512-8hjxY4ARNBq69mBXa1cRKlByAMrj+i1cT4HLAW31BtghLNUOU+xOQgrETE4cah7bvLTA+kZh4Dk36U5GLeQWoQ==
+
 "@gulp-sourcemaps/identity-map@1.X":
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@gulp-sourcemaps/identity-map/-/identity-map-1.0.2.tgz#1e6fe5d8027b1f285dc0d31762f566bccd73d5a9"
