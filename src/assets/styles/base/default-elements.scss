@@ -1,0 +1,31 @@
+/* stylelint-disable selector-max-universal */
+
+/**
+ * Screen reader only text
+ */
+.sr-only {
+  position: absolute;
+  overflow: hidden;
+  margin: 0;
+  clip: rect(0 0 0 0);
+  width: 1px;
+  height: auto;
+  padding: 0;
+  border: 0;
+  white-space: nowrap;
+}
+
+/**
+ * body
+ */
+body {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+*,
+*::before,
+*::after {
+  box-shadow: border-box;
+}

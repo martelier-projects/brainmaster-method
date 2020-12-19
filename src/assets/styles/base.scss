@@ -5,5 +5,9 @@
 @import './base/font-imports.scss';
 @import './base/typography.scss';
 @import './base/layout.scss';
+@import './base/border-radius.scss';
+@import './base/shadows.scss';
+@import './base/default-elements.scss';
 
+@import './parts/*.scss';
 @import './modules/*.scss';

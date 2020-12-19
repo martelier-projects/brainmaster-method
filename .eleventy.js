@@ -1,11 +1,12 @@
 const yaml = require('js-yaml')
 const Nunjucks = require('nunjucks')
-const ComponentTag = require('./utils/component')
+const ModuleTag = require('./utils/module')
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setUseGitIgnore(false)
 
   // Watch our compiled assets for changes.
+  eleventyConfig.addWatchTarget('./src/_includes/**/*.njk')
   eleventyConfig.addWatchTarget('./src/compiled-assets/styles/base.css')
   eleventyConfig.addWatchTarget('./src/compiled-assets/scripts/bundle.js')
   eleventyConfig.addWatchTarget('./src/compiled-assets/scripts/modernizr.js')
@@ -24,9 +25,14 @@ module.exports = function (eleventyConfig) {
   const nunjucksEnvironment = new Nunjucks.Environment(
     new Nunjucks.FileSystemLoader('src/_includes')
   )
+
   nunjucksEnvironment.addExtension(
-    'component',
-    new ComponentTag(Nunjucks, nunjucksEnvironment)
+    'part',
+    new ModuleTag('part', Nunjucks, nunjucksEnvironment)
+  )
+  nunjucksEnvironment.addExtension(
+    'module',
+    new ModuleTag('module', Nunjucks, nunjucksEnvironment)
   )
 
   eleventyConfig.setLibrary('njk', nunjucksEnvironment)

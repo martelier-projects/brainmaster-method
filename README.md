@@ -9,7 +9,7 @@
 
 ### Run project locally
 
-- Start CMS: `npx netlify-cms-proxy-server`
+- Start CMS: `yarn run start:cms` (run this first!)
 - Build and watch the assets folder: `yarn run watch:assets`
 - Build and watch with Eleventy: `yarn run watch:data`
 

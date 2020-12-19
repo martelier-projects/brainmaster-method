@@ -6,4 +6,20 @@ pagination:
 layout: layouts/base.njk
 ---
 
-<h1>sdflkjsdflksj</h1>
+<article>
+  {% module 'page-header', {
+    title: "Beter in je vel door persoonlijke coaching",
+    text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek wetenschappelijk perspectief op mentaal welzijn.",
+    ctas: [
+      {
+        label: "gratis intake",
+        href: "/foo"
+      },
+      {
+        label: "meer informatie",
+        href: "/bar"
+      }
+    ]
+  } %}
+</article>
+

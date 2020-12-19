@@ -13,7 +13,7 @@
       "dist": "src/compiled-assets/images"
     },
     "images": {
-      "src": "assets/images/**/*.{png,gif,jpg,jpeg,svg}",
+      "src": "src/assets/images/**/*.{png,gif,jpg,jpeg,svg}",
       "dist": "src/compiled-assets/images"
     },
     "javascript": {

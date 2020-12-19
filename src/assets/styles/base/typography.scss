@@ -42,7 +42,7 @@ $font-family-sans-serif: 'Roboto', sans-serif;
 }
 @mixin heading-l {
   @include font-serif;
-  font-size: rem(67);
+  font-size: rem(50);
   line-height: 1.1;
 
   @include bp-min($bp-m) {
