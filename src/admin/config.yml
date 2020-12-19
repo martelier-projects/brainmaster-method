@@ -1,49 +1,69 @@
 # backend:
-  # Use netlify identity as backend
-  # name: git-gateway
-  # branch: main
-  ### enable below lines for github integration ###
-  # name: github
-  # repo:  MartijnNieuwenhuizen/brainmaster-method 
+# Use netlify identity as backend
+# name: git-gateway
+# branch: main
+### enable below lines for github integration ###
+# name: github
+# repo:  MartijnNieuwenhuizen/brainmaster-method
 backend:
   name: git-gateway
   branch: main
 
-media_folder: "src/assets/images"
-public_folder: "/assets/images"
+media_folder: 'src/assets/images'
+public_folder: '/assets/images'
 
 # Please run "npx netlify-cms-proxy-server" for local backend
 local_backend: true
 # publish_mode: editorial_workflow
 collections:
-  - label: "Blog"
-    name: "blog"
-    folder: "src/blog"
+  - label: 'Home page'
+    name: 'homePage'
+    editor:
+      preview: false
+    files:
+      - label: Page Header
+        file: 'src/_data/homePage/pageHeader.yaml'
+        name: content
+        widget: list
+        fields:
+          - { label: Title, name: title, widget: string, required: true }
+          - { label: Text, name: text, widget: text, required: true }
+          - widget: list
+            label: 'Links'
+            name: 'links'
+            multiple: true
+            create: true
+            fields:
+              - { label: Label, name: label, widget: string, required: true }
+              - { label: URL, name: href, widget: string, required: true }
+  - label: 'Blog'
+    name: 'blog'
+    folder: 'src/blog'
     create: true
     editor:
       preview: false
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Author", name: "author", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
       # - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
       # - { label: "Permalink", name: "permalink", widget: "hidden", default: "/foo/bar/" }
       - widget: select
-        label: "tags"
-        name: "tags"
+        label: 'tags'
+        name: 'tags'
         multiple: true
         create: true
-        options: ["Tags", "created", "from", "config.yml"]
-  - label: "Settings"
-    name: "settings"
+        options: ['Tags', 'created', 'from', 'config.yml']
+  - label: 'Settings'
+    name: 'settings'
     editor:
       preview: false
     files:
-      - label: "Navigation"
-        name: "items"
-        file: "src/_data/mainNav.yaml"
+      - label: 'Navigation'
+        name: 'items'
+        file: 'src/_data/mainNav.yaml'
         fields:
           - label: Nav Items
             name: items

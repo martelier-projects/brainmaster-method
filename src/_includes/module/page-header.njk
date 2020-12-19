@@ -5,10 +5,10 @@
       <p class="page-header__text">{{ text }}</p>
 
       <div class="page-header__links-container">
-        {% for cta in ctas %}
+        {% for link in links %}
           {% part 'link', {
-            label: cta.label,
-            href: cta.href
+            label: link.label,
+            href: link.href
           } %}
         {% endfor %}
       </div>
