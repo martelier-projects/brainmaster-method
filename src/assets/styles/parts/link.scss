@@ -1,0 +1,14 @@
+.link {
+  display: inline-block;
+  background-color: $color-red-dark;
+  text-decoration: none;
+  color: $color-white;
+  padding: $gap-s $gap-xl;
+  box-shadow: $shadow-s;
+  border-radius: $border-radius-s;
+}
+.link ~ .link {
+  background-color: transparent;
+  border: 1px solid $color-red-dark;
+  color: $color-red-dark;
+}

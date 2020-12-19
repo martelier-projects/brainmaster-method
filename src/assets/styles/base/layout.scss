@@ -1,18 +1,32 @@
 $gap-xxs: 0.1rem;
 $gap-xs: 0.3rem;
-$gap-s: 0.8rem;
+$gap-s: 0.6rem;
 $gap-m: 1rem;
 $gap-l: 1.5rem;
 $gap-xl: 2.3rem;
 $gap-xxl: 3.5rem;
 $gap-xxxl: 6rem;
 
-$gap-browser-edge: $gap-m;
 $gap-paragraph: $gap-xl;
 // $gap-grid: $gap-xl;
 
+@mixin gap-browser-edge {
+  padding-right: $gap-m;
+  padding-left: $gap-m;
+
+  @include bp-min($bp-s) {
+    padding-right: $gap-l;
+    padding-left: $gap-l;
+  }
+  @include bp-min($bp-m) {
+    padding-right: $gap-xxl;
+    padding-left: $gap-xxl;
+  }
+}
+
 $constrain-page: rem(1216);
-$constrain-l: rem(880);
+$constrain-xl: rem(880);
+$constrain-l: rem(720);
 $constrain-m: rem(650);
 $constrain-s: rem(520);
 $constrain-xs: rem(385);
@@ -23,6 +37,9 @@ $constrain-xs: rem(385);
  */
 @mixin constrain-page {
   max-width: $constrain-page;
+}
+@mixin constrain-xl {
+  max-width: $constrain-l;
 }
 @mixin constrain-l {
   max-width: $constrain-l;
@@ -42,27 +59,32 @@ $constrain-xs: rem(385);
  * Variable/mixin that set's the max width including the padding.
  */
 @mixin container-page {
-  max-width: $constrain-page;
+  @include constrain-page;
+  @include gap-browser-edge;
   margin-right: auto;
   margin-left: auto;
 }
 @mixin container-l {
-  max-width: $constrain-l;
+  @include constrain-l;
+  @include gap-browser-edge;
   margin-right: auto;
   margin-left: auto;
 }
 @mixin container-m {
-  max-width: $constrain-m;
+  @include constrain-m;
+  @include gap-browser-edge;
   margin-right: auto;
   margin-left: auto;
 }
 @mixin container-s {
-  max-width: $constrain-s;
+  @include constrain-s;
+  @include gap-browser-edge;
   margin-right: auto;
   margin-left: auto;
 }
 @mixin container-xs {
-  max-width: $constrain-xs;
+  @include constrain-xs;
+  @include gap-browser-edge;
   margin-right: auto;
   margin-left: auto;
 }

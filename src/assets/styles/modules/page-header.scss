@@ -1,0 +1,37 @@
+.page-header {
+  padding: $gap-xl 0;
+  background-color: $color-gray-lighter;
+  background-image: url('../images/home-header-illustration.svg');
+  background-position: right;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  @include bp-min($bp-s) {
+    padding: $gap-xxl 0;
+  }
+  @include bp-min($bp-m) {
+    padding: $gap-xxxl 0;
+    background-size: contain;
+  }
+}
+.page-header__inner {
+  @include container-page;
+}
+
+.page-header__text-container {
+  @include constrain-l;
+}
+.page-header__title {
+  @include heading-l;
+  margin: 0 0 $gap-l;
+}
+.page-header__text {
+  margin: 0 0 $gap-xl;
+}
+.page-header__links-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $gap-xs $gap-s;
+}
+// .page-header__link {
+// }
