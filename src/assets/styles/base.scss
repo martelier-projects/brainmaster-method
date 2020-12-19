@@ -1,4 +1,9 @@
-@import './base/layout.scss';
+@import './base/breakpoints.scss';
+@import './base/functions.scss';
+@import './base/mixins.scss';
 @import './base/colors.scss';
+@import './base/font-imports.scss';
+@import './base/typography.scss';
+@import './base/layout.scss';
 
-@import './components/*.scss';
+@import './modules/*.scss';

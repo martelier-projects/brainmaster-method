@@ -1,0 +1,6 @@
+/*
+ * Transform value like 16 to rem value like 1rem.
+ */
+@function rem($value) {
+  @return ($value / 16) + 0rem;
+}
