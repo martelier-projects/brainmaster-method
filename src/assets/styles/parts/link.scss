@@ -3,12 +3,26 @@
   background-color: $color-red-dark;
   text-decoration: none;
   color: $color-white;
-  padding: $gap-s $gap-xl;
+  padding: $gap-sm $gap-xl;
   box-shadow: $shadow-s;
   border-radius: $border-radius-s;
+  line-height: 1;
+
+  transition: $quick $ease-out box-shadow, $quick $ease-out background-color,
+    $quick $ease-out border-color, $quick $ease-out color;
+
+  @include hocus {
+    background-color: $color-orange-dark;
+    box-shadow: $shadow-m;
+  }
 }
 .link ~ .link {
   background-color: transparent;
   border: 1px solid $color-red-dark;
   color: $color-red-dark;
+
+  @include hocus {
+    border-color: $color-orange-dark;
+    color: $color-orange-dark;
+  }
 }
