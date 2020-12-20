@@ -1,0 +1,16 @@
+topics:
+  - title: Slaap beter
+    text: Begin je dag uitgerust en gemotiveerd door betere slaap.
+    url: /slaap
+    icon: A
+    srText: Slaap
+  - title: Voel je weerbaar
+    text: Leer omgaan met stress en emoties en ga gelukkiger door het leven.
+    url: /weerbaar
+    icon: B
+    srText: Weerbaar
+  - title: Word productiever
+    text: 'Vind je innerlijke motivatie en maak ruimte voor creativiteit '
+    url: /productiviteit
+    icon: C
+    srText: Productiviteit

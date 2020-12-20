@@ -1,0 +1,12 @@
+.topic-list {
+  @include bare-list;
+  display: flex;
+  flex-direction: column;
+  gap: $gap-m;
+
+  @include bp-min($bp-s) {
+    margin-top: -3rem;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}

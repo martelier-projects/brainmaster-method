@@ -1,0 +1,9 @@
+<h2 class="sr-only">Belangrijkste onderwerpen</h2>
+
+<ul class="topic-list">
+  {% for topic in topics %}
+    <li>
+      {% module 'topic', topic %}
+    </li>
+  {% endfor %}
+</ul>

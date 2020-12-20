@@ -7,10 +7,10 @@
   background-repeat: no-repeat;
 
   @include bp-min($bp-s) {
-    padding: $gap-xxl 0;
+    padding: $gap-xxl 0 $gap-xxxl;
   }
   @include bp-min($bp-m) {
-    padding: $gap-xxxl 0;
+    padding: $gap-xxxl 0 $gap-xxxxl;
     background-size: contain;
   }
 }
@@ -33,5 +33,3 @@
   flex-wrap: wrap;
   gap: $gap-xs $gap-s;
 }
-// .page-header__link {
-// }
