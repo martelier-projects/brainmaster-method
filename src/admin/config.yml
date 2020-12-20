@@ -36,6 +36,34 @@ collections:
             fields:
               - { label: Label, name: label, widget: string, required: true }
               - { label: URL, name: href, widget: string, required: true }
+      - label: Main topics
+        file: 'src/_data/homePage/mainTopics.yaml'
+        name: main topics
+        widget: list
+        fields:
+          - widget: list
+            label: 'Topics'
+            name: 'topics'
+            multiple: true
+            create: true
+            fields:
+              - { label: Title, name: title, widget: string, required: true }
+              - { label: Text, name: text, widget: text, required: true }
+              - { label: URL, name: url, widget: string, required: true }
+              - {
+                  label: Icon,
+                  name: icon,
+                  widget: select,
+                  options: ['A', 'B', 'C'],
+                  required: true,
+                }
+              - {
+                  label: Screen reader Text,
+                  name: srText,
+                  hint: De tekst die een blind persoon voorgelezen krijgt,
+                  widget: string,
+                  required: true,
+                }
   - label: 'Blog'
     name: 'blog'
     folder: 'src/blog'

@@ -6,11 +6,18 @@ pagination:
 layout: layouts/base.njk
 ---
 
-<article>
+<article class="homepage">
   {% module 'page-header', {
     title: homePage.pageHeader.title,
     text: homePage.pageHeader.text,
     links: homePage.pageHeader.links
   } %}
+
+  <div class="homepage__topic-list">
+    {% module 'topic-list', {
+      topics: homePage.mainTopics.topics
+    } %}
+  </div>
+
 </article>
 

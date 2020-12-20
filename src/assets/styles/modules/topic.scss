@@ -1,0 +1,34 @@
+.topic {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: $gap-m $gap-m $gap-xl;
+
+  box-shadow: $shadow-xs;
+  background-color: $color-white;
+}
+.topic__title {
+  @include text-l;
+  @include font-weight-bold;
+  margin: 0;
+}
+
+.topic__text {
+  margin: 0;
+}
+
+.topic__icon {
+  order: -1;
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-bottom: $gap-sm;
+  background-color: $color-gray;
+}
+
+.topic__link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

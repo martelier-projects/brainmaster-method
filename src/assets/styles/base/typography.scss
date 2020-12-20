@@ -81,6 +81,7 @@ $font-family-sans-serif: 'Roboto', sans-serif;
   * Body
   */
 @mixin text-l {
+  @include font-sans-serif;
   @include font-weight-regular;
   font-size: rem(21);
   line-height: 1.5;
@@ -90,6 +91,7 @@ $font-family-sans-serif: 'Roboto', sans-serif;
   }
 }
 @mixin text-m {
+  @include font-sans-serif;
   @include font-weight-regular;
   font-size: rem(14);
   line-height: 1.5;
@@ -99,6 +101,7 @@ $font-family-sans-serif: 'Roboto', sans-serif;
   }
 }
 @mixin text-s {
+  @include font-sans-serif;
   @include font-weight-regular;
   font-size: rem(12);
   line-height: 1.3;
