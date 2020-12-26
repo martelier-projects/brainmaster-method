@@ -1,0 +1,39 @@
+.quote {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: $gap-xxl $gap-xl $gap-xl;
+
+  box-shadow: -#{$gap-l} -#{$gap-l} 0 $color-yellow-dark,
+    -#{$gap-l} #{$gap-l} 0 $color-yellow-dark;
+  border: 1px solid $color-gray-light;
+  border-radius: 5px;
+}
+
+.quote-list__item:nth-of-type(2) .quote {
+  box-shadow: -#{$gap-l} -#{$gap-l} 0 $color-brown-dark,
+    -#{$gap-l} #{$gap-l} 0 $color-brown-dark;
+}
+.quote-list__item:nth-of-type(3) .quote {
+  box-shadow: -#{$gap-l} -#{$gap-l} 0 $color-orange-dark,
+    -#{$gap-l} #{$gap-l} 0 $color-orange-dark;
+}
+
+.quote__icon {
+  position: absolute;
+  top: $gap-l;
+  left: $gap-m;
+  max-width: $gap-l;
+  color: $color-gray-darker;
+}
+
+.quote__text-container {
+  margin: 0;
+}
+.quote__text {
+  margin: 0;
+}
+.quote__author {
+  margin: $gap-xxl 0 0;
+}
