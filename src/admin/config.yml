@@ -64,6 +64,12 @@ collections:
                   widget: string,
                   required: true,
                 }
+      - label: Quotes
+        file: 'src/_data/homePage/quotes.yaml'
+        name: quotes
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+
   - label: 'Blog'
     name: 'blog'
     folder: 'src/blog'
