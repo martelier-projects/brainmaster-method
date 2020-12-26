@@ -1,0 +1,7 @@
+.page__section {
+  @include container-page;
+}
+.page__title {
+  @include heading-m;
+  text-align: center;
+}
