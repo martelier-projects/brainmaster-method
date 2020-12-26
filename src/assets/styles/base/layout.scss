@@ -90,3 +90,7 @@ $constrain-xs: rem(385);
   margin-right: auto;
   margin-left: auto;
 }
+
+.container-page {
+  @include container-page;
+}
