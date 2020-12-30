@@ -1,0 +1,13 @@
+<section>
+  <h2>{{ title }}</h2>
+
+  {% for section in sections %}
+    <h3>{{ section.title }}</h3>
+    <p>{{ section.text }}</p>
+  {% endfor %}
+
+  <figure>
+    <img src="{{ imgSrc }}" alt="{{ imgAlt }}">
+    <figcaption>{{ imgCaption }}</figcaption>
+  </figure>
+</section>
