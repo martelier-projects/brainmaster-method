@@ -1,12 +1,9 @@
 .homepage__topic-list {
   @include container-page;
-  margin-top: -1rem;
+  display: none;
 
-  @include bp-min($bp-s) {
-    margin-top: -3rem;
-  }
-
-  @include bp-min($bp-m) {
+  @include bp-min($bp-ml) {
+    display: block;
     margin-top: -7rem;
   }
 }
