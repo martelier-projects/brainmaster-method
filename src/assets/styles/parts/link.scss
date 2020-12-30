@@ -12,7 +12,6 @@
     $quick $ease-out border-color, $quick $ease-out color;
 
   @include hocus {
-    background-color: $color-orange-dark;
     box-shadow: $shadow-m;
   }
 }
@@ -20,9 +19,4 @@
   background-color: transparent;
   border: 1px solid $color-red-dark;
   color: $color-red-dark;
-
-  @include hocus {
-    border-color: $color-orange-dark;
-    color: $color-orange-dark;
-  }
 }

@@ -1,17 +1,21 @@
 .page-header {
-  padding: $gap-xl 0;
+  padding: $gap-xl 0 $gap-xl;
   background-color: $color-gray-lighter;
+
   background-image: url('../images/home-header-illustration.svg');
-  background-position: right;
+  background-position-x: right;
+  background-position-y: center;
   background-size: cover;
   background-repeat: no-repeat;
 
   @include bp-min($bp-s) {
-    padding: $gap-xxl 0 $gap-xxxl;
+    padding: $gap-xxl 0 $gap-xl;
   }
   @include bp-min($bp-m) {
-    padding: $gap-xxxl 0 $gap-xxxxl;
     background-size: contain;
+  }
+  @include bp-min($bp-ml) {
+    padding: $gap-xxxl 0 $gap-xxxxl;
   }
 }
 .page-header__inner {
