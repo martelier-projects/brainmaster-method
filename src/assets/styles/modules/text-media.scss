@@ -31,6 +31,7 @@
 
 .text-media__title {
   @include heading-m;
+  max-width: 30rem;
   margin-bottom: $gap-l;
   grid-area: title;
 
