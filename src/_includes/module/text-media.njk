@@ -1,4 +1,9 @@
-<section class="text-media">
+{% set classes = {
+  'text-media': true,
+  'text-media--mirrored': type === 'mirrored'
+} | classes %}
+
+<section class="{{ classes }}">
   {% if title %}
     <h2 class="text-media__title">{{ title }}</h2>
   {% endif %}
