@@ -64,11 +64,79 @@ collections:
                   widget: string,
                   required: true,
                 }
+      - label: Improve text
+        file: 'src/_data/homePage/improveText.yaml'
+        name: Improve text
+        widget: list
+        fields:
+          - {
+              label: 'Visual order',
+              name: 'order',
+              widget: 'select',
+              options: ['image-text', 'text-image'],
+              default: ['image-text'],
+            }
+          - { label: Title, name: title, widget: string, required: true }
+          - {
+              label: 'Image',
+              name: 'image',
+              widget: 'image',
+              media_library: { config: { multiple: true } },
+            }
+          - { label: Image alt, name: imgAlt, widget: string, required: true }
+          - {
+              label: Image caption,
+              name: imgCaption,
+              widget: string,
+              required: false,
+            }
+          - widget: list
+            label: 'Sections'
+            name: 'sections'
+            multiple: true
+            create: true
+            fields:
+              - { label: Title, name: title, widget: string, required: true }
+              - { label: Text, name: text, widget: text, required: true }
       - label: Quotes
         file: 'src/_data/homePage/quotes.yaml'
         name: quotes
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
+      - label: Why text
+        file: 'src/_data/homePage/whyText.yaml'
+        name: Why text
+        widget: list
+        fields:
+          - {
+              label: 'Visual order',
+              name: 'order',
+              widget: 'select',
+              options: ['image-text', 'text-image'],
+              default: ['image-text'],
+            }
+          - { label: Title, name: title, widget: string, required: true }
+          - {
+              label: 'Image',
+              name: 'image',
+              widget: 'image',
+              media_library: { config: { multiple: true } },
+            }
+          - { label: Image alt, name: imgAlt, widget: string, required: true }
+          - {
+              label: Image caption,
+              name: imgCaption,
+              widget: string,
+              required: false,
+            }
+          - widget: list
+            label: 'Sections'
+            name: 'sections'
+            multiple: true
+            create: true
+            fields:
+              - { label: Title, name: title, widget: string, required: true }
+              - { label: Text, name: text, widget: text, required: true }
 
   - label: 'Blog'
     name: 'blog'
