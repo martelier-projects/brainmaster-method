@@ -32,7 +32,7 @@ $constrain-l: rem(720);
 $constrain-m: rem(650);
 $constrain-s: rem(520);
 $constrain-xs: rem(385);
-
+$constrain-text: $constrain-m;
 /*
  * Constrains
  * Variable/mixin that set's the max width.
@@ -54,6 +54,9 @@ $constrain-xs: rem(385);
 }
 @mixin constrain-xs {
   max-width: $constrain-xs;
+}
+@mixin constrain-text {
+  max-width: $constrain-text;
 }
 
 /*

@@ -1,13 +1,24 @@
-<section>
-  <h2>{{ title }}</h2>
+<section class="text-media">
+  {% if title %}
+    <h2 class="text-media__title">{{ title }}</h2>
+  {% endif %}
 
-  {% for section in sections %}
-    <h3>{{ section.title }}</h3>
-    <p>{{ section.text }}</p>
-  {% endfor %}
+   {% if imgSrc %}
+    <figure class="text-media__img-container">
+      <img class="text-media__img" src="{{ imgSrc }}" alt="{{ imgAlt }}">
 
-  <figure>
-    <img src="{{ imgSrc }}" alt="{{ imgAlt }}">
-    <figcaption>{{ imgCaption }}</figcaption>
-  </figure>
+      {% if imgCaption %}
+        <figcaption class="text-media__caption">{{ imgCaption }}</figcaption>
+      {% endif %}
+    </figure>
+  {% endif %}
+
+  {% if sections %}
+    <div class="text-media__text-container">
+      {% for section in sections %}
+        <h3 class="text-media__section-title">{{ section.title }}</h3>
+        <p class="text-media__section-text">{{ section.text }}</p>
+      {% endfor %}
+    </div>
+  {% endif %}
 </section>
