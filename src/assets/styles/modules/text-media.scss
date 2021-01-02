@@ -11,6 +11,7 @@
     gap: 0 $gap-xxl;
   }
 }
+
 .text-media::after {
   content: '';
   z-index: -1;
@@ -67,4 +68,27 @@
 }
 .text-media__section-text {
   margin: 0 0 $gap-s;
+}
+
+/**
+ * Mirrored version
+ */
+.text-media--mirrored .text-media__img-container {
+  max-width: 430px;
+}
+.text-media--mirrored.text-media {
+  @include bp-min($bp-l) {
+    grid-template-areas:
+      'title .'
+      'text image';
+  }
+}
+.text-media--mirrored.text-media::after {
+  @include bp-min($bp-l) {
+    top: 0;
+    left: auto;
+    right: 0;
+    height: 65%;
+    width: 83%;
+  }
 }

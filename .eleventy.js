@@ -1,6 +1,7 @@
 const yaml = require('js-yaml')
 const Nunjucks = require('nunjucks')
 const ModuleTag = require('./utils/module')
+const { classesFilter } = require('./utils/classes-filter')
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setUseGitIgnore(false)
@@ -16,6 +17,9 @@ module.exports = function (eleventyConfig) {
     'src/compiled-assets': 'assets',
     './src/admin/config.yml': '../dist/admin/config.yml',
   })
+
+  // Filters
+  eleventyConfig.addNunjucksFilter('classes', classesFilter)
 
   // To Support .yaml Extension in _data,
   // .yaml files are created by the NetlifyCMS automatically.
