@@ -1,5 +1,12 @@
 .page__section {
   @include container-page;
+  margin-top: $gap-xxxl;
+  margin-bottom: $gap-xxxl;
+
+  @include bp-min($bp-xl) {
+    margin-top: $gap-xxxxl;
+    margin-bottom: $gap-xxxxl;
+  }
 }
 .page__title {
   @include heading-m;
