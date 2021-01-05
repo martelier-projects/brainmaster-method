@@ -1,11 +1,11 @@
 order: image-text
-title: (CMS) Vind jouw mentale balans
+title: Vind jouw mentale balans
 image: /assets/images/mock.jpg
 imgAlt: fff
-imgCaption: ""
+imgCaption: ''
 sections:
-  - title: (CMS) Slaap beter
-    text: (CMS) Heb je moeite met het vinden van een goede nachtrust? Dat is niet
+  - title: Slaap beter
+    text: Heb je moeite met het vinden van een goede nachtrust? Dat is niet
       gek. Meer dan een kwart van de mensen ervaart dezelfde problemen. Een
       goede nachtrust is de hoeksteen van fysieke gezondheid en mentale rust.
       Vitaliteitscoaching biedt concrete tips om structureel beter te slapen.
@@ -16,7 +16,8 @@ sections:
       te vinden op die dingen voor er voor jou toe doen. Leer omgaan met stress
       en emoties en ga gelukkiger door het leven.
     title: Voel je weerbaar
-  - text: Ga productiever te werk en vind de tijd om jouw leven in te richten zoals
+  - text:
+      Ga productiever te werk en vind de tijd om jouw leven in te richten zoals
       het jou gelukkig maakt. Begin de dag energiek en gemotiveerd en vind de
       juiste focus. Vitaliteitscoaching geeft je praktische tips en tools om je
       leven efficient en productief in te delen. Zo hou je ruimte over voor de
