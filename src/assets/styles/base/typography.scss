@@ -33,46 +33,46 @@ $font-family-sans-serif: 'Roboto', sans-serif;
 // @TODO: Add mobile sizes!
 @mixin heading-xl {
   @include font-serif;
-  font-size: rem(89);
+  font-size: rem(47);
   line-height: 1.1;
 
-  @include bp-min($bp-m) {
+  @include bp-min($bp-l) {
     font-size: rem(89);
   }
 }
 @mixin heading-l {
   @include font-serif;
-  font-size: rem(50);
+  font-size: rem(40);
   line-height: 1.1;
 
-  @include bp-min($bp-m) {
+  @include bp-min($bp-ml) {
     font-size: rem(67);
   }
 }
 @mixin heading-m {
   @include font-serif;
-  font-size: rem(50);
+  font-size: rem(33);
   line-height: 1.2;
 
-  @include bp-min($bp-m) {
+  @include bp-min($bp-ml) {
     font-size: rem(50);
   }
 }
 @mixin heading-s {
   @include font-serif;
-  font-size: rem(38);
+  font-size: rem(28);
   line-height: 1.2;
 
-  @include bp-min($bp-m) {
+  @include bp-min($bp-ml) {
     font-size: rem(38);
   }
 }
 @mixin heading-xs {
   @include font-serif;
-  font-size: rem(28);
+  font-size: rem(23);
   line-height: 1.4;
 
-  @include bp-min($bp-m) {
+  @include bp-min($bp-ml) {
     font-size: rem(28);
   }
 }

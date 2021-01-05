@@ -70,6 +70,12 @@ $constrain-text: $constrain-m;
   margin-right: auto;
   margin-left: auto;
 }
+@mixin container-xl {
+  @include constrain-xl;
+  @include gap-browser-edge;
+  margin-right: auto;
+  margin-left: auto;
+}
 @mixin container-l {
   @include constrain-l;
   @include gap-browser-edge;
