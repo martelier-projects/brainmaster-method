@@ -100,6 +100,9 @@ $constrain-text: $constrain-m;
   margin-right: auto;
   margin-left: auto;
 }
+@mixin container-text {
+  @include container-m;
+}
 
 .container-page {
   @include container-page;

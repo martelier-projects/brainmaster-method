@@ -137,7 +137,24 @@ collections:
             fields:
               - { label: Title, name: title, widget: string, required: true }
               - { label: Text, name: text, widget: text, required: true }
-
+  - label: 'Voor jou pagina'
+    name: 'forYou'
+    editor:
+      preview: false
+    files:
+      - label: Page Header
+        file: 'src/_data/forYou/pageHeader.yaml'
+        name: header
+        widget: list
+        fields:
+          - { label: Title, name: title, widget: string, required: true }
+          - { label: Text, name: text, widget: text, required: true }
+      - label: Content
+        file: 'src/_data/forYou/content.yaml'
+        name: content
+        widget: list
+        fields:
+          - { label: Text, name: text, widget: markdown, required: true }
   - label: 'Blog'
     name: 'blog'
     folder: 'src/blog'

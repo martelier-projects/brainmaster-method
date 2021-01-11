@@ -9,14 +9,14 @@ permalink: '/voor-jou/'
 
 <article class="text-page">
   {% module 'page-header-simple', {
-    title: "Brainmaster Method voor jou",
-    text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek wetenschappelijk perspectief op mentaal welzijn."
+    title: forYou.pageHeader.title,
+    text: forYou.pageHeader.text
   } %}
 
   <nav>NAV</nav>
 
-  <section>
-    WYSIWYG
+  <section class="text-page__content">
+    {{ forYou.content.text | markdown | safe }}
   </section>
 
 </article>
