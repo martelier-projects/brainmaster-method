@@ -1,0 +1,38 @@
+.text-page__content {
+  @include container-text;
+
+  /**
+    * HTML elements from WYSIWYG
+    */
+  img {
+    width: 100%;
+  }
+
+  h2 {
+    @include heading-m;
+    margin: $gap-xxl 0 $gap-m;
+  }
+  h3 {
+    @include heading-s;
+    margin: $gap-xxl 0 $gap-s;
+  }
+  h4,
+  h5,
+  h6 {
+    @include heading-xs;
+    margin: $gap-xxl 0 $gap-s;
+  }
+
+  p + p {
+    margin: 0 0 $gap-l;
+  }
+
+  a {
+    color: $color-red-dark;
+    text-decoration: none;
+
+    @include hocus {
+      color: $color-red;
+    }
+  }
+}

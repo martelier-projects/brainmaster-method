@@ -1,6 +1,7 @@
 const yaml = require('js-yaml')
 const Nunjucks = require('nunjucks')
 const ModuleTag = require('./utils/module')
+const marked = require('marked')
 const { classesFilter } = require('./utils/classes-filter')
 
 module.exports = function (eleventyConfig) {
@@ -20,6 +21,10 @@ module.exports = function (eleventyConfig) {
 
   // Filters
   eleventyConfig.addNunjucksFilter('classes', classesFilter)
+
+  // Add markdown filter
+  const markdownParser = markdownAsText => marked(markdownAsText)
+  eleventyConfig.addNunjucksFilter('markdown', markdownParser)
 
   // To Support .yaml Extension in _data,
   // .yaml files are created by the NetlifyCMS automatically.
