@@ -13,7 +13,7 @@ permalink: '/voor-jou/'
     text: forYou.pageHeader.text
   } %}
 
-  <nav>NAV</nav>
+  {% inPageNav forYou.content.text | markdown | safe %}
 
   <section class="text-page__content">
     {{ forYou.content.text | markdown | safe }}

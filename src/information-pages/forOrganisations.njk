@@ -7,4 +7,16 @@ layout: layouts/base.njk
 permalink: '/voor-organisaties/'
 ---
 
-  <h1>Voor organisaties</h1>
+<article class="text-page">
+  {% module 'page-header-simple', {
+    title: forOrganisations.pageHeader.title,
+    text: forOrganisations.pageHeader.text
+  } %}
+
+  {% inPageNav forOrganisations.content.text | markdown | safe %}
+
+  <section class="text-page__content">
+    {{ forOrganisations.content.text | markdown | safe }}
+  </section>
+
+</article>
