@@ -16,7 +16,7 @@ public_folder: '/assets/images'
 local_backend: true
 # publish_mode: editorial_workflow
 collections:
-  - label: 'Home page'
+  - label: 'pagina - Home'
     name: 'homePage'
     editor:
       preview: false
@@ -137,7 +137,7 @@ collections:
             fields:
               - { label: Title, name: title, widget: string, required: true }
               - { label: Text, name: text, widget: text, required: true }
-  - label: 'Voor jou pagina'
+  - label: 'pagina - Voor jou'
     name: 'forYou'
     editor:
       preview: false
@@ -151,6 +151,78 @@ collections:
           - { label: Text, name: text, widget: text, required: true }
       - label: Content
         file: 'src/_data/forYou/content.yaml'
+        name: content
+        widget: list
+        fields:
+          - {
+              label: Text,
+              name: text,
+              widget: markdown,
+              required: true,
+              buttons:
+                [
+                  'bold',
+                  'italic',
+                  'link',
+                  'heading-two',
+                  'heading-three',
+                  'heading-four',
+                  'heading-five',
+                  'heading-six',
+                  'bulleted-list',
+                  'numbered-list',
+                ],
+            }
+  - label: 'pagina - Voor organisatie'
+    name: 'forOrganisations'
+    editor:
+      preview: false
+    files:
+      - label: Page Header
+        file: 'src/_data/forOrganisations/pageHeader.yaml'
+        name: header
+        widget: list
+        fields:
+          - { label: Title, name: title, widget: string, required: true }
+          - { label: Text, name: text, widget: text, required: true }
+      - label: Content
+        file: 'src/_data/forOrganisations/content.yaml'
+        name: content
+        widget: list
+        fields:
+          - {
+              label: Text,
+              name: text,
+              widget: markdown,
+              required: true,
+              buttons:
+                [
+                  'bold',
+                  'italic',
+                  'link',
+                  'heading-two',
+                  'heading-three',
+                  'heading-four',
+                  'heading-five',
+                  'heading-six',
+                  'bulleted-list',
+                  'numbered-list',
+                ],
+            }
+  - label: 'pagina - Voor zorgverleners'
+    name: 'forCaregivers'
+    editor:
+      preview: false
+    files:
+      - label: Page Header
+        file: 'src/_data/forCaregivers/pageHeader.yaml'
+        name: header
+        widget: list
+        fields:
+          - { label: Title, name: title, widget: string, required: true }
+          - { label: Text, name: text, widget: text, required: true }
+      - label: Content
+        file: 'src/_data/forCaregivers/content.yaml'
         name: content
         widget: list
         fields:

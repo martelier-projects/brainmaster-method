@@ -1,0 +1,17 @@
+.in-page-nav {
+  @include container-xl;
+  width: 100%;
+  margin-top: -#{$gap-m};
+  background-color: $color-white;
+}
+
+.in-page-nav__list {
+  @include bare-list;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.in-page-nav__list-item {
+  margin: 0;
+  padding: 0;
+}

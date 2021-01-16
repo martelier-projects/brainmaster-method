@@ -7,4 +7,16 @@ layout: layouts/base.njk
 permalink: '/voor-zorgverleners/'
 ---
 
-<h1>Voor zorgverleners</h1>
+<article class="text-page">
+  {% module 'page-header-simple', {
+    title: forCaregivers.pageHeader.title,
+    text: forCaregivers.pageHeader.text
+  } %}
+
+  {% inPageNav forCaregivers.content.text | markdown | safe %}
+
+  <section class="text-page__content">
+    {{ forCaregivers.content.text | markdown | safe }}
+  </section>
+
+</article>
