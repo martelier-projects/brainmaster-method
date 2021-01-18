@@ -10,17 +10,23 @@
 
   h2 {
     @include heading-m;
-    margin: $gap-xxl 0 $gap-m;
+    margin: 0 0 $gap-m;
+    padding-top: $gap-xxl;
+  }
+  h2:first-of-type {
+    margin-top: -#{$gap-xxl};
   }
   h3 {
     @include heading-s;
-    margin: $gap-xxl 0 $gap-s;
+    margin: 0 0 $gap-s;
+    padding-top: $gap-xxl;
   }
   h4,
   h5,
   h6 {
     @include heading-xs;
-    margin: $gap-xxl 0 $gap-s;
+    margin: 0 0 $gap-s;
+    padding-top: $gap-xxl;
   }
 
   p + p {
