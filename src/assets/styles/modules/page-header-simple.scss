@@ -5,12 +5,12 @@
   @include container-xl;
   max-width: 30rem;
   padding-top: $gap-xxl;
-  padding-bottom: $gap-xl;
+  padding-bottom: $gap-xxxl;
 
   @include bp-min($bp-l) {
     max-width: $constrain-xl;
     padding-top: $gap-xxxl;
-    padding-bottom: $gap-xxl;
+    padding-bottom: $gap-xxxxl;
   }
 }
 .page-header-simple__title {
