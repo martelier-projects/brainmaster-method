@@ -29,7 +29,7 @@ html {
 *,
 *::before,
 *::after {
-  box-shadow: border-box;
+  box-sizing: border-box;
 }
 
 svg {

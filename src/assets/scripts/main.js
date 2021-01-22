@@ -1,5 +1,13 @@
-import { enhance, handle } from '@grrr/hansel'
+import { enhance } from '@grrr/hansel'
 
-enhance(document.documentElement, {})
+import { enhancer as closeWithEscape } from './modules/close-with-escape'
+import {
+  toggleTriggerEnhancer as toggleTrigger,
+  toggleTargetEnhancer as toggleTarget,
+} from './modules/toggle'
 
-handle(document.documentElement, {})
+enhance(document.documentElement, {
+  closeWithEscape,
+  toggleTarget,
+  toggleTrigger,
+})

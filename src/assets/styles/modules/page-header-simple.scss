@@ -7,9 +7,11 @@
   padding-top: $gap-xxl;
   padding-bottom: $gap-xxxl;
 
+  @include bp-min($bp-m) {
+    padding-top: $gap-xxxl;
+  }
   @include bp-min($bp-l) {
     max-width: $constrain-xl;
-    padding-top: $gap-xxxl;
     padding-bottom: $gap-xxxxl;
   }
 }

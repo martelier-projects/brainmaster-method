@@ -56,3 +56,13 @@
     outline: 1px solid lime;
   }
 }
+
+@mixin overlay-shadow {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba($color-black, 0.8);
+}

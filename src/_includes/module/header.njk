@@ -1,7 +1,44 @@
 <header class="header">
-  <h1 class="header__logo">
-    <a class="header__link" href="">LOGO</a>
-  </h1>
+    <a class="header__logo" href="/">
+        <span class="sr-only">Homepagina</span>
+        {# {% include "parts/logo" %} #}
+        Logo
+    </a>
 
-  <div class="header__nav">{% include "modules/main-nav.njk" %}</div>
+    <button
+        class="header__trigger-open"
+        type="button"
+        data-enhancer="toggleTrigger,closeWithEscape"
+        data-toggle-subject="header"
+        data-toggle-initialize-closed="true"
+        aria-controls="header"
+    >
+        <span class="sr-only">Open menu</span>
+
+        <span class="header__trigger-text">menu</span>
+        <span class="header__trigger-icon">
+            {% icon "hamburger" %}
+        </span>
+    </button>
+
+    <div
+        id="header"
+        class="header__target"
+        data-enhancer="toggleTarget"
+        data-toggle-subject="header"
+        data-toggle-initialize-closed="true"
+    >
+        <button
+            class="header__trigger-close"
+            type="button"
+            data-enhancer="toggleTrigger"
+            data-toggle-subject="header"
+            aria-controls="header"
+        >
+            <span class="sr-only">Sluit menu</span>
+            {% icon "cross" %}
+        </button>
+
+        {% module "navigation" %}
+    </div>
 </header>
