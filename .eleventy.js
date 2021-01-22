@@ -47,6 +47,10 @@ module.exports = function (eleventyConfig) {
     'module',
     new ModuleTag('module', Nunjucks, nunjucksEnvironment)
   )
+  nunjucksEnvironment.addExtension(
+    'icon',
+    new ModuleTag('icon', Nunjucks, nunjucksEnvironment)
+  )
 
   eleventyConfig.setLibrary('njk', nunjucksEnvironment)
 

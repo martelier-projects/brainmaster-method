@@ -1,6 +1,148 @@
 .header {
-  @include constrain-l;
+  @include container-page;
+  z-index: 999;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: $gap-s;
+
+  @include bp-min($bp-ml) {
+    align-items: flex-end;
+    padding-top: $gap-l;
+  }
+}
+/**
+* Logo
+*/
+.header__logo {
+  width: rem(105);
+  height: rem(30);
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
+  color: $color-black;
+
+  transition: $normal $ease-out color;
+
+  @include bp-min($bp-ml) {
+    width: rem(170);
+  }
+}
+.header__logo:hover,
+.header__logo:focus {
+  color: $color-orange;
+}
+
+.header__logo svg {
+  height: 100%;
+}
+
+/**
+* Trigger - open
+*/
+.header__trigger-open {
+  display: none;
+}
+.js .header__trigger-open {
+  @include bare-button;
+  @include text-m;
+  @include font-weight-bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: $gap-m 0;
+  margin: -#{$gap-m} 0;
+
+  color: $color-black;
+  line-height: 1;
+  cursor: pointer;
+
+  @include bp-min($bp-ml) {
+    display: none;
+  }
+}
+.header__trigger-open:hover,
+.header__trigger-open:focus {
+  color: $color-red-dark;
+}
+
+.header__trigger-text {
+  margin-right: $gap-xs;
+}
+.header__trigger-icon {
+  width: $gap-m;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/**
+* Trigger - close
+*/
+.header__trigger-close {
+  display: none;
+}
+.js .header__trigger-close {
+  @include bare-button;
+  position: absolute;
+  top: $gap-m;
+  right: $gap-m;
+  width: $gap-xl;
+  height: $gap-xl;
+  display: block;
+
+  @include bp-min($bp-ml) {
+    display: none;
+  }
+}
+.header__trigger-close svg {
+  height: 100%;
+}
+
+/**
+* Target
+*/
+.js .header__target {
+  z-index: 999;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 90vw;
+  height: 100vh;
+  // padding: $gap-browser-edge;
+  transform: translateX(-100%);
+  transition: $normal $ease-out transform;
+
+  background-color: $color-yellow-dark;
+
+  @include bp-min($bp-ml) {
+    position: relative;
+    width: auto;
+    height: auto;
+    padding: 0;
+    background-color: transparent;
+    transform: translateX(0);
+  }
+}
+.js .header__target[data-toggle-active='true'] {
+  transform: translateX(0%);
+}
+html[data-toggle-active='true'] {
+  overflow: hidden;
+
+  @include bp-min($bp-ml) {
+    overflow: auto;
+  }
+}
+html[data-toggle-active='true']::after {
+  @include overlay-shadow;
+
+  @include bp-min($bp-ml) {
+    display: none;
+  }
 }

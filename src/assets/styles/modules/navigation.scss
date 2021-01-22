@@ -1,0 +1,57 @@
+/**
+* List
+*/
+.js .navigation__list {
+  @include bare-list;
+  @include heading-m;
+  @include font-sans-serif-bold;
+  margin-top: $gap-xxxl;
+
+  @include bp-min($bp-ml) {
+    @include text-m;
+    display: flex;
+    margin-top: auto;
+
+    // Align text in list with text of the logo.
+    margin-bottom: $gap-xs;
+  }
+}
+.navigation__item {
+  margin: $gap-s 0 $gap-s $gap-l;
+  padding: 0;
+
+  @include bp-min($bp-ml) {
+    margin: 0 0 0 $gap-s;
+  }
+}
+.navigation__item--home {
+  @include bp-min($bp-ml) {
+    display: none;
+  }
+}
+
+/**
+* Link
+*/
+.navigation__link {
+  display: inline-flex;
+  align-items: flex-start;
+  padding: $gap-s $gap-m;
+  text-decoration: none;
+
+  @include bp-min($bp-ml) {
+    @include font-weight-bold;
+    padding: 0 0 0 $gap-l;
+    line-height: 1;
+  }
+}
+.js .navigation__link {
+  color: $color-black;
+}
+.js .navigation__link:focus,
+.js .navigation__link:hover {
+  color: $color-white;
+  @include bp-min($bp-ml) {
+    color: $color-black;
+  }
+}

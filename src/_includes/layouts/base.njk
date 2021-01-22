@@ -1,5 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html
+  lang="nl"
+  data-enhancer="toggleTarget"
+  data-toggle-subject="header"
+  data-toggle-initialize-closed="true"
+>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -10,10 +15,19 @@
     <link rel="preload" href="/assets/fonts/dm-serif-display/dm-serif-display-regular.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="/assets/fonts/roboto/roboto-regular.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="/assets/fonts/roboto/roboto-700.woff2" as="font" type="font/woff2" crossorigin>
+
+    <script>
+      var cutsMustard = 'querySelector' in document && 'addEventListener' in window;
+
+      // Add JS class to body to indicate the browsers can parse the provided js.
+      if (cutsMustard ) {
+        document.querySelector('html').classList.add('js');
+      }
+    </script>
   </head>
 
   <body>
-    {# {% include "modules/header.njk" %} #}
+    {% module "header" %}
 
     <main>{{ content | safe }}</main>
 

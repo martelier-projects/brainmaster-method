@@ -1,5 +1,5 @@
 .page-header {
-  padding: $gap-xl 0 $gap-xl;
+  padding: $gap-xxl 0 $gap-xl;
   background-color: $color-gray-lighter;
 
   background-image: url('../images/home-header-illustration.svg');
@@ -8,9 +8,6 @@
   background-size: cover;
   background-repeat: no-repeat;
 
-  @include bp-min($bp-s) {
-    padding: $gap-xxl 0 $gap-xl;
-  }
   @include bp-min($bp-m) {
     background-size: contain;
   }
