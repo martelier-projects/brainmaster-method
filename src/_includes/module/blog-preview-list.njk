@@ -1,6 +1,16 @@
-<ol class="blog-preview-list">
+{% set classes = {
+  'blog-preview-list': true,
+  'blog-preview-list--large': smallPreview === false
+} | classes %}
+
+{% set max = 1000 %}
+{% if smallPreview === true %}
+  {% set max = 3 %}
+{% endif %}
+
+<ol class="{{ classes }}">
   {% for blog in posts %}
-    {% if (loop.index <= 3) %}
+    {% if (loop.index <= max) %}
       <li class="blog-preview-list__item">
         {% module 'blog-preview', {
           title: blog.data.title,
