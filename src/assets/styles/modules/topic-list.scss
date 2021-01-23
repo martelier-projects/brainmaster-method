@@ -8,6 +8,10 @@
     margin-top: -3rem;
     flex-direction: row;
     justify-content: space-between;
+
+    // Add precise aligned columns.
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 
