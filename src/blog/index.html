@@ -8,3 +8,9 @@ permalink: '/blog/'
 ---
 
 <h1>Blog</h1>
+
+{% for blog in collections.blog %}
+
+<h1>{{ blog.data.title }}</h1>
+
+{% endfor %}

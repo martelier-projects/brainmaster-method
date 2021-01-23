@@ -257,14 +257,13 @@ collections:
       - { label: 'Author', name: 'author', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      # - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
-      # - { label: "Permalink", name: "permalink", widget: "hidden", default: "/foo/bar/" }
-      - widget: select
-        label: 'tags'
-        name: 'tags'
-        multiple: true
-        create: true
-        options: ['Tags', 'created', 'from', 'config.yml']
+      - {
+          label: 'Layout',
+          name: 'layout',
+          widget: 'hidden',
+          default: 'layouts/blog.njk',
+        }
+      - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'blog' }
   - label: 'Settings'
     name: 'settings'
     editor:
