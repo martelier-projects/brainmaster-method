@@ -3,11 +3,11 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: stretch;
-  gap: $gap-xxl;
-  margin: 5rem 0;
+  margin: 5rem -#{$gap-xl};
 }
 
 .quote-list__item {
   max-width: 23rem;
   display: flex;
+  margin: $gap-xl;
 }

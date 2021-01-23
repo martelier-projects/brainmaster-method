@@ -9,13 +9,20 @@
     flex-direction: row;
     justify-content: space-between;
 
-    // Add precise aligned columns.
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    @supports (display: grid) {
+      // Add precise aligned columns.
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+    }
   }
 }
 
 .topic-list__item {
   display: flex;
   flex-grow: 0;
+  margin: $gap-m;
+
+  @supports (display: grid) {
+    margin: 0;
+  }
 }

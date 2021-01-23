@@ -20,7 +20,7 @@
   box-shadow: -#{$gap-l} -#{$gap-l} 0 $color-orange-dark,
     -#{$gap-l} #{$gap-l} 0 $color-orange-dark;
 
-  @include bp-min(1330px) {
+  @include bp-min(1365px) {
     display: block;
   }
 }
