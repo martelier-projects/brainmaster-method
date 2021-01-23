@@ -9,5 +9,13 @@
 .quote-list__item {
   max-width: 23rem;
   display: flex;
-  margin: $gap-xl;
+  margin: $gap-xl $gap-xl;
+}
+
+.quote-list__item:nth-of-type(3) {
+  display: none;
+
+  @include bp-min(1365px) {
+    display: flex;
+  }
 }

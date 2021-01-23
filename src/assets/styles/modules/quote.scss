@@ -16,13 +16,8 @@
     -#{$gap-l} #{$gap-l} 0 $color-brown-dark;
 }
 .quote-list__item:nth-of-type(3) .quote {
-  display: none;
   box-shadow: -#{$gap-l} -#{$gap-l} 0 $color-orange-dark,
     -#{$gap-l} #{$gap-l} 0 $color-orange-dark;
-
-  @include bp-min(1365px) {
-    display: block;
-  }
 }
 
 .quote__icon {
