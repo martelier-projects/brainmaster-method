@@ -35,7 +35,7 @@ layout: layouts/base.njk
     {% module 'quote-list', quotes %}
   </div>
 
-    <div class="page__section">
+  <div class="page__section">
     {% module 'text-media', {
       title: homePage.whyText.title,
       sections: homePage.whyText.sections,
@@ -44,6 +44,10 @@ layout: layouts/base.njk
       imgCaption: homePage.whyText.imgCaption,
       type: homePage.whyText.order
     } %}
+  </div>
+
+  <div class="page__section">
+    {% check collections %}
   </div>
 
 </article>

@@ -33,6 +33,9 @@ module.exports = function (eleventyConfig) {
 
   // Shortcodes
   eleventyConfig.addNunjucksShortcode('inPageNav', inPageNav)
+  eleventyConfig.addNunjucksShortcode('check', function (input) {
+    console.log('input: ', input)
+  })
 
   // Custom nunjucks env!
   const nunjucksEnvironment = new Nunjucks.Environment(
