@@ -12,6 +12,7 @@
   }
   @include bp-min($bp-l) {
     max-width: $constrain-xl;
+    padding-top: $gap-xxxxl;
     padding-bottom: $gap-xxxxl;
   }
 }

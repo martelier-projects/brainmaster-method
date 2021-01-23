@@ -1,6 +1,9 @@
 <header class="page-header-simple">
   <div class="page-header-simple__inner">
     <h1 class="page-header-simple__title">{{ title }}</h1>
-    <p class="page-header-simple__text">{{ text }}</p>
+
+    {% if text %}
+      <p class="page-header-simple__text">{{ text }}</p>
+    {% endif %}
   </div>
 </header>
