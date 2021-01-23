@@ -5,6 +5,7 @@ import {
   toggleTriggerEnhancer as toggleTrigger,
   toggleTargetEnhancer as toggleTarget,
 } from './modules/toggle'
+import { enhancer as objectFit } from './modules/object-fit'
 
 enhance(document.documentElement, {
   closeWithEscape,

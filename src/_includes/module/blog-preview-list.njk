@@ -1,0 +1,14 @@
+<ol class="blog-preview-list">
+  {% for blog in posts %}
+    {% if (loop.index <= 3) %}
+      <li class="blog-preview-list__item">
+        {% module 'blog-preview', {
+          title: blog.data.title,
+          description: blog.data.description,
+          image: blog.data.image,
+          url: blog.url
+        } %}
+      </li>
+    {% endif %}
+  {% endfor %}
+</ol>

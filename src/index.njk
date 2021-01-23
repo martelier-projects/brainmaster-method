@@ -46,9 +46,15 @@ layout: layouts/base.njk
     } %}
   </div>
 
-  <div class="page__section">
-    {% check collections %}
-  </div>
+  <div class="colored-block">
+    <div class="colored-block__inner">
+      <h2>Lees meer in onze blog</h2>
 
+      {% module 'blog-preview-list', {
+        posts: collections.blog | reverse
+      } %}
+    </div>
+  </div>
 </article>
+
 

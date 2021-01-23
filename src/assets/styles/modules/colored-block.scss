@@ -1,0 +1,15 @@
+.colored-block {
+  padding: $gap-xxs 0;
+  background-color: $color-gray-lighter;
+}
+
+.colored-block__inner {
+  @include container-page;
+  margin-top: $gap-xxl;
+  margin-bottom: $gap-xxl;
+
+  @include bp-min($bp-xl) {
+    margin-top: $gap-xxxl;
+    margin-bottom: $gap-xxxl;
+  }
+}
