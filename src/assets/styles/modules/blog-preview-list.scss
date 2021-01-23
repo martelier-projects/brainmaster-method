@@ -1,0 +1,25 @@
+.blog-preview-list {
+  @include bare-list;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: space-between;
+  margin: -#{$gap-l};
+
+  @include bp-min($bp-l) {
+    flex-wrap: nowrap;
+    justify-content: stretch;
+    align-items: stretch;
+  }
+}
+
+.blog-preview-list__item {
+  margin: $gap-l;
+  padding: 0;
+  flex-grow: 1;
+  flex-shrink: 1;
+
+  @include bp-min($bp-l) {
+    flex: 1;
+  }
+}
