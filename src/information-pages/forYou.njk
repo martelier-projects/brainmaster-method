@@ -16,7 +16,11 @@ permalink: '/voor-jou/'
   {% inPageNav forYou.content.text | markdown | safe %}
 
   <section class="text-page__content">
-    {{ forYou.content.text | markdown | safe }}
+    {% set asHTML = forYou.content.text | markdown | safe %}
+    {% wysiwyg asHTML, {
+      quotes: quotes,
+      content: content
+    } %}
   </section>
 
 </article>

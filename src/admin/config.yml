@@ -140,7 +140,7 @@ collections:
   - label: 'pagina - Voor jou'
     name: 'forYou'
     editor:
-      preview: false
+      preview: true
     files:
       - label: Page Header
         file: 'src/_data/forYou/pageHeader.yaml'
@@ -159,6 +159,7 @@ collections:
               name: text,
               widget: markdown,
               required: true,
+              modes: [rich_text],
               buttons:
                 [
                   'bold',

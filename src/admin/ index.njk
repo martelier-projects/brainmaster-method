@@ -18,5 +18,24 @@ permalink: '/admin/'
       type="text/javascript"
       src="https://identity.netlify.com/v1/netlify-identity-widget.js"
     ></script>
+
+    <!-- Netlify Markdown Blocks -->
+    <script>
+      window.CMS.registerEditorComponent({
+        // Internal id of the component
+        id: 'testimonials',
+
+        // Visible label
+        label: 'Testimonials',
+
+        // Pattern to identify a block as being an instance of this component
+        pattern: /^testimonials (\S+)$/,
+
+        // Function to create a text block from an instance of this component
+        toBlock: function (obj) {
+          return `[testimonials]`
+        }
+      })
+    </script>
   </body>
 </html>

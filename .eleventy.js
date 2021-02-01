@@ -3,7 +3,9 @@ const Nunjucks = require('nunjucks')
 const ModuleTag = require('./utils/module')
 const marked = require('marked')
 const { classesFilter } = require('./utils/classes-filter')
+
 const inPageNav = require('./src/_includes/shortcodes/in-page-nav')
+const wysiwyg = require('./src/_includes/shortcodes/wysiwyg')
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setUseGitIgnore(false)
@@ -31,9 +33,6 @@ module.exports = function (eleventyConfig) {
   // .yaml files are created by the NetlifyCMS automatically.
   eleventyConfig.addDataExtension('yaml', contents => yaml.safeLoad(contents))
 
-  // Shortcodes
-  eleventyConfig.addNunjucksShortcode('inPageNav', inPageNav)
-
   // Custom nunjucks env!
   const nunjucksEnvironment = new Nunjucks.Environment(
     new Nunjucks.FileSystemLoader('src/_includes')
@@ -53,6 +52,10 @@ module.exports = function (eleventyConfig) {
   )
 
   eleventyConfig.setLibrary('njk', nunjucksEnvironment)
+
+  // Shortcodes
+  eleventyConfig.addNunjucksShortcode('inPageNav', inPageNav)
+  eleventyConfig.addNunjucksShortcode('wysiwyg', wysiwyg(nunjucksEnvironment))
 
   return {
     dir: {

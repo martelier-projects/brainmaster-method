@@ -41,6 +41,10 @@
       color: $color-red;
     }
   }
+
+  ul > li {
+    margin-top: $gap-l;
+  }
 }
 
 .text-page__content--no-nav {
