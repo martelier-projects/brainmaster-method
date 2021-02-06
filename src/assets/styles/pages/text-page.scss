@@ -1,6 +1,10 @@
 .text-page__content {
   @include container-text;
 
+  @include bp-min($bp-m) {
+    margin-top: $gap-xxxxl;
+  }
+
   /**
     * HTML elements from WYSIWYG
     */
@@ -65,5 +69,6 @@
 // Elements placed into the wysiwyg with a short-code.
 .text-page__breakout {
   @include container-page;
-  overflow-x: hidden;
+  // overflow-x: hidden;
+  // overflow-y: visible;
 }

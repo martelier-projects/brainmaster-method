@@ -317,3 +317,20 @@ collections:
             fields:
               - { label: 'Title', name: 'title', widget: 'text' }
               - { label: 'Text', name: 'text', widget: 'text' }
+  - label: 'global - People'
+    name: 'people'
+    editor:
+      preview: false
+    files:
+      - label: 'Pjotr'
+        name: 'pjotr'
+        file: 'src/_data/pjotr.yaml'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'text' }
+          - { label: 'Text', name: 'text', widget: 'text' }
+          - {
+              label: 'Image',
+              name: 'image',
+              widget: 'image',
+              media_library: { config: { multiple: true } },
+            }

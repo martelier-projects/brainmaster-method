@@ -1,4 +1,5 @@
 .quote-list {
+  overflow-x: hidden;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -9,7 +10,7 @@
 .quote-list__item {
   max-width: 23rem;
   display: flex;
-  margin: $gap-xl $gap-xl;
+  margin: $gap-xl;
 }
 
 .quote-list__item:nth-of-type(3) {

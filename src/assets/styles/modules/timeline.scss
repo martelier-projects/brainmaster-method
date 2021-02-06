@@ -21,7 +21,7 @@
 .timeline__item::before {
   content: '';
   position: absolute;
-  left: -1.6rem;
+  left: -2rem;
   top: 0;
   width: $gap-l;
   height: $gap-l;
@@ -53,7 +53,7 @@
   z-index: -1;
   content: '';
   position: absolute;
-  left: -0.9rem;
+  left: -1.3rem;
   top: 0;
   width: 2px;
   height: 100%;

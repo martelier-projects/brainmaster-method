@@ -44,7 +44,7 @@ $constrain-text: $constrain-m;
   max-width: $constrain-page;
 }
 @mixin constrain-xl {
-  max-width: $constrain-l;
+  max-width: $constrain-xl;
 }
 @mixin constrain-l {
   max-width: $constrain-l;

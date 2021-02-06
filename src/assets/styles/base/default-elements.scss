@@ -19,7 +19,10 @@
  * body
  */
 body {
+  overflow-x: hidden;
+  overflow-y: visible;
   margin: 0;
+
   padding: 0;
 }
 html {

@@ -92,3 +92,24 @@
     width: 83%;
   }
 }
+
+.text-media--small-img .text-media__img-container {
+  max-width: 23rem;
+}
+.text-media--small-img .text-media__text-container {
+  align-self: center;
+}
+.text-media--small-img .text-media__section-title {
+  @include bp-min($bp-l) {
+    margin: 0;
+  }
+}
+.text-media--small-img.text-media::after {
+  @include bp-min($bp-l) {
+    top: 20%;
+    left: auto;
+    right: 0;
+    height: 65%;
+    width: 83%;
+  }
+}

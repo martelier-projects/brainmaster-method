@@ -1,6 +1,7 @@
 {% set classes = {
   'text-media': true,
-  'text-media--mirrored': type === 'text-image'
+  'text-media--mirrored': type === 'text-image',
+  'text-media--small-img': smallImg === true
 } | classes %}
 
 <section class="{{ classes }}">
@@ -21,7 +22,9 @@
   {% if sections %}
     <div class="text-media__text-container">
       {% for section in sections %}
-        <h3 class="text-media__section-title">{{ section.title }}</h3>
+        {% if section.title %}
+          <h3 class="text-media__section-title">{{ section.title }}</h3>
+        {% endif %}
         <p class="text-media__section-text">{{ section.text }}</p>
       {% endfor %}
     </div>
