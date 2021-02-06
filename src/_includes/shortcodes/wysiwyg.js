@@ -2,7 +2,6 @@ module.exports = nunjucksEnvironment => (
   html,
   { quotes, content, timeline }
 ) => {
-  console.log('timeline: ', timeline)
   const container = component =>
     `</section><div class="text-page__breakout">${component}</div><section class="text-page__content">`
 
