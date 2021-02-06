@@ -3,7 +3,7 @@
   @include bare-list;
   display: flex;
   flex-direction: column;
-  margin: $gap-xxl auto 0;
+  margin: 0 auto;
   width: 80vw;
 
   @include bp-min($bp-s) {

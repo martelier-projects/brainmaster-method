@@ -66,6 +66,21 @@ permalink: '/admin/'
           return `[pjotr]`
         }
       })
+      window.CMS.registerEditorComponent({
+        // Internal id of the component
+        id: 'topics',
+
+        // Visible label
+        label: 'Topics',
+
+        // Pattern to identify a block as being an instance of this component
+        pattern: /^topics (\S+)$/,
+
+        // Function to create a text block from an instance of this component
+        toBlock: function (obj) {
+          return `[topics]`
+        }
+      })
     </script>
   </body>
 </html>

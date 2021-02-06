@@ -5,7 +5,7 @@
   gap: $gap-m;
 
   @include bp-min($bp-s) {
-    margin-top: -3rem;
+    // margin-top: -3rem;
     flex-direction: row;
     justify-content: space-between;
 

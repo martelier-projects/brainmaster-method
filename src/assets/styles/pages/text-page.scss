@@ -69,6 +69,8 @@
 // Elements placed into the wysiwyg with a short-code.
 .text-page__breakout {
   @include container-page;
+  margin-top: $gap-xxl;
+  margin-bottom: $gap-xxl;
   // overflow-x: hidden;
   // overflow-y: visible;
 }
