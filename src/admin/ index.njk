@@ -36,6 +36,21 @@ permalink: '/admin/'
           return `[testimonials]`
         }
       })
+      window.CMS.registerEditorComponent({
+        // Internal id of the component
+        id: 'timeline',
+
+        // Visible label
+        label: 'Timeline',
+
+        // Pattern to identify a block as being an instance of this component
+        pattern: /^timeline (\S+)$/,
+
+        // Function to create a text block from an instance of this component
+        toBlock: function (obj) {
+          return `[timeline]`
+        }
+      })
     </script>
   </body>
 </html>

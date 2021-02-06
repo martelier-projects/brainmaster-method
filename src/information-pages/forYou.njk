@@ -19,6 +19,7 @@ permalink: '/voor-jou/'
     {% set asHTML = forYou.content.text | markdown | safe %}
     {% wysiwyg asHTML, {
       quotes: quotes,
+      timeline: timeline,
       content: content
     } %}
   </section>

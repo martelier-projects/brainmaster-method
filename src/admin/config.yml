@@ -266,7 +266,7 @@ collections:
           default: 'layouts/blog.njk',
         }
       - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'blog' }
-  - label: 'Settings'
+  - label: 'global - Settings'
     name: 'settings'
     editor:
       preview: false
@@ -283,7 +283,7 @@ collections:
             fields:
               - { label: Title, name: label, widget: string }
               - { label: URL, name: url, widget: string }
-  - label: 'Social proof (Quotes)'
+  - label: 'global - Social proof (Quotes/testimonials)'
     name: 'quotes'
     editor:
       preview: false
@@ -300,3 +300,19 @@ collections:
             fields:
               - { label: 'Text', name: 'text', widget: 'text' }
               - { label: 'Author', name: 'author', widget: 'string' }
+  - label: 'global - Traject timeline'
+    name: 'timeline'
+    editor:
+      preview: false
+    files:
+      - label: 'Timeline'
+        name: 'timeline'
+        file: 'src/_data/timeline.yaml'
+        fields:
+          - label: Timeline item
+            name: timelineItem
+            widget: list
+            allow_add: true
+            collapsed: true
+            fields:
+              - { label: 'Text', name: 'text', widget: 'text' }
