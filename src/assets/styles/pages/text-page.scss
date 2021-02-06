@@ -16,17 +16,22 @@
   h2:first-of-type {
     margin-top: -#{$gap-xxl};
   }
-  h3 {
-    @include heading-s;
-    margin: 0 0 $gap-s;
-    padding-top: $gap-xxl;
-  }
+  h3,
   h4,
   h5,
   h6 {
-    @include heading-xs;
-    margin: 0 0 $gap-s;
-    padding-top: $gap-xxl;
+    @include text-l;
+    @include font-weight-bold;
+    margin: 0 0 $gap-xxs;
+    padding-top: $gap-xl;
+  }
+  h3,
+  h4,
+  h5,
+  h6 {
+    + p {
+      margin-top: 0;
+    }
   }
 
   p + p {
