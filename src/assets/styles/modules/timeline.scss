@@ -1,0 +1,79 @@
+.timeline {
+  @include constrain-xs;
+  @include bare-list;
+  display: flex;
+  flex-direction: column;
+  margin: $gap-xxl auto 0;
+  width: 80vw;
+
+  @include bp-min($bp-s) {
+    width: auto;
+  }
+}
+
+.timeline__item {
+  position: relative;
+  margin: 0;
+  padding: 0 0 $gap-xl;
+}
+
+// Bol.
+.timeline__item::before {
+  content: '';
+  position: absolute;
+  left: -1.6rem;
+  top: 0;
+  width: $gap-l;
+  height: $gap-l;
+  background-color: $color-orange;
+  border-radius: 50%;
+
+  @include bp-min($bp-s) {
+    left: -2.2rem;
+  }
+  @include bp-min($bp-s) {
+    left: -3rem;
+  }
+}
+.timeline__item:nth-of-type(2)::before {
+  background-color: $color-red;
+}
+.timeline__item:nth-of-type(3)::before {
+  background-color: $color-orange;
+}
+.timeline__item:nth-of-type(4)::before {
+  background-color: $color-yellow;
+}
+.timeline__item:nth-of-type(5)::before {
+  background-color: $color-brown;
+}
+
+// line.
+.timeline__item:not(:last-of-type)::after {
+  z-index: -1;
+  content: '';
+  position: absolute;
+  left: -0.9rem;
+  top: 0;
+  width: 2px;
+  height: 100%;
+  background-color: $color-yellow-light;
+
+  @include bp-min($bp-s) {
+    left: -1.5rem;
+  }
+  @include bp-min($bp-s) {
+    left: -2.3rem;
+  }
+}
+
+.timeline__title {
+  @include text-m;
+  @include font-weight-bold;
+  margin: 0;
+  padding: 0;
+}
+.timeline__text {
+  margin: 0;
+  padding: 0;
+}

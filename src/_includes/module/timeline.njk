@@ -1,6 +1,10 @@
-<div class="timeline">
-<h1>TIMELINEEEEEE</h1>
+<ol class="timeline">
   {% for item in timelineItem %}
-    <h1>{{ item.text }}</h1>
+    <li class="timeline__item">
+      <div class="timeline__inner">
+        <h3 class="timeline__title">{{ item.title }}</h3>
+        <p class="timeline__text">{{ item.text }}</p>
+      </div>
+    </li>
   {% endfor %}
-</div>
+</ol>

@@ -315,4 +315,5 @@ collections:
             allow_add: true
             collapsed: true
             fields:
+              - { label: 'Title', name: 'title', widget: 'text' }
               - { label: 'Text', name: 'text', widget: 'text' }

@@ -18,6 +18,7 @@
 }
 .page-header-simple__title {
   @include heading-xl;
+  @include word-break;
   margin: 0 0 $gap-m;
   text-align: center;
 }
