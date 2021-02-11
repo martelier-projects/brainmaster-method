@@ -1,0 +1,9 @@
+.get-acquainted {
+  @include container-s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.get-acquainted__text {
+  text-align: center;
+}

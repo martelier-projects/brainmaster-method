@@ -96,6 +96,21 @@ permalink: '/admin/'
           return `[faq]`
         }
       })
+      window.CMS.registerEditorComponent({
+        // Internal id of the component
+        id: 'get-acquainted',
+
+        // Visible label
+        label: 'Kennismaking',
+
+        // Pattern to identify a block as being an instance of this component
+        pattern: /^get-acquainted (\S+)$/,
+
+        // Function to create a text block from an instance of this component
+        toBlock: function (obj) {
+          return `[get-acquainted]`
+        }
+      })
     </script>
   </body>
 </html>

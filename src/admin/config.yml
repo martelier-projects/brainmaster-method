@@ -351,3 +351,14 @@ collections:
             fields:
               - { label: 'Question', name: 'question', widget: 'text' }
               - { label: 'Answer', name: 'answer', widget: 'text' }
+  - label: 'global - Kennismaking'
+    name: 'getAcquainted'
+    editor:
+      preview: false
+    files:
+      - label: 'Kennismaking'
+        name: 'getAcquainted'
+        file: 'src/_data/getAcquainted.yaml'
+        fields:
+          - { label: 'Text', name: 'text', widget: 'text' }
+          - { label: 'Button label', name: 'label', widget: 'text' }

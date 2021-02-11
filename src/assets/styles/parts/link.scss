@@ -7,12 +7,15 @@
   box-shadow: $shadow-s;
   border-radius: $border-radius-s;
   line-height: 1;
+  border: none;
+  font-size: inherit;
 
   transition: $quick $ease-out box-shadow, $quick $ease-out background-color,
     $quick $ease-out border-color, $quick $ease-out color;
 
   @include hocus {
     box-shadow: $shadow-m;
+    cursor: pointer;
   }
 }
 .link ~ .link {

@@ -1,6 +1,6 @@
 module.exports = nunjucksEnvironment => (
   html,
-  { quotes, content, timeline, pjotr, topics, faq }
+  { quotes, content, timeline, pjotr, topics, faq, getAcquainted }
 ) => {
   const container = component =>
     `</section><div class="text-page__breakout">${component}</div><section class="text-page__content">`
@@ -25,6 +25,10 @@ module.exports = nunjucksEnvironment => (
     container("{% include 'module/faq.njk' %}"),
     faq
   )
+  const getAcquaintedComponent = nunjucksEnvironment.renderString(
+    container("{% include 'module/get-acquainted.njk' %}"),
+    getAcquainted
+  )
 
   const rendered = html
     .replace('[testimonials]', quotesComponent)
@@ -32,6 +36,7 @@ module.exports = nunjucksEnvironment => (
     .replace('[pjotr]', pjotrComponent)
     .replace('[topics]', topicsComponent)
     .replace('[faq]', faqComponent)
+    .replace('[get-acquainted]', getAcquaintedComponent)
 
   return rendered
 }
