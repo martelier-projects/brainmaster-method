@@ -6,12 +6,13 @@ pagination:
 layout: layouts/base.njk
 ---
 
-<article class="text-page">
+<article class="blog">
   {% module 'page-header-simple', {
-    title: title
+    empty: true
   } %}
 
-  <section class="text-page__content text-page__content--no-nav">
+  <section class="blog__content">
+    <h1 class="blog__title">{{ title }}</h1>
     {{ content | safe }}
   </section>
 </article>

@@ -66,3 +66,60 @@
   height: 100%;
   background-color: rgba($color-black, 0.8);
 }
+
+/**
+ * HTML elements from WYSIWYG
+ */
+@mixin wysiwyg-content {
+  img {
+    width: 100%;
+    display: block;
+  }
+
+  h2 {
+    @include heading-m;
+    margin: 0 0 $gap-m;
+    padding-top: $gap-xxl;
+  }
+
+  h3 {
+    @include text-l;
+    @include font-weight-bold;
+    margin: 0 0 $gap-xxs;
+    padding-top: $gap-xl;
+  }
+  h4,
+  h5,
+  h6 {
+    @include text-m;
+    @include font-weight-bold;
+    margin: 0 0 $gap-xxs;
+    padding-top: $gap-xl;
+  }
+
+  h3,
+  h4,
+  h5,
+  h6 {
+    + p {
+      margin-top: 0;
+    }
+  }
+
+  p + p {
+    margin: $gap-l 0;
+  }
+
+  a {
+    color: $color-red-dark;
+    text-decoration: none;
+
+    @include hocus {
+      color: $color-red;
+    }
+  }
+
+  ul > li {
+    margin-top: $gap-l;
+  }
+}

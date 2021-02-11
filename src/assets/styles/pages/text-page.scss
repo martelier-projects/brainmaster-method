@@ -5,60 +5,10 @@
     margin-top: $gap-xxxxl;
   }
 
-  /**
-    * HTML elements from WYSIWYG
-    */
-  img {
-    width: 100%;
-  }
+  @include wysiwyg-content;
 
-  h2 {
-    @include heading-m;
-    margin: 0 0 $gap-m;
-    padding-top: $gap-xxl;
-  }
   h2:first-of-type {
     margin-top: -#{$gap-xxl};
-  }
-  h3 {
-    @include text-l;
-    @include font-weight-bold;
-    margin: 0 0 $gap-xxs;
-    padding-top: $gap-xl;
-  }
-  h4,
-  h5,
-  h6 {
-    @include text-m;
-    @include font-weight-bold;
-    margin: 0 0 $gap-xxs;
-    padding-top: $gap-xl;
-  }
-
-  h3,
-  h4,
-  h5,
-  h6 {
-    + p {
-      margin-top: 0;
-    }
-  }
-
-  p + p {
-    margin: 0 0 $gap-l;
-  }
-
-  a {
-    color: $color-red-dark;
-    text-decoration: none;
-
-    @include hocus {
-      color: $color-red;
-    }
-  }
-
-  ul > li {
-    margin-top: $gap-l;
   }
 }
 
@@ -71,6 +21,4 @@
   @include container-page;
   margin-top: $gap-xxl;
   margin-bottom: $gap-xxl;
-  // overflow-x: hidden;
-  // overflow-y: visible;
 }

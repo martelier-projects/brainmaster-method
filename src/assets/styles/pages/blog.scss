@@ -1,0 +1,26 @@
+.blog__content {
+  @include container-l;
+  margin-top: -18rem;
+
+  @include bp-min($bp-m) {
+    margin-top: -25rem;
+  }
+
+  @include wysiwyg-content;
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @include text-m;
+    @include font-weight-bold;
+    margin: $gap-xxl 0 $gap-xxs;
+    padding-top: 0;
+  }
+}
+
+.blog__title {
+  @include heading-m;
+  margin: 0;
+}

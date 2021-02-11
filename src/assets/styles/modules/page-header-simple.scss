@@ -16,6 +16,14 @@
     padding-bottom: $gap-xxxxl;
   }
 }
+
+.page-header-simple--empty .page-header-simple__inner {
+  min-height: 25rem;
+  @include bp-min($bp-m) {
+    min-height: 34rem;
+  }
+}
+
 .page-header-simple__title {
   @include heading-xl;
   @include word-break;
