@@ -81,6 +81,21 @@ permalink: '/admin/'
           return `[topics]`
         }
       })
+      window.CMS.registerEditorComponent({
+        // Internal id of the component
+        id: 'faq',
+
+        // Visible label
+        label: 'FAQ',
+
+        // Pattern to identify a block as being an instance of this component
+        pattern: /^faq (\S+)$/,
+
+        // Function to create a text block from an instance of this component
+        toBlock: function (obj) {
+          return `[faq]`
+        }
+      })
     </script>
   </body>
 </html>

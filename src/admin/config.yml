@@ -334,3 +334,20 @@ collections:
               widget: 'image',
               media_library: { config: { multiple: true } },
             }
+  - label: 'global - FAQ'
+    name: 'faq'
+    editor:
+      preview: false
+    files:
+      - label: 'FAQ'
+        name: 'faq'
+        file: 'src/_data/faq.yaml'
+        fields:
+          - label: FAQ Item
+            name: faqItems
+            widget: list
+            allow_add: true
+            collapsed: true
+            fields:
+              - { label: 'Question', name: 'question', widget: 'text' }
+              - { label: 'Answer', name: 'answer', widget: 'text' }

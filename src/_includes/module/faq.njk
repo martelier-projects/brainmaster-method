@@ -1,0 +1,32 @@
+<section class="faq">
+  {% for item in faqItems %}
+    <div class="faq__item">
+      <div class="faq__trigger-container">
+        <button
+          class="faq__trigger"
+          data-enhancer="toggleTrigger"
+          data-toggle-subject="{{ item.question | slug }}"
+          aria-controls="{{ item.question | slug }}"
+          data-toggle-initialize-closed="true"
+        >
+          <span class="sr-only">Open vraag {{ item.question }}</span>
+        </button>
+
+        <h3 class="faq__question">{{ item.question }}</h3>
+
+        <span class="faq__icon" aria-hidden="true">{% icon "chefron" %}</span>
+      </div>
+
+      <p
+        class="faq__target"
+        id="{{ item.question | slug }}"
+        class="filter-list__target"
+        data-enhancer="toggleTarget"
+        data-toggle-initialize-closed="true"
+        data-toggle-subject="{{ item.question | slug }}"
+      >
+        {{ item.answer }}
+      </p>
+    </div>
+  {% endfor %}
+</section>
