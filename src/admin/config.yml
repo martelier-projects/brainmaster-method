@@ -184,21 +184,13 @@ collections:
               widget: 'boolean',
               default: true,
             }
-          - { label: Title, name: title, widget: string, required: true }
           - {
-              label: Description,
-              name: description,
-              widget: string,
-              required: true,
+              label: Select page,
+              name: page,
+              widget: select,
+              options: ['Voor jou', 'Voor organisaties', 'Voor zorgverleners'],
+              default: ['Voor jou'],
             }
-          - {
-              label: Link label,
-              name: linkLabel,
-              widget: string,
-              required: true,
-            }
-          - { label: Link URL, name: linkUrl, widget: string, required: true }
-          - { label: 'Image', name: 'image', widget: 'image', required: true }
       - label: FAQ
         file: 'src/_data/homePage/faq.yaml'
         name: FAQ
@@ -544,3 +536,27 @@ collections:
         fields:
           - { label: 'Text', name: 'text', widget: 'text' }
           - { label: 'Button label', name: 'label', widget: 'text' }
+  - label: 'global - pages preview'
+    name: 'pages preview'
+    editor:
+      preview: false
+    files:
+      - label: 'Voor jou'
+        name: 'forYouPage'
+        file: 'src/_data/pagesPreview/forYou.yaml'
+        fields:
+          - { label: Title, name: title, widget: string, required: true }
+          - {
+              label: Description,
+              name: description,
+              widget: string,
+              required: true,
+            }
+          - {
+              label: Link label,
+              name: linkLabel,
+              widget: string,
+              required: true,
+            }
+          - { label: Link URL, name: linkUrl, widget: string, required: true }
+          - { label: 'Image', name: 'image', widget: 'image', required: true }

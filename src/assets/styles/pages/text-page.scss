@@ -27,3 +27,8 @@
   margin-top: $gap-xxl;
   margin-bottom: $gap-xxl;
 }
+.text-page__breakout--medium {
+  @include container-xl;
+  margin-top: $gap-xxl;
+  margin-bottom: $gap-xxl;
+}

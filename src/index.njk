@@ -69,13 +69,9 @@ layout: layouts/base.njk
 
   {% if homePage.pagePreview.showPagePreview %}
     <div class="page__section page__section--medium">
-      {% module 'preview', {
-        title: homePage.pagePreview.title,
-        description: homePage.pagePreview.description,
-        linkLabel: homePage.pagePreview.linkLabel,
-        url: homePage.pagePreview.linkUrl,
-        image: homePage.pagePreview.image,
-        alt: "sdfsfdsf"
+      {% module 'page-preview', {
+        page: homePage.pagePreview.page,
+        pagesPreview: pagesPreview
       } %}
     </div>
   {% endif %}

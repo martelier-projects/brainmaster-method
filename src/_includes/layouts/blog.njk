@@ -11,13 +11,19 @@ layout: layouts/base.njk
     empty: true
   } %}
 
-  <script> console.log('{{ blog | dump | safe }}')</script>
-  <script> console.log('{{ pagination | dump | safe }}')</script>
-  <script> console.log('{{ pagination.href | dump | safe }}')</script>
-
   <section class="blog__content">
     <h1 class="blog__title">{{ title }}</h1>
-    {{ content | safe }}
+    {% set asHTML = content | markdown | safe %}
+    {% wysiwyg asHTML, {
+      quotes: quotes,
+      timeline: timeline,
+      content: content,
+      pjotr: pjotr,
+      topics: homePage.mainTopics.topics,
+      faq: faq,
+      getAcquainted: getAcquainted,
+      pagesPreview: pagesPreview
+    } %}
   </section>
 </article>
 

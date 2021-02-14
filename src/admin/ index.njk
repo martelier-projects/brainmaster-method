@@ -111,6 +111,21 @@ permalink: '/admin/'
           return `[get-acquainted]`
         }
       })
+      window.CMS.registerEditorComponent({
+        // Internal id of the component
+        id: 'page-preview-for-you',
+
+        // Visible label
+        label: 'page-preview - Voor jou',
+
+        // Pattern to identify a block as being an instance of this component
+        pattern: /^page-preview-for-you (\S+)$/,
+
+        // Function to create a text block from an instance of this component
+        toBlock: function (obj) {
+          return `[page-preview-for-you]`
+        }
+      })
     </script>
   </body>
 </html>

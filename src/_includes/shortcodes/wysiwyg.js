@@ -1,11 +1,13 @@
 module.exports = nunjucksEnvironment => (
   html,
-  { quotes, content, timeline, pjotr, topics, faq, getAcquainted }
+  { quotes, content, timeline, pjotr, topics, faq, getAcquainted, pagesPreview }
 ) => {
   const container = component =>
     `</section><div class="text-page__breakout">${component}</div><section class="text-page__content">`
   const containerSmall = component =>
     `</section><div class="text-page__breakout text-page__breakout--small">${component}</div><section class="text-page__content">`
+  const containerMedium = component =>
+    `</section><div class="text-page__breakout text-page__breakout--medium">${component}</div><section class="text-page__content">`
 
   const quotesComponent = nunjucksEnvironment.renderString(
     container("{% include 'module/quote-list.njk' %}"),
@@ -32,6 +34,14 @@ module.exports = nunjucksEnvironment => (
     getAcquainted
   )
 
+  const pagePreviewForYouComponent = nunjucksEnvironment.renderString(
+    containerMedium("{% include 'module/page-preview.njk' %}"),
+    {
+      page: 'Voor jou',
+      pagesPreview,
+    }
+  )
+
   const rendered = html
     .replace('[testimonials]', quotesComponent)
     .replace('[timeline]', timelineComponent)
@@ -39,6 +49,7 @@ module.exports = nunjucksEnvironment => (
     .replace('[topics]', topicsComponent)
     .replace('[faq]', faqComponent)
     .replace('[get-acquainted]', getAcquaintedComponent)
+    .replace('[page-preview-for-you]', pagePreviewForYouComponent)
 
   return rendered
 }
