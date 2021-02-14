@@ -1,0 +1,14 @@
+<section class="preview">
+  <a class="preview__link" href="{{ url }}">
+    <span class="sr-only">Ga naar pagina: {{ title }}</span>
+  </a>
+  <figure class="preview__img-wrapper">
+    <img class="preview__img" src="{{ image }}" alt="{{ alt }}" data-enhancer="objectFit">
+  </figure>
+
+  <div class="preview__text-container">
+    <h2 class="preview__title">{{ title }}</h2>
+    <p class="preview__description">{{ description }}</p>
+    <span class="preview__link-mock" aria-hidden="true">{{ linkLabel }}</span>
+  </div>
+</section>

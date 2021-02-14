@@ -57,6 +57,17 @@ layout: layouts/base.njk
     </div>
   </div>
 
+  <div class="page__section page__section--medium">
+    {% module 'preview', {
+      title: homePage.pagePreview.title,
+      description: homePage.pagePreview.description,
+      linkLabel: homePage.pagePreview.linkLabel,
+      url: homePage.pagePreview.linkUrl,
+      image: homePage.pagePreview.image,
+      alt: "sdfsfdsf"
+    } %}
+  </div>
+
   <div class="page__section page__section--small">
     <section>
       <h2 class="page__title page__title--left">{{ homePage.faq.title }}</h2>

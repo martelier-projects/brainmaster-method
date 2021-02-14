@@ -8,6 +8,9 @@
     margin-bottom: $gap-xxxxxl;
   }
 }
+.page__section--medium {
+  @include container-xl;
+}
 .page__section--small {
   @include container-m;
 }

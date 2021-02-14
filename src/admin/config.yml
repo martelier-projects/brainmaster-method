@@ -143,6 +143,32 @@ collections:
         widget: list
         fields:
           - { label: Title, name: title, widget: string, required: true }
+      - label: Page preview
+        file: 'src/_data/homePage/pagePreview.yaml'
+        name: Page preview
+        widget: list
+        fields:
+          - {
+              label: Show page preview,
+              name: showPagePreview,
+              widget: 'boolean',
+              default: true,
+            }
+          - { label: Title, name: title, widget: string, required: true }
+          - {
+              label: Description,
+              name: description,
+              widget: string,
+              required: true,
+            }
+          - {
+              label: Link label,
+              name: linkLabel,
+              widget: string,
+              required: true,
+            }
+          - { label: Link URL, name: linkUrl, widget: string, required: true }
+          - { label: 'Image', name: 'image', widget: 'image', required: true }
       - label: FAQ
         file: 'src/_data/homePage/faq.yaml'
         name: FAQ
