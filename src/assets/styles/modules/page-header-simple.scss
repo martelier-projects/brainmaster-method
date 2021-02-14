@@ -4,7 +4,7 @@
 .page-header-simple__inner {
   @include container-xl;
   max-width: 30rem;
-  padding-top: $gap-xxl;
+  padding-top: $gap-xxxl;
   padding-bottom: $gap-xxxl;
 
   @include bp-min($bp-m) {

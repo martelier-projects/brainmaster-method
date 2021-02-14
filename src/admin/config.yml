@@ -137,6 +137,18 @@ collections:
             fields:
               - { label: Title, name: title, widget: string, required: true }
               - { label: Text, name: text, widget: text, required: true }
+      - label: Blog preview
+        file: 'src/_data/homePage/blogPreview.yaml'
+        name: Blog preview
+        widget: list
+        fields:
+          - { label: Title, name: title, widget: string, required: true }
+      - label: FAQ
+        file: 'src/_data/homePage/faq.yaml'
+        name: FAQ
+        widget: list
+        fields:
+          - { label: Title, name: title, widget: string, required: true }
   - label: 'pagina - Voor jou'
     name: 'forYou'
     editor:
@@ -283,6 +295,119 @@ collections:
             fields:
               - { label: Title, name: label, widget: string }
               - { label: URL, name: url, widget: string }
+  - label: 'global - Footer'
+    name: 'footer'
+    editor:
+      preview: false
+    files:
+      - label: 'Link list one'
+        name: 'link list one'
+        file: 'src/_data/footer/linkListOne.yaml'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - {
+              label: 'Links',
+              name: 'links',
+              widget: 'list',
+              allow_add: true,
+              collapsed: true,
+              max: 5,
+              hint: 'Voeg max 5 links toe.',
+              fields:
+                [
+                  { label: Label, name: label, widget: string },
+                  { label: URL, name: url, widget: string },
+                ],
+            }
+      - label: 'Link list two'
+        name: 'link list two'
+        file: 'src/_data/footer/linkListTwo.yaml'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - {
+              label: 'Links',
+              name: 'links',
+              widget: 'list',
+              allow_add: true,
+              collapsed: true,
+              max: 5,
+              hint: 'Voeg max 5 links toe.',
+              fields:
+                [
+                  { label: Label, name: label, widget: string },
+                  { label: URL, name: url, widget: string },
+                ],
+            }
+      - label: 'Link list three'
+        name: 'link list three'
+        file: 'src/_data/footer/linkListThree.yaml'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - {
+              label: 'Links',
+              name: 'links',
+              widget: 'list',
+              allow_add: true,
+              collapsed: true,
+              max: 5,
+              hint: 'Voeg max 5 links toe.',
+              fields:
+                [
+                  { label: Label, name: label, widget: string },
+                  { label: URL, name: url, widget: string },
+                ],
+            }
+      - label: 'Contact'
+        name: 'contact'
+        file: 'src/_data/footer/contact.yaml'
+        fields:
+          - {
+              label: 'Title',
+              name: 'title',
+              widget: 'string',
+              hint: 'Titel wordt niet getoond, wel gebruikt voor screenreaders',
+            }
+          - { label: 'Slogan', name: 'slogan', widget: 'string' }
+          - {
+              label: 'Email URL',
+              name: 'emailUrl',
+              widget: 'string',
+              hint: 'Voeg emailadres toe',
+            }
+          - {
+              label: 'Email Label',
+              name: 'emailLabel',
+              widget: 'string',
+              hint: 'Email die wordt getoond',
+            }
+          - {
+              label: 'Tel URL',
+              name: 'telUrl',
+              widget: 'string',
+              hint: 'Voeg telefoonnummer toe (geen spaties).',
+            }
+          - {
+              label: 'Tel Label',
+              name: 'telLabel',
+              widget: 'string',
+              hint: 'Telefoonnummer die wordt getoond',
+            }
+      - label: 'Sub footer'
+        name: 'sub footer'
+        file: 'src/_data/footer/subFooter.yaml'
+        fields:
+          - {
+              label: 'Links',
+              name: 'links',
+              widget: 'list',
+              allow_add: true,
+              collapsed: true,
+              fields:
+                [
+                  { label: Label, name: label, widget: string },
+                  { label: URL, name: url, widget: string },
+                ],
+            }
   - label: 'global - Social proof (Quotes/testimonials)'
     name: 'quotes'
     editor:

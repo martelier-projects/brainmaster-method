@@ -19,26 +19,17 @@
 * Logo
 */
 .header__logo {
-  width: rem(105);
-  height: rem(30);
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  color: $color-black;
-
-  transition: $normal $ease-out color;
+  max-width: rem(170);
+  display: block;
 
   @include bp-min($bp-ml) {
-    width: rem(170);
+    max-width: rem(206);
   }
 }
-.header__logo:hover,
-.header__logo:focus {
-  color: $color-orange;
-}
 
-.header__logo svg {
-  height: 100%;
+.header__logo-img {
+  width: 100%;
+  display: block;
 }
 
 /**

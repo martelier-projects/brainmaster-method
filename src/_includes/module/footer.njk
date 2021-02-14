@@ -1,3 +1,67 @@
-<footer>
-  <p>Footer</p>
+<footer class="footer">
+  <div class="footer__top">
+    <div class="footer__inner">
+      <nav class="footer__nav">
+        <div class="footer__nav-section">
+          <h2 class="footer__title">{{ footer.linkListOne.title }}</h2>
+          <ul class="footer__nav-list">
+          {% for item in footer.linkListOne.links %}
+            <li class="footer__nav-item">
+              <a class="footer__link" href="{{ item.url }}">{{ item.label }}</a>
+            </li>
+          {% endfor %}
+          </ul>
+        </div>
+
+        <div class="footer__nav-section">
+          <h2 class="footer__title">{{ footer.linkListTwo.title }}</h2>
+          <ul class="footer__nav-list">
+          {% for item in footer.linkListTwo.links %}
+            <li class="footer__nav-item">
+              <a class="footer__link" href="{{ item.url }}">{{ item.label }}</a>
+            </li>
+          {% endfor %}
+          </ul>
+        </div>
+
+        <div class="footer__nav-section">
+          <h2 class="footer__title">{{ footer.linkListThree.title }}</h2>
+          <ul class="footer__nav-list">
+          {% for item in footer.linkListThree.links %}
+            <li class="footer__nav-item">
+              <a class="footer__link" href="{{ item.url }}">{{ item.label }}</a>
+            </li>
+          {% endfor %}
+          </ul>
+        </div>
+      </nav>
+
+      <div class="footer__contact">
+        <h2 class="sr-only">{{ footer.contact.title }}</h2>
+        <address>
+          <p class="footer__contact-item">{{ footer.contact.slogan }}</p>
+          <a class="footer__contact-item footer__link" href="mailto:{{ footer.contact.emailUrl }}">{{ footer.contact.emailLabel }}</a>
+          <a class="footer__contact-item footer__link" href="tel:{{ footer.contact.telUrl }}">{{ footer.contact.telLabel }}</a>
+        </address>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer__bottom">
+    <div class="footer__inner-large">
+      <a class="footer__logo-link" href="/">
+        <img class="footer__logo" src="/assets/images/logo.png" alt="Logo van Panthus">
+      </a>
+
+      <ul class="footer__bottom-link-list">
+        {% for item in footer.subFooter.links %}
+          <li class="footer__bottom-link-item">
+            <a class="footer__link footer__bottom-link" href="{{ item.url }}">{{ item.label }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+
+      <p>©2020 Phantus</p>
+    </div>
+  </div>
 </footer>

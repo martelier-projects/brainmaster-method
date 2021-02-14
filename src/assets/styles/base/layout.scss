@@ -30,6 +30,7 @@ $gap-paragraph: $gap-xl;
 }
 
 $constrain-page: rem(1380);
+$constrain-xxl: rem(1000);
 $constrain-xl: rem(880);
 $constrain-l: rem(720);
 $constrain-m: rem(650);
@@ -45,6 +46,9 @@ $constrain-text: $constrain-m;
 }
 @mixin constrain-xl {
   max-width: $constrain-xl;
+}
+@mixin constrain-xxl {
+  max-width: $constrain-xxl;
 }
 @mixin constrain-l {
   max-width: $constrain-l;
@@ -68,6 +72,12 @@ $constrain-text: $constrain-m;
  */
 @mixin container-page {
   @include constrain-page;
+  @include gap-browser-edge;
+  margin-right: auto;
+  margin-left: auto;
+}
+@mixin container-xxl {
+  @include constrain-xxl;
   @include gap-browser-edge;
   margin-right: auto;
   margin-left: auto;

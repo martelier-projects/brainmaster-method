@@ -1,3 +1,4 @@
+const fs = require('fs')
 const yaml = require('js-yaml')
 const Nunjucks = require('nunjucks')
 const ModuleTag = require('./utils/module')
@@ -15,6 +16,22 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget('./src/compiled-assets/styles/base.css')
   eleventyConfig.addWatchTarget('./src/compiled-assets/scripts/bundle.js')
   eleventyConfig.addWatchTarget('./src/compiled-assets/scripts/modernizr.js')
+
+  // 404 page
+  eleventyConfig.setBrowserSyncConfig({
+    callbacks: {
+      ready: function (err, bs) {
+        bs.addMiddleware('*', (req, res) => {
+          const content_404 = fs.readFileSync('./dist/404/index.html')
+          // Add 404 http status code in request header.
+          res.writeHead(404, { 'Content-Type': 'text/html; charset=UTF-8' })
+          // Provides the 404 content without redirect.
+          res.write(content_404)
+          res.end()
+        })
+      },
+    },
+  })
 
   // Copy src/compiled-assets to /assets.
   eleventyConfig.addPassthroughCopy({

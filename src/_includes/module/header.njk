@@ -1,8 +1,7 @@
 <header class="header">
     <a class="header__logo" href="/">
         <span class="sr-only">Homepagina</span>
-        {# {% include "parts/logo" %} #}
-        Logo
+        <img class="header__logo-img" src="/assets/images/logo.png" alt="Logo van Panthus">
     </a>
 
     <button
@@ -39,6 +38,8 @@
             {% icon "cross" %}
         </button>
 
-        {% module "navigation" %}
+        {% module "navigation", {
+          navigation: navigation
+        } %}
     </div>
 </header>

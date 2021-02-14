@@ -27,11 +27,15 @@
   </head>
 
   <body>
-    {% module "header" %}
+    {% module "header", {
+      navigation: mainNav
+    } %}
 
     <main>{{ content | safe }}</main>
 
-    {# {% include "modules/footer.njk" %} #}
+    {% module "footer", {
+      footer: footer
+    } %}
 
     <script src="/assets/scripts/bundle.js"></script>
   </body>
