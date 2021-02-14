@@ -41,6 +41,12 @@ collections:
         name: main topics
         widget: list
         fields:
+          - {
+              label: Show topics,
+              name: showTopics,
+              widget: 'boolean',
+              default: true,
+            }
           - widget: list
             label: 'Topics'
             name: 'topics'
@@ -69,6 +75,12 @@ collections:
         name: Improve text
         widget: list
         fields:
+          - {
+              label: Show improve text,
+              name: showImproveText,
+              widget: 'boolean',
+              default: true,
+            }
           - {
               label: 'Visual order',
               name: 'order',
@@ -102,12 +114,24 @@ collections:
         file: 'src/_data/homePage/quotes.yaml'
         name: quotes
         fields:
+          - {
+              label: Show Quotes,
+              name: showQuotes,
+              widget: 'boolean',
+              default: true,
+            }
           - { label: 'Title', name: 'title', widget: 'string' }
       - label: Why text
         file: 'src/_data/homePage/whyText.yaml'
         name: Why text
         widget: list
         fields:
+          - {
+              label: Show text why,
+              name: showTextWhy,
+              widget: 'boolean',
+              default: true,
+            }
           - {
               label: 'Visual order',
               name: 'order',
@@ -142,6 +166,12 @@ collections:
         name: Blog preview
         widget: list
         fields:
+          - {
+              label: Show blog preview,
+              name: showBlogPreview,
+              widget: 'boolean',
+              default: true,
+            }
           - { label: Title, name: title, widget: string, required: true }
       - label: Page preview
         file: 'src/_data/homePage/pagePreview.yaml'
@@ -174,6 +204,7 @@ collections:
         name: FAQ
         widget: list
         fields:
+          - { label: Show FAQ, name: showFaq, widget: 'boolean', default: true }
           - { label: Title, name: title, widget: string, required: true }
   - label: 'pagina - Voor jou'
     name: 'forYou'
