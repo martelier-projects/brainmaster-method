@@ -48,13 +48,22 @@ layout: layouts/base.njk
 
   <div class="colored-block">
     <div class="colored-block__inner">
-      <h2 class="page__title">Lees meer in onze blog</h2>
+      <h2 class="page__title">[Lees meer in onze blog]</h2>
 
       {% module 'blog-preview-list', {
         posts: collections.blog | reverse,
         smallPreview: true
       } %}
     </div>
+  </div>
+
+  <div class="page__section page__section--small">
+    <section>
+      <h2>[Meer vragen]</h2>
+      {% module "faq", {
+        faqItems: faq.faqItems
+      } %}
+    </section>
   </div>
 </article>
 

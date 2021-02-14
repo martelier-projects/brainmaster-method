@@ -1,7 +1,7 @@
 ---
 pagination:
   data: content
-  size: 1
+  size: 2
   alias: content
 layout: layouts/base.njk
 ---
@@ -10,6 +10,10 @@ layout: layouts/base.njk
   {% module 'page-header-simple', {
     empty: true
   } %}
+
+  <script> console.log('{{ blog | dump | safe }}')</script>
+  <script> console.log('{{ pagination | dump | safe }}')</script>
+  <script> console.log('{{ pagination.href | dump | safe }}')</script>
 
   <section class="blog__content">
     <h1 class="blog__title">{{ title }}</h1>

@@ -22,3 +22,8 @@
   margin-top: $gap-xxl;
   margin-bottom: $gap-xxl;
 }
+.text-page__breakout--small {
+  @include container-m;
+  margin-top: $gap-xxl;
+  margin-bottom: $gap-xxl;
+}
