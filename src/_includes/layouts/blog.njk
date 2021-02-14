@@ -20,3 +20,13 @@ layout: layouts/base.njk
     {{ content | safe }}
   </section>
 </article>
+
+<section class="colored-block">
+  <div class="colored-block__inner">
+    <h2 class="page__title">Meer lezen?</h2>
+    {% module 'blog-preview-list', {
+      posts: collections.blog | reverse,
+      smallPreview: true
+    } %}
+  </div>
+</section>
