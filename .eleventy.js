@@ -7,6 +7,7 @@ const { classesFilter } = require('./utils/classes-filter')
 
 const inPageNav = require('./src/_includes/shortcodes/in-page-nav')
 const wysiwyg = require('./src/_includes/shortcodes/wysiwyg')
+const navItem = require('./src/_includes/shortcodes/nav-item')
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setUseGitIgnore(false)
@@ -73,6 +74,7 @@ module.exports = function (eleventyConfig) {
   // Shortcodes
   eleventyConfig.addNunjucksShortcode('inPageNav', inPageNav)
   eleventyConfig.addNunjucksShortcode('wysiwyg', wysiwyg(nunjucksEnvironment))
+  eleventyConfig.addNunjucksShortcode('navItem', navItem)
 
   return {
     dir: {

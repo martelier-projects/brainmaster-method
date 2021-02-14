@@ -7,6 +7,11 @@ layout: layouts/base.njk
 permalink: '/voor-organisaties/'
 ---
 
+{% module "header", {
+  navigation: mainNav,
+  permalink: 'voor-organisaties'
+} %}
+
 <article class="text-page">
   {% module 'page-header-simple', {
     title: forOrganisations.pageHeader.title,

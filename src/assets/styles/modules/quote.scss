@@ -5,6 +5,7 @@
   margin: 0;
   padding: $gap-xxl $gap-xl $gap-xl;
 
+  background-color: $color-white;
   box-shadow: -#{$gap-l} -#{$gap-l} 0 $color-yellow-dark,
     -#{$gap-l} #{$gap-l} 0 $color-yellow-dark;
   border: 1px solid $color-gray-light;

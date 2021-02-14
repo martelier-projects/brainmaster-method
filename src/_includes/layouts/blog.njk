@@ -6,6 +6,11 @@ pagination:
 layout: layouts/base.njk
 ---
 
+{% module "header", {
+  navigation: mainNav,
+  permalink: 'blog'
+} %}
+
 <article class="blog">
   {% module 'page-header-simple', {
     empty: true

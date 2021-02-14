@@ -7,6 +7,11 @@ layout: layouts/base.njk
 permalink: '/voor-jou/'
 ---
 
+{% module "header", {
+  navigation: mainNav,
+  permalink: 'voor-jou'
+} %}
+
 <article class="text-page">
   {% module 'page-header-simple', {
     title: forYou.pageHeader.title,

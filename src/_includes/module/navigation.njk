@@ -1,7 +1,7 @@
 <nav class="navigation">
     <ul class="navigation__list">
       {% for item in navigation.items %}
-        <li class="navigation__item"><a class="navigation__link" href="{{ item.url }}">{{ item.label }}</a></li>
+        {% navItem item.url, item.label, permalink  %}
       {% endfor %}
     </ul>
 </nav>
