@@ -1,0 +1,25 @@
+---
+pagination:
+  data: content
+  size: 1
+  alias: content
+layout: layouts/base.njk
+permalink: '/privacy-statement/'
+---
+
+{% module "header", {
+  navigation: mainNav,
+  permalink: 'privacy-statement'
+} %}
+
+<article class="text-page">
+  {% module 'page-header-simple', {
+    title: privacyStatement.pageHeader.title,
+    text: privacyStatement.pageHeader.text
+  } %}
+
+  <section class="text-page__content">
+    {{ privacyStatement.content.text | markdown | safe }}
+  </section>
+
+</article>

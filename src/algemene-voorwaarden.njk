@@ -1,0 +1,25 @@
+---
+pagination:
+  data: content
+  size: 1
+  alias: content
+layout: layouts/base.njk
+permalink: '/algemene-voorwaarden/'
+---
+
+{% module "header", {
+  navigation: mainNav,
+  permalink: 'privacy-statement'
+} %}
+
+<article class="text-page">
+  {% module 'page-header-simple', {
+    title: termsAndConditions.pageHeader.title,
+    text: termsAndConditions.pageHeader.text
+  } %}
+
+  <section class="text-page__content">
+    {{ termsAndConditions.content.text | markdown | safe }}
+  </section>
+
+</article>
