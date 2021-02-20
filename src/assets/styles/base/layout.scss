@@ -36,7 +36,7 @@ $constrain-l: rem(720);
 $constrain-m: rem(650);
 $constrain-s: rem(520);
 $constrain-xs: rem(385);
-$constrain-text: $constrain-m;
+$constrain-text: rem(762);
 /*
  * Constrains
  * Variable/mixin that set's the max width.
@@ -113,7 +113,10 @@ $constrain-text: $constrain-m;
   margin-left: auto;
 }
 @mixin container-text {
-  @include container-m;
+  @include constrain-text;
+  @include gap-browser-edge;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .container-page {

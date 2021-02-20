@@ -1,5 +1,6 @@
 .blog__content {
-  @include container-l;
+  @include container-text;
+  @include text-l;
   margin-top: -18rem;
 
   @include bp-min($bp-m) {
@@ -13,7 +14,7 @@
   h4,
   h5,
   h6 {
-    @include text-m;
+    @include text-l;
     @include font-weight-bold;
     margin: $gap-xxl 0 $gap-xxs;
     padding-top: 0;
