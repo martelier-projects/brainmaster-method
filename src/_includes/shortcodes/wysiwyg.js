@@ -8,6 +8,8 @@ module.exports = nunjucksEnvironment => (
     `</section><div class="text-page__breakout text-page__breakout--small">${component}</div><section class="text-page__content">`
   const containerMedium = component =>
     `</section><div class="text-page__breakout text-page__breakout--medium">${component}</div><section class="text-page__content">`
+  const containerReduceTop = component =>
+    `</section><div class="text-page__breakout reduce-top">${component}</div><section class="text-page__content">`
 
   const quotesComponent = nunjucksEnvironment.renderString(
     container("{% include 'module/quote-list.njk' %}"),
@@ -30,7 +32,7 @@ module.exports = nunjucksEnvironment => (
     faq
   )
   const getAcquaintedComponent = nunjucksEnvironment.renderString(
-    container("{% include 'module/get-acquainted.njk' %}"),
+    containerReduceTop("{% include 'module/get-acquainted.njk' %}"),
     getAcquainted
   )
 
