@@ -1,5 +1,6 @@
 .blog-preview {
   position: relative;
+  height: 100%;
   transition: $quick $ease-out background-color, $quick $ease-out box-shadow;
 
   @include bp-min($bp-sm) {
@@ -81,6 +82,7 @@
   }
   @include bp-min($bp-l) {
     flex-shrink: 0;
+    flex-grow: 1;
     padding: $gap-l $gap-l;
   }
 }
@@ -90,7 +92,7 @@
   margin: 0;
 }
 .blog-preview__description {
-  margin: $gap-s 0;
+  margin: $gap-s 0 auto 0;
 }
 
 .blog-preview__link-mock {
