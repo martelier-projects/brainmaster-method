@@ -22,3 +22,12 @@
 .page__title--left {
   text-align: left;
 }
+
+// Reduce the top margin to it overlaps with the page header.
+.page__reduce-top {
+  margin-top: -($gap-xxxl);
+
+  @include bp-min($bp-xl) {
+    margin-top: -($gap-xxxl);
+  }
+}

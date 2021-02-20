@@ -1,8 +1,8 @@
 items:
   - label: Voor jou
     url: /voor-jou
-  - label: Voor organisaties
-    url: /voor-organisaties
+  - label: Voor bedrijven
+    url: /voor-bedrijven
   - label: Voor zorgverleners
     url: /voor-zorgverleners
   - label: Blog

@@ -1,5 +1,6 @@
 .text-page__content {
   @include container-text;
+  @include text-l;
 
   @include bp-min($bp-m) {
     margin-top: $gap-xxxxl;
@@ -23,7 +24,7 @@
   margin-bottom: $gap-xxl;
 }
 .text-page__breakout--small {
-  @include container-m;
+  @include container-text;
   margin-top: $gap-xxl;
   margin-bottom: $gap-xxl;
 }
@@ -31,4 +32,8 @@
   @include container-xl;
   margin-top: $gap-xxl;
   margin-bottom: $gap-xxl;
+}
+
+.reduce-top {
+  margin-top: -($gap-xxxl);
 }

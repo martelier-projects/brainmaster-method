@@ -188,7 +188,7 @@ collections:
               label: Select page,
               name: page,
               widget: select,
-              options: ['Voor jou', 'Voor organisaties', 'Voor zorgverleners'],
+              options: ['Voor jou', 'Voor bedrijven', 'Voor zorgverleners'],
               default: ['Voor jou'],
             }
       - label: FAQ
@@ -235,20 +235,20 @@ collections:
                   'numbered-list',
                 ],
             }
-  - label: 'pagina - Voor organisatie'
-    name: 'forOrganisations'
+  - label: 'pagina - Voor bedrijven'
+    name: 'forCompanies'
     editor:
       preview: false
     files:
       - label: Page Header
-        file: 'src/_data/forOrganisations/pageHeader.yaml'
+        file: 'src/_data/forCompanies/pageHeader.yaml'
         name: header
         widget: list
         fields:
           - { label: Title, name: title, widget: string, required: true }
           - { label: Text, name: text, widget: text, required: true }
       - label: Content
-        file: 'src/_data/forOrganisations/content.yaml'
+        file: 'src/_data/forCompanies/content.yaml'
         name: content
         widget: list
         fields:
@@ -307,6 +307,150 @@ collections:
                   'numbered-list',
                 ],
             }
+  - label: 'pagina - 404'
+    name: '404'
+    editor:
+      preview: false
+    files:
+      - label: Page Header
+        file: 'src/_data/errorPage/pageHeader.yaml'
+        name: header
+        widget: list
+        fields:
+          - { label: Title, name: title, widget: string, required: true }
+          - { label: Text, name: text, widget: text, required: true }
+      - label: Content
+        file: 'src/_data/errorPage/content.yaml'
+        name: content
+        widget: list
+        fields:
+          - {
+              label: Text,
+              name: text,
+              widget: markdown,
+              required: true,
+              buttons:
+                [
+                  'bold',
+                  'italic',
+                  'link',
+                  'heading-two',
+                  'heading-three',
+                  'heading-four',
+                  'heading-five',
+                  'heading-six',
+                  'bulleted-list',
+                  'numbered-list',
+                ],
+            }
+  - label: 'pagina - Privacy statement'
+    name: 'privacy statement'
+    editor:
+      preview: false
+    files:
+      - label: Page Header
+        file: 'src/_data/privacyStatement/pageHeader.yaml'
+        name: header
+        widget: list
+        fields:
+          - { label: Title, name: title, widget: string, required: true }
+          - { label: Text, name: text, widget: text, required: true }
+      - label: Content
+        file: 'src/_data/privacyStatement/content.yaml'
+        name: content
+        widget: list
+        fields:
+          - {
+              label: Text,
+              name: text,
+              widget: markdown,
+              required: true,
+              buttons:
+                [
+                  'bold',
+                  'italic',
+                  'link',
+                  'heading-two',
+                  'heading-three',
+                  'heading-four',
+                  'heading-five',
+                  'heading-six',
+                  'bulleted-list',
+                  'numbered-list',
+                ],
+            }
+  - label: 'pagina - Cookies'
+    name: 'cookies'
+    editor:
+      preview: false
+    files:
+      - label: Page Header
+        file: 'src/_data/cookies/pageHeader.yaml'
+        name: header
+        widget: list
+        fields:
+          - { label: Title, name: title, widget: string, required: true }
+          - { label: Text, name: text, widget: text, required: true }
+      - label: Content
+        file: 'src/_data/cookies/content.yaml'
+        name: content
+        widget: list
+        fields:
+          - {
+              label: Text,
+              name: text,
+              widget: markdown,
+              required: true,
+              buttons:
+                [
+                  'bold',
+                  'italic',
+                  'link',
+                  'heading-two',
+                  'heading-three',
+                  'heading-four',
+                  'heading-five',
+                  'heading-six',
+                  'bulleted-list',
+                  'numbered-list',
+                ],
+            }
+  - label: 'pagina - Algemene voorwaarden'
+    name: 'termsAndConditions'
+    editor:
+      preview: false
+    files:
+      - label: Page Header
+        file: 'src/_data/termsAndConditions/pageHeader.yaml'
+        name: header
+        widget: list
+        fields:
+          - { label: Title, name: title, widget: string, required: true }
+          - { label: Text, name: text, widget: text, required: true }
+      - label: Content
+        file: 'src/_data/termsAndConditions/content.yaml'
+        name: content
+        widget: list
+        fields:
+          - {
+              label: Text,
+              name: text,
+              widget: markdown,
+              required: true,
+              buttons:
+                [
+                  'bold',
+                  'italic',
+                  'link',
+                  'heading-two',
+                  'heading-three',
+                  'heading-four',
+                  'heading-five',
+                  'heading-six',
+                  'bulleted-list',
+                  'numbered-list',
+                ],
+            }
   - label: 'Blog'
     name: 'blog'
     folder: 'src/blog'
@@ -343,7 +487,7 @@ collections:
             collapsed: true
             fields:
               - { label: Title, name: label, widget: string }
-              - { label: URL, name: url, widget: string }
+              - { label: URL, name: url, widget: hidden }
   - label: 'global - Footer'
     name: 'footer'
     editor:

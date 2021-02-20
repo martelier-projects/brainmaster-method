@@ -15,7 +15,7 @@ permalink: '/blog/'
 <div class="text-page">
   {% module 'page-header-simple' %}
 
-  <div class="page__section">
+  <div class="page__section page page__reduce-top">
     {% module 'blog-preview-list', {
       posts: collections.blog | reverse,
       smallPreview: false
