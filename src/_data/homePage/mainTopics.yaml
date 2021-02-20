@@ -1,7 +1,8 @@
 showTopics: true
 topics:
   - title: Slaap beter
-    text: Begin je dag uitgerust en gemotiveerd door betere slaap.
+    text: Slaap goed, voel je goed. Begin je dag uitgerust en gemotiveerd door
+      betere slaap.
     url: /voor-jou
     icon: A
     srText: Slaap
@@ -11,7 +12,8 @@ topics:
     icon: B
     srText: Weerbaar
   - title: Word productiever
-    text: "Vind je innerlijke motivatie en maak ruimte voor creativiteit "
+    text: Vind je innerlijke motivatie en maak ruimte voor de dingen die voor jou
+      belangrijk zijn.
     url: /voor-jou
     icon: C
     srText: Productiviteit
