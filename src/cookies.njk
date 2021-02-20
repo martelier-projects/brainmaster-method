@@ -1,0 +1,25 @@
+---
+pagination:
+  data: content
+  size: 1
+  alias: content
+layout: layouts/base.njk
+permalink: '/cookies/'
+---
+
+{% module "header", {
+  navigation: mainNav,
+  permalink: 'cookies'
+} %}
+
+<article class="text-page">
+  {% module 'page-header-simple', {
+    title: cookies.pageHeader.title,
+    text: cookies.pageHeader.text
+  } %}
+
+  <section class="text-page__content">
+    {{ cookies.content.text | markdown | safe }}
+  </section>
+
+</article>
