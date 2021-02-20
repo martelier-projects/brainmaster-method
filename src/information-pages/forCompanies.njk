@@ -1,0 +1,27 @@
+---
+pagination:
+  data: content
+  size: 1
+  alias: content
+layout: layouts/base.njk
+permalink: '/voor-bedrijven/'
+---
+
+{% module "header", {
+  navigation: mainNav,
+  permalink: 'voor-bedrijven'
+} %}
+
+<article class="text-page">
+  {% module 'page-header-simple', {
+    title: forCompanies.pageHeader.title,
+    text: forCompanies.pageHeader.text
+  } %}
+
+  {% inPageNav forCompanies.content.text | markdown | safe %}
+
+  <section class="text-page__content">
+    {{ forCompanies.content.text | markdown | safe }}
+  </section>
+
+</article>
