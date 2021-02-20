@@ -59,19 +59,6 @@ layout: layouts/base.njk
     </div>
   {% endif %}
 
-  {% if homePage.blogPreview.showBlogPreview %}
-    <div class="colored-block">
-      <div class="colored-block__inner">
-        <h2 class="page__title">{{ homePage.blogPreview.title }}</h2>
-
-        {% module 'blog-preview-list', {
-          posts: collections.blog | reverse,
-          smallPreview: true
-        } %}
-      </div>
-    </div>
-  {% endif %}
-
   {% if homePage.pagePreview.showPagePreview %}
     <div class="page__section page__section--medium">
       {% module 'page-preview', {
@@ -89,6 +76,19 @@ layout: layouts/base.njk
           faqItems: faq.faqItems
         } %}
       </section>
+    </div>
+  {% endif %}
+
+   {% if homePage.blogPreview.showBlogPreview %}
+    <div class="colored-block">
+      <div class="colored-block__inner">
+        <h2 class="page__title">{{ homePage.blogPreview.title }}</h2>
+
+        {% module 'blog-preview-list', {
+          posts: collections.blog | reverse,
+          smallPreview: true
+        } %}
+      </div>
     </div>
   {% endif %}
 </article>
