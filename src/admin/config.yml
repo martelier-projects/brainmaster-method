@@ -188,7 +188,7 @@ collections:
               label: Select page,
               name: page,
               widget: select,
-              options: ['Voor jou', 'Voor organisaties', 'Voor zorgverleners'],
+              options: ['Voor jou', 'Voor bedrijven', 'Voor zorgverleners'],
               default: ['Voor jou'],
             }
       - label: FAQ
@@ -235,20 +235,20 @@ collections:
                   'numbered-list',
                 ],
             }
-  - label: 'pagina - Voor organisatie'
-    name: 'forOrganisations'
+  - label: 'pagina - Voor bedrijven'
+    name: 'forCompanies'
     editor:
       preview: false
     files:
       - label: Page Header
-        file: 'src/_data/forOrganisations/pageHeader.yaml'
+        file: 'src/_data/forCompanies/pageHeader.yaml'
         name: header
         widget: list
         fields:
           - { label: Title, name: title, widget: string, required: true }
           - { label: Text, name: text, widget: text, required: true }
       - label: Content
-        file: 'src/_data/forOrganisations/content.yaml'
+        file: 'src/_data/forCompanies/content.yaml'
         name: content
         widget: list
         fields:
