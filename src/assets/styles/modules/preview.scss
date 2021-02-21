@@ -83,6 +83,7 @@
   background-color: $color-brown-dark;
   box-shadow: $shadow-s;
   transition: $quick $ease-out background-color;
+  color: $color-white;
 
   @include bp-min($bp-sm) {
     margin-top: auto;
