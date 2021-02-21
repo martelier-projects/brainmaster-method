@@ -675,9 +675,45 @@ collections:
     editor:
       preview: false
     files:
-      - label: 'FAQ'
-        name: 'faq'
-        file: 'src/_data/faq.yaml'
+      - label: 'FAQ - home'
+        name: 'faq-home'
+        file: 'src/_data/faq/home.yaml'
+        fields:
+          - label: FAQ Item
+            name: faqItems
+            widget: list
+            allow_add: true
+            collapsed: true
+            fields:
+              - { label: 'Question', name: 'question', widget: 'text' }
+              - { label: 'Answer', name: 'answer', widget: 'text' }
+      - label: 'FAQ - Voor jou'
+        name: 'faq-voor-jou'
+        file: 'src/_data/faq/forYou.yaml'
+        fields:
+          - label: FAQ Item
+            name: faqItems
+            widget: list
+            allow_add: true
+            collapsed: true
+            fields:
+              - { label: 'Question', name: 'question', widget: 'text' }
+              - { label: 'Answer', name: 'answer', widget: 'text' }
+      - label: 'FAQ - Voor bedrijven'
+        name: 'faq-voor-bedrijven'
+        file: 'src/_data/faq/forCompanies.yaml'
+        fields:
+          - label: FAQ Item
+            name: faqItems
+            widget: list
+            allow_add: true
+            collapsed: true
+            fields:
+              - { label: 'Question', name: 'question', widget: 'text' }
+              - { label: 'Answer', name: 'answer', widget: 'text' }
+      - label: 'FAQ - Voor zorgverleners'
+        name: 'faq-voor-zorgverleners'
+        file: 'src/_data/faq/forCaregivers.yaml'
         fields:
           - label: FAQ Item
             name: faqItems
