@@ -21,7 +21,7 @@ layout: layouts/base.njk
   {% if homePage.mainTopics.showTopics %}
     <div class="homepage__topic-list">
       {% module 'topic-list', {
-        topics: homePage.mainTopics.topics
+        topics: topics.home.topics
       } %}
     </div>
   {% endif %}

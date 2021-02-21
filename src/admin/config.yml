@@ -758,3 +758,126 @@ collections:
             }
           - { label: Link URL, name: linkUrl, widget: string, required: true }
           - { label: 'Image', name: 'image', widget: 'image', required: true }
+  - label: 'global - topics'
+    name: 'topics'
+    editor:
+      preview: false
+    files:
+      - label: 'Topics - Home'
+        name: 'topics home'
+        file: 'src/_data/topics/home.yaml'
+        widget: list
+        fields:
+          - {
+              label: Show topics,
+              name: showTopics,
+              widget: 'boolean',
+              default: true,
+            }
+          - widget: list
+            label: 'Topics'
+            name: 'topics'
+            multiple: true
+            create: true
+            fields:
+              - { label: Title, name: title, widget: string, required: true }
+              - { label: Text, name: text, widget: text, required: true }
+              - { label: URL, name: url, widget: string, required: true }
+              - {
+                  label: Icon,
+                  name: icon,
+                  widget: select,
+                  options: ['A', 'B', 'C'],
+                  required: true,
+                }
+              - {
+                  label: Screen reader Text,
+                  name: srText,
+                  hint: De tekst die een blind persoon voorgelezen krijgt,
+                  widget: string,
+                  required: true,
+                }
+      - label: 'Topics - Voor jou'
+        name: 'topics for you'
+        file: 'src/_data/topics/for-you.yaml'
+        widget: list
+        fields:
+          - widget: list
+            label: 'Topics'
+            name: 'topics'
+            multiple: true
+            create: true
+            fields:
+              - { label: Title, name: title, widget: string, required: true }
+              - { label: Text, name: text, widget: text, required: true }
+              - { label: URL, name: url, widget: string, required: true }
+              - {
+                  label: Icon,
+                  name: icon,
+                  widget: select,
+                  options: ['A', 'B', 'C'],
+                  required: true,
+                }
+              - {
+                  label: Screen reader Text,
+                  name: srText,
+                  hint: De tekst die een blind persoon voorgelezen krijgt,
+                  widget: string,
+                  required: true,
+                }
+      - label: 'Topics - Voor bedrijven'
+        name: 'topics for companies'
+        file: 'src/_data/topics/for-companies.yaml'
+        widget: list
+        fields:
+          - widget: list
+            label: 'Topics'
+            name: 'topics'
+            multiple: true
+            create: true
+            fields:
+              - { label: Title, name: title, widget: string, required: true }
+              - { label: Text, name: text, widget: text, required: true }
+              - { label: URL, name: url, widget: string, required: true }
+              - {
+                  label: Icon,
+                  name: icon,
+                  widget: select,
+                  options: ['A', 'B', 'C'],
+                  required: true,
+                }
+              - {
+                  label: Screen reader Text,
+                  name: srText,
+                  hint: De tekst die een blind persoon voorgelezen krijgt,
+                  widget: string,
+                  required: true,
+                }
+      - label: 'Topics - Voor zorgeverleners'
+        name: 'topics for caregivers'
+        file: 'src/_data/topics/for-caregivers.yaml'
+        widget: list
+        fields:
+          - widget: list
+            label: 'Topics'
+            name: 'topics'
+            multiple: true
+            create: true
+            fields:
+              - { label: Title, name: title, widget: string, required: true }
+              - { label: Text, name: text, widget: text, required: true }
+              - { label: URL, name: url, widget: string, required: true }
+              - {
+                  label: Icon,
+                  name: icon,
+                  widget: select,
+                  options: ['A', 'B', 'C'],
+                  required: true,
+                }
+              - {
+                  label: Screen reader Text,
+                  name: srText,
+                  hint: De tekst die een blind persoon voorgelezen krijgt,
+                  widget: string,
+                  required: true,
+                }
