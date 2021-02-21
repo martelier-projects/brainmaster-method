@@ -9,9 +9,11 @@ date: 2021-01-23T11:32:30.322Z
 layout: layouts/blog.njk
 tags: blog
 ---
-Na een lange dag werken leg je eindelijk je hoofd op je kussen en dan gebeurt het. Of eigenlijk: dan gebeurt het niet. Het lukt maar niet om in slaap te vallen. Je bent wel moe, maar het gebeurt niet. Op het moment dat je hoofd je kussen raakt, wordt er een startschot afgevuurd! Alsof er een race van gedachten gestart is. In sneltreinvaart schiet de één na de andere gedachte aan je voorbij. “Oh shit. Had ik niet beter iets anders kunnen zeggen tijdens die vergadering?”, “Dat belangrijke mailtje, heb ik dat wel verstuurd?”, “Heeft mijn directeur gezien dat ik ‘s middags wat minder uit de verf kwam?”. “Waarom overkomt me dit steeds?”, “Waarom lukt het me wéér niet om in slaap te vallen?” Morgen is een drukke dag, dus je hebt je nachtrust hard nodig. Maar waarom lukt het je dan niet om in slaap te vallen?
+Na een lange dag werken leg je eindelijk je hoofd op je kussen en dan gebeurt het. Of eigenlijk: dan gebeurt het niet. Het lukt maar niet om in slaap te vallen. Je bent wel moe, maar het gebeurt niet. Op het moment dat je hoofd je kussen raakt, wordt er een startschot afgevuurd! Alsof er een race van gedachten gestart is. 
 
 ![](/assets/images/1_nfyx05p4n1_qtiw3d71c2g.jpeg)
+
+In sneltreinvaart schiet de één na de andere gedachte aan je voorbij. “Oh shit. Had ik niet beter iets anders kunnen zeggen tijdens die vergadering?”, “Dat belangrijke mailtje, heb ik dat wel verstuurd?”, “Heeft mijn directeur gezien dat ik ‘s middags wat minder uit de verf kwam?”. “Waarom overkomt me dit steeds?”, “Waarom lukt het me wéér niet om in slaap te vallen?” Morgen is een drukke dag, dus je hebt je nachtrust hard nodig. Maar waarom lukt het je dan niet om in slaap te vallen?
 
 Als je dit herkent, dan ben je niet de enige. Een stormvloed van gedachten, zorgen en ideeën komt vaak ‘s avonds pas aan de oppervlakte. Die stroom van gedachten voedt weer de angst om niet in slaap te kunnen vallen en die angst houdt je vervolgens nog langer wakker.
 
