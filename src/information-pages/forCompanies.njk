@@ -21,7 +21,17 @@ permalink: '/voor-bedrijven/'
   {% inPageNav forCompanies.content.text | markdown | safe %}
 
   <section class="text-page__content">
-    {{ forCompanies.content.text | markdown | safe }}
+    {% set asHTML = forCompanies.content.text | markdown | safe %}
+    {% wysiwyg asHTML, {
+      quotes: quotes,
+      timeline: timeline,
+      content: content,
+      pjotr: pjotr,
+      topics: homePage.mainTopics.topics,
+      faq: faq,
+      getAcquainted: getAcquainted,
+      pagesPreview: pagesPreview
+    } %}
   </section>
 
 </article>
