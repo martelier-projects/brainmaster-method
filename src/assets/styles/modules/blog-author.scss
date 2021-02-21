@@ -11,5 +11,8 @@
 }
 
 .blog-author__name {
-  margin: 0 $gap-m;
+  margin: 0 0 0 $gap-m;
+}
+.blog-author__date {
+  margin: 0 0 0 $gap-xs;
 }

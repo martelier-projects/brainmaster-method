@@ -25,3 +25,10 @@
   @include heading-m;
   margin: 0;
 }
+
+.blog__footer {
+  @include container-text;
+  border-top: 1px solid $color-gray;
+  margin-bottom: $gap-xxxl;
+  padding-top: $gap-l;
+}

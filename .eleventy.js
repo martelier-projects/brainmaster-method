@@ -3,6 +3,7 @@ const yaml = require('js-yaml')
 const Nunjucks = require('nunjucks')
 const ModuleTag = require('./utils/module')
 const marked = require('marked')
+const dateFilter = require('nunjucks-date-filter')
 const { classesFilter } = require('./utils/classes-filter')
 
 const inPageNav = require('./src/_includes/shortcodes/in-page-nav')
@@ -42,6 +43,7 @@ module.exports = function (eleventyConfig) {
 
   // Filters
   eleventyConfig.addNunjucksFilter('classes', classesFilter)
+  eleventyConfig.addNunjucksFilter('date', dateFilter)
 
   // Add markdown filter
   const markdownParser = markdownAsText => marked(markdownAsText)
