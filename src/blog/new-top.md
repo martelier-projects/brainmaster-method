@@ -1,6 +1,9 @@
 ---
 title: Is blauwlicht schadelijk?
-description: Is blauwlicht schadelijk?
+description: Uit allerlei studies zou blijken dat blauw licht schadelijk is.
+  Maar, klopt dit ook? Dat is nog maar de vraag! In deze blogpost bespreken we
+  blauw licht, het effect van blauw-lichtfilters en scheiden we zin van onzin
+  aan de hand van vijf stellingen.
 image: /assets/images/mock.jpg
 author: Pjotr Peulen
 authorImage: /assets/images/pjotr.jpg
