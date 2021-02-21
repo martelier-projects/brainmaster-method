@@ -1,0 +1,28 @@
+---
+pagination:
+  data: content
+  size: 1
+  alias: content
+layout: layouts/base.njk
+permalink: '/login/'
+---
+
+{% module "header", {
+  navigation: mainNav,
+  permalink: 'login'
+} %}
+
+<article class="text-page login-page">
+  {% module 'page-header-simple', {
+    title: login.pageHeader.title,
+    text: login.pageHeader.text
+  } %}
+
+   <section class="text-page__content">
+   {% if login.content.title %}
+     <h2 class="login-page__title">{{ login.content.title }}</h2>
+   {% endif %}
+    <iframe style="width: 100%; border: medium none; height: 214px;" src="https://www.coachaccountable.com/loginWidget/w-UZz8Y6pgGq4FHJht9Bd7"></iframe>
+  </section>
+
+</article>

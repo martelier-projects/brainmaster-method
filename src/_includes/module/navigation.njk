@@ -3,6 +3,12 @@
       {% for item in navigation.items %}
         {% navItem item.url, item.label, permalink  %}
       {% endfor %}
+
+      <li class="navigation__item">
+        <a class="navigation__link" href="/login">
+           {% part 'avatar' %}
+        </a>
+      </li>
     </ul>
 </nav>
 

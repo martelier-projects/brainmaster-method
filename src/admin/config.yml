@@ -415,6 +415,24 @@ collections:
                   'numbered-list',
                 ],
             }
+  - label: 'pagina - Login'
+    name: 'login'
+    editor:
+      preview: false
+    files:
+      - label: Page Header
+        file: 'src/_data/login/pageHeader.yaml'
+        name: header
+        widget: list
+        fields:
+          - { label: Title, name: title, widget: string, required: true }
+          - { label: Text, name: text, widget: text, required: true }
+      - label: Content
+        file: 'src/_data/login/content.yaml'
+        name: content
+        widget: list
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
   - label: 'pagina - Algemene voorwaarden'
     name: 'termsAndConditions'
     editor:
