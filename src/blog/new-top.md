@@ -2,7 +2,8 @@
 title: Is blauwlicht schadelijk?
 description: Is blauwlicht schadelijk?
 image: /assets/images/mock.jpg
-author: sdfsdfsdf
+author: Pjotr Peulen
+authorImage: /assets/images/pjotr.jpg
 date: 2021-01-23T11:33:13.605Z
 layout: layouts/blog.njk
 tags: blog

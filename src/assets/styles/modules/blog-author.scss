@@ -1,0 +1,15 @@
+.blog-author {
+  display: flex;
+  align-items: center;
+  font-style: normal;
+}
+.blog-author__image {
+  object-fit: cover;
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+}
+
+.blog-author__name {
+  margin: 0 $gap-m;
+}

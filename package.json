@@ -30,6 +30,7 @@
     "js-yaml": "^3.14.0",
     "jsdom": "^16.4.0",
     "marked": "^1.2.7",
+    "nunjucks-date-filter": "^0.1.1",
     "prettier": "^2.1.2"
   },
   "dependencies": {
