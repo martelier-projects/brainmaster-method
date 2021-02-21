@@ -1,7 +1,20 @@
 showTopics: true
 topics:
-  - title: sf
-    text: sdfsf
-    url: sfsdf
+  - title: Slaap beter
+    text: Slaap goed, voel je goed. Begin je dag uitgerust en gemotiveerd door
+      betere slaap.
+    url: --
     icon: B
-    srText: sfsdf
+    srText: --
+  - title: Voel je weerbaar
+    text: |
+      Leer omgaan met stress en emoties en ga gelukkiger door het leven.
+    url: --
+    srText: --
+    icon: A
+  - title: Word productiever
+    text: Vind je innerlijke motivatie en maak ruimte voor de dingen die voor jou
+      belangrijk zijn.
+    url: --
+    srText: --
+    icon: B
