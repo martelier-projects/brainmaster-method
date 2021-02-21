@@ -1,12 +1,10 @@
-title: 'Meer'
+title: Meer
 links:
+  - label: Voor jou
+    url: /voor-jou
+  - label: Voor bedrijven
+    url: /voor-bedrijven
+  - label: Voor zorgverleners
+    url: /voor-zorgverleners
   - label: Blog
     url: /blog
-  - label: Online programma
-    url: /
-  - label: Bart suggesties?
-    url: /
-  - label: Nog een linkje?
-    url: /
-  - label: Max 5?
-    url: /
