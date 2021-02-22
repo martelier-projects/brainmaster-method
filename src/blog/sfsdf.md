@@ -1,5 +1,5 @@
 ---
-title: Meten is weten? — Slapeloze nachten door slaaptrackers
+title: Slapeloze nachten door slaaptrackers
 description: Andrei Sator, the bad guy van de blockbuster Tenet, deed het ook
   al. Meten is namelijk weten. Maar klopt dat wel?
 image: /assets/images/1_gxv37ctdagkcd8rh1rqxta.jpeg
