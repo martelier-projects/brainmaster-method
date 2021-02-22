@@ -31,8 +31,6 @@ Veel mensen genieten na het avondeten van een chocolaatje, een chipje, een kaasj
 
 Ontbijt daarentegen als een koning. ‘s Ochtends geldt dat je lichaam juist weer in de actiestand moet worden gezet! Helaas wordt het ontbijt steeds vaker overgeslagen, zeker met de opkomst van *intermittent fasting,* door een periode van de dag niet te eten, verbrand je lichaam opgeslagen vet en heeft het tijd om te herstellen. Omdat ‘s ochtends je honger vaak niet zo groot is, is het dan vaak makkelijker om het ontbijt over te slaan. Ongelukkigerwijs wordt daardoor het grote belang van ontbijt voor je biologische klok vergeten, namelijk dat ontbijten je de energieboost geeft om met zin aan je dag te beginnen.
 
-→ Vanaf hier feedback mathieu
-
 # \#4 Stop met snooze en sta meteen op!
 
 Je kent het vast wel, nog even wegdoezelen, nadat de wekker is gegaan. Nog even letterlijk je ogen sluiten voor wat je allemaal moet doen die dag. Snoozen is heerlijk op het moment zelf, maar heel schadelijk voor je biologische klok, je energieniveau en de kwaliteit van je slaap. Door weer in te slapen nadat je wakker bent geweest, worden de biologische processen die je wakker maken geremd. De slaap die je extra krijgt is helaas ook van een hele slechte kwaliteit en niet te vergelijken met de slaap die je had gehad zonder wakker te zijn geworden. Dus, ook al is het zwaar, sta meteen op als je wekker gaat en sluit je ogen niet voor de dag die voor je staat.
