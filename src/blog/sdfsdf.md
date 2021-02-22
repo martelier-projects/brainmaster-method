@@ -1,12 +1,10 @@
 ---
 title: 5 Slaaptips! Maar helaas geen quick fix
 description: " Dat zou fijn zijn, dé oplossing die in één klap alle
-  slaapproblemen de wereld uit helpt. Helaas is deze quick fix nog niet gevonden
-  en of dat ooit zal gebeuren, is nog maar de vraag. Gelukkig zijn er wel een
-  aantal slaaptips, waar iedereen wat aan heeft. Deze vijf tips zijn bedoeld op
-  je slaap te verbeteren."
+  slaapproblemen de wereld uit helpt. Deze vijf tips zijn bedoeld op je slaap te
+  verbeteren."
 image: /assets/images/1_i7o31amvtncdida1bbznvw.jpeg
-author: sdfsdfsdf
+author: Pjotr Peulen
 date: 2020-12-30T14:25:10.358Z
 layout: layouts/blog.njk
 tags: blog
