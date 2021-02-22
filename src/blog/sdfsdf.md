@@ -38,3 +38,5 @@ Je kent het vast wel, nog even wegdoezelen, nadat de wekker is gegaan. Nog even 
 Als we na het snoozen dan eindelijk aan de dag beginnen zijn we gewend om in een ruk door te gaan. Snel ontbijten, snel naar werk, snel van afspraak naar afspraak, snel lunchen, enzovoort. We racen door de dag heen en leven op adrenaline- en dopamineboosts veroorzaakt door stress, euforie, paniek, extase, zorgen of opwinding. Op de korte termijn heel effectief, maar het zorgt er wel voor dat we aan het eind van de dag instorten. Met lege ogen staren we nog even naar de tv en uitgeput kruipen we het bed in. En dan, dan vallen we niet in slaap, want we hebben allerlei leuke en minder leuke gedachten. Door gedurende de dag zo nu en dan even -al is het maar kort- tot rust te komen, voorkomen we de crash en kunnen we ontspannen in slaap vallen. De simpelste en effectieve pauze die maar 3 minuten hoeft te duren: adem vier seconden in via je neus en vier seconden uit via de neus.
 
 Slaap lekker vannacht!
+
+[page-preview-for-you]
