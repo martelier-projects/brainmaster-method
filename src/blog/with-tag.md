@@ -22,3 +22,5 @@ Eigenlijk is het antwoord simpel: Slaappillen, zoals Temazepam en Benzodiazepine
 In een beperkt aantal gevallen kunnen slaappillen een onderdeel vormen van een -tijdelijke- strategie, onder begeleiding en toezicht van een arts, om weer op een gezonde manier te leren slapen. Helaas -ligt in de praktijk- de verantwoordelijkheid voor het gebruik van de slaappillen eerder bij de patiënt dan bij de arts.
 
 Gebruik jij slaappillen? Neem dan zo snel mogelijk contact op met de arts die ze heeft voorgeschreven. Wellicht is het al tijd om af te bouwen en over te gaan op een strategie die ook op de lange termijn zoden aan de dijk zet.
+
+[page-preview-for-you]
