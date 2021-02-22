@@ -1,8 +1,8 @@
 ---
 title: Is blauw licht schadelijk?
 description: "Waarschijnlijk ben je wel eens een advertentie tegengekomen waarin
-  een bril of een app met een blauw-lichtfilter wordt aanbevolen. Uit allerlei
-  studies zou blijken dat blauw licht schadelijk is. Maar, klopt dit ook? "
+  een blauw-lichtfilter wordt aanbevolen. Uit allerlei studies zou blijken dat
+  blauw licht schadelijk is. Klopt dit ook? "
 image: /assets/images/1_8fletldypckhfnwgxmgbuw.jpeg
 author: Pjotr Peulen
 date: 2021-01-23T11:33:13.605Z
