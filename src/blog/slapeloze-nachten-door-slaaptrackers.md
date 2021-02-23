@@ -4,6 +4,7 @@ description: Andrei Sator, the bad guy van de blockbuster Tenet, deed het ook
   al. Meten is namelijk weten. Maar klopt dat wel?
 image: /assets/images/1_gxv37ctdagkcd8rh1rqxta.jpeg
 author: Pjotr Peulen
+authorImage: /assets/images/pjotr.jpg
 date: 2021-02-22T14:20:18.081Z
 layout: layouts/blog.njk
 tags: blog

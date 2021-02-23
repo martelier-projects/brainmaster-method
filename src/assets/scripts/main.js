@@ -11,4 +11,5 @@ enhance(document.documentElement, {
   closeWithEscape,
   toggleTarget,
   toggleTrigger,
+  objectFit,
 })
