@@ -749,19 +749,11 @@ collections:
             fields:
               - { label: Title, name: title, widget: string, required: true }
               - { label: Text, name: text, widget: text, required: true }
-              - { label: URL, name: url, widget: string, required: true }
               - {
                   label: Icon,
                   name: icon,
                   widget: select,
                   options: ['A', 'B', 'C'],
-                  required: true,
-                }
-              - {
-                  label: Screen reader Text,
-                  name: srText,
-                  hint: De tekst die een blind persoon voorgelezen krijgt,
-                  widget: string,
                   required: true,
                 }
       - label: 'Topics - Voor jou'
@@ -777,19 +769,11 @@ collections:
             fields:
               - { label: Title, name: title, widget: string, required: true }
               - { label: Text, name: text, widget: text, required: true }
-              - { label: URL, name: url, widget: string, required: true }
               - {
                   label: Icon,
                   name: icon,
                   widget: select,
                   options: ['A', 'B', 'C'],
-                  required: true,
-                }
-              - {
-                  label: Screen reader Text,
-                  name: srText,
-                  hint: De tekst die een blind persoon voorgelezen krijgt,
-                  widget: string,
                   required: true,
                 }
       - label: 'Topics - Voor bedrijven'
@@ -805,19 +789,11 @@ collections:
             fields:
               - { label: Title, name: title, widget: string, required: true }
               - { label: Text, name: text, widget: text, required: true }
-              - { label: URL, name: url, widget: string, required: true }
               - {
                   label: Icon,
                   name: icon,
                   widget: select,
                   options: ['A', 'B', 'C'],
-                  required: true,
-                }
-              - {
-                  label: Screen reader Text,
-                  name: srText,
-                  hint: De tekst die een blind persoon voorgelezen krijgt,
-                  widget: string,
                   required: true,
                 }
       - label: 'Topics - Voor zorgeverleners'
@@ -833,18 +809,10 @@ collections:
             fields:
               - { label: Title, name: title, widget: string, required: true }
               - { label: Text, name: text, widget: text, required: true }
-              - { label: URL, name: url, widget: string, required: true }
               - {
                   label: Icon,
                   name: icon,
                   widget: select,
                   options: ['A', 'B', 'C'],
-                  required: true,
-                }
-              - {
-                  label: Screen reader Text,
-                  name: srText,
-                  hint: De tekst die een blind persoon voorgelezen krijgt,
-                  widget: string,
                   required: true,
                 }

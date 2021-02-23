@@ -1,5 +1,4 @@
 .topic {
-  position: relative;
   display: flex;
   flex-direction: column;
   padding: $gap-m $gap-m $gap-xl;
@@ -23,12 +22,4 @@
   height: 2.5rem;
   margin-bottom: $gap-sm;
   background-color: $color-gray;
-}
-
-.topic__link {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
 }

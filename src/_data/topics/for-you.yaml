@@ -1,19 +1,15 @@
 topics:
   - title: Gratis kennismaking
-    text: "We starten met een kennismaking, hier zullen we samen vaststellen welk
-      traject we in gaan. De kennismaking is vrijblijvend en gratis. "
-    url: --
+    text:
+      'We starten met een kennismaking, hier zullen we samen vaststellen welk
+      traject we in gaan. De kennismaking is vrijblijvend en gratis. '
     icon: A
-    srText: --
   - title: Coachingstraject vanaf €250
-    text: Als we het traject in gaan, starten we altijd met x modules. Dit is het
+    text:
+      Als we het traject in gaan, starten we altijd met x modules. Dit is het
       basispakket van het coachingstraject.
-    url: --
     icon: A
-    srText: --
-  - title: "Aanvullen met modules €50 "
+  - title: 'Aanvullen met modules €50 '
     text: Je kan het coachingstraject aanvullen met extra modules. Dit zullen we
       samen bespreken tijdens het traject.
-    url: --
     icon: B
-    srText: --
