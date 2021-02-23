@@ -12,4 +12,22 @@ permalink: '/contact/'
   permalink: 'contact'
 } %}
 
-<h1>Contact</h1>
+<article class="text-page login-page">
+  {% module 'page-header-simple', {
+    title: contact.pageHeader.title,
+    text: contact.pageHeader.text
+  } %}
+
+  <section class="text-page__content">
+    {% set asHTML = contact.content.text | markdown | safe %}
+    {% wysiwyg asHTML, {
+      quotes: quotes,
+      timeline: timeline,
+      content: content,
+      pjotr: pjotr,
+      getAcquainted: getAcquainted,
+      pagesPreview: pagesPreview
+    } %}
+  </section>
+
+</article>
