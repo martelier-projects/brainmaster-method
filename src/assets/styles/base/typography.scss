@@ -83,7 +83,7 @@ $font-family-sans-serif: 'Roboto', sans-serif;
 @mixin text-l {
   @include font-sans-serif;
   @include font-weight-regular;
-  font-size: rem(21);
+  font-size: rem(17);
   line-height: 1.5;
 
   @include bp-min($bp-m) {
