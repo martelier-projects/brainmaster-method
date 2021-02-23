@@ -12,6 +12,11 @@
     margin-top: -#{$gap-xxl};
   }
 }
+.text-page__content:not(:first-of-type) {
+  @include bp-min($bp-m) {
+    margin-top: $gap-l;
+  }
+}
 
 .text-page__content--no-nav {
   margin-top: $gap-xxxl;
@@ -34,6 +39,6 @@
   margin-bottom: $gap-xxl;
 }
 
-.reduce-top {
+.text-page--with-reduce-top .reduce-top {
   margin-top: -($gap-xxxl);
 }
