@@ -34,10 +34,11 @@
   height: 1rem;
   margin-left: $gap-m;
   flex-shrink: 0;
+  transform: rotate(180deg);
 }
 
 [data-toggle-active='true'] + .faq__question + .faq__icon {
-  transform: rotate(180deg);
+  transform: rotate(0deg);
 }
 
 /**
