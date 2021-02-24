@@ -9,7 +9,7 @@ date: 2021-02-22T14:20:18.081Z
 layout: layouts/blog.njk
 tags: blog
 ---
-Andrei Sator, *the bad guy* van de *blockbuster* Tenet, deed het ook al. Hij had een kek polsbandje waarmee hij zijn hartslag -*in real time*- kon meten. Meten is namelijk weten. Maar klopt dat wel? 
+Andrei Sator, *the bad guy* van de *blockbuster* Tenet, deed het ook al. Hij had een kek polsbandje waarmee hij zijn hartslag -*in real time*- kon meten. Meten is namelijk weten. Maar klopt dat wel?
 
 ![](/assets/images/1_gxv37ctdagkcd8rh1rqxta.jpeg)
 
@@ -25,4 +25,4 @@ Een ander voorbeeld. “Mijn slaaptracker geeft aan dat ik zeven uur in bed heb 
 
 Maar moet je nu wel of niet je slaap meten? Dat is een keuze die je uiteraard zelf moet maken. Je kunt op zoek gaan naar deskundig advies, vertrouwen hebben in je eigen slaapvermogen of gebruik maken van een slaaptracker. Wat je ook doet, voorkom echter paniek als je minder goed slaapt. Van een nachtje en zelfs twee nachtjes wat minder slaap, is niemand nog dood gegaan. De grootste slaapsaboteurs zijn stress, angst en zorgen, en daar valt angst voor te weinig slaap onder. Obsessief je slaap meten en dan in paniek raken is een opmaat naar slapeloze nachten.
 
-[page-preview-for-you]
+\[page-preview-for-you]
