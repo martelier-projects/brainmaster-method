@@ -1,0 +1,99 @@
+---
+pagination:
+  data: content
+  size: 1
+  alias: content
+layout: layouts/base.njk
+eleventyComputed:
+  description: '{{ homePage.meta.description }}'
+---
+
+
+{% module "header", {
+  navigation: mainNav,
+  permalink: 'home'
+} %}
+
+<article class="homepage">
+  {% module 'page-header', {
+    title: homePage.pageHeader.title,
+    text: homePage.pageHeader.text,
+    links: homePage.pageHeader.links
+  } %}
+
+  {% if homePage.mainTopics.showTopics %}
+    <div class="homepage__topic-list">
+      {% module 'topic-list', {
+        topics: topics.home.topics
+      } %}
+    </div>
+  {% endif %}
+
+  {% if homePage.improveText.showImproveText %}
+    <div class="page__section">
+      {% module 'text-media', {
+        title: homePage.improveText.title,
+        sections: homePage.improveText.sections,
+        imgSrc: homePage.improveText.image,
+        imgAlt: homePage.improveText.imgAlt,
+        imgCaption: homePage.improveText.imgCaption,
+        type: homePage.improveText.order
+      } %}
+    </div>
+  {% endif %}
+
+  {% if homePage.quotes.showQuotes %}
+    <div class="page__section">
+      <h2 class="page__title">{{ homePage.quotes.title }}</h2>
+      {% module 'quote-list', quotes %}
+    </div>
+  {% endif %}
+
+  {% if homePage.whyText.showTextWhy %}
+    <div class="page__section">
+      {% module 'text-media', {
+        title: homePage.whyText.title,
+        sections: homePage.whyText.sections,
+        imgSrc: homePage.whyText.image,
+        imgAlt: homePage.whyText.imgAlt,
+        imgCaption: homePage.whyText.imgCaption,
+        type: homePage.whyText.order
+      } %}
+    </div>
+  {% endif %}
+
+  {% if homePage.pagePreview.showPagePreview %}
+    <div class="page__section page__section--medium">
+      {% module 'page-preview', {
+        page: homePage.pagePreview.page,
+        pagesPreview: pagesPreview
+      } %}
+    </div>
+  {% endif %}
+
+  {% if homePage.faq.showFaq %}
+    <div class="page__section page__section--small">
+      <section>
+        <h2 class="page__title page__title--left">{{ homePage.faq.title }}</h2>
+        {% module "faq", {
+          faqItems: faq.home.faqItems
+        } %}
+      </section>
+    </div>
+  {% endif %}
+
+   {% if homePage.blogPreview.showBlogPreview %}
+    <div class="colored-block">
+      <div class="colored-block__inner">
+        <h2 class="page__title">{{ homePage.blogPreview.title }}</h2>
+
+        {% module 'blog-preview-list', {
+          posts: collections.blog | reverse,
+          smallPreview: true
+        } %}
+      </div>
+    </div>
+  {% endif %}
+</article>
+
+
