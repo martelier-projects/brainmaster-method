@@ -4,7 +4,10 @@ pagination:
   size: 1
   alias: content
 layout: layouts/base.njk
+eleventyComputed:
+  description: '{{ homePage.meta.description }}'
 ---
+
 
 {% module "header", {
   navigation: mainNav,

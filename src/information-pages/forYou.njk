@@ -5,6 +5,8 @@ pagination:
   alias: content
 layout: layouts/base.njk
 permalink: '/voor-jou/'
+eleventyComputed:
+  description: '{{ forYou.meta.description }}'
 ---
 
 {% module "header", {

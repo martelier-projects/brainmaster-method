@@ -4,6 +4,8 @@ pagination:
   size: 2
   alias: content
 layout: layouts/base.njk
+eleventyComputed:
+  description: '{{ description }}'
 ---
 
 {% module "header", {

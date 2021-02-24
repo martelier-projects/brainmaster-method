@@ -5,6 +5,8 @@ pagination:
     alias: content
 layout: layouts/base.njk
 permalink: '/contact/'
+eleventyComputed:
+  description: '{{ contact.meta.description }}'
 ---
 
 {% module "header", {

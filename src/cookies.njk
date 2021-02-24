@@ -5,6 +5,8 @@ pagination:
   alias: content
 layout: layouts/base.njk
 permalink: '/cookies/'
+eleventyComputed:
+  description: '{{ cookies.meta.description }}'
 ---
 
 {% module "header", {

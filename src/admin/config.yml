@@ -21,6 +21,16 @@ collections:
     editor:
       preview: false
     files:
+      - label: Meta
+        file: 'src/_data/homePage/meta.yaml'
+        name: meta
+        fields:
+          - {
+              label: Page description,
+              name: description,
+              widget: text,
+              required: true,
+            }
       - label: Page Header
         file: 'src/_data/homePage/pageHeader.yaml'
         name: content
@@ -169,6 +179,16 @@ collections:
     editor:
       preview: true
     files:
+      - label: Meta
+        file: 'src/_data/forYou/meta.yaml'
+        name: meta
+        fields:
+          - {
+              label: Page description,
+              name: description,
+              widget: text,
+              required: true,
+            }
       - label: Page Header
         file: 'src/_data/forYou/pageHeader.yaml'
         name: header
@@ -206,6 +226,16 @@ collections:
     editor:
       preview: true
     files:
+      - label: Meta
+        file: 'src/_data/contact/meta.yaml'
+        name: meta
+        fields:
+          - {
+              label: Page description,
+              name: description,
+              widget: text,
+              required: true,
+            }
       - label: Page Header
         file: 'src/_data/contact/pageHeader.yaml'
         name: header
@@ -244,6 +274,16 @@ collections:
     editor:
       preview: false
     files:
+      - label: Meta
+        file: 'src/_data/forCompanies/meta.yaml'
+        name: meta
+        fields:
+          - {
+              label: Page description,
+              name: description,
+              widget: text,
+              required: true,
+            }
       - label: Page Header
         file: 'src/_data/forCompanies/pageHeader.yaml'
         name: header
@@ -280,6 +320,16 @@ collections:
     editor:
       preview: false
     files:
+      - label: Meta
+        file: 'src/_data/forCaregivers/meta.yaml'
+        name: meta
+        fields:
+          - {
+              label: Page description,
+              name: description,
+              widget: text,
+              required: true,
+            }
       - label: Page Header
         file: 'src/_data/forCaregivers/pageHeader.yaml'
         name: header
@@ -352,6 +402,16 @@ collections:
     editor:
       preview: false
     files:
+      - label: Meta
+        file: 'src/_data/privacyStatement/meta.yaml'
+        name: meta
+        fields:
+          - {
+              label: Page description,
+              name: description,
+              widget: text,
+              required: true,
+            }
       - label: Page Header
         file: 'src/_data/privacyStatement/pageHeader.yaml'
         name: header
@@ -388,6 +448,16 @@ collections:
     editor:
       preview: false
     files:
+      - label: Meta
+        file: 'src/_data/cookies/meta.yaml'
+        name: meta
+        fields:
+          - {
+              label: Page description,
+              name: description,
+              widget: text,
+              required: true,
+            }
       - label: Page Header
         file: 'src/_data/cookies/pageHeader.yaml'
         name: header
@@ -424,6 +494,16 @@ collections:
     editor:
       preview: false
     files:
+      - label: Meta
+        file: 'src/_data/login/meta.yaml'
+        name: meta
+        fields:
+          - {
+              label: Page description,
+              name: description,
+              widget: text,
+              required: true,
+            }
       - label: Page Header
         file: 'src/_data/login/pageHeader.yaml'
         name: header
@@ -442,6 +522,16 @@ collections:
     editor:
       preview: false
     files:
+      - label: Meta
+        file: 'src/_data/termsAndConditions/meta.yaml'
+        name: meta
+        fields:
+          - {
+              label: Page description,
+              name: description,
+              widget: text,
+              required: true,
+            }
       - label: Page Header
         file: 'src/_data/termsAndConditions/pageHeader.yaml'
         name: header
@@ -472,6 +562,21 @@ collections:
                   'bulleted-list',
                   'numbered-list',
                 ],
+            }
+  - label: 'pagina - Blog overview'
+    name: 'blogOverview'
+    editor:
+      preview: false
+    files:
+      - label: Meta
+        file: 'src/_data/blogOverview/meta.yaml'
+        name: meta
+        fields:
+          - {
+              label: Page description,
+              name: description,
+              widget: text,
+              required: true,
             }
   - label: 'Blog'
     name: 'blog'
