@@ -119,7 +119,12 @@
     }
   }
 
+  ol > li,
   ul > li {
     margin-top: $gap-l;
+  }
+  ul > li::marker,
+  ol > li::marker {
+    color: $color-red-dark;
   }
 }
