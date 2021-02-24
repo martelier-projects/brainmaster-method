@@ -113,6 +113,21 @@ permalink: '/admin/'
       })
       window.CMS.registerEditorComponent({
         // Internal id of the component
+        id: 'get-acquainted-single-button',
+
+        // Visible label
+        label: 'Kennismaking (single button)',
+
+        // Pattern to identify a block as being an instance of this component
+        pattern: /^get-acquainted-single-button (\S+)$/,
+
+        // Function to create a text block from an instance of this component
+        toBlock: function (obj) {
+          return `[get-acquainted-single-button]`
+        }
+      })
+      window.CMS.registerEditorComponent({
+        // Internal id of the component
         id: 'page-preview-for-you',
 
         // Visible label

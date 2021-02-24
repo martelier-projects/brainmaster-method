@@ -739,6 +739,16 @@ collections:
         fields:
           - { label: 'Text', name: 'text', widget: 'text' }
           - { label: 'Button label', name: 'label', widget: 'text' }
+  - label: 'global - Kennismaking (single button)'
+    name: 'getAcquaintedSingleButton'
+    editor:
+      preview: false
+    files:
+      - label: 'Kennismaking - single button'
+        name: 'getAcquainted'
+        file: 'src/_data/getAcquaintedSingleButton.yaml'
+        fields:
+          - { label: 'Button label', name: 'label', widget: 'text' }
   - label: 'global - pages preview'
     name: 'pages preview'
     editor:

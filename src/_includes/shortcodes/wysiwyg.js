@@ -1,6 +1,16 @@
 module.exports = nunjucksEnvironment => (
   html,
-  { quotes, content, timeline, pjotr, topics, faq, getAcquainted, pagesPreview }
+  {
+    quotes,
+    content,
+    timeline,
+    pjotr,
+    topics,
+    faq,
+    getAcquainted,
+    pagesPreview,
+    getAcquaintedSingleButton,
+  }
 ) => {
   const container = component =>
     `</section><div class="text-page__breakout">${component}</div><section class="text-page__content">`
@@ -35,6 +45,10 @@ module.exports = nunjucksEnvironment => (
     containerReduceTop("{% include 'module/get-acquainted.njk' %}"),
     getAcquainted
   )
+  const getAcquaintedSingleButtonComponent = nunjucksEnvironment.renderString(
+    container("{% include 'module/get-acquainted-single-button.njk' %}"),
+    getAcquaintedSingleButton
+  )
 
   const pagePreviewForYouComponent = nunjucksEnvironment.renderString(
     containerMedium("{% include 'module/page-preview.njk' %}"),
@@ -51,6 +65,10 @@ module.exports = nunjucksEnvironment => (
     .replace('[topics]', topicsComponent)
     .replace('[faq]', faqComponent)
     .replace('[get-acquainted]', getAcquaintedComponent)
+    .replace(
+      '[get-acquainted-single-button]',
+      getAcquaintedSingleButtonComponent
+    )
     .replace('[page-preview-for-you]', pagePreviewForYouComponent)
 
   return rendered
