@@ -578,6 +578,57 @@ collections:
               widget: text,
               required: true,
             }
+  - label: 'pagina - FAQ'
+    name: 'faq-page'
+    editor:
+      preview: false
+    files:
+      - label: Meta
+        file: 'src/_data/faqPage/meta.yaml'
+        name: meta
+        fields:
+          - {
+              label: Page description,
+              name: description,
+              widget: text,
+              required: true,
+            }
+      - label: Page Header
+        file: 'src/_data/faqPage/pageHeader.yaml'
+        name: header
+        widget: list
+        fields:
+          - { label: Title, name: title, widget: string, required: true }
+          - { label: Text, name: text, widget: text, required: true }
+      - label: Content
+        file: 'src/_data/faqPage/content.yaml'
+        name: content
+        widget: list
+        fields:
+          - {
+              label: Home title,
+              name: homeTitle,
+              widget: string,
+              required: true,
+            }
+          - {
+              label: Voor jou title,
+              name: forYouTitle,
+              widget: string,
+              required: true,
+            }
+          - {
+              label: Voor bedrijven title,
+              name: forCompaniesTitle,
+              widget: string,
+              required: true,
+            }
+          - {
+              label: Voor zorgeverleners title,
+              name: forCaregiversTitle,
+              widget: string,
+              required: true,
+            }
   - label: 'Blog'
     name: 'blog'
     folder: 'src/blog'

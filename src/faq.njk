@@ -1,0 +1,53 @@
+---
+pagination:
+  data: content
+  size: 1
+  alias: content
+layout: layouts/base.njk
+permalink: '/faq/'
+eleventyComputed:
+  description: '{{ faqPage.meta.description }}'
+---
+
+{% module "header", {
+  navigation: mainNav,
+  permalink: 'faq'
+} %}
+
+<article class="text-page">
+  {% module 'page-header-simple', {
+    title: faqPage.pageHeader.title,
+    text: faqPage.pageHeader.text
+  } %}
+
+  <section class="text-page__content">
+    {% if faqPage.content.homeTitle %}
+      <h2>{{ faqPage.content.homeTitle }}</h2>
+    {% endif %}
+    {% module "faq", {
+      faqItems: faq.home.faqItems
+    } %}
+
+    {% if faqPage.content.forYouTitle %}
+      <h2>{{ faqPage.content.forYouTitle }}</h2>
+    {% endif %}
+    {% module "faq", {
+      faqItems: faq.forYou.faqItems
+    } %}
+
+    {% if faqPage.content.forCompaniesTitle %}
+      <h2>{{ faqPage.content.forCompaniesTitle }}</h2>
+    {% endif %}
+    {% module "faq", {
+      faqItems: faq.forCompanies.faqItems
+    } %}
+
+    {% if faqPage.content.forCaregiversTitle %}
+      <h2>{{ faqPage.content.forCaregiversTitle }}</h2>
+    {% endif %}
+    {% module "faq", {
+      faqItems: faq.forCaregivers.faqItems
+    } %}
+  </section>
+
+</article>
