@@ -2,9 +2,10 @@
 title: Slik jij slaappillen? Dit moet je weten.
 description: Er heerst een slapeloosheidsepidemie en de zoektocht is gericht op
   de magische pil. Een quick fix, waardoor je in een klap weer heerlijk kan
-  slapen.
+  slapen. Waarom zijn we zo wanhopig op zoek naar deze magische pil?
 image: /assets/images/1_azwodumyjhtl0lu6cv4qiw.jpeg
 author: Pjotr Peulen
+authorImage: /assets/images/pjotr.jpg
 date: 2021-01-23T09:39:14.383Z
 layout: layouts/blog.njk
 tags: blog
@@ -23,4 +24,4 @@ In een beperkt aantal gevallen kunnen slaappillen een onderdeel vormen van een -
 
 Gebruik jij slaappillen? Neem dan zo snel mogelijk contact op met de arts die ze heeft voorgeschreven. Wellicht is het al tijd om af te bouwen en over te gaan op een strategie die ook op de lange termijn zoden aan de dijk zet.
 
-[page-preview-for-you]
+\[page-preview-for-you]
