@@ -32,14 +32,16 @@ Een korte samenvatting — Zonder slaap kunnen onze hersenen en ons lichaam zich
 
 ***Hoe ziet je reis door dromenland eruit?* —** Slaap is zo complex dat zelfs met jaren van intensief wetenschappelijk onderzoek het nog steeds moeilijk is om heel precies in kaart te brengen hoe we slapen. De ‘hoe-vraag’ doet dus bepaald niet onder voor de ‘waarom-vraag’.
 
-Dat is echter geen reden waarom je als gewone sterveling blijft afwachten, als je ook zelf kunt meten. En meten is weten. Veel bedrijven zijn in dit gat gedoken en bieden *devices* aan die je slaap meten, zogenaamde *slaaptrackers*. In de blogpost [Meten is weten? — Slapeloze nachten door slaaptrackers](https://medium.com/p/461fa9070fbb/edit?source=your_stories_page-------------------------------------) worden deze *slaaptrackers* -kritisch- onder de loep genomen.
+Dat is echter geen reden waarom je als gewone sterveling blijft afwachten, als je ook zelf kunt meten. En meten is weten. Veel bedrijven zijn in dit gat gedoken en bieden *devices* aan die je slaap meten, zogenaamde *slaaptrackers*. In de blogpost ['Slapeloze nachten door slaaptrackers' ](https://brainmaster-method.netlify.app/blog/slapeloze-nachten-door-slaaptrackers/)worden deze *slaaptrackers* -kritisch- onder de loep genomen.
 
-Misschien krijg je langzamerhand enig idee waarom en hoe we slapen, maar heb je nog steeds geen idee over de -voor jou- belangrijkste vraag: ‘waarom val ik maar niet in slaap?’. Je bent namelijk soms erg moe en dan lukt het nog steeds niet om in slaap te vallen. Hoe komt dat? In de blogpost [Waarom val ik maar niet in slaap?](https://medium.com/p/5acfd4d923ef/edit?source=your_stories_page-------------------------------------) wordt jouw frustratie besproken.
+Misschien krijg je langzamerhand enig idee waarom en hoe we slapen, maar heb je nog steeds geen idee over de -voor jou- belangrijkste vraag: ‘waarom val ik maar niet in slaap?’. Je bent namelijk soms erg moe en dan lukt het nog steeds niet om in slaap te vallen. Hoe komt dat? In de blogpost '[Waarom val ik maar niet in slaap?](https://brainmaster-method.netlify.app/blog/waarom-val-ik-maar-niet-in-slaap/)' wordt jouw frustratie besproken.
 
 #### Wat kan jij doen om beter te slapen?
 
-In de zoektocht naar een goede nachtrust zijn sommigen onder ons zo wanhopig dat slaappillen de enige uitkomst lijken te bieden. Hoe verleidelijk het ook is, slaappillen doen -zeker op de lange duur- meestal meer kwaad dan goed. In de blogpost [Slik jij slaappillen? Dit is wat je moeten weten.](https://medium.com/p/622986f59da8/edit?source=your_stories_page-------------------------------------) worden de voors en tegens besproken.
+In de zoektocht naar een goede nachtrust zijn sommigen onder ons zo wanhopig dat slaappillen de enige uitkomst lijken te bieden. Hoe verleidelijk het ook is, slaappillen doen -zeker op de lange duur- meestal meer kwaad dan goed. In de blogpost '[Slik jij slaappillen? Dit is wat je moeten weten'.](https://brainmaster-method.netlify.app/blog/slik-jij-slaappillen-dit-moet-je-weten/) worden de voors en tegens besproken.
 
-Naast de bekende, zoals cafeine en alcohol, kan sinds kort ook blauwlicht aan het lijstje slaapsaboteurs worden toegevoegd. Blauw licht zou namelijk je inslapen verstoren, in de blogpost [Is blauw licht schadelijk?](https://medium.com/p/c2ffdbfa0b8c/edit?source=your_stories_page-------------------------------------) wordt blauw licht nader onder de loep genomen.
+Naast de bekende, zoals cafeine en alcohol, kan sinds kort ook blauwlicht aan het lijstje slaapsaboteurs worden toegevoegd. Blauw licht zou namelijk je inslapen verstoren, in de blogpost '[Is blauw licht schadelijk?](https://brainmaster-method.netlify.app/blog/is-blauw-licht-schadelijk/)' wordt blauw licht nader onder de loep genomen.
 
 Benieuwd naar hoe jij je slaap kan verbeteren? Meld je dan aan voor vitaliteitscoaching. Houd deze website in de gaten als je ook wil lezen over de effecten van andere ‘slaapmiddelen’, zoals melatonine, CBD en meditatie.
+
+[page-preview-for-you]
