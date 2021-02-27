@@ -78,7 +78,7 @@
 
   h2 {
     @include heading-m;
-    margin: 0 0 $gap-m;
+    margin: $gap-xxl 0 $gap-m;
     padding-top: $gap-xxl;
   }
 

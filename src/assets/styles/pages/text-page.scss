@@ -8,7 +8,7 @@
 
   @include wysiwyg-content;
 
-  h2:first-of-type {
+  h2:first-child {
     margin-top: -#{$gap-xxl};
   }
 }
