@@ -1003,7 +1003,15 @@ collections:
                   label: Icon,
                   name: icon,
                   widget: select,
-                  options: ['A', 'B', 'C'],
+                  options:
+                    [
+                      'Kennismaking',
+                      'Module',
+                      'Productief',
+                      'Slapen',
+                      'Traject',
+                      'Weerbaarheid',
+                    ],
                   required: true,
                 }
       - label: 'Topics - Voor jou'
@@ -1023,7 +1031,15 @@ collections:
                   label: Icon,
                   name: icon,
                   widget: select,
-                  options: ['A', 'B', 'C'],
+                  options:
+                    [
+                      'Kennismaking',
+                      'Module',
+                      'Productief',
+                      'Slapen',
+                      'Traject',
+                      'Weerbaarheid',
+                    ],
                   required: true,
                 }
       - label: 'Topics - Voor bedrijven'
@@ -1043,7 +1059,15 @@ collections:
                   label: Icon,
                   name: icon,
                   widget: select,
-                  options: ['A', 'B', 'C'],
+                  options:
+                    [
+                      'Kennismaking',
+                      'Module',
+                      'Productief',
+                      'Slapen',
+                      'Traject',
+                      'Weerbaarheid',
+                    ],
                   required: true,
                 }
       - label: 'Topics - Voor zorgeverleners'
@@ -1063,6 +1087,14 @@ collections:
                   label: Icon,
                   name: icon,
                   widget: select,
-                  options: ['A', 'B', 'C'],
+                  options:
+                    [
+                      'Kennismaking',
+                      'Module',
+                      'Productief',
+                      'Slapen',
+                      'Traject',
+                      'Weerbaarheid',
+                    ],
                   required: true,
                 }

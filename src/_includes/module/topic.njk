@@ -2,5 +2,17 @@
   <h2 class="topic__title">{{ title }}</h2>
   <p class="topic__text">{{ text }}</p>
 
-  <img class="topic__icon" src="" alt="{{ icon }}">
+  {% if icon == 'Kennismaking' %}
+    <img class="topic__icon" src="/assets/images/topic-icons/kennismaking.svg" alt="{{ icon }}">
+  {% elif icon == 'Module' %}
+    <img class="topic__icon" src="/assets/images/topic-icons/module.svg" alt="{{ icon }}">
+  {% elif icon == 'Productief' %}
+    <img class="topic__icon" src="/assets/images/topic-icons/productief.svg" alt="{{ icon }}">
+  {% elif icon == 'Slapen' %}
+    <img class="topic__icon" src="/assets/images/topic-icons/slapen.svg" alt="{{ icon }}">
+  {% elif icon == 'Traject' %}
+    <img class="topic__icon" src="/assets/images/topic-icons/traject.svg" alt="{{ icon }}">
+  {% elif icon == 'Weerbaar' %}
+    <img class="topic__icon" src="/assets/images/topic-icons/weerbaar.svg" alt="{{ icon }}">
+  {% endif %}
 </div>

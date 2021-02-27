@@ -2,13 +2,13 @@ topics:
   - title: Gratis kennismaking
     text: We starten met een kennismaking. We bespreken hier samen welk traject je
       kunt starten. Een kennismaking is vrijblijvend en gratis.
-    icon: A
+    icon: Kennismaking
   - title: Coachingstraject vanaf €310
     text: Als we het traject in gaan, starten we altijd met één module. Dit is het
       basispakket van het coachingstraject.
-    icon: A
+    icon: Traject
   - title: Aanvullende modules vanaf €180
     text: >
       Vul je traject aan met extra modules voor een laag tarief. We bespreken
       het tijdens het traject.
-    icon: B
+    icon: Module

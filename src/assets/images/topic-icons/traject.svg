@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ICONS</title>
+    <g id="ICONS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#3D7C8D" cx="16.5" cy="19.5" r="13.5"></circle>
+        <circle id="Oval" fill="#3D7C8D" cx="31.5" cy="45.5" r="13.5"></circle>
+        <ellipse id="Oval" fill="#3D7C8D" cx="46" cy="19.5" rx="14" ry="13.5"></ellipse>
+    </g>
+</svg>
