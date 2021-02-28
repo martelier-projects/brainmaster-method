@@ -37,6 +37,7 @@ module.exports = function (eleventyConfig) {
 
   // Copy src/compiled-assets to /assets.
   eleventyConfig.addPassthroughCopy({
+    'manifest.webmanifest': '../dist/manifest.webmanifest',
     'src/compiled-assets': 'assets',
     './src/admin/config.yml': '../dist/admin/config.yml',
   })
