@@ -10,6 +10,7 @@ module.exports = nunjucksEnvironment => (
     getAcquainted,
     pagesPreview,
     getAcquaintedSingleButton,
+    getAcquaintedOnContact = false,
   }
 ) => {
   const container = component =>
@@ -43,11 +44,17 @@ module.exports = nunjucksEnvironment => (
   )
   const getAcquaintedComponent = nunjucksEnvironment.renderString(
     containerReduceTop("{% include 'module/get-acquainted.njk' %}"),
-    getAcquainted
+    {
+      ...getAcquainted,
+      onContact: getAcquaintedOnContact,
+    }
   )
   const getAcquaintedSingleButtonComponent = nunjucksEnvironment.renderString(
     container("{% include 'module/get-acquainted-single-button.njk' %}"),
-    getAcquaintedSingleButton
+    {
+      ...getAcquaintedSingleButton,
+      onContact: getAcquaintedOnContact,
+    }
   )
 
   const pagePreviewForYouComponent = nunjucksEnvironment.renderString(

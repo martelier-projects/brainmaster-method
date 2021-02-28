@@ -1,4 +1,8 @@
 <div class="get-acquainted">
   <p class="get-acquainted__text">{{ text }}</p>
-  <button class="link" id="plan-kennismaking">{{ label }}</button>
+  {% if onContact %}
+    <a href="#kennismaking" class="link" id="plan-kennismaking">{{ label }}</a>
+  {% else %}
+    <a href="/contact#kennismaking" class="link" id="plan-kennismaking">{{ label }}</a>
+  {% endif %}
 </div>
