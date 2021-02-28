@@ -1,9 +1,9 @@
 items:
-  - label: Voor jou
+  - label: Coaching
     url: /coaching
-  - label: Voor bedrijven
+  - label: Bedrijven
     url: /bedrijven
-  - label: Voor zorgverleners
+  - label: Zorgverleners
     url: /zorg
   - label: Blog
     url: /blog
