@@ -10,7 +10,8 @@
         {% for link in links %}
           {% part 'link', {
             label: link.label,
-            href: link.href
+            href: link.href,
+            id: link.id
           } %}
         {% endfor %}
       </div>

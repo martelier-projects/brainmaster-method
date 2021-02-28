@@ -94,6 +94,13 @@ collections:
             fields:
               - { label: Label, name: label, widget: string, required: true }
               - { label: URL, name: href, widget: string, required: true }
+              - {
+                  label: Special ID,
+                  name: id,
+                  widget: string,
+                  required: false,
+                  hint: 'Plaats de text "plan-kennismaking" als het gaat om de plan kennismaking knop (voor SEO)',
+                }
       - label: Improve text
         file: 'src/_data/homePage/improveText.yaml'
         name: Improve text

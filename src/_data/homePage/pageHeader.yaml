@@ -4,5 +4,6 @@ text: Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
 links:
   - label: Plan gratis kennismaking
     href: /contact#kennismaking
+    id: plan-kennismaking
   - label: Meer informatie
     href: /coaching
