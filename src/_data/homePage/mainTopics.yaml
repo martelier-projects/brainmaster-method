@@ -3,17 +3,18 @@ topics:
   - title: Slaap beter
     text: Slaap goed, voel je goed. Begin je dag uitgerust en gemotiveerd door
       betere slaap.
-    url: /voor-jou
+    url: /coaching
     icon: A
     srText: Slaap
   - title: Voel je weerbaar
     text: Leer omgaan met stress en emoties en ga gelukkiger door het leven.
-    url: /voor-jou
+    url: /coaching
     icon: B
     srText: Weerbaar
   - title: Word productiever
-    text: Vind je innerlijke motivatie en maak ruimte voor de dingen die voor jou
+    text:
+      Vind je innerlijke motivatie en maak ruimte voor de dingen die voor jou
       belangrijk zijn.
-    url: /voor-jou
+    url: /coaching
     icon: C
     srText: Productiviteit

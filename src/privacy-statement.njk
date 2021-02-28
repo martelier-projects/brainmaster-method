@@ -4,14 +4,15 @@ pagination:
   size: 1
   alias: content
 layout: layouts/base.njk
-permalink: '/privacy-statement/'
+permalink: '/privacybeleid/'
 eleventyComputed:
+  title: '{{ privacyStatement.meta.title }}'
   description: '{{ privacyStatement.meta.description }}'
 ---
 
 {% module "header", {
   navigation: mainNav,
-  permalink: 'privacy-statement'
+  permalink: 'privacybeleid'
 } %}
 
 <article class="text-page">

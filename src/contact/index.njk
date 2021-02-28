@@ -6,6 +6,7 @@ pagination:
 layout: layouts/base.njk
 permalink: '/contact/'
 eleventyComputed:
+  title: '{{ contact.pageHeader.title }}'
   description: '{{ contact.meta.description }}'
 ---
 
@@ -31,6 +32,11 @@ eleventyComputed:
       getAcquaintedSingleButton: getAcquaintedSingleButton,
       pagesPreview: pagesPreview
     } %}
+  </section>
+
+  <section class="text-page__content">
+    <h2 id="kennismaking">{{ contact.content.appointmentTitle }}</h2>
+    <script type="text/javascript" src="https://www.coachaccountable.com/offering/STeUcD5wx5XI8QCm3OzHEskpQn0ezCM"></script>
   </section>
 
 </article>

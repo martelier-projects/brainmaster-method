@@ -4,14 +4,15 @@ pagination:
   size: 1
   alias: content
 layout: layouts/base.njk
-permalink: '/cookies/'
+permalink: '/cookiebeleid/'
 eleventyComputed:
+  title: '{{ cookies.meta.title }}'
   description: '{{ cookies.meta.description }}'
 ---
 
 {% module "header", {
   navigation: mainNav,
-  permalink: 'cookies'
+  permalink: 'cookiebeleid'
 } %}
 
 <article class="text-page">

@@ -6,12 +6,13 @@ pagination:
 layout: layouts/base.njk
 permalink: '/algemene-voorwaarden/'
 eleventyComputed:
+  title: '{{ termsAndConditions.meta.title }}'
   description: '{{ termsAndConditions.meta.description }}'
 ---
 
 {% module "header", {
   navigation: mainNav,
-  permalink: 'privacy-statement'
+  permalink: 'algemene-voorwaarden'
 } %}
 
 <article class="text-page">

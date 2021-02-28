@@ -5,6 +5,8 @@ pagination:
   alias: content
 layout: layouts/base.njk
 permalink: 404.html
+eleventyComputed:
+  title: '{{ errorPage.meta.title }}'
 ---
 
 {% module "header", {

@@ -6,7 +6,8 @@ pagination:
 layout: layouts/base.njk
 permalink: '/blog/'
 eleventyComputed:
-  description: '{{ contact.blogOverview.description }}'
+  title: '{{ blogOverview.meta.title }}'
+  description: '{{ blogOverview.meta.description }}'
 ---
 
 {% module "header", {

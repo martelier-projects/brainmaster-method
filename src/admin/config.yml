@@ -25,6 +25,7 @@ collections:
         file: 'src/_data/comingSoon/meta.yaml'
         name: meta
         fields:
+          - { label: Page title, name: title, widget: text, required: true }
           - {
               label: Page description,
               name: description,
@@ -71,6 +72,7 @@ collections:
         file: 'src/_data/homePage/meta.yaml'
         name: meta
         fields:
+          - { label: Page title, name: title, widget: text, required: true }
           - {
               label: Page description,
               name: description,
@@ -229,6 +231,7 @@ collections:
         file: 'src/_data/forYou/meta.yaml'
         name: meta
         fields:
+          - { label: Page title, name: title, widget: text, required: true }
           - {
               label: Page description,
               name: description,
@@ -276,6 +279,7 @@ collections:
         file: 'src/_data/contact/meta.yaml'
         name: meta
         fields:
+          - { label: Page title, name: title, widget: text, required: true }
           - {
               label: Page description,
               name: description,
@@ -315,6 +319,12 @@ collections:
                 ],
               hint: 'Topics and FAQ block not available on this page',
             }
+          - {
+              label: Appointment title,
+              name: appointmentTitle,
+              widget: text,
+              required: true,
+            }
   - label: 'pagina - Voor bedrijven'
     name: 'forCompanies'
     editor:
@@ -324,6 +334,7 @@ collections:
         file: 'src/_data/forCompanies/meta.yaml'
         name: meta
         fields:
+          - { label: Page title, name: title, widget: text, required: true }
           - {
               label: Page description,
               name: description,
@@ -370,6 +381,7 @@ collections:
         file: 'src/_data/forCaregivers/meta.yaml'
         name: meta
         fields:
+          - { label: Page title, name: title, widget: text, required: true }
           - {
               label: Page description,
               name: description,
@@ -452,6 +464,7 @@ collections:
         file: 'src/_data/privacyStatement/meta.yaml'
         name: meta
         fields:
+          - { label: Page title, name: title, widget: text, required: true }
           - {
               label: Page description,
               name: description,
@@ -498,6 +511,7 @@ collections:
         file: 'src/_data/cookies/meta.yaml'
         name: meta
         fields:
+          - { label: Page title, name: title, widget: text, required: true }
           - {
               label: Page description,
               name: description,
@@ -544,6 +558,7 @@ collections:
         file: 'src/_data/login/meta.yaml'
         name: meta
         fields:
+          - { label: Page title, name: title, widget: text, required: true }
           - {
               label: Page description,
               name: description,
@@ -572,6 +587,7 @@ collections:
         file: 'src/_data/termsAndConditions/meta.yaml'
         name: meta
         fields:
+          - { label: Page title, name: title, widget: text, required: true }
           - {
               label: Page description,
               name: description,
@@ -618,6 +634,7 @@ collections:
         file: 'src/_data/blogOverview/meta.yaml'
         name: meta
         fields:
+          - { label: Page title, name: title, widget: text, required: true }
           - {
               label: Page description,
               name: description,
@@ -633,6 +650,7 @@ collections:
         file: 'src/_data/faqPage/meta.yaml'
         name: meta
         fields:
+          - { label: Page title, name: title, widget: text, required: true }
           - {
               label: Page description,
               name: description,
