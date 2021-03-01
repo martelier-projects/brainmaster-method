@@ -18,7 +18,6 @@
   overflow-x: auto;
   display: flex;
   justify-content: space-between;
-  justify-content: space-around;
   padding: $gap-s;
 
   background-color: $color-white;
@@ -26,6 +25,7 @@
 
   @include bp-min($bp-l) {
     border-radius: $border-radius-m;
+    justify-content: space-around;
   }
 }
 
