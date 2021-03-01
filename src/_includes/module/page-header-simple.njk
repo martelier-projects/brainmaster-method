@@ -6,7 +6,7 @@
 <header class="{{ classes }}">
   <div class="page-header-simple__inner">
     {% if title %}
-      <h1 class="page-header-simple__title">{{ title }}</h1>
+      <h1 class="page-header-simple__title">{{ title | safe }}</h1>
     {% endif %}
 
     {% if text %}
