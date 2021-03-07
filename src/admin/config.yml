@@ -578,7 +578,7 @@ collections:
         widget: list
         fields:
           - { label: Title, name: title, widget: string, required: true }
-          - { label: Text, name: text, widget: text, required: true }
+          - { label: Text, name: text, widget: text, required: false }
       - label: Content
         file: 'src/_data/login/content.yaml'
         name: content
@@ -670,7 +670,7 @@ collections:
         widget: list
         fields:
           - { label: Title, name: title, widget: string, required: true }
-          - { label: Text, name: text, widget: text, required: true }
+          - { label: Text, name: text, widget: text, required: false }
       - label: Content
         file: 'src/_data/faqPage/content.yaml'
         name: content
