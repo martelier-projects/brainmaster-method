@@ -10,7 +10,7 @@ date: 2021-01-23T11:32:30.322Z
 layout: layouts/blog.njk
 tags: blog
 ---
-Na een lange dag werken leg je eindelijk je hoofd op je kussen en dan gebeurt het. Of eigenlijk: dan gebeurt het niet. Het lukt maar niet om in slaap te vallen. Je bent wel moe, maar het gebeurt niet. Op het moment dat je hoofd je kussen raakt, wordt er een startschot afgevuurd! Alsof er een race van gedachten gestart is. 
+Na een lange dag werken leg je eindelijk je hoofd op je kussen en dan gebeurt het. Of eigenlijk: dan gebeurt het niet. Het lukt maar niet om in slaap te vallen. Je bent wel moe, maar er gebeurt niets. Op het moment dat je hoofd je kussen raakt, wordt er een startschot afgevuurd! Alsof er een race van gedachten gestart is. 
 
 ![](/assets/images/1_nfyx05p4n1_qtiw3d71c2g.jpeg)
 
