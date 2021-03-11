@@ -22,7 +22,7 @@ De grote vraag is waarom -voldoende kwalitatieve- slaap zo cruciaal is! In deze 
 
 Deze blogpost is de eerste van een reeks van blogposts, die een groot aantal verschillende facetten van slaap behandelen. We beginnen met het waarom. Waarom slapen we? Eeuwenlang werd verondersteld dat je hersenen uitgeschakeld werden, wanneer je sliep. Dit heeft bij velen tot het idee geleid dat ‘veel’ slaap een luxe is, een overbodige luxe zelfs. Gelukkig weten we sinds zeventig jaar dat dit niet het geval is en dat -als je in dromenland verkeert- je verschillende slaapfases passeert, die allemaal verschillende functies hebben. Steeds meer raadsels over slaap worden -beetje bij beetje- ontrafeld.
 
-`<iframe width="560" height="315" src="https://www.youtube.com/watch?v=rMHus-0wFSo&t=189s&ab_channel=CrashCourse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rMHus-0wFSo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Waarom heb je slaap nodig?
 
