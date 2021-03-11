@@ -30,6 +30,8 @@ Er is natuurlijk een goede verklaring waarom mensen 1/3 van hun leven slaap nodi
 
 Kort samengevat is het antwoord van Dr. Matthew Walker: zonder slaap kunnen onze hersenen en ons lichaam zich niet herstellen van de activiteiten gedurende de dag en raken ze -uiteindelijk- uitgeput. In je slaap worden er antistoffen aangemaakt om schadelijke virussen, bacteriën en tumorvorming te bestrijden. Schade aan spieren en organen worden gerepareerd, zodat je weer met frisse moed een nieuwe dag tegemoet kan gaan. Verder is je slaap onmisbaar voor het opslaan van herinneringen en emotionele verwerking. En of dat nog niet genoeg is, zonder slaap bouwen zich in je hersenen allerlei gifstoffen op, die langzaam je hersenen ‘opeten’. Gelukkig helpt slaap om deze gifstoffen af te voeren. Kortom, slaap is de ultieme pitstop -na een lange dag- om niet opgebrand te raken. Slaap helpt om vitale lichamelijke functies te resetten, om belangrijke organen zoals het hart, darmen en hersenen -weer- goed te laten samenwerken.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y-8b99rGpkM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Hoe slapen we?
 
 Hoe ziet je reis door dromenland eruit? — Slaap is zo complex dat zelfs na jaren van intensief wetenschappelijk onderzoek het nog steeds moeilijk is om -heel precies- in kaart te brengen hoe we slapen. Veel weten we nog niet. De ‘hoe-vraag’ doet dus bepaald niet onder voor de ‘waarom-vraag’.
