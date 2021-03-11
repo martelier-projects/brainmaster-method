@@ -20,6 +20,8 @@ Moedeloos van al die slapeloze nachten wordt er gezocht naar een simpele oplossi
 
 Eigenlijk is het antwoord simpel: Slaappillen, zoals Temazepam en Benzodiazepine, blijken ernstig verslavend, ziekmakend en soms zelfs dodelijk te zijn. Ondanks al het onderzoek is er geen pil gevonden zonder grote risico’s, zeker niet op de lange termijn. Bovendien blijken slaappillen -ook niet op de lange duur- tot een natuurlijk herstellende slaap te leiden, maar blijven ze enkel het brein verdoven. In onderstaande video legt Dr. Mathew Walker uit hoe dat werkt.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_lSNEjA-Drk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 In een beperkt aantal gevallen kunnen slaappillen een onderdeel vormen van een -tijdelijke- strategie, onder begeleiding en toezicht van een arts, om weer op een gezonde manier te leren slapen. Helaas -ligt in de praktijk- de verantwoordelijkheid voor het gebruik van de slaappillen eerder bij de patiënt dan bij de arts.
 
 Gebruik jij slaappillen? Neem dan zo snel mogelijk contact op met de arts, die ze heeft voorgeschreven. Wellicht is het al tijd om af te bouwen en over te gaan op een strategie die ook op de lange termijn zoden aan de dijk zet.
