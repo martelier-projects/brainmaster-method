@@ -18,7 +18,7 @@ Je snapt het al een beetje als je een paar nachten achter elkaar niet goed hebt 
 
 Moedeloos van al die slapeloze nachten wordt er gezocht naar een simpele oplossing. Een quick fix, één pil die je ‘s avonds inneemt en waardoor je ‘s nachts als een blok slaapt, eindelijk. Alternatieven, zoals CBT-I (cognitive behavioral therapy for insomnia) *of* mindfulnesstrainingen vragen veel meer van je en een 100% garantie valt niet te bieden. Waarom zou je dan geen slaappil nemen?
 
-Eigenlijk is het antwoord simpel: Slaappillen, zoals Temazepam en Benzodiazepine, blijken ernstig verslavend, ziekmakend en soms zelfs dodelijk te zijn. Ondanks al het onderzoek is er geen pil gevonden zonder grote risico’s, zeker niet op de lange termijn. Bovendien blijken slaappillen -ook niet op de lange duur- tot een natuurlijk herstellende slaap te leiden, maar blijven ze enkel het brein verdoven. In onderstaande video legt Dr. Mathew Walker uit hoe dat werkt.
+Eigenlijk is het antwoord simpel: Slaappillen, zoals Temazepam en Benzodiazepine, blijken op de korte termijn redelijk "effectief", maar op de lange termijn ernstig verslavend, schadelijk en soms zelfs ziekmakend te zijn. Ondanks al het onderzoek is er geen pil gevonden zonder grote risico’s, zeker niet op de lange termijn. Bovendien leiden slaappillen niet tot natuurlijke slaap, maar verdoven ze enkel je brein. In onderstaande video legt Dr. Mathew Walker uit hoe dat werkt.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_lSNEjA-Drk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
