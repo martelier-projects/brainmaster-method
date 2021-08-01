@@ -40,6 +40,7 @@ module.exports = function (eleventyConfig) {
     'manifest.webmanifest': '../dist/manifest.webmanifest',
     'src/compiled-assets': 'assets',
     './src/admin/config.js': '../dist/admin/config.js',
+    'src/admin/config': 'admin/config',
   })
 
   // Filters
