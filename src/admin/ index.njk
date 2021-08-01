@@ -8,9 +8,9 @@ permalink: '/admin/'
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Content Manager</title>
-  </head>
-  <body>
-    <!-- Include the script that builds the page and powers Netlify CMS -->
+
+    <script>window.CMS_MANUAL_INIT = true</script>
+
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
 
     <!-- Netlify Identity Widget -->
@@ -18,6 +18,26 @@ permalink: '/admin/'
       type="text/javascript"
       src="https://identity.netlify.com/v1/netlify-identity-widget.js"
     ></script>
+    <meta name="robots" content="noindex,nofollow" />
+
+    <script src="/admin/config.js"></script>
+  </head>
+  <body>
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on('init', user => {
+          if (!user) {
+            window.netlifyIdentity.on('login', () => {
+              document.location.href = '/admin/'
+            })
+          }
+        })
+      }
+    </script>
+
+    <script>
+      window.initCMS(window.config);
+    </script>
 
     <!-- Netlify Markdown Blocks -->
     <script>
@@ -141,18 +161,6 @@ permalink: '/admin/'
           return `[page-preview-for-you]`
         }
       })
-    </script>
-
-    <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on('init', user => {
-          if (!user) {
-            window.netlifyIdentity.on('login', () => {
-              document.location.href = '/admin/'
-            })
-          }
-        })
-      }
     </script>
   </body>
 </html>

@@ -39,7 +39,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     'manifest.webmanifest': '../dist/manifest.webmanifest',
     'src/compiled-assets': 'assets',
-    './src/admin/config.yml': '../dist/admin/config.yml',
+    './src/admin/config.js': '../dist/admin/config.js',
   })
 
   // Filters
