@@ -1,16 +1,28 @@
 topics:
   - title: Gratis kennismaking
-    text: We starten met een kennismaking. We bespreken hier samen welk traject je
-      kunt starten. Een kennismaking is vrijblijvend en gratis.
+    text: >-
+      We starten met een kennismaking. We bespreken hier hoe coaching jou kan
+      helpen. Een kennismaking is vrijblijvend en gratis. 
+
+      Jij bepaalt zelf hoe hou traject eruit komt te zien én in welke mate jij -tussen de sessies- met het aanbod van de thema's verder gaat.
     icon: Kennismaking
-  - title: Volledig coachingstraject vanaf €400
-    text: Bouw je eigen coachingstraject, waardoor jij het verloop en de kosten in
-      eigen handen hebt. Als we het traject in gaan, starten we met één module
-      of meerdere modules binnen de vier thema's.
+  - title: Persoonlijke Coaching van €120 per maand
+    text: >-
+      In een persoonlijk coachingstraject kun je kiezen tussen de drie opties:
+
+      1. Iedere week een coachsessie* voor €380
+
+      2. Iedere twee weken een coachsessie* €220
+
+      3. Iedere maand een coachsessie* voor €120
+
+      *Een coachsessie duurt 60 tot 90 minuten. 
+
+      Jij bepaalt zelf óf en in welke mate jij -tussen de sessies- met het aanbod van de thema's verder gaat.
     icon: Traject
-  - title: Of vanaf €120 per maand
-    text: In een persoonlijk coachingstraject kun je kiezen tussen de drie opties
-      -iedere week, iedere twee weken of iedere maand- voor een coachsessie. Jij
-      bepaalt zelf óf en in welke mate jij -tussen de sessies- met het aanbod
-      van de thema's verder gaat.
+  - title: Abonnementen van €10 per maand
+    text: "Met behulp van abonnement kan gaan voor langdurige ondersteuning. Na het
+      afronden van een coachingstraject blijf je werken aan een vitaal leven. Je
+      houdt toegang tot het coachingsprogramma en kan check-ups inplannen met je
+      coach. Met een abonnement blijf je jouw leven verrijken. "
     icon: Module
