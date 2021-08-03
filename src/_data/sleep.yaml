@@ -1,0 +1,24 @@
+title: sfsfs
+sections:
+  - imgCaption: ff
+    imgAlt: sfsdf
+    showImproveText: false
+    text: sdfsdfsdf
+    sections:
+      - title: sdfsdf
+        text: sdfsfsdfsdfsdfsdf
+      - title: sdfsdf
+        text: sdfsdfsdsdf
+      - title: sdfsdf
+        text: sdfsdfsdf
+    imageAlt: sfsdf
+    order: image-text
+    title: sdfsfsd
+    imageToTheEdge: false
+    type: text-media
+    image: /assets/images/1_gxv37ctdagkcd8rh1rqxta.jpeg
+    component: text-media
+    show: true
+seo:
+  title: Sleep
+  description: Sleep bla bla bla!
