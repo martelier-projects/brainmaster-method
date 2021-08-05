@@ -4,8 +4,8 @@ text: >
   wetenschappelijk perspectief op mentaal welzijn. Laagdrempelig en volledig
   digitaal.
 links:
-  - label: Plan gratis kennismaking
-    href: /contact#kennismaking
-    id: plan-kennismaking
-  - label: Meer informatie
+  - label: Coaching
     href: /coaching
+    id: ""
+  - label: Contact
+    href: /contact
