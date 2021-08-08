@@ -1,0 +1,26 @@
+---
+pagination:
+  data: content
+  size: 2
+  alias: content
+layout: layouts/base.njk
+eleventyComputed:
+  title: '{{ title }}'
+  description: '{{ description }}'
+---
+
+{% module "header", {
+  navigation: mainNav,
+  permalink: '{{ permalink }}'
+
+} %}
+
+<article class="text-page">
+  {% module 'page-header-simple', {
+    title: title
+  } %}
+
+  {% module 'flexible-content', {
+    sections: sections
+  } %}
+</article>

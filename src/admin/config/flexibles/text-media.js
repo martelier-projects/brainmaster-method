@@ -16,7 +16,7 @@ export default {
       name: 'order',
       widget: 'select',
       options: ['image-text', 'text-image'],
-      default: ['image-text'],
+      default: 'image-text',
     },
     {
       label: 'Title',
