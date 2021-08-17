@@ -2,7 +2,7 @@ import seo from './seo.js'
 import flexibles from './flexibles/index.js'
 
 export default {
-  label: 'Pages',
+  label: "Pagina's",
   name: 'pages',
   create: true,
   folder: 'src/pages',
@@ -11,6 +11,12 @@ export default {
   },
   summary: '{{fields.title}}',
   fields: [
+    {
+      label: 'Index in Search-engines (Google)',
+      name: 'indexPage',
+      widget: 'boolean',
+      default: true,
+    },
     {
       label: 'Title',
       name: 'title',
@@ -29,7 +35,13 @@ export default {
       label: 'Template',
       name: 'layout',
       widget: 'select',
-      options: [{ label: 'Default', value: 'layouts/default-template.njk' }],
+      options: [
+        {
+          label: 'Default (zoals een normale text pagina)',
+          value: 'layouts/default-template.njk',
+        },
+        { label: 'Thema pagina', value: 'layouts/theme-page.njk' },
+      ],
       default: 'layouts/default-template.njk',
     },
     {

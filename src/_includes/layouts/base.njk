@@ -16,6 +16,11 @@
       {% endif %}
     </title>
 
+    {% if indexPage == false %}
+      <meta name="robots" content="noindex">
+      <meta name="googlebot" content="noindex">
+    {% endif %}
+
 
     <link rel="stylesheet" href="/assets/styles/base.css" />
 
