@@ -1,6 +1,6 @@
 ---
 indexPage: false
-title: Emotie Test
+title: Weerbaar - Emotie Test
 permalink: /weerbaar/emotie-test/
 layout: layouts/default-template.njk
 seo:
