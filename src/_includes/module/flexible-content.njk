@@ -18,7 +18,16 @@
           </div>
       {% endif %}
       {% if section.component == 'rich-text' %}
-          {% module 'rich-text', section %}
+        {% if section.show %}
+            {% module 'rich-text', section %}
+        {% endif %}
+      {% endif %}
+      {% if section.component == 'embed' %}
+        {% if section.show %}
+          <div class="page__section">
+            {% module 'embed', section %}
+          </div>
+        {% endif %}
       {% endif %}
   {% endfor %}
 </div>
