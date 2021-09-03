@@ -30,7 +30,6 @@ $font-family-sans-serif: 'Roboto', sans-serif;
 /**
  * Headings
  */
-// @TODO: Add mobile sizes!
 @mixin heading-xl {
   @include font-serif;
   font-size: rem(47);
