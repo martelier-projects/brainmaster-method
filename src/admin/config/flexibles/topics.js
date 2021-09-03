@@ -25,6 +25,12 @@ export default {
           required: true,
         },
         {
+          label: 'Link',
+          name: 'href',
+          widget: 'string',
+          required: false,
+        },
+        {
           label: 'Text',
           name: 'text',
           widget: 'text',

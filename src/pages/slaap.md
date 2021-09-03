@@ -20,6 +20,7 @@ sections:
           een coachingstraject blijf je werken aan een vitaal leven. Je houdt
           toegang to
         icon: Kennismaking
+        href: /
       - title: Topic 2
         text: en abonnement is gericht op duurzame veranderingen. Na het afronden van
           een coachingstraject blijf je werken aan een vitaal leven. Je houdt

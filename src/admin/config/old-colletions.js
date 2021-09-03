@@ -1,79 +1,5 @@
 export default [
   {
-    label: 'pagina - Coming soon',
-    name: 'comingSoon',
-    editor: {
-      preview: false,
-    },
-    files: [
-      {
-        label: 'Meta',
-        file: 'src/_data/comingSoon/meta.yaml',
-        name: 'meta',
-        fields: [
-          {
-            label: 'Page title',
-            name: 'title',
-            widget: 'text',
-            required: true,
-          },
-          {
-            label: 'Page description',
-            name: 'description',
-            widget: 'text',
-            required: true,
-          },
-        ],
-      },
-      {
-        label: 'Page Header',
-        file: 'src/_data/comingSoon/pageHeader.yaml',
-        name: 'header',
-        widget: 'list',
-        fields: [
-          {
-            label: 'Title',
-            name: 'title',
-            widget: 'string',
-            required: true,
-          },
-          {
-            label: 'Text',
-            name: 'text',
-            widget: 'text',
-            required: true,
-          },
-        ],
-      },
-      {
-        label: 'Content',
-        file: 'src/_data/comingSoon/content.yaml',
-        name: 'content',
-        widget: 'list',
-        fields: [
-          {
-            label: 'Text',
-            name: 'text',
-            widget: 'markdown',
-            required: true,
-            buttons: [
-              'bold',
-              'italic',
-              'link',
-              'heading-two',
-              'heading-three',
-              'heading-four',
-              'heading-five',
-              'heading-six',
-              'bulleted-list',
-              'numbered-list',
-            ],
-          },
-        ],
-      },
-    ],
-  },
-  {
     label: 'pagina - Home',
     name: 'homePage',
     editor: {
@@ -1735,6 +1661,12 @@ export default [
                 required: true,
               },
               {
+                label: 'Link',
+                name: 'href',
+                widget: 'string',
+                required: false,
+              },
+              {
                 label: 'Text',
                 name: 'text',
                 widget: 'text',
@@ -1776,6 +1708,12 @@ export default [
                 name: 'title',
                 widget: 'string',
                 required: true,
+              },
+              {
+                label: 'Link',
+                name: 'href',
+                widget: 'string',
+                required: false,
               },
               {
                 label: 'Text',
@@ -1821,6 +1759,12 @@ export default [
                 required: true,
               },
               {
+                label: 'Link',
+                name: 'href',
+                widget: 'string',
+                required: false,
+              },
+              {
                 label: 'Text',
                 name: 'text',
                 widget: 'text',
@@ -1862,6 +1806,12 @@ export default [
                 name: 'title',
                 widget: 'string',
                 required: true,
+              },
+              {
+                label: 'Link',
+                name: 'href',
+                widget: 'string',
+                required: false,
               },
               {
                 label: 'Text',

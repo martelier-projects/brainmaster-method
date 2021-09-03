@@ -1,11 +1,25 @@
 .topic {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+
+  transition: $quick $ease-out box-shadow, $quick $ease-out background-color,
+    $quick $ease-out border-color, $quick $ease-out color;
+
+  @include hocus {
+    box-shadow: $shadow-m;
+    cursor: pointer;
+  }
+}
+
+.topic__inner {
   display: flex;
   flex-direction: column;
   padding: $gap-m $gap-m $gap-xl;
-
   box-shadow: $shadow-xs;
   background-color: $color-white;
 }
+
 .topic__title {
   @include text-l;
   @include font-weight-bold;
