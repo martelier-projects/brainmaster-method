@@ -31,6 +31,10 @@ sections:
           een coachingstraject blijf je werken aan een vitaal leven. Je houdt
           toegang to
         icon: Traject
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: "## This is a rich text block!"
 seo:
   title: Slaap
   description: Slaap

@@ -1,0 +1,41 @@
+export default {
+  label: 'Rich text',
+  name: 'rich-text',
+  widget: 'object',
+  summary: 'Text | {{fields.title}}',
+  widget: 'list',
+  fields: [
+    {
+      label: 'Show block',
+      name: 'show',
+      widget: 'boolean',
+      default: true,
+    },
+    {
+      label: 'Text',
+      name: 'text',
+      widget: 'markdown',
+      required: true,
+      modes: ['rich_text'],
+      hint: 'Please dont use the + here!',
+      buttons: [
+        'bold',
+        'italic',
+        'link',
+        'heading-two',
+        'heading-three',
+        'heading-four',
+        'heading-five',
+        'heading-six',
+        'bulleted-list',
+        'numbered-list',
+      ],
+    },
+    {
+      label: 'Component',
+      name: 'component',
+      widget: 'hidden',
+      default: 'rich-text',
+    },
+  ],
+}

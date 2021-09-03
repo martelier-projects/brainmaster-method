@@ -17,5 +17,8 @@
             {% module 'topic-list', section %}
           </div>
       {% endif %}
+      {% if section.component == 'rich-text' %}
+          {% module 'rich-text', section %}
+      {% endif %}
   {% endfor %}
 </div>

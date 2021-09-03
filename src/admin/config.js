@@ -3,7 +3,6 @@ import identity from './config/identity.js'
 import editorComponents from './config/editor-components.js'
 
 import pages from './config/pages.js'
-console.log('pages: ', pages)
 
 // Create config
 const config = {
