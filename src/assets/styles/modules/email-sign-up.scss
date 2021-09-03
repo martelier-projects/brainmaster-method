@@ -1,0 +1,114 @@
+// This is the styling of an embed where i'm not sure if I
+// can alter the HTML. Therefore grid is used to place all wrapping
+// areas on the correct location and BEM isn't implemented properly.
+.email-sign-up {
+  @include container-xxl;
+  padding-top: $gap-xxl;
+  padding-bottom: $gap-l;
+}
+
+.email-sign-up input {
+  width: 100%;
+  border: 1px solid $color-gray;
+  padding: $gap-sm;
+  font-size: inherit;
+
+  &:focus {
+    outline: none;
+    border-color: $color-orange-dark;
+    background-color: $color-gray-lighter;
+  }
+}
+.email-sign-up button {
+  width: 100%;
+  margin-top: auto;
+  padding: $gap-sm $gap-xl;
+  border: 1px solid $color-red-dark;
+  background-color: $color-red-dark;
+  font-size: inherit;
+  color: $color-white;
+
+  @include hocus {
+    outline: none;
+    background-color: $color-brown-dark;
+    border-color: $color-brown-dark;
+    cursor: pointer;
+  }
+}
+.email-sign-up label {
+  @include font-weight-bold;
+  display: block;
+  padding-bottom: $gap-xs;
+}
+
+.email-sign-up__inner {
+  display: grid;
+  grid-gap: $gap-l 0;
+  grid-template-columns: 1fr;
+  grid-template-areas:
+    'title'
+    'text'
+    'name'
+    'email'
+    'submit';
+
+  @include bp-min($bp-sm) {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(4, auto);
+    grid-gap: $gap-m 0;
+    grid-template-areas:
+      'title title'
+      'text text'
+      'name email'
+      '. submit';
+  }
+  @include bp-min($bp-ml) {
+    grid-template-columns: repeat(2, 1fr) 12rem;
+    grid-template-rows: repeat(3, auto);
+    grid-template-areas:
+      'title title title'
+      'text text text'
+      'name email submit';
+  }
+}
+
+.email-sign-up__title-area,
+.email-sign-up__text-area {
+  @include constrain-l;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.email-sign-up__title-area h2 {
+  @include heading-s;
+  margin: 0;
+}
+
+/**
+ * Areas
+ */
+.email-sign-up__title-area {
+  grid-area: title;
+}
+.email-sign-up__text-area {
+  grid-area: text;
+}
+.email-sign-up__full-name-area {
+  grid-area: name;
+}
+.email-sign-up__email-area {
+  grid-area: email;
+}
+.email-sign-up__submit-area {
+  grid-area: submit;
+  display: flex;
+}
+
+.email-sign-up__response {
+  @include heading-s;
+  text-align: center;
+  text-decoration: underline;
+}
+.email-sign-up__required {
+  color: $color-red-dark;
+}
