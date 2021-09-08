@@ -9,7 +9,7 @@ sections:
     component: embed
     embed: >-
       <script type="text/javascript"
-      src="[https://form.jotform.com/jsform/212292521619049](https://form.jotform.com/jsform/212292521619049)"></script>
+      src="https://form.jotform.com/jsform/212292521619049"></script>
 
       <iframe
             id="JotFormIFrame-212292521619049"
