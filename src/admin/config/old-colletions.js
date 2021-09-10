@@ -44,6 +44,22 @@ export default [
             required: true,
           },
           {
+            label: 'Illustration',
+            name: 'illustration',
+            widget: 'select',
+            options: [
+              {
+                label: 'None',
+                value: 'none',
+              },
+              {
+                label: 'Home',
+                value: 'home',
+              },
+            ],
+            default: 'none',
+          },
+          {
             widget: 'list',
             label: 'Links',
             name: 'links',
