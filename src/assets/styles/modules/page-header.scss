@@ -2,7 +2,6 @@
   padding: $gap-xxxl 0 $gap-xl;
   background-color: $color-gray-lighter;
 
-  background-image: url('../images/home-header-illustration.svg');
   background-position-x: right;
   background-position-y: center;
   background-size: cover;
@@ -15,6 +14,10 @@
     padding: $gap-xxxxl 0 $gap-xxxxxxl;
   }
 }
+.page-header[data-illustration='home'] {
+  background-image: url('../images/home-header-illustration.svg');
+}
+
 .page-header__inner {
   @include container-page;
 }

@@ -16,7 +16,12 @@ eleventyComputed:
 } %}
 
 <article class="text-page">
-  <h1>Dit wordt een Thema pagina template</h1>
+   {% module 'page-header', {
+    title: title,
+    text: header.text,
+    links: header.links,
+    illustration: header.illustration
+  } %}
 
   {% module 'flexible-content', {
     sections: sections

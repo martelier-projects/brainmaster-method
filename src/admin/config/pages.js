@@ -45,6 +45,69 @@ export default {
       default: 'layouts/default-template.njk',
     },
     {
+      label:
+        'Thema-pagina Header (alleen gebruiken als de template "Thema pagina" is)',
+      name: 'header',
+      widget: 'object',
+      summary:
+        'Thema-pagina Header (alleen gebruiken als de template "Thema pagina" is)',
+      collapsed: true,
+      fields: [
+        {
+          label: 'Text',
+          name: 'text',
+          widget: 'text',
+          required: false,
+          hint: 'Alleen bij template X',
+        },
+        {
+          label: 'Illustration',
+          name: 'illustration',
+          widget: 'select',
+          options: [
+            {
+              label: 'None',
+              value: 'none',
+            },
+            {
+              label: 'Home',
+              value: 'home',
+            },
+          ],
+          default: 'none',
+        },
+        {
+          label: 'Header Links',
+          name: 'links',
+          widget: 'list',
+          multiple: true,
+          create: true,
+          fields: [
+            {
+              label: 'Label',
+              name: 'label',
+              widget: 'string',
+              required: true,
+            },
+            {
+              label: 'URL',
+              name: 'href',
+              widget: 'string',
+              required: true,
+            },
+            {
+              label: 'Special ID',
+              name: 'id',
+              widget: 'string',
+              required: false,
+              hint:
+                'Plaats de text "plan-kennismaking" als het gaat om de plan kennismaking knop (voor SEO)',
+            },
+          ],
+        },
+      ],
+    },
+    {
       label: 'Home Section',
       name: 'sections',
       widget: 'list',

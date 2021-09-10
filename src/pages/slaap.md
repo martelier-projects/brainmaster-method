@@ -1,8 +1,18 @@
 ---
 indexPage: false
-title: Slaap
 permalink: /slaap/
-layout: layouts/default-template.njk
+layout: layouts/theme-page.njk
+text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
+  wetenschappelijk perspectief op mentaal welzijn. Laagdrempelig en volledig
+  digitaal. "
+header:
+  text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
+    wetenschappelijk perspectief op mentaal welzijn. Laagdrempelig en volledig
+    digitaal. "
+  illustration: home
+  links:
+    - label: Test label
+      href: /
 sections:
   - type: embed
     show: true
@@ -138,6 +148,11 @@ sections:
     show: true
     component: rich-text
     text: "## This is a rich text block!"
+illustration: home
+title: Slaap
+links:
+  - label: This is the label
+    href: /
 seo:
   title: Slaap
   description: Slaap
