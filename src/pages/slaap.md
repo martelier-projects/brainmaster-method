@@ -10,7 +10,7 @@ header:
     energie de dag tegemoet, zonder hulp van medicatie.
   illustration: home
   links:
-    - label: Test label
+    - label: Doe de bioritme test
       href: /
 sections:
   - type: embed
