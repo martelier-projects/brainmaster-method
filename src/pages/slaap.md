@@ -149,7 +149,7 @@ sections:
     component: rich-text
     text: "## This is a rich text block!"
 illustration: home
-title: Slaap
+title: Word weer energiek wakker zonder slaapmedicatie
 links:
   - label: This is the label
     href: /
