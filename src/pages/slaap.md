@@ -202,6 +202,15 @@ sections:
 
 
           Je natuurlijke slaapvermogen kan je weer terugkrijgen. Slapeloze nachten hebben namelijk altijd een oorzaak. Vaak is de oorzaak meerledig. Hierdoor is de oorzaak vaak complex.
+      - title: "101 slaapsaboteurs "
+        text: >-
+          Slaapproblemen zijn meerledig en de oplossing is vaak complex. Alleen
+          wanneer aan alle 101 voorwaarden wordt voldaan zal het probleem
+          verholpen zijn. Hierdoor zal de moed je halverwege vaak in de schoenen
+          zinken. 
+
+
+          Slaapproblemen zijn persoonlijk en verdienen een persoonlijke aanpak. We rekenen stap voor stap af met de stoorzenders, zowel biologisch als psychologisch. 
 illustration: home
 title: Word weer energiek wakker zonder slaapmedicatie
 links:
