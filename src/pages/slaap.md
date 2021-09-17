@@ -193,6 +193,15 @@ sections:
 
 
           Herken jij jezelf hierin? Helaas kot dit maar te vaak voor. Toch kan ook jij weer het vertrouwen herwinnen in je slaapvermogen en zonder angst naar bed gaan. 
+      - title: Slaap weer als een roos
+        text: >
+          Iedereen heeft van nature het vermogen om te slapen. Ook jij kon
+          vroeger zonder problemen de hele nacht doorslapen. Ga weer zonder
+          zorgen naar bed en verlang weer naar die fijne geur van je schone
+          lakens. Val weer zonder problemen binnen een half uur in slaap. 
+
+
+          Je natuurlijke slaapvermogen kan je weer terugkrijgen. Slapeloze nachten hebben namelijk altijd een oorzaak. Vaak is de oorzaak meerledig. Hierdoor is de oorzaak vaak complex.
 illustration: home
 title: Word weer energiek wakker zonder slaapmedicatie
 links:
