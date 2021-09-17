@@ -21,6 +21,58 @@ sections:
 
 
       Er zijn twee slechte slapers. Zij die te vaak moe wakker worden en met tegenzin aan de dag beginnen. En slechte slapers die al heel lang niet goed slapen en daarom bang zijn om naar bed te gaan, bang om weer een nacht nauwelijks te slapen. Wat voor slaper ben jij?
+  - type: topics
+    showTopics: true
+    component: topics
+    topics:
+      - title: Topic 1
+        text: en abonnement is gericht op duurzame veranderingen. Na het afronden van
+          een coachingstraject blijf je werken aan een vitaal leven. Je houdt
+          toegang to
+        icon: Kennismaking
+        href: /
+      - title: Topic 2
+        text: en abonnement is gericht op duurzame veranderingen. Na het afronden van
+          een coachingstraject blijf je werken aan een vitaal leven. Je houdt
+          toegang to
+        icon: Slapen
+      - title: Topic 3
+        text: en abonnement is gericht op duurzame veranderingen. Na het afronden van
+          een coachingstraject blijf je werken aan een vitaal leven. Je houdt
+          toegang to
+        icon: Traject
+  - imgCaption: ""
+    imgAlt: "- "
+    sections:
+      - text: >-
+          “Als ’s ochtends die nare wekker gaat kan ik maar met moeite uit bed
+          komen. Ik ben lang wazig en ik heb echt koffie nodig om wakker te
+          worden. De hele dag zit ik laag in mijn energie en pas aan het einde
+          van de dag leef ik een beetje op.”
+
+
+          Herkenbaar? Ontdek hoe je voorgoed afrekent met die dodelijke vermoeidheid en hoe jij ’s ochtends weer met een lach op je gezicht aan de dag kan beginnen. 
+        title: Ik word toe vaak moe wakker
+      - title: Energiek aan de dag beginnen
+        text: >-
+          Geniet weer van iedere dag, wanneer je firs wakker wordt. Begin de dag
+          weer met een schone lei en laat je zorgen achter je. Wordt eindelijk
+          echt uitgerust wakker en laat de druk van je afglijden. De ochtenden
+          worden weer jouw moment om te presteren. 
+
+
+          De oplossing lijkt vaak voor de hand te liggen. Je moet langer slapen. Helaas makkelijker gezegd dan gedaan. En toch leidt langer slapen niet altijd tot meer energie. 
+      - title: "Langer slapen werkt niet "
+        text: "Alleen met voldoende diepe slaap kan je lichaam herstellen. Na een
+          stressvolle en chaotische dag heb je niet zozeer lange slaap nodig,
+          maar diepe slaap. Diepe slaap repareert letterlijk de schade en
+          schoont de troep in je hersenen op. "
+    order: text-image
+    title: Ik word moe wakker
+    type: text-media
+    image: /assets/images/artboard-2.png
+    component: text-media
+    show: true
   - type: embed
     show: true
     component: embed
@@ -124,65 +176,6 @@ sections:
               window.attachEvent("onmessage", handleIFrameMessage);
             }
             </script>
-  - type: preview
-    component: preview
-    title: Titlessss
-    description: Description
-    linkLabel: Link label
-    linkUrl: /
-    image: /assets/images/car-1.jpg
-  - type: topics
-    showTopics: true
-    component: topics
-    topics:
-      - title: Topic 1
-        text: en abonnement is gericht op duurzame veranderingen. Na het afronden van
-          een coachingstraject blijf je werken aan een vitaal leven. Je houdt
-          toegang to
-        icon: Kennismaking
-        href: /
-      - title: Topic 2
-        text: en abonnement is gericht op duurzame veranderingen. Na het afronden van
-          een coachingstraject blijf je werken aan een vitaal leven. Je houdt
-          toegang to
-        icon: Slapen
-      - title: Topic 3
-        text: en abonnement is gericht op duurzame veranderingen. Na het afronden van
-          een coachingstraject blijf je werken aan een vitaal leven. Je houdt
-          toegang to
-        icon: Traject
-  - imgCaption: ""
-    imgAlt: "- "
-    sections:
-      - text: >-
-          “Als ’s ochtends die nare wekker gaat kan ik maar met moeite uit bed
-          komen. Ik ben lang wazig en ik heb echt koffie nodig om wakker te
-          worden. De hele dag zit ik laag in mijn energie en pas aan het einde
-          van de dag leef ik een beetje op.”
-
-
-          Herkenbaar? Ontdek hoe je voorgoed afrekent met die dodelijke vermoeidheid en hoe jij ’s ochtends weer met een lach op je gezicht aan de dag kan beginnen. 
-        title: Ik word toe vaak moe wakker
-      - title: Energiek aan de dag beginnen
-        text: >-
-          Geniet weer van iedere dag, wanneer je firs wakker wordt. Begin de dag
-          weer met een schone lei en laat je zorgen achter je. Wordt eindelijk
-          echt uitgerust wakker en laat de druk van je afglijden. De ochtenden
-          worden weer jouw moment om te presteren. 
-
-
-          De oplossing lijkt vaak voor de hand te liggen. Je moet langer slapen. Helaas makkelijker gezegd dan gedaan. En toch leidt langer slapen niet altijd tot meer energie. 
-      - title: "Langer slapen werkt niet "
-        text: "Alleen met voldoende diepe slaap kan je lichaam herstellen. Na een
-          stressvolle en chaotische dag heb je niet zozeer lange slaap nodig,
-          maar diepe slaap. Diepe slaap repareert letterlijk de schade en
-          schoont de troep in je hersenen op. "
-    order: text-image
-    title: Ik word moe wakker
-    type: text-media
-    image: /assets/images/artboard-2.png
-    component: text-media
-    show: true
 illustration: home
 title: Word weer energiek wakker zonder slaapmedicatie
 links:
