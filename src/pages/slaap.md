@@ -153,9 +153,9 @@ sections:
         icon: Traject
   - type: text-media
     show: true
-    order: image-text
+    order: text-image
     component: text-media
-    image: /assets/images/1_p8xsno4owmmpolketsaq_a.jpeg
+    image: /assets/images/artboard-2.png
     title: Ik word te vaak moe wakker
     imgAlt: image
 illustration: home
