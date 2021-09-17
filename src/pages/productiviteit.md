@@ -11,6 +11,14 @@ header:
   links:
     - label: Doe de concentratie test
       href: /
+sections:
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: |-
+      ## Heb je problemen met productiviteit of creativiteit? 
+
+      Iedereen zit wel eens wat minder in zijn vel.
 seo:
   title: Productiviteit
   description: Productiviteit
