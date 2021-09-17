@@ -9,7 +9,7 @@ header:
     zijn werk kan doen en jij weer in staat bent om hoog kwalitatief en creatief
     werk te produceren. "
   links:
-    - label: Concentratie test
+    - label: Doe de concentratie test
       href: /
 seo:
   title: Productiviteit
