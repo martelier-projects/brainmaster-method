@@ -151,6 +151,13 @@ sections:
           een coachingstraject blijf je werken aan een vitaal leven. Je houdt
           toegang to
         icon: Traject
+  - type: text-media
+    show: true
+    order: image-text
+    component: text-media
+    image: /assets/images/1_p8xsno4owmmpolketsaq_a.jpeg
+    title: Ik word te vaak moe wakker
+    imgAlt: image
 illustration: home
 title: Word weer energiek wakker zonder slaapmedicatie
 links:
