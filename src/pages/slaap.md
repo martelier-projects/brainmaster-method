@@ -176,6 +176,23 @@ sections:
               window.attachEvent("onmessage", handleIFrameMessage);
             }
             </script>
+  - type: text-media
+    show: true
+    order: text-image
+    component: text-media
+    title: "Bang om naar bed te gaan "
+    image: /assets/images/artboard-2.png
+    imgAlt: "-"
+    sections:
+      - title: "Angst om naar bed te gaan "
+        text: >-
+          “Al ruim voordat ik naar bed ga begint het. De angst slaat letterlijk
+          in. Bang dat ik weer niet kan slapen. Bang dat ik weer de hele nacht
+          wakker zal liggen. Na al die onsuccesvolle pogingen om beter te
+          slapen, vervliegt de hoop.”
+
+
+          Herken jij jezelf hierin? Helaas kot dit maar te vaak voor. Toch kan ook jij weer het vertrouwen herwinnen in je slaapvermogen en zonder angst naar bed gaan. 
 illustration: home
 title: Word weer energiek wakker zonder slaapmedicatie
 links:
