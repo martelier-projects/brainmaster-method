@@ -21,26 +21,6 @@ sections:
 
 
       Er zijn twee slechte slapers. Zij die te vaak moe wakker worden en met tegenzin aan de dag beginnen. En slechte slapers die al heel lang niet goed slapen en daarom bang zijn om naar bed te gaan, bang om weer een nacht nauwelijks te slapen. Wat voor slaper ben jij?
-  - type: topics
-    showTopics: false
-    component: topics
-    topics:
-      - title: Topic 1
-        text: en abonnement is gericht op duurzame veranderingen. Na het afronden van
-          een coachingstraject blijf je werken aan een vitaal leven. Je houdt
-          toegang to
-        icon: Kennismaking
-        href: /
-      - title: Topic 2
-        text: en abonnement is gericht op duurzame veranderingen. Na het afronden van
-          een coachingstraject blijf je werken aan een vitaal leven. Je houdt
-          toegang to
-        icon: Slapen
-      - title: Topic 3
-        text: en abonnement is gericht op duurzame veranderingen. Na het afronden van
-          een coachingstraject blijf je werken aan een vitaal leven. Je houdt
-          toegang to
-        icon: Traject
   - imgCaption: ""
     imgAlt: "- "
     sections:
