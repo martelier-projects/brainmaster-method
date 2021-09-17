@@ -146,7 +146,11 @@ sections:
   - type: rich-text
     show: true
     component: rich-text
-    text: "## This is a rich text block!"
+    text: >-
+      ## Word jij moe wakker óf ben je bang om naar bed te gaan?
+
+
+      Er zijn twee slechte slapers. Zij die te vaak moe wakker worden en met tegenzin aan de dag beginnen. En slechte slapers die al heel lang niet goed slapen en daarom bang zijn om naar bed te gaan, bang om weer een nacht nauwelijks te slapen. Wat voor slaper ben jij?
 illustration: home
 title: Word weer energiek wakker zonder slaapmedicatie
 links:
