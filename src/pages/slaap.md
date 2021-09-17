@@ -162,9 +162,18 @@ sections:
 
 
           Herkenbaar? Ontdek hoe je voorgoed afrekent met die dodelijke vermoeidheid en hoe jij ’s ochtends weer met een lach op je gezicht aan de dag kan beginnen. 
-        title: De wekker gaat
+        title: Ik word toe vaak moe wakker
+      - title: Energiek aan de dag beginnen
+        text: >-
+          Geniet weer van iedere dag, wanneer je firs wakker wordt. Begin de dag
+          weer met een schone lei en laat je zorgen achter je. Wordt eindelijk
+          echt uitgerust wakker en laat de druk van je afglijden. De ochtenden
+          worden weer jouw moment om te presteren. 
+
+
+          De oplossing lijkt vaak voor de hand te liggen. Je moet langer slapen. Helaas makkelijker gezegd dan gedaan. En toch leidt langer slapen niet altijd tot meer energie. 
     order: text-image
-    title: Ik word te vaak moe wakker
+    title: Ik word moe wakker
     type: text-media
     image: /assets/images/artboard-2.png
     component: text-media
