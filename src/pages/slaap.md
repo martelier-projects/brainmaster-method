@@ -6,9 +6,8 @@ text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
   wetenschappelijk perspectief op mentaal welzijn. Laagdrempelig en volledig
   digitaal. "
 header:
-  text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
-    wetenschappelijk perspectief op mentaal welzijn. Laagdrempelig en volledig
-    digitaal. "
+  text: Maak op een duurzame manier een einde aan slapeloze nachten en ga weer met
+    energie de dag tegemoet, zonder hulp van medicatie.
   illustration: home
   links:
     - label: Test label
