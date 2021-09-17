@@ -172,6 +172,11 @@ sections:
 
 
           De oplossing lijkt vaak voor de hand te liggen. Je moet langer slapen. Helaas makkelijker gezegd dan gedaan. En toch leidt langer slapen niet altijd tot meer energie. 
+      - title: "Langer slapen werkt niet "
+        text: "Alleen met voldoende diepe slaap kan je lichaam herstellen. Na een
+          stressvolle en chaotische dag heb je niet zozeer lange slaap nodig,
+          maar diepe slaap. Diepe slaap repareert letterlijk de schade en
+          schoont de troep in je hersenen op. "
     order: text-image
     title: Ik word moe wakker
     type: text-media
