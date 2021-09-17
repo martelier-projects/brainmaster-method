@@ -151,19 +151,24 @@ sections:
           een coachingstraject blijf je werken aan een vitaal leven. Je houdt
           toegang to
         icon: Traject
-  - type: text-media
-    show: true
+  - imgCaption: ""
+    imgAlt: "- "
+    sections:
+      - text: >-
+          “Als ’s ochtends die nare wekker gaat kan ik maar met moeite uit bed
+          komen. Ik ben lang wazig en ik heb echt koffie nodig om wakker te
+          worden. De hele dag zit ik laag in mijn energie en pas aan het einde
+          van de dag leef ik een beetje op.”
+
+
+          Herkenbaar? Ontdek hoe je voorgoed afrekent met die dodelijke vermoeidheid en hoe jij ’s ochtends weer met een lach op je gezicht aan de dag kan beginnen. 
+        title: De wekker gaat
     order: text-image
-    component: text-media
-    image: /assets/images/artboard-2.png
     title: Ik word te vaak moe wakker
-    imgAlt: "“Als ’s ochtends die nare wekker gaat kan ik maar met moeite uit bed
-      komen. Ik ben lang wazig en ik heb echt koffie nodig om wakker te worden.
-      De hele dag zit ik laag in mijn energie en pas aan het einde van de dag
-      leef ik een beetje op.”  Herkenbaar? Ontdek hoe je voorgoed afrekent met
-      die dodelijke vermoeidheid en hoe jij ’s ochtends weer met een lach op je
-      gezicht aan de dag kan beginnen. "
-    imgCaption: ""
+    type: text-media
+    image: /assets/images/artboard-2.png
+    component: text-media
+    show: true
 illustration: home
 title: Word weer energiek wakker zonder slaapmedicatie
 links:
