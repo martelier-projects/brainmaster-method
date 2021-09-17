@@ -158,6 +158,12 @@ sections:
     image: /assets/images/artboard-2.png
     title: Ik word te vaak moe wakker
     imgAlt: image
+    imgCaption: "“Als ’s ochtends die nare wekker gaat kan ik maar met moeite uit
+      bed komen. Ik ben lang wazig en ik heb echt koffie nodig om wakker te
+      worden. De hele dag zit ik laag in mijn energie en pas aan het einde van
+      de dag leef ik een beetje op.”  Herkenbaar? Ontdek hoe je voorgoed
+      afrekent met die dodelijke vermoeidheid en hoe jij ’s ochtends weer met
+      een lach op je gezicht aan de dag kan beginnen. "
 illustration: home
 title: Word weer energiek wakker zonder slaapmedicatie
 links:
