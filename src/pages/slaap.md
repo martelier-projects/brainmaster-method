@@ -2,11 +2,12 @@
 indexPage: false
 permalink: /slaap/
 layout: layouts/theme-page.njk
-text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
+text: 'Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
   wetenschappelijk perspectief op mentaal welzijn. Laagdrempelig en volledig
-  digitaal. "
+  digitaal. '
 header:
-  text: Maak op een duurzame manier een einde aan slapeloze nachten en ga weer met
+  text:
+    Maak op een duurzame manier een einde aan slapeloze nachten en ga weer met
     energie de dag tegemoet, zonder hulp van medicatie.
   illustration: home
   links:
@@ -21,8 +22,8 @@ sections:
 
 
       Er zijn twee slechte slapers. Zij die te vaak moe wakker worden en met tegenzin aan de dag beginnen. En slechte slapers die al heel lang niet goed slapen en daarom bang zijn om naar bed te gaan, bang om weer een nacht nauwelijks te slapen. Wat voor slaper ben jij?
-  - imgCaption: ""
-    imgAlt: "- "
+  - imgCaption: ''
+    imgAlt: '- '
     sections:
       - text: >-
           “Als ’s ochtends die nare wekker gaat kan ik maar met moeite uit bed
@@ -31,7 +32,7 @@ sections:
           van de dag leef ik een beetje op.”
 
 
-          Herkenbaar? Ontdek hoe je voorgoed afrekent met die dodelijke vermoeidheid en hoe jij ’s ochtends weer met een lach op je gezicht aan de dag kan beginnen. 
+          Herkenbaar? Ontdek hoe je voorgoed afrekent met die dodelijke vermoeidheid en hoe jij ’s ochtends weer met een lach op je gezicht aan de dag kan beginnen.
         title: Ik word toe vaak moe wakker
       - title: Energiek aan de dag beginnen
         text: >-
@@ -41,16 +42,17 @@ sections:
           worden weer jouw moment om te presteren. 
 
 
-          De oplossing lijkt vaak voor de hand te liggen. Je moet langer slapen. Helaas makkelijker gezegd dan gedaan. En toch leidt langer slapen niet altijd tot meer energie. 
-      - title: "Langer slapen werkt niet "
-        text: "Alleen met voldoende diepe slaap kan je lichaam herstellen. Na een
+          De oplossing lijkt vaak voor de hand te liggen. Je moet langer slapen. Helaas makkelijker gezegd dan gedaan. En toch leidt langer slapen niet altijd tot meer energie.
+      - title: 'Langer slapen werkt niet '
+        text:
+          'Alleen met voldoende diepe slaap kan je lichaam herstellen. Na een
           stressvolle en chaotische dag heb je niet zozeer lange slaap nodig,
           maar diepe slaap. Diepe slaap repareert letterlijk de schade en
-          schoont de troep in je hersenen op. "
+          schoont de troep in je hersenen op. '
     order: text-image
     title: Ik word moe wakker
     type: text-media
-    image: /assets/images/artboard-2.png
+    imgSrc: /assets/images/artboard-2.png
     component: text-media
     show: true
   - type: embed
@@ -160,11 +162,11 @@ sections:
     show: true
     order: text-image
     component: text-media
-    title: "Bang om naar bed te gaan "
-    image: /assets/images/artboard-2.png
-    imgAlt: "-"
+    title: 'Bang om naar bed te gaan '
+    imgSrc: /assets/images/artboard-2.png
+    imgAlt: '-'
     sections:
-      - title: "Angst om naar bed te gaan "
+      - title: 'Angst om naar bed te gaan '
         text: >-
           “Al ruim voordat ik naar bed ga begint het. De angst slaat letterlijk
           in. Bang dat ik weer niet kan slapen. Bang dat ik weer de hele nacht
@@ -172,7 +174,7 @@ sections:
           slapen, vervliegt de hoop.”
 
 
-          Herken jij jezelf hierin? Helaas kot dit maar te vaak voor. Toch kan ook jij weer het vertrouwen herwinnen in je slaapvermogen en zonder angst naar bed gaan. 
+          Herken jij jezelf hierin? Helaas kot dit maar te vaak voor. Toch kan ook jij weer het vertrouwen herwinnen in je slaapvermogen en zonder angst naar bed gaan.
       - title: Slaap weer als een roos
         text: >
           Iedereen heeft van nature het vermogen om te slapen. Ook jij kon
@@ -182,7 +184,7 @@ sections:
 
 
           Je natuurlijke slaapvermogen kan je weer terugkrijgen. Slapeloze nachten hebben namelijk altijd een oorzaak. Vaak is de oorzaak meerledig. Hierdoor is de oorzaak vaak complex.
-      - title: "101 slaapsaboteurs "
+      - title: '101 slaapsaboteurs '
         text: >-
           Slaapproblemen zijn meerledig en de oplossing is vaak complex. Alleen
           wanneer aan alle 101 voorwaarden wordt voldaan zal het probleem
@@ -190,7 +192,7 @@ sections:
           zinken. 
 
 
-          Slaapproblemen zijn persoonlijk en verdienen een persoonlijke aanpak. We rekenen stap voor stap af met de stoorzenders, zowel biologisch als psychologisch. 
+          Slaapproblemen zijn persoonlijk en verdienen een persoonlijke aanpak. We rekenen stap voor stap af met de stoorzenders, zowel biologisch als psychologisch.
 illustration: home
 title: Word weer energiek wakker zonder slaapmedicatie
 links:

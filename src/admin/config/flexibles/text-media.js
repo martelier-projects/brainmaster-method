@@ -26,7 +26,7 @@ export default {
     },
     {
       label: 'Image',
-      name: 'image',
+      name: 'imgSrc',
       widget: 'image',
       media_library: {
         config: {
