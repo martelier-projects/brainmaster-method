@@ -9,6 +9,7 @@ authorImage: /assets/images/pjotr.jpg
 date: 2021-02-26T18:32:47.596Z
 layout: layouts/blog.njk
 tags: blog
+sections: []
 ---
 Wat zou jij doen als je dertig jaar extra te leven hebt? Een jarenlange wereldreis maken? De Chinese taal leren? Leren vliegen met een *wingsuit*?
 

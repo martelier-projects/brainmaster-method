@@ -1,3 +1,5 @@
+import flexibles from './flexibles/index.js'
+
 export default [
   {
     label: 'pagina - Home',
@@ -309,6 +311,22 @@ export default [
           },
         ],
       },
+      {
+        label: 'Flexible content',
+        file: 'src/_data/homePage/flexibleContent.yaml',
+        name: 'flexible content',
+        widget: 'list',
+        collapsed: false,
+        fields: [
+          {
+            label: 'Flexible content sections',
+            name: 'sections',
+            widget: 'list',
+            types: flexibles,
+            collapsed: false,
+          },
+        ],
+      },
     ],
   },
   {
@@ -381,6 +399,22 @@ export default [
               'bulleted-list',
               'numbered-list',
             ],
+          },
+        ],
+      },
+      {
+        label: 'Flexible content',
+        file: 'src/_data/forYou/flexibleContent.yaml',
+        name: 'flexible content',
+        widget: 'list',
+        collapsed: false,
+        fields: [
+          {
+            label: 'Flexible content sections',
+            name: 'sections',
+            widget: 'list',
+            types: flexibles,
+            collapsed: false,
           },
         ],
       },
@@ -540,6 +574,22 @@ export default [
           },
         ],
       },
+      {
+        label: 'Flexible content',
+        file: 'src/_data/forCompanies/flexibleContent.yaml',
+        name: 'flexible content',
+        widget: 'list',
+        collapsed: false,
+        fields: [
+          {
+            label: 'Flexible content sections',
+            name: 'sections',
+            widget: 'list',
+            types: flexibles,
+            collapsed: false,
+          },
+        ],
+      },
     ],
   },
   {
@@ -611,6 +661,22 @@ export default [
               'bulleted-list',
               'numbered-list',
             ],
+          },
+        ],
+      },
+      {
+        label: 'Flexible content',
+        file: 'src/_data/forCaregivers/flexibleContent.yaml',
+        name: 'flexible content',
+        widget: 'list',
+        collapsed: false,
+        fields: [
+          {
+            label: 'Flexible content sections',
+            name: 'sections',
+            widget: 'list',
+            types: flexibles,
+            collapsed: false,
           },
         ],
       },
@@ -1118,6 +1184,13 @@ export default [
         name: 'tags',
         widget: 'hidden',
         default: 'blog',
+      },
+      {
+        label: 'Flexible content',
+        name: 'sections',
+        widget: 'list',
+        types: flexibles,
+        collapsed: false,
       },
     ],
   },

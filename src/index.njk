@@ -96,6 +96,11 @@ eleventyComputed:
       </div>
     </div>
   {% endif %}
+
+  {% module 'flexible-content', {
+    sections: homePage.flexibleContent.sections
+  } %}
+
 </article>
 
 {% part 'calandy-adviesgesprek' %}

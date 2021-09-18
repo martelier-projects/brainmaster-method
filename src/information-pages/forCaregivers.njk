@@ -38,6 +38,10 @@ eleventyComputed:
     } %}
   </section>
 
+  {% module 'flexible-content', {
+    sections: forCaregivers.flexibleContent.sections
+  } %}
+
 </article>
 
 {% part 'calandy-kennismaking' %}

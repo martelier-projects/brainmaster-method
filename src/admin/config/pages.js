@@ -108,7 +108,7 @@ export default {
       ],
     },
     {
-      label: 'Home Section',
+      label: 'Flexible content',
       name: 'sections',
       widget: 'list',
       types: flexibles,
