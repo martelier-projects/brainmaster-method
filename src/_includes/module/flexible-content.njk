@@ -7,27 +7,35 @@
           </div>
         {% endif %}
       {% endif %}
+
       {% if section.component == 'preview' %}
           <div class="page__section page__section--medium">
             {% module 'preview', section %}
           </div>
       {% endif %}
+
       {% if section.component == 'topics' %}
           <div class="text-page__breakout">
             {% module 'topic-list', section %}
           </div>
       {% endif %}
+
       {% if section.component == 'rich-text' %}
         {% if section.show %}
             {% module 'rich-text', section %}
         {% endif %}
       {% endif %}
+
       {% if section.component == 'embed' %}
         {% if section.show %}
           <div class="page__section">
             {% module 'embed', section %}
           </div>
         {% endif %}
+      {% endif %}
+
+      {% if section.component == 'buttons' %}
+          {% module 'buttons', section %}
       {% endif %}
   {% endfor %}
 </div>

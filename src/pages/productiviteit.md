@@ -19,6 +19,17 @@ sections:
       ## Heb je problemen met productiviteit of creativiteit? 
 
       Iedereen zit wel eens wat minder in zijn vel.
+  - type: buttons
+    component: buttons
+    buttons:
+      - label: Ik ben niet productief
+        href: "#ik-ben-niet-productief"
+        link: /
+      - label: Ik ben niet creatief
+        href: /
+        Id: test
+        id: "#heb-je-problemen-met-productiviteit-of-creativiteit"
+        link: "#heb-je-problemen-met-productiviteit-of-creativiteit"
 seo:
   title: Productiviteit
   description: Productiviteit

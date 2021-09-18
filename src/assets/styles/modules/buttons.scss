@@ -1,0 +1,12 @@
+.buttons {
+  @include container-l;
+}
+.buttons__inner {
+  width: 100%;
+  display: flex;
+  margin: 0 -#{$gap-m};
+  justify-content: center;
+}
+.buttons__button {
+  margin: $gap-m;
+}

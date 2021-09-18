@@ -1,0 +1,13 @@
+<div class="buttons">
+  <div class="buttons__inner">
+    {% for button in buttons %}
+      <div class="buttons__button">
+        {% part 'link', {
+          label: button.label,
+          href: button.link,
+          id: button.id
+        } %}
+      </div>
+    {% endfor %}
+  </div>
+</div>
