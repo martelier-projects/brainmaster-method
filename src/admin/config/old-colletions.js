@@ -1237,6 +1237,49 @@ export default [
     },
     files: [
       {
+        label: 'Email sign-up',
+        name: 'emailSignUp',
+        file: 'src/_data/footer/emailSignUp.yaml',
+        fields: [
+          {
+            label: 'Title',
+            name: 'title',
+            widget: 'string',
+            required: true,
+          },
+          {
+            label: 'Text',
+            name: 'text',
+            widget: 'text',
+            required: true,
+          },
+          {
+            label: 'First name label',
+            name: 'firstNameLabel',
+            widget: 'string',
+            required: true,
+          },
+          {
+            label: 'Last name label',
+            name: 'lastNameLabel',
+            widget: 'string',
+            required: true,
+          },
+          {
+            label: 'Email label',
+            name: 'emailLabel',
+            widget: 'string',
+            required: true,
+          },
+          {
+            label: 'Submit label',
+            name: 'submitLabel',
+            widget: 'string',
+            required: true,
+          },
+        ],
+      },
+      {
         label: 'Link list one',
         name: 'link list one',
         file: 'src/_data/footer/linkListOne.yaml',

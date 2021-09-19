@@ -1,6 +1,13 @@
 <footer class="footer">
   <div class="footer__email">
-    {% module 'email-sign-up' %}
+    {% module 'email-sign-up', {
+      title: footer.emailSignUp.title,
+      text: footer.emailSignUp.text,
+      firstNameLabel: footer.emailSignUp.firstNameLabel,
+      lastNameLabel: footer.emailSignUp.lastNameLabel,
+      emailLabel: footer.emailSignUp.emailLabel,
+      submitLabel: footer.emailSignUp.submitLabel
+    } %}
   </div>
   <div class="footer__top">
     <div class="footer__inner">
