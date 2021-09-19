@@ -11,16 +11,14 @@
       <div class="_form-content email-sign-up__inner">
          <div class="_form_element _x21660406 _inline-style _clear email-sign-up__title-area">
             <h2 class="_form-title">
-               Wil je graag interessante tips en aanbiedingen ontvangen?
+               {{ title }}
             </h2>
          </div>
 
          <div class="_form_element _x38408369 _inline-style _clear email-sign-up__text-area">
             <div class="_html-code">
                <p>
-                  Vul je gegevens hier in en dan hou ik je op de hoogte. Wees gerust, ik hou zelf ook niet van spam.
-                  <br>
-                  Ik deel enkel waardevolle tips, inspiratie en inzichten met je waar je echt wat mee kunt.
+                  {{ text | safe }}
                </p>
             </div>
          </div>
@@ -36,7 +34,7 @@
 
          <div class="_form_element _x31872452 _inline-style email-sign-up__email-area">
             <label for="email" class="_form-label">
-            E-mail <span class="email-sign-up__required">*</span>
+            {{ emailLabel }} <span class="email-sign-up__required">*</span>
             </label>
             <div class="_field-wrapper">
                <input type="text" id="email" name="email" placeholder="Typ je e-mailadres in" required/>
@@ -45,7 +43,7 @@
 
          <div class="_button-wrapper _inline-style email-sign-up__submit-area">
             <button id="_form_3_submit" class="_submit" type="submit">
-            Aanmelden
+            {{ submitLabel }}
             </button>
          </div>
          <div class="_clear-element"></div>
