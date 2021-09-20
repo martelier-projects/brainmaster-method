@@ -76,7 +76,7 @@ sections:
       lang overspannen, dan is de kans op burn-out groot. Een burn-out wil je
       het liefst voor zijn. Doe vandaag nog een gratis online test. "
     linkLabel: Stress Scan
-    linkUrl: /slaap/stress-test/
+    linkUrl: /weerbaar/stress-test/
     image: /assets/images/mock.jpg
   - type: text-media
     show: true
