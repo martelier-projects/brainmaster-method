@@ -2,12 +2,12 @@
 indexPage: false
 permalink: /slaap/
 layout: layouts/theme-page.njk
-text: 'Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
+text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
   wetenschappelijk perspectief op mentaal welzijn. Laagdrempelig en volledig
-  digitaal. '
+  digitaal. "
+title: Word weer energiek wakker zonder slaapmedicatie
 header:
-  text:
-    Maak op een duurzame manier een einde aan slapeloze nachten en ga weer met
+  text: Maak op een duurzame manier een einde aan slapeloze nachten en ga weer met
     energie de dag tegemoet, zonder hulp van medicatie.
   illustration: home
   links:
@@ -22,8 +22,9 @@ sections:
 
 
       Er zijn twee slechte slapers. Zij die te vaak moe wakker worden en met tegenzin aan de dag beginnen. En slechte slapers die al heel lang niet goed slapen en daarom bang zijn om naar bed te gaan, bang om weer een nacht nauwelijks te slapen. Wat voor slaper ben jij?
-  - imgCaption: ''
-    imgAlt: '- '
+  - imgSrc: /assets/images/artboard-2.png
+    imgCaption: ""
+    imgAlt: "- "
     sections:
       - text: >-
           “Als ’s ochtends die nare wekker gaat kan ik maar met moeite uit bed
@@ -43,16 +44,14 @@ sections:
 
 
           De oplossing lijkt vaak voor de hand te liggen. Je moet langer slapen. Helaas makkelijker gezegd dan gedaan. En toch leidt langer slapen niet altijd tot meer energie.
-      - title: 'Langer slapen werkt niet '
-        text:
-          'Alleen met voldoende diepe slaap kan je lichaam herstellen. Na een
+      - title: "Langer slapen werkt niet "
+        text: "Alleen met voldoende diepe slaap kan je lichaam herstellen. Na een
           stressvolle en chaotische dag heb je niet zozeer lange slaap nodig,
           maar diepe slaap. Diepe slaap repareert letterlijk de schade en
-          schoont de troep in je hersenen op. '
+          schoont de troep in je hersenen op. "
     order: text-image
     title: Ik word moe wakker
     type: text-media
-    imgSrc: /assets/images/artboard-2.png
     component: text-media
     show: true
   - type: embed
@@ -162,11 +161,11 @@ sections:
     show: true
     order: text-image
     component: text-media
-    title: 'Bang om naar bed te gaan '
+    title: "Bang om naar bed te gaan "
     imgSrc: /assets/images/artboard-2.png
-    imgAlt: '-'
+    imgAlt: "-"
     sections:
-      - title: 'Angst om naar bed te gaan '
+      - title: "Angst om naar bed te gaan "
         text: >-
           “Al ruim voordat ik naar bed ga begint het. De angst slaat letterlijk
           in. Bang dat ik weer niet kan slapen. Bang dat ik weer de hele nacht
@@ -184,7 +183,7 @@ sections:
 
 
           Je natuurlijke slaapvermogen kan je weer terugkrijgen. Slapeloze nachten hebben namelijk altijd een oorzaak. Vaak is de oorzaak meerledig. Hierdoor is de oorzaak vaak complex.
-      - title: '101 slaapsaboteurs '
+      - title: "101 slaapsaboteurs "
         text: >-
           Slaapproblemen zijn meerledig en de oplossing is vaak complex. Alleen
           wanneer aan alle 101 voorwaarden wordt voldaan zal het probleem
@@ -193,8 +192,18 @@ sections:
 
 
           Slaapproblemen zijn persoonlijk en verdienen een persoonlijke aanpak. We rekenen stap voor stap af met de stoorzenders, zowel biologisch als psychologisch.
+  - type: preview
+    component: preview
+    title: Onderzoek of slaapcoaching voor jou is
+    description: "Ontdek hoe je voorgoed afrekent met extreme vermoeidheid en je een
+      energieker gevoel krijgt die je de hele dag vasthoudt. Jouw slaapprobleem
+      is uniek en verdient dus een persoonlijke aanpak. Samen kunnen we
+      onderzoeken hoe slaapcoaching jou kan helpen. Met gratis adviesgesprek zet
+      jij de eerste stap naar een zorgeloze nachtrust. "
+    linkLabel: Ja, dit wil ik!
+    linkUrl: /slaap/adviesgesprek/
+    image: /assets/images/mock.jpg
 illustration: home
-title: Word weer energiek wakker zonder slaapmedicatie
 links:
   - label: This is the label
     href: /
