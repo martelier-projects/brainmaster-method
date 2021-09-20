@@ -25,10 +25,15 @@ sections:
           gratis adviesgesprek met Pjotr.
       - text: |
           - De eerste tip -van vele- om morgen energiek wakker te worden
+
           - De eerste tip om gemakkelijk en zonder zorgen in slaap te vallen
+
           - 5 persoonlijke slaapblokkers en slaapsaboteurs 
+
           - Een stappenplan om naar een goede nachtrust te gaan
+
           - Persoonlijk advies over jouw bioritme* 
+
           *Doe wel eerste de gratis online bioritme test (dit is een hyperlink)
         title: Wat haal je uit een gratis adviesgesprek?
       - text: Na het gratis adviesgesprek heb je de tijd om eens rustig na te denken of
