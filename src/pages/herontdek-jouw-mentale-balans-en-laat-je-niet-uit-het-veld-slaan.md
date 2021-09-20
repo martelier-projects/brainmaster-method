@@ -82,7 +82,7 @@ sections:
     show: true
     order: text-image
     component: text-media
-    title: "Bang om naar bed te gaan "
+    title: Ik heb te veel negatieve gedachten (beter titel)
     imgSrc: /assets/images/artboard-2.png
     imgAlt: "-"
     sections:
