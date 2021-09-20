@@ -29,7 +29,7 @@ sections:
         link: "#1ste section"
       - label: Ik heb teveel negatieve gedachten
         link: "#2de section"
-  - imgSrc: /assets/images/artboard-2.png
+  - imgSrc: /assets/images/foto-website-2.png
     imgCaption: ""
     imgAlt: "- "
     sections:
