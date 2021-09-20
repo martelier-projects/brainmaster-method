@@ -101,12 +101,11 @@ sections:
           Slaapproblemen zijn persoonlijk en verdienen een persoonlijke aanpak. We rekenen stap voor stap af met de stoorzenders, zowel biologisch als psychologisch.
   - type: preview
     component: preview
-    title: Onderzoek of slaapcoaching voor jou is
-    description: "Ontdek hoe je voorgoed afrekent met extreme vermoeidheid en je een
-      energieker gevoel krijgt die je de hele dag vasthoudt. Jouw slaapprobleem
-      is uniek en verdient dus een persoonlijke aanpak. Samen kunnen we
-      onderzoeken hoe slaapcoaching jou kan helpen. Met gratis adviesgesprek zet
-      jij de eerste stap naar een zorgeloze nachtrust. "
+    title: Onderzoek slaapcoaching
+    description: "Jouw slaapprobleem is uniek en verdient dus een persoonlijke
+      aanpak. Samen kunnen we onderzoeken hoe slaapcoaching jou kan helpen. Met
+      gratis adviesgesprek zet jij de eerste stap naar een zorgeloze nachtrust.
+      "
     linkLabel: Ja, dit wil ik!
     linkUrl: /slaap/adviesgesprek/
     image: /assets/images/mock.jpg
