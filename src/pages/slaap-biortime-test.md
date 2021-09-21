@@ -1,8 +1,10 @@
 ---
 indexPage: false
 title: Biortime test
-permalink: /slaap/biortime-test/
+permalink: /slaap/bioritme-test/
 layout: layouts/default-template.njk
+header:
+  illustration: none
 sections:
   - type: embed
     show: true
