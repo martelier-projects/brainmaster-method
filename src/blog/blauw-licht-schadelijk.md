@@ -9,6 +9,17 @@ authorImage: /assets/images/pjotr.jpg
 date: 2021-01-23T11:33:13.605Z
 layout: layouts/blog.njk
 tags: blog
+sections:
+  - type: preview
+    component: preview
+    title: Ontdek binnen vijf minuten wat bioritme is
+    description: Slaap is persoonlijk. Dit komt je individuele biologische
+      slaap-waakritme, bioritme in het kort. Een persoonlijk slaappatroon houdt
+      rekening met je bioritme en de manier hoe jij je leven leidt. Weet jij al
+      wat jouw bioritme is? Doe vandaag nog de gratis online test.
+    linkLabel: Bioritme Test
+    linkUrl: /slaap/bioritme-test/
+    image: /assets/images/image-page-preview-bioritme-test-1-.png
 ---
 Waarschijnlijk ben je wel eens een advertentie tegengekomen, waarin een bril of een app met een blauw-lichtfilter wordt aanbevolen. Uit allerlei studies zou blijken dat blauw licht schadelijk is. Maar, klopt dit ook? Dat is nog maar de vraag! In deze blogpost bespreken we blauw licht, het effect van blauw-lichtfilters en scheiden we zin van onzin aan de hand van vijf stellingen.
 
