@@ -58,5 +58,3 @@ In de zoektocht naar een goede nachtrust zijn sommigen onder ons zo wanhopig dat
 Naast de bekende, zoals cafeïne en alcohol, kan sinds kort ook blauw licht aan het lijstje slaapsaboteurs worden toegevoegd. Blauw licht zou namelijk je inslapen verstoren, in de blogpost '[Is blauw licht schadelijk?'](/blog/blauw-licht-schadelijk/) wordt blauw licht nader onder de loep genomen.
 
 Benieuwd naar hoe jij je slaap kan verbeteren? Meld je dan aan voor vitaliteitscoaching en volg alvast de volgende vijf slaaptips op in de blogposts '[5 Slaaptips! Maar helaas geen *quick fix*](https://phantus.com/blog/slaaptips/)'. Houd deze website in de gaten als je ook wil lezen over de effecten van andere ‘slaapmiddelen’, zoals melatonine, CBD en meditatie.
-
-\[page-preview-for-you]
