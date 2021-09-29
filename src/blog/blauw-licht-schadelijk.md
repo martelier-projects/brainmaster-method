@@ -48,5 +48,3 @@ Waarschijnlijk ben je wel eens een advertentie tegengekomen, waarin een bril of 
 **Niet waar.** De juiste blauw-lichtfilters kunnen dan wel helpen om het slaaphormoon zijn werk te laten doen, maar daarmee is de kous nog niet af. Als je net een appje krijgt van je nieuwe liefde, slaat de opwinding toe en kan het wel eens lastig worden om rustig in slaap te vallen. Of als je nog een werkmailtje bekijkt, kan dat ervoor zorgen dat je daarna -onbewust- toch alvast de dag van morgen gaat doornemen. Een belangrijk element van *social media* is dat deze continu je aandacht willen vasthouden door je nog heel even in spanning te houden. Je ziet op whatsapp wanneer iemand aan het typen is en er is altijd een update op instagram, die te leuk is om te missen #FOMO. *Social media* werken daardoor als een spannende triller, die je echt eerst moet afkijken en dus sta je -bewust of onbewust- stijf van de spanning als je je bed ingaat. Kortom, misschien is het tijd om je smartphone gewoon weg te leggen en een uurtje voor je gaat slapen nog even *old-school* te ontspannen.
 
 Leg dus vanavond je smartphone weg! Slaap lekker!
-
-\[page-preview-for-you]
