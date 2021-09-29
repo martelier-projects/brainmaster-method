@@ -8,6 +8,17 @@ authorImage: /assets/images/pjotr.jpg
 date: 2021-02-22T14:20:18.081Z
 layout: layouts/blog.njk
 tags: blog
+sections:
+  - type: preview
+    component: preview
+    title: Ontdek binnen vijf minuten wat bioritme is
+    description: Slaap is persoonlijk. Dit komt door je individuele biologische
+      slaap-waakritme, bioritme in het kort. Een persoonlijk slaappatroon houdt
+      rekening met je bioritme en de manier hoe jij je leven leidt. Weet jij al
+      wat jouw bioritme is? Doe vandaag nog de gratis online test.
+    linkLabel: Bioritme Test
+    linkUrl: /slaap/bioritme-test/
+    image: /assets/images/image-page-preview-bioritme-test-1-.png
 ---
 Andrei Sator, *the bad guy* van de *blockbuster* Tenet, deed het ook al. Hij had een kek polsbandje waarmee hij zijn hartslag -*in real time*- kon meten. Meten is namelijk weten. Maar klopt dat wel?
 
@@ -24,5 +35,3 @@ Het volgende voorbeeld laat zien dat ook al worden tracking devices langzamerhan
 Een ander voorbeeld. “Mijn slaaptracker geeft aan dat ik zeven uur in bed heb gelegen, maar dat ik maar zes uur echt heb geslapen. Is dit erg?” Voor een paar nachten is dit niet zo erg, maar helaas is dit voor heel mensen een normale gang van zaken. Het aantal uren je daadwerkelijk slaapt, van de uren dat je in bed ligt, heet ‘slaapefficiëntie’. In dit voorbeeld is dat 85%. Het is niet ongebruikelijk om gedurende de nacht één uur -min of meer- wakker te liggen. Gedeeltelijk te verklaren door de tijd die je nodig hebt om in te slapen, gedeeltelijk door de momentjes dat je even -half- wakker wordt gedurende de nacht. Het wordt pas problematisch als je slaapefficiëntie onder de 80% komt. Bijvoorbeeld door te veel stress of door een te onrustige bedpartner. Hoewel het ook in deze situatie moeilijk kan zijn om de precieze oorzaak te achterhalen, kunnen *tracking devices* je wel bewustere maken van de uren dat je daadwerkelijk slaapt. Een enkele nacht lang wakker liggen is niet zo’n probleem. Helaas slapen veel mensen echter structureel te weinig.
 
 Maar moet je nu wel of niet je slaap meten? Dat is een keuze die je uiteraard zelf moet maken. Je kunt op zoek gaan naar deskundig advies, vertrouwen hebben in je eigen slaapvermogen of gebruik maken van een slaaptracker. Wat je ook doet, voorkom echter paniek als je minder goed slaapt. Van een nachtje en zelfs twee nachtjes wat minder slaap, is niemand nog dood gegaan. De grootste slaapsaboteurs zijn stress, angst en zorgen, en daar valt angst voor te weinig slaap ook onder. Obsessief je slaap meten en dan in paniek raken is een opmaat naar slapeloze nachten.
-
-\[page-preview-for-you]
