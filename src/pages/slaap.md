@@ -70,7 +70,7 @@ sections:
       wat jouw bioritme is? Doe vandaag nog de gratis online test.
     linkLabel: Bioritme Test
     linkUrl: /slaap/bioritme-test/
-    image: /assets/images/mock.jpg
+    image: /assets/images/image-page-preview-bioritme-test-1-.png
   - type: text-media
     show: true
     order: text-image
