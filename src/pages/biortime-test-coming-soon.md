@@ -2,7 +2,7 @@
 indexPage: true
 title: Biortime test - Coming Soon
 permalink: /slaap/bioritme-test/
-layout: layouts/default-template.njk
+layout: layouts/theme-page.njk
 header:
   illustration: none
   text: "De bioritme test is bijna beschikbaar! Nog heel even geduld. Laat je
