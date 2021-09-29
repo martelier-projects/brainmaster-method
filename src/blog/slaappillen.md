@@ -12,7 +12,7 @@ tags: blog
 sections:
   - type: preview
     component: preview
-    title: Ontdek binnen vijf minuten wat bioritme is
+    title: Ontdek binnen vijf minuten wat jouw bioritme is
     description: Slaap is persoonlijk. Dit komt door je individuele biologische
       slaap-waakritme, bioritme in het kort. Een persoonlijk slaappatroon houdt
       rekening met je bioritme en de manier hoe jij je leven leidt. Weet jij al
