@@ -9,6 +9,17 @@ authorImage: /assets/images/pjotr.jpg
 date: 2021-02-22T14:19:05.168Z
 layout: layouts/blog.njk
 tags: blog
+sections:
+  - type: preview
+    component: preview
+    title: Ontdek binnen vijf minuten wat bioritme is
+    description: Slaap is persoonlijk. Dit komt je individuele biologische
+      slaap-waakritme, bioritme in het kort. Een persoonlijk slaappatroon houdt
+      rekening met je bioritme en de manier hoe jij je leven leidt. Weet jij al
+      wat jouw bioritme is? Doe vandaag nog de gratis online test.
+    linkLabel: Bioritme Test
+    linkUrl: /slaap/bioritme-test/
+    image: /assets/images/image-page-preview-bioritme-test-1-.png
 ---
 Dat zou fijn zijn, dé oplossing die in één klap alle slaapproblemen de wereld uit helpt. Helaas is een *quick fix* nog niet gevonden. Of dat ooit zal gebeuren, is nog maar de vraag. Gelukkig zijn er wel wat slaaptips, waar iedereen mee uit de voeten kan. Onderstaande vijf tips kunnen je helpen om je slaap te verbeteren.
 
@@ -43,5 +54,3 @@ Als we dan (na al dat snoozen) eindelijk aan de dag beginnen zijn we gewend om i
 [](/blog/waarom-val-ik-maar-niet-in-slaap/)Hoe kan het anders? Door gedurende de dag zo nu en dan even tot rust te komen, voorkomen we een crash en kunnen we al ontspanner in slaap vallen. Een simpele, maar efficiënte pauze die maar drie minuten hoeft te duren: adem -via de neus- vier seconden in en vier seconden uit.
 
 Slaap lekker vannacht!
-
-\[page-preview-for-you]
