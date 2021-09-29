@@ -9,6 +9,17 @@ authorImage: /assets/images/pjotr.jpg
 date: 2021-01-23T11:32:30.322Z
 layout: layouts/blog.njk
 tags: blog
+sections:
+  - type: preview
+    component: preview
+    title: Ontdek binnen vijf minuten wat bioritme is
+    description: Slaap is persoonlijk. Dit komt door je individuele biologische
+      slaap-waakritme, bioritme in het kort. Een persoonlijk slaappatroon houdt
+      rekening met je bioritme en de manier hoe jij je leven leidt. Weet jij al
+      wat jouw bioritme is? Doe vandaag nog de gratis online test.
+    linkLabel: Bioritme Test
+    linkUrl: /slaap/bioritme-test/
+    image: /assets/images/image-page-preview-bioritme-test-1-.png
 ---
 Na een lange dag werken leg je eindelijk je hoofd op je kussen en dan gebeurt het. Of eigenlijk: dan gebeurt het niet. Het lukt maar niet om in slaap te vallen. Je bent wel moe, maar er gebeurt niets. Op het moment dat je hoofd je kussen raakt, wordt er een startschot afgevuurd! Alsof er een race van gedachten gestart is. 
 
@@ -24,6 +35,4 @@ We proppen onze dag vol met van alles en nog wat, en consumeren informatie alsof
 
 Het gevolg is dat je hersenen de late avond gaan benutten. Eindelijk de rust en de ruimte om te overdenken wat er allemaal is gebeurd, zo gauw je hoofd het kussen raakt. Wanneer de externe wereld even niets van jou vraagt, dan grijpen de hersenen hun kans.
 
-De oplossing ligt voor de hand, al wil dat niet zeggen dat de uitvoering even gemakkelijk te verwezenlijken is. Waar het op neer komt is dat je gedurende de dag jezelf, je hersenen, de ruimte biedt om alles wat je meemaakt en meekrijgt te verwerken. Daarvoor moet je momenten creëren (pauzes bijv.), waarin je je gedachten de vrije loop kunt laten gaan. Door te genieten van een mooie omgeving, een park, een meer, rivier of kanaal, van fraaie architectuur. Een wandeling in je eentje, zonder te telefoneren, zonder een podcast, zonder muziek, waardoor je jezelf (en je hersenen) in de gelegenheid stelt om te doen wat ze het liefst doen, namelijk denken, echt denken! 
-
-\[page-preview-for-you]
+De oplossing ligt voor de hand, al wil dat niet zeggen dat de uitvoering even gemakkelijk te verwezenlijken is. Waar het op neer komt is dat je gedurende de dag jezelf, je hersenen, de ruimte biedt om alles wat je meemaakt en meekrijgt te verwerken. Daarvoor moet je momenten creëren (pauzes bijv.), waarin je je gedachten de vrije loop kunt laten gaan. Door te genieten van een mooie omgeving, een park, een meer, rivier of kanaal, van fraaie architectuur. Een wandeling in je eentje, zonder te telefoneren, zonder een podcast, zonder muziek, waardoor je jezelf (en je hersenen) in de gelegenheid stelt om te doen wat ze het liefst doen, namelijk denken, echt denken!
