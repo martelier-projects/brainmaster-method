@@ -1,7 +1,7 @@
 ---
 indexPage: false
 title: Biortime test
-permalink: /slaap/bioritme-test/in-constructie/
+permalink: /slaap/in-constructie/
 layout: layouts/default-template.njk
 header:
   illustration: none
