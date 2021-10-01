@@ -1,8 +1,10 @@
 ---
 indexPage: false
-title: Stress test
+title: Stress test - Coming Soon
 permalink: /weerbaar/stress-test/
 layout: layouts/default-template.njk
+header:
+  illustration: none
 sections:
   - type: embed
     show: true
