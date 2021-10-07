@@ -1,1 +1,10 @@
-sections: []
+sections:
+  - type: preview
+    component: preview
+    title: Plan een kennismaking
+    description: "Plan gerust een belafspraak om kennis te maken. Ik werk veel samen
+      met huisartsen, psychologen en therapeuten. Wellicht ligt er voor ons ook
+      een leuke samenwerking in het verschiet. "
+    linkLabel: Plan een kennismaking
+    linkUrl: https://calendly.com/pjotr-peulen/bellen
+    image: /assets/images/ontwerp-zonder-titel-10-.png
