@@ -12,7 +12,7 @@ header:
   illustration: home
   links:
     - label: Doe de bioritme test
-      href: /
+      href: /slaap/bioritme-test/
 sections:
   - type: rich-text
     show: true
