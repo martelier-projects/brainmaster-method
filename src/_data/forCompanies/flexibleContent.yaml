@@ -1,1 +1,10 @@
-sections: []
+sections:
+  - type: preview
+    component: preview
+    title: Plan een kennismaking
+    description: Plan gerust een belafspraak in om kennis te maken. Dan legt Pjotr
+      je graag uit hoe een teamsessie er bij jullie uit kan komen te zien.
+      Hopelijk tot snel!
+    linkLabel: Plan een kennismaking
+    linkUrl: https://calendly.com/pjotr-peulen/bellen
+    image: /assets/images/ontwerp-zonder-titel-10-.png
