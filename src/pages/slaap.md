@@ -69,7 +69,7 @@ sections:
       rekening met je bioritme en de manier hoe jij je leven leidt. Weet jij al
       wat jouw bioritme is? Doe vandaag nog de gratis online test.
     linkLabel: Bioritme Test
-    linkUrl: /slaap/bioritme-test/
+    linkUrl: /slaap/bioritme-test
     image: /assets/images/image-page-preview-bioritme-test-1-.png
   - type: text-media
     show: true
