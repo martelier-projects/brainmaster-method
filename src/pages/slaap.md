@@ -2,12 +2,13 @@
 indexPage: false
 permalink: /slaap/
 layout: layouts/theme-page.njk
-text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
+text: 'Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
   wetenschappelijk perspectief op mentaal welzijn. Laagdrempelig en volledig
-  digitaal. "
+  digitaal. '
 title: Word weer energiek wakker zonder slaapmedicatie
 header:
-  text: Maak op een duurzame manier een einde aan slapeloze nachten en ga weer met
+  text:
+    Maak op een duurzame manier een einde aan slapeloze nachten en ga weer met
     energie de dag tegemoet, zonder hulp van medicatie.
   illustration: home
   links:
@@ -26,12 +27,12 @@ sections:
     component: buttons
     buttons:
       - label: Ik word moe wakker
-        link: "#1ste section"
+        link: '#1ste section'
       - label: Ik ben bang om te slapen
-        link: "#2de section"
+        link: '#2de section'
   - imgSrc: /assets/images/artboard-2.png
-    imgCaption: ""
-    imgAlt: "- "
+    imgCaption: ''
+    imgAlt: '- '
     sections:
       - text: >-
           “Als ’s ochtends die nare wekker gaat kan ik maar met moeite uit bed
@@ -51,11 +52,12 @@ sections:
 
 
           De oplossing lijkt vaak voor de hand te liggen. Je moet langer slapen. Helaas makkelijker gezegd dan gedaan. En toch leidt langer slapen niet altijd tot meer energie.
-      - title: "Langer slapen werkt niet "
-        text: "Alleen met voldoende diepe slaap kan je lichaam herstellen. Na een
+      - title: 'Langer slapen werkt niet '
+        text:
+          'Alleen met voldoende diepe slaap kan je lichaam herstellen. Na een
           stressvolle en chaotische dag heb je niet zozeer lange slaap nodig,
           maar diepe slaap. Diepe slaap repareert letterlijk de schade en
-          schoont de troep in je hersenen op. "
+          schoont de troep in je hersenen op. '
     order: text-image
     title: Ik word moe wakker
     type: text-media
@@ -69,17 +71,17 @@ sections:
       rekening met je bioritme en de manier hoe jij je leven leidt. Weet jij al
       wat jouw bioritme is? Doe vandaag nog de gratis online test.
     linkLabel: Bioritme Test
-    linkUrl: /slaap/bioritme-test
+    url: /slaap/bioritme-test
     image: /assets/images/image-page-preview-bioritme-test-1-.png
   - type: text-media
     show: true
     order: text-image
     component: text-media
-    title: "Bang om naar bed te gaan "
+    title: 'Bang om naar bed te gaan '
     imgSrc: /assets/images/artboard-2.png
-    imgAlt: "-"
+    imgAlt: '-'
     sections:
-      - title: "Angst om naar bed te gaan "
+      - title: 'Angst om naar bed te gaan '
         text: >-
           “Al ruim voordat ik naar bed ga begint het. De angst slaat letterlijk
           in. Bang dat ik weer niet kan slapen. Bang dat ik weer de hele nacht
@@ -97,7 +99,7 @@ sections:
 
 
           Je natuurlijke slaapvermogen kan je weer terugkrijgen. Slapeloze nachten hebben namelijk altijd een oorzaak. Vaak is de oorzaak meerledig. Hierdoor is de oorzaak vaak complex.
-      - title: "101 slaapsaboteurs "
+      - title: '101 slaapsaboteurs '
         text: >-
           Slaapproblemen zijn meerledig en de oplossing is vaak complex. Alleen
           wanneer aan alle 101 voorwaarden wordt voldaan zal het probleem
@@ -109,10 +111,10 @@ sections:
   - type: preview
     component: preview
     title: Ontdek slaapcoaching
-    description: "Jouw slaapprobleem is uniek en verdient dus een persoonlijke
+    description: 'Jouw slaapprobleem is uniek en verdient dus een persoonlijke
       aanpak. Samen kunnen we onderzoeken hoe slaapcoaching jou kan helpen. Met
       gratis adviesgesprek zet jij de eerste stap naar een zorgeloze nachtrust.
-      "
+      '
     linkLabel: Ja, dit wil ik!
     linkUrl: /slaap/adviesgesprek/
     image: /assets/images/mock.jpg

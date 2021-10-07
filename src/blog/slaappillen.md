@@ -18,9 +18,10 @@ sections:
       rekening met je bioritme en de manier hoe jij je leven leidt. Weet jij al
       wat jouw bioritme is? Doe vandaag nog de gratis online test.
     linkLabel: Bioritme Test
-    linkUrl: /slaap/bioritme-test/
+    url: /slaap/bioritme-test/
     image: /assets/images/image-page-preview-bioritme-test-1-.png
 ---
+
 Er heerst een slapeloosheidsepidemie en de zoektocht is gericht op de magische pil. Een *quick fix*, waardoor je in een klap weer heerlijk kan slapen. Waarom zijn we zo wanhopig op zoek naar deze magische pil?
 
 ![](/assets/images/1_azwodumyjhtl0lu6cv4qiw.jpeg)

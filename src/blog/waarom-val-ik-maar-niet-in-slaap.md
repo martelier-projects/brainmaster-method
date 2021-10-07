@@ -1,8 +1,8 @@
 ---
 title: Waarom val ik maar niet in slaap?
-description: "Na een lange dag werken leg je eindelijk je hoofd op je kussen en
+description: 'Na een lange dag werken leg je eindelijk je hoofd op je kussen en
   dan gebeurt het. Of eigenlijk: dan gebeurt het niet. Het lukt maar niet om in
-  slaap te vallen."
+  slaap te vallen.'
 image: /assets/images/1_nfyx05p4n1_qtiw3d71c2g.jpeg
 author: Pjotr Peulen
 authorImage: /assets/images/pjotr.jpg
@@ -18,10 +18,11 @@ sections:
       rekening met je bioritme en de manier hoe jij je leven leidt. Weet jij al
       wat jouw bioritme is? Doe vandaag nog de gratis online test.
     linkLabel: Bioritme Test
-    linkUrl: /slaap/bioritme-test/
+    url: /slaap/bioritme-test/
     image: /assets/images/image-page-preview-bioritme-test-1-.png
 ---
-Na een lange dag werken leg je eindelijk je hoofd op je kussen en dan gebeurt het. Of eigenlijk: dan gebeurt het niet. Het lukt maar niet om in slaap te vallen. Je bent wel moe, maar er gebeurt niets. Op het moment dat je hoofd je kussen raakt, wordt er een startschot afgevuurd! Alsof er een race van gedachten gestart is. 
+
+Na een lange dag werken leg je eindelijk je hoofd op je kussen en dan gebeurt het. Of eigenlijk: dan gebeurt het niet. Het lukt maar niet om in slaap te vallen. Je bent wel moe, maar er gebeurt niets. Op het moment dat je hoofd je kussen raakt, wordt er een startschot afgevuurd! Alsof er een race van gedachten gestart is.
 
 ![](/assets/images/1_nfyx05p4n1_qtiw3d71c2g.jpeg)
 

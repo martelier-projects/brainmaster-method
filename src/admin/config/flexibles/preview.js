@@ -25,7 +25,7 @@ export default {
     },
     {
       label: 'Link URL',
-      name: 'linkUrl',
+      name: 'url',
       widget: 'string',
       required: true,
     },

@@ -2,9 +2,9 @@
 indexPage: false
 permalink: /productiviteit/
 layout: layouts/theme-page.njk
-text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
+text: 'Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
   wetenschappelijk perspectief op mentaal welzijn. Laagdrempelig en volledig
-  digitaal. "
+  digitaal. '
 title: Ontdek hoe je brein functioneert en optimaliseer hoe jij presteert
 header:
   text: Ontdek een duurzame en persoonlijke manier van werken, waarbij je brein
@@ -27,12 +27,12 @@ sections:
     component: buttons
     buttons:
       - label: Ik ben niet productief
-        link: "#1ste section"
+        link: '#1ste section'
       - label: Ik ben niet creatief
-        link: "#2de section"
+        link: '#2de section'
   - imgSrc: /assets/images/artboard-2.png
-    imgCaption: ""
-    imgAlt: "- "
+    imgCaption: ''
+    imgAlt: '- '
     sections:
       - text: >-
           "Ik werk lang en hard, maar het lukt me maar niet om resultaat te
@@ -42,7 +42,7 @@ sections:
           overzicht kwijt ben."
 
 
-          Herkenbaar? Ontdek hoe je slimmer kan werken in plaat van meer. Ervaar hoe je met energie kan thuiskomen na succesvolle werkdag.  
+          Herkenbaar? Ontdek hoe je slimmer kan werken in plaat van meer. Ervaar hoe je met energie kan thuiskomen na succesvolle werkdag.
         title: Ik ben niet productief
       - title: Lever hoog kwalitatief werk
         text: >-
@@ -53,7 +53,7 @@ sections:
           progressie te boeken.
 
 
-          Iedereen wil presteren en wanneer je niet beter weet lijk meer en sneller werken de weg naar succes.   
+          Iedereen wil presteren en wanneer je niet beter weet lijk meer en sneller werken de weg naar succes.
       - title: Werk slimmer, niet meer
         text: >-
           Wanneer een deadline nadert, zijn we allemaal geneigd harder en
@@ -63,7 +63,7 @@ sections:
           wat echt belangrijk is. 
 
 
-          Ontdek de beperkingen en mogelijkheden van je brein en optimaliseer hoe jij presteert. 
+          Ontdek de beperkingen en mogelijkheden van je brein en optimaliseer hoe jij presteert.
     order: text-image
     title: Ik ben niet productief (beter titel)
     type: text-media
@@ -72,10 +72,11 @@ sections:
   - type: preview
     component: preview
     title: Test je concentratievermogen
-    description: "Ontdek binnen vijf minuten hoe hoog jouw concentratievermogen is.
+    description:
+      'Ontdek binnen vijf minuten hoe hoog jouw concentratievermogen is.
       In deze hyperdigitale wereld liggen afleidingen altijd op de loer en wordt
       er veel gemultitaskt. Na verloop van tijd neemt je concentratievermogen
-      af, als je het niet traint. Doe vandaag nog een gratis online test. "
+      af, als je het niet traint. Doe vandaag nog een gratis online test. '
     linkLabel: Concentratie Test
     linkUrl: /slaap/concentratie-test/
     image: /assets/images/mock.jpg
@@ -85,7 +86,7 @@ sections:
     component: text-media
     title: Ik ben niet creatief
     imgSrc: /assets/images/artboard-2.png
-    imgAlt: "-"
+    imgAlt: '-'
     sections:
       - title: Ik ben niet creatief
         text: >-
@@ -97,7 +98,7 @@ sections:
           over te zeggen heb."
 
 
-          Herkenbaar? Ontdek hoe je creatief werk kan afleveren wanneer jij dat wil.  
+          Herkenbaar? Ontdek hoe je creatief werk kan afleveren wanneer jij dat wil.
       - title: De gift van creativiteit
         text: >-
           Vertrouw weer in jouw creatieve vermogen. Geniet weer van het gevoel
@@ -106,7 +107,7 @@ sections:
           creatieve werk wanneer jij dat nodig hebt. 
 
 
-          Nog te vaak wordt creativiteit geforceerd. Te vaak wordt er gehoopt dat wanneer je ergens meer energie in steekt, er meer uit komt. Energie en tijd wordt verspild aan verkeerde technieken en de kans op echte creatieve ideeën gaat verloren. 
+          Nog te vaak wordt creativiteit geforceerd. Te vaak wordt er gehoopt dat wanneer je ergens meer energie in steekt, er meer uit komt. Energie en tijd wordt verspild aan verkeerde technieken en de kans op echte creatieve ideeën gaat verloren.
       - title: Creativiteit kan je niet forceren
         text: >-
           De creatie van iets moois, nieuws en unieks, heeft niet meer energie
@@ -116,15 +117,16 @@ sections:
           en onbewuste inspanning zal je in staat zijn om echt iets te creëren. 
 
 
-          Ontdek welke technieken en methodes je kunnen helpen om je creatieve vermogen te ontketenen. 
+          Ontdek welke technieken en methodes je kunnen helpen om je creatieve vermogen te ontketenen.
   - type: preview
     component: preview
     title: Ontdek vitaliteitscoaching
-    description: "Presteer weer op werk en ontdek wat jouw persoonlijke werkstijl
+    description:
+      'Presteer weer op werk en ontdek wat jouw persoonlijke werkstijl
       is. Leer op een systematische en georganiseerde manier werken, waardoor
-      jij hoog kwalitatief en creatief werk kan produceren. "
+      jij hoog kwalitatief en creatief werk kan produceren. '
     linkLabel: Ja, dit wil ik!
-    linkUrl: /productiviteit/adviesgesprek/
+    url: /productiviteit/adviesgesprek/
     image: /assets/images/mock.jpg
 illustration: home
 links:

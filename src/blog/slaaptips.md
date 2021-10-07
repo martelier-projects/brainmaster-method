@@ -1,8 +1,8 @@
 ---
 title: 5 Slaaptips! Maar helaas geen quick fix
-description: " Dat zou fijn zijn, dé oplossing die in één klap alle
+description: ' Dat zou fijn zijn, dé oplossing die in één klap alle
   slaapproblemen de wereld uit helpt. Deze vijf tips zijn bedoeld op je slaap te
-  verbeteren."
+  verbeteren.'
 image: /assets/images/1_i7o31amvtncdida1bbznvw.jpeg
 author: Pjotr Peulen
 authorImage: /assets/images/pjotr.jpg
@@ -18,16 +18,17 @@ sections:
       rekening met je bioritme en de manier hoe jij je leven leidt. Weet jij al
       wat jouw bioritme is? Doe vandaag nog de gratis online test.
     linkLabel: Bioritme Test
-    linkUrl: /slaap/bioritme-test/
+    url: /slaap/bioritme-test/
     image: /assets/images/image-page-preview-bioritme-test-1-.png
 ---
+
 Dat zou fijn zijn, dé oplossing die in één klap alle slaapproblemen de wereld uit helpt. Helaas is een *quick fix* nog niet gevonden. Of dat ooit zal gebeuren, is nog maar de vraag. Gelukkig zijn er wel wat slaaptips, waar iedereen mee uit de voeten kan. Onderstaande vijf tips kunnen je helpen om je slaap te verbeteren.
 
 ![](/assets/images/1_i7o31amvtncdida1bbznvw.jpeg)
 
 Hoewel slaap niet altijd even makkelijk is te doorgronden, is slaap voor iedereen van fundamenteel belang om gezond te kunnen blijven functioneren. Toch krijgt slaap in de praktijk lang niet altijd de aandacht die het verdient. Deze blog laat zien dat slaap weliswaar een complex mechanisme is, maar waar je met onderstaande tips wel meer grip om kunt krijgen voor een welverdiende nachtrust.
 
-Mensen zijn -zeker als ze jong zijn- weerbaar en veerkrachtig en kunnen dus best een periode met minder slaap. Tot het moment daar is, dat we steeds meer van onszelf verlangen, meer verantwoordelijkheid krijgen, minder rust weten te nemen, de stress oploopt. Terwijl we onze nachtrust daarom extra nodig hebben, nemen we nog wat extra hooi op de vork, zodat de emmer dreigt over te lopen. Waarmee we ons slaapvermogen dreigen te gaan ondermijnen.  
+Mensen zijn -zeker als ze jong zijn- weerbaar en veerkrachtig en kunnen dus best een periode met minder slaap. Tot het moment daar is, dat we steeds meer van onszelf verlangen, meer verantwoordelijkheid krijgen, minder rust weten te nemen, de stress oploopt. Terwijl we onze nachtrust daarom extra nodig hebben, nemen we nog wat extra hooi op de vork, zodat de emmer dreigt over te lopen. Waarmee we ons slaapvermogen dreigen te gaan ondermijnen.
 
 Het doel is deze neerwaartse spiraal om te buigen, zodat we weer kunnen vertrouwen op ons eigen slaapvermogen [(zie ook: 'waarom val ik maar niet in slaap?')](/blog/waarom-val-ik-maar-niet-in-slaap/). Gelukkig kun je vandaag al beginnen met onderstaande vijf slaaptips op te volgen om ervoor te zorgen dat je goed kunt slapen en je weer veerkrachtig, weerbaar en vitaal gaat voelen.
 
@@ -41,7 +42,7 @@ Veel mensen genieten na het avondeten van een chocolaatje, een chipje, een kaasj
 
 ### \#3 Ontbijt als een koning!
 
-Ontbijt daarentegen als een koning. ‘s Ochtends geldt dat je lichaam juist weer in de actiestand moet worden gezet! Helaas wordt het ontbijt steeds vaker overgeslagen, zeker met de opkomst van *intermittent fasting.* De bedoeling daarvan is dat je, door een periode van de dag niet te eten, je in je lichaam opgeslagen vet verbrandt en je lichaam de tijd heeft om zich te herstellen. Op zich prima, maar het ontbijt leidt hier vaak onder omdat ‘s ochtends je honger vaak niet zo groot is. Hierdoor lijkt het slim om het ontbijt over te slaan terwijl voor een grote groep ontbijt de belangrijkste maaltijd van de dag is. Ongelukkigerwijs wordt het grote belang van ontbijt voor je biologische klok vergeten, namelijk dat ontbijten je de energieboost geeft om met zin aan je dag te beginnen. Als je wil ‘vasten’ doe het dan door je avondeten te vervroegen. 
+Ontbijt daarentegen als een koning. ‘s Ochtends geldt dat je lichaam juist weer in de actiestand moet worden gezet! Helaas wordt het ontbijt steeds vaker overgeslagen, zeker met de opkomst van *intermittent fasting.* De bedoeling daarvan is dat je, door een periode van de dag niet te eten, je in je lichaam opgeslagen vet verbrandt en je lichaam de tijd heeft om zich te herstellen. Op zich prima, maar het ontbijt leidt hier vaak onder omdat ‘s ochtends je honger vaak niet zo groot is. Hierdoor lijkt het slim om het ontbijt over te slaan terwijl voor een grote groep ontbijt de belangrijkste maaltijd van de dag is. Ongelukkigerwijs wordt het grote belang van ontbijt voor je biologische klok vergeten, namelijk dat ontbijten je de energieboost geeft om met zin aan je dag te beginnen. Als je wil ‘vasten’ doe het dan door je avondeten te vervroegen.
 
 ### \#4 Stop met snooze en sta meteen op!
 

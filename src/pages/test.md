@@ -11,7 +11,7 @@ sections:
     title: Preview - Title
     description: Preview - Description
     linkLabel: Preview - Link label
-    linkUrl: /test-preview/
+    url: /test-preview/
     image: /assets/images/mock.jpg
   - type: topics
     showTopics: true

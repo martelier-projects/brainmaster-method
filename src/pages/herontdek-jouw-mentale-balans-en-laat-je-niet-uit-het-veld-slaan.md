@@ -2,12 +2,13 @@
 indexPage: false
 permalink: /weerbaar/
 layout: layouts/theme-page.njk
-text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
+text: 'Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
   wetenschappelijk perspectief op mentaal welzijn. Laagdrempelig en volledig
-  digitaal. "
-title: "Herontdek jouw mentale balans  en laat je niet uit het veld slaan "
+  digitaal. '
+title: 'Herontdek jouw mentale balans  en laat je niet uit het veld slaan '
 header:
-  text: Maak op een duurzame manier een einde aan slapeloze nachten en ga weer met
+  text:
+    Maak op een duurzame manier een einde aan slapeloze nachten en ga weer met
     energie de dag tegemoet, zonder hulp van medicatie.
   illustration: home
   links:
@@ -26,12 +27,12 @@ sections:
     component: buttons
     buttons:
       - label: Ik ervaar teveel stress
-        link: "#1ste section"
+        link: '#1ste section'
       - label: Ik heb teveel negatieve gedachten
-        link: "#2de section"
+        link: '#2de section'
   - imgSrc: /assets/images/foto-website-2.png
-    imgCaption: ""
-    imgAlt: "- "
+    imgCaption: ''
+    imgAlt: '- '
     sections:
       - text: >-
           "Ik ervaar te veel stress en druk in mijn leven. Bij het minst of
@@ -41,7 +42,7 @@ sections:
           controleert en beperkt mijn leven."
 
 
-          Herkenbaar? Ontdek hoe jij op een gezonde manier met stress om kan gaan. Neem de touwtjes weer in handen en laat je leven niet leiden door stress. 
+          Herkenbaar? Ontdek hoe jij op een gezonde manier met stress om kan gaan. Neem de touwtjes weer in handen en laat je leven niet leiden door stress.
         title: Ik ervaar teveel stress
       - title: Weerbaar bij tegenslagen
         text: >-
@@ -51,7 +52,7 @@ sections:
           stressvolle situaties en weet weer te ontspannen.  
 
 
-          Meer ontspannen is niet de oplossing. We worden overspoelt met manieren om te ontspannen, maar op een of andere manier werken ze niet.   
+          Meer ontspannen is niet de oplossing. We worden overspoelt met manieren om te ontspannen, maar op een of andere manier werken ze niet.
       - title: Ontspannen is niet de oplossing
         text: >-
           Stress zal er altijd zijn en altijd blijven. Per persoon uit stress
@@ -61,7 +62,7 @@ sections:
           geen optie. 
 
 
-          Ontdek wat voor jou een gezonde stressreactie is. Welke reactie jij nodig hebt. Voorkom onnodige stress door te anticiperen op het onvoorspelbare. 
+          Ontdek wat voor jou een gezonde stressreactie is. Welke reactie jij nodig hebt. Voorkom onnodige stress door te anticiperen op het onvoorspelbare.
     order: text-image
     title: Ik ervaar teveel stress
     type: text-media
@@ -70,13 +71,13 @@ sections:
   - type: preview
     component: preview
     title: Hoe hoog is jouw burn-out risico?
-    description: "Ontdek binnen vijf minuten hoe hoog jouw stressniveau is. Een
+    description: 'Ontdek binnen vijf minuten hoe hoog jouw stressniveau is. Een
       beetje stress hoort bij het leven, maar niet alle stress is gezond. Je kan
       al snel overspannen raken als te lang en te vaak gestrest bent. Ben je te
       lang overspannen, dan is de kans op burn-out groot. Een burn-out wil je
-      het liefst voor zijn. Doe vandaag nog een gratis online test. "
+      het liefst voor zijn. Doe vandaag nog een gratis online test. '
     linkLabel: Stress Scan
-    linkUrl: /weerbaar/stress-test/
+    url: /weerbaar/stress-test/
     image: /assets/images/mock.jpg
   - type: text-media
     show: true
@@ -84,7 +85,7 @@ sections:
     component: text-media
     title: Ik heb te veel negatieve gedachten (beter titel)
     imgSrc: /assets/images/artboard-2.png
-    imgAlt: "-"
+    imgAlt: '-'
     sections:
       - title: Ik heb te veel negatieve gedachten
         text: >-
@@ -95,7 +96,7 @@ sections:
           en levensgeluk leiden onder mijn negatieve emoties en gedachten."
 
 
-          Herkenbaar? Ontdek weer hoe het is om mentale rust en stilte te ervaren. Laat je niet teisteren door je negatieve gedachten. 
+          Herkenbaar? Ontdek weer hoe het is om mentale rust en stilte te ervaren. Laat je niet teisteren door je negatieve gedachten.
       - title: Ervaar mentale rust en stilte
         text: >-
           Iedereen begint het leven met een mentale balans. Ook jij kan de
@@ -105,7 +106,7 @@ sections:
           leven weer door een roze bril en geniet van iedere dag. 
 
 
-          Met een onrealistische verwachtingen beginnen vele te mediteren. Op zoek naar een verborgen zelf of een oefening die je emoties en gedachten uit zet. 
+          Met een onrealistische verwachtingen beginnen vele te mediteren. Op zoek naar een verborgen zelf of een oefening die je emoties en gedachten uit zet.
       - title: Meditatie is geen wondermiddel
         text: >-
           Meditatie kan je negatieve emoties en gedachten niet tot stilte manen.
@@ -116,11 +117,12 @@ sections:
           je mentaal in balans zijn. 
 
 
-          Ontdek welke methodes en meditatie-oefeningen jou kunnen helpen op weg naar mentale balans. 
+          Ontdek welke methodes en meditatie-oefeningen jou kunnen helpen op weg naar mentale balans.
   - type: preview
     component: preview
     title: Ontdek vitaliteitscoaching
-    description: Droom jij ervan om weer met een glimlach door het leven te gaan.
+    description:
+      Droom jij ervan om weer met een glimlach door het leven te gaan.
       Zonder opdringerige negatieve gedachten en emoties. Laat mij je helpen om
       je leven op een zachte manier te veranderen in het leven dat jij verdient.
     linkLabel: Ja, dit wil ik!

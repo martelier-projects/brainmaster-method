@@ -18,9 +18,10 @@ sections:
       rekening met je bioritme en de manier hoe jij je leven leidt. Weet jij al
       wat jouw bioritme is? Doe vandaag nog de gratis online test.
     linkLabel: Bioritme Test
-    linkUrl: /slaap/bioritme-test/
+    url: /slaap/bioritme-test/
     image: /assets/images/image-page-preview-bioritme-test-1-.png
 ---
+
 Wat zou jij doen als je dertig jaar extra te leven hebt? Een jarenlange wereldreis maken? De Chinese taal leren? Leren vliegen met een *wingsuit*?
 
 We (ver)slapen 1/3 van ons leven en velen voor jou hebben al gefantaseerd wat ze zouden kunnen doen als ze niet zo veel tijd in bed zouden doorbrengen.
@@ -49,7 +50,7 @@ Hoe ziet je reis door dromenland eruit? — Slaap is zo complex dat zelfs na jar
 
 Dat is echter geen reden waarom je als gewone sterveling zou blijven afwachten, als je ook zelf kunt meten. En meten is weten. Veel bedrijven zijn in dit gat gedoken en bieden *devices* aan die je slaap meten, zogenaamde *slaaptrackers*. In de blogpost ['Slapeloze nachten door slaaptrackers'](/blog/slaaptrackers/) worden deze *slaaptrackers* -kritisch- onder de loep genomen.
 
-Misschien krijg je langzamerhand enig idee waarom we slapen en hoe complex slaap is, maar heb je nog  geen idee waarom je soms niet is slaap kan vallen. Je kent het misschien wel: je bent erg moe, maar op  miraculeuze wijze val je maar niet in slaap. Hoe komt dat? In de blogpost ['Waarom val ik maar niet in slaap?'](/blog/waarom-val-ik-maar-niet-in-slaap/) wordt jouw frustratie besproken.
+Misschien krijg je langzamerhand enig idee waarom we slapen en hoe complex slaap is, maar heb je nog geen idee waarom je soms niet is slaap kan vallen. Je kent het misschien wel: je bent erg moe, maar op miraculeuze wijze val je maar niet in slaap. Hoe komt dat? In de blogpost ['Waarom val ik maar niet in slaap?'](/blog/waarom-val-ik-maar-niet-in-slaap/) wordt jouw frustratie besproken.
 
 #### Wat kan jij doen om beter te slapen?
 
@@ -57,4 +58,4 @@ In de zoektocht naar een goede nachtrust zijn sommigen onder ons zo wanhopig dat
 
 Naast de bekende, zoals cafeïne en alcohol, kan sinds kort ook blauw licht aan het lijstje slaapsaboteurs worden toegevoegd. Blauw licht zou namelijk je inslapen verstoren, in de blogpost '[Is blauw licht schadelijk?'](/blog/blauw-licht-schadelijk/) wordt blauw licht nader onder de loep genomen.
 
-Benieuwd naar hoe jij je slaap kan verbeteren? Meld je dan aan voor vitaliteitscoaching en volg alvast de volgende vijf slaaptips op in de blogposts '[5 Slaaptips! Maar helaas geen *quick fix*](https://phantus.com/blog/slaaptips/)'. Houd deze website in de gaten als je ook wil lezen over de effecten van andere ‘slaapmiddelen’, zoals melatonine, CBD en meditatie.
+Benieuwd naar hoe jij je slaap kan verbeteren? Meld je dan aan voor vitaliteitscoaching en volg alvast de volgende vijf slaaptips op in de blogposts '[5 Slaaptips! Maar helaas geen _quick fix_](https://phantus.com/blog/slaaptips/)'. Houd deze website in de gaten als je ook wil lezen over de effecten van andere ‘slaapmiddelen’, zoals melatonine, CBD en meditatie.

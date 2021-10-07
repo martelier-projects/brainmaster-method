@@ -17,10 +17,11 @@ sections:
       rekening met je bioritme en de manier hoe jij je leven leidt. Weet jij al
       wat jouw bioritme is? Doe vandaag nog de gratis online test.
     linkLabel: Bioritme Test
-    linkUrl: /slaap/bioritme-test/
+    url: /slaap/bioritme-test/
     image: /assets/images/image-page-preview-bioritme-test-1-.png
 ---
-Andrei Sator, *the bad guy* van de *blockbuster* Tenet, deed het ook al. Hij had een kek polsbandje waarmee hij zijn hartslag -*in real time*- kon meten. Meten is namelijk weten. Maar klopt dat wel?
+
+Andrei Sator, *the bad guy* van de *blockbuster* Tenet, deed het ook al. Hij had een kek polsbandje waarmee hij zijn hartslag -_in real time_- kon meten. Meten is namelijk weten. Maar klopt dat wel?
 
 ![](/assets/images/1_gxv37ctdagkcd8rh1rqxta.jpeg)
 
