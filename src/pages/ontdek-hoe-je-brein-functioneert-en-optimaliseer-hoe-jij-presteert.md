@@ -5,15 +5,16 @@ layout: layouts/theme-page.njk
 text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
   wetenschappelijk perspectief op mentaal welzijn. Laagdrempelig en volledig
   digitaal. "
-title: Ontdek hoe je brein functioneert en optimaliseer hoe jij presteert
+title: Ga productiever te werk
 header:
-  text: Ontdek een duurzame en persoonlijke manier van werken, waarbij je brein
-    zijn werk kan doen en jij weer in staat bent om hoog kwalitatief en creatief
-    werk te produceren.
+  text: "Ontdek een effectieve manier van werken, kom erachter hoe jouw brein
+    functioneert en presteer weer optimaal. "
   illustration: home
   links:
-    - label: Meer Info
+    - label: Vraag een adviesgesprek aan
       href: /productiviteit/adviesgesprek/
+    - label: Doe een concentratie-test
+      href: /
 sections:
   - type: rich-text
     show: true
