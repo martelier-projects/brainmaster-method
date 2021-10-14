@@ -2,9 +2,9 @@
 indexPage: false
 permalink: /productiviteit/
 layout: layouts/theme-page.njk
-text: 'Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
+text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
   wetenschappelijk perspectief op mentaal welzijn. Laagdrempelig en volledig
-  digitaal. '
+  digitaal. "
 title: Ontdek hoe je brein functioneert en optimaliseer hoe jij presteert
 header:
   text: Ontdek een duurzame en persoonlijke manier van werken, waarbij je brein
@@ -27,43 +27,32 @@ sections:
     component: buttons
     buttons:
       - label: Ik ben niet productief
-        link: '#1ste section'
+        link: "#1ste section"
       - label: Ik ben niet creatief
-        link: '#2de section'
+        link: "#2de section"
   - imgSrc: /assets/images/artboard-2.png
-    imgCaption: ''
-    imgAlt: '- '
+    imgCaption: ""
+    imgAlt: "- "
     sections:
       - text: >-
-          "Ik werk lang en hard, maar het lukt me maar niet om resultaat te
-          boeken. De hele dag ben ik van afspraak naar afspraak aan het rennen.
-          Ik ben met allerlei verschillende taken bezig, maar ik weet ze niet af
-          te ronden. Mijn to-do-lijst blijft maar groeien, totdat ik weer het
-          overzicht kwijt ben."
+          Je werkt hard en maakt lange dagen, maar boekt weinig resultaat. Je
+          rent van afspraak naar afspraak, bent met verschillende taken bezig,
+          maar haalt je deadlines niet. Uiteindelijk raak je het overzicht
+          kwijt. 
 
 
-          Herkenbaar? Ontdek hoe je slimmer kan werken in plaat van meer. Ervaar hoe je met energie kan thuiskomen na succesvolle werkdag.
-        title: Ik ben niet productief
-      - title: Lever hoog kwalitatief werk
-        text: >-
-          Geniet weer van je vrij tijd, na een succesvolle werkdag. Lever je
-          werk weer op tijd aan, zonder te hoeven overwerken. Ontdek hoe het is
-          om twee uur achtereenvolgend aan een taak te zitten. Train je
-          concentratieniveau. Herwin je focus en ervaar weer hoe het is om
-          progressie te boeken.
-
-
-          Iedereen wil presteren en wanneer je niet beter weet lijk meer en sneller werken de weg naar succes.
-      - title: Werk slimmer, niet meer
-        text: >-
-          Wanneer een deadline nadert, zijn we allemaal geneigd harder en
-          sneller te werken. Hoopvol dat we in hoog tempo hoog kwalitatief werk
-          kunnen produceren. Echter, goede prestaties komen niet voort uit meer
-          werken of sneller werken, maar slimmer werken en werken aan datgene
-          wat echt belangrijk is. 
-
-
-          Ontdek de beperkingen en mogelijkheden van je brein en optimaliseer hoe jij presteert.
+          Herkenbaar? 
+        title: Loop jij achter de feiten aan?
+      - title: Fix je focus
+        text: Haal je deadlines zonder uren over te werken, en geniet na een succesvolle
+          werkdag weer van je vrij tijd. Ontdek hoe het is om twee uur achter
+          elkaar aan één taak te zitten. Train je concentratieniveau en herwin
+          je focus.
+      - title: Werk slimmer, niet méér
+        text: "Wanneer een deadline nadert, zijn we allemaal geneigd harder en sneller
+          te werken. We denken dat we in hoog tempo werk van kwaliteit kunnen
+          produceren. Maar kijk eens naar de manier waarop je werkt. Ontdek de
+          mogelijkheden van je brein en optimaliseer je prestaties. "
     order: text-image
     title: Ik ben niet productief (beter titel)
     type: text-media
@@ -72,60 +61,45 @@ sections:
   - type: preview
     component: preview
     title: Test je concentratievermogen
-    description:
-      'Ontdek binnen vijf minuten hoe hoog jouw concentratievermogen is.
-      In deze hyperdigitale wereld liggen afleidingen altijd op de loer en wordt
-      er veel gemultitaskt. Na verloop van tijd neemt je concentratievermogen
-      af, als je het niet traint. Doe vandaag nog een gratis online test. '
-    linkLabel: Concentratie Test
+    description: "In deze hyperdigitale wereld liggen afleidingen altijd op de loer
+      en zijn we constant aan het multitasken. Ontdek binnen vijf minuten hoe
+      hoog jouw concentratievermogen is. "
+    linkLabel: Doe de concentratie-test
     linkUrl: /slaap/concentratie-test/
     image: /assets/images/mock.jpg
+    url: /
   - type: text-media
     show: true
     order: text-image
     component: text-media
-    title: Ik ben niet creatief
+    title: Ik wil mijn creativiteit boosten
     imgSrc: /assets/images/artboard-2.png
-    imgAlt: '-'
+    imgAlt: "-"
     sections:
       - title: Ik ben niet creatief
-        text: >-
-          "Er wordt van mij verwacht dat ik creatief ben. Dat ik met nieuwe en
-          nuttige ideeën kom, maar het lukt niet. Ik ben niet in staat om
-          creatief werk af te leveren. Te vaak staar ik uren naar mijn
-          computerscherm, terwijl ik weet dat ik creatief kan zijn. Mijn
-          creativiteit komt en gaat waar het zelf wil, zonder dat ik daar iets
-          over te zeggen heb."
-
-
-          Herkenbaar? Ontdek hoe je creatief werk kan afleveren wanneer jij dat wil.
-      - title: De gift van creativiteit
-        text: >-
-          Vertrouw weer in jouw creatieve vermogen. Geniet weer van het gevoel
-          dat je krijgt als je de missing link hebt gevonden. Laat je brein weer
-          de mooiste ontdekkingen doen. Kader je inspiratie en produceer
-          creatieve werk wanneer jij dat nodig hebt. 
-
-
-          Nog te vaak wordt creativiteit geforceerd. Te vaak wordt er gehoopt dat wanneer je ergens meer energie in steekt, er meer uit komt. Energie en tijd wordt verspild aan verkeerde technieken en de kans op echte creatieve ideeën gaat verloren.
-      - title: Creativiteit kan je niet forceren
-        text: >-
-          De creatie van iets moois, nieuws en unieks, heeft niet meer energie
-          nodig, maar geduld. Alleen wanneer je je de beperkingen en
-          mogelijkheden van je hersenen begrijpt, ben je in staat om je brein
-          als een instrument te bespelen. Door de perfecte combinatie van bewust
-          en onbewuste inspanning zal je in staat zijn om echt iets te creëren. 
-
-
-          Ontdek welke technieken en methodes je kunnen helpen om je creatieve vermogen te ontketenen.
+        text: Te vaak staar je uren naar je computerscherm, wachtend op een creatieve
+          ingeving. Je creativiteit komt en gaat, je hebt er geen grip op. Je
+          zoekt naar nieuwe ideeën, maar hebt geen inspiratie. Herkenbaar?
+      - title: Creativiteit is een cadeautje
+        text: "Ontwikkel je creatieve vermogen. Geniet weer van het gevoel dat je krijgt
+          als je de missing link hebt gevonden. Laat je inspireren en produceer
+          creatief werk wanneer jij dat wilt. We steken onze energie en tijd
+          vaak in de verkeerde technieken, waardoor creatieve ideeën verloren
+          gaan. "
+      - title: Geduld is een schone zaak
+        text: "De creatie van iets moois, nieuws en unieks, vraagt om geduld. Alleen
+          wanneer je de beperkingen en mogelijkheden van je hersenen begrijpt,
+          kan je optimaal presteren. Door de perfecte combinatie van bewuste en
+          onbewuste inspanning ben je in staat écht iets te creëren. Ontdek
+          welke technieken en methodes jou kunnen helpen om je creativiteit te
+          boosten. "
   - type: preview
     component: preview
     title: Ontdek vitaliteitscoaching
-    description:
-      'Presteer weer op werk en ontdek wat jouw persoonlijke werkstijl
-      is. Leer op een systematische en georganiseerde manier werken, waardoor
-      jij hoog kwalitatief en creatief werk kan produceren. '
-    linkLabel: Ja, dit wil ik!
+    description: "Vind jouw werkstijl en word productiever en creatiever. Ga op een
+      systematische en georganiseerde manier aan de slag, en lever werk van
+      kwaliteit. "
+    linkLabel: Ja, ik wil!
     url: /productiviteit/adviesgesprek/
     image: /assets/images/mock.jpg
 illustration: home
