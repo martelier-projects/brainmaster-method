@@ -1,6 +1,6 @@
 ---
 indexPage: false
-title: Plan een adviesgesprek
+title: Plan een adviesgesprek om beter te slapen
 permalink: /slaap/adviesgesprek/
 layout: layouts/theme-page.njk
 header:
