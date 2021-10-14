@@ -52,10 +52,10 @@ sections:
         text: "De eerste stap is accepteren dat stress er altijd zal zijn. Hoe die
           stress zich uit, verschilt per persoon. Het is belangrijk om te
           ontdekken welke situaties jou spanning opleveren. Alleen dan kun je
-          leren om op een gezonde manier met die stress om te gaan en erop te
-          reageren. Pas daarna kun je écht ontspannen. Ontspanning is slechts
-          één onderdeel van de oplossing. Ontdek wat voor jou een gezonde
-          stressreactie is met vitaliteitscoaching. "
+          leren om op een gezonde manier met die stress om te gaan. Pas daarna
+          kun je écht ontspannen. Ontspanning is slechts één onderdeel van de
+          oplossing. Ontdek wat voor jou een gezonde stressreactie is met
+          vitaliteitscoaching. "
     order: text-image
     title: Te veel stress
     type: text-media
@@ -63,13 +63,12 @@ sections:
     show: true
   - type: preview
     component: preview
-    title: Hoe hoog is jouw burn-out risico?
-    description: "Ontdek binnen vijf minuten hoe hoog jouw stressniveau is. Een
-      beetje stress hoort bij het leven, maar niet alle stress is gezond. Je kan
-      al snel overspannen raken als te lang en te vaak gestrest bent. Ben je te
-      lang overspannen, dan is de kans op burn-out groot. Een burn-out wil je
-      het liefst voor zijn. Doe vandaag nog een gratis online test. "
-    linkLabel: Stress Scan
+    title: Hoe hoog is jouw risico op een burn-out?
+    description: "Als je te lang en te vaak gestrest ben, kun je overspannen raken.
+      Ben je te lang overspannen, dan is de kans op een burn-out groter. En dat
+      wil je natuurlijk voorkomen. Doe nu de test en ontdek hoe hoog jouw
+      stressniveau is. "
+    linkLabel: Doe de stress-scan
     url: /weerbaar/stress-test/
     image: /assets/images/mock.jpg
   - type: text-media
