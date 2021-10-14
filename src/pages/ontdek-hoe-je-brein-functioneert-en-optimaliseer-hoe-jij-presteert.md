@@ -27,9 +27,9 @@ sections:
   - type: buttons
     component: buttons
     buttons:
-      - label: Ik ben niet productief
+      - label: Ik wil productiever werken
         link: "#1ste section"
-      - label: Ik ben niet creatief
+      - label: Ik wil mijn creativiteit boosten
         link: "#2de section"
   - imgSrc: /assets/images/artboard-2.png
     imgCaption: ""
