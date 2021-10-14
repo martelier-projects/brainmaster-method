@@ -94,7 +94,7 @@ sections:
           bang te zijn voor je eigen gedachten. Word weer de baas over je eigen
           emoties en ontdek hoe het is om mentale rust te ervaren. Bekijk het
           leven weer door een roze bril en geniet van iedere dag. "
-      - title: Meditatie is een mentale marathon.
+      - title: Meditatie is een mentale marathon
         text: "Alvast een disclaimer: meditatie kan je negatieve emoties en gedachten
           niet tot stilte manen. Wanneer meditatie als afleiding dient, word je
           misschien teleurgesteld. Mentale rust begint bij acceptatie: leer je
