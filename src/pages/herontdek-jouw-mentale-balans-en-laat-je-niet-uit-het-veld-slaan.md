@@ -23,7 +23,7 @@ sections:
       ## Word jij beperkt door stress of negatieve gedachten?
 
 
-      Iedereen zit wel eens wat minder goed in zijn vel. Dat is heel normaal. Als je daar last van hebt, kan dat best vervelend zijn. Zeker als het te lang aanhoudt. Stress hoort bij het leven, maar wanneer het te veel wordt kan het je leven in zijn grip houden. Naast te veel zorgen en stress kunnen negatieve emoties en gedachten overdreven vaak je aandacht grijpen. Ook negatieve emoties en gedachten horen bij het leven, maar wanneer je erdoor geteisterd wordt gaat het te ver. Ervaar jij te veel stress of heb je te veel negatieve gedachten?
+      Iedereen zit weleens wat minder goed in z’n vel. Stress hoort bij het leven, maar het mag je niet belemmeren in je dagelijkse bezigheden. Naast gepieker en stress kunnen negatieve emoties en gedachten je ook in de weg staan. Waar loop jij tegen aan: stress of negatieve gedachten?
   - type: buttons
     component: buttons
     buttons:
@@ -36,36 +36,28 @@ sections:
     imgAlt: "- "
     sections:
       - text: >-
-          "Ik ervaar te veel stress en druk in mijn leven. Bij het minst of
-          geringste slaat de stress weer toe. Het lukt mij ook niet meer om te
-          ontspannen. De stress lijkt zich op te slaan in je lichaam waardoor je
-          vaak een druk op mijn borst voelt of bonzend hoofd. De stress
-          controleert en beperkt mijn leven."
+          Je voelt je vaak gestrest en ervaart een constante druk. Bij kleine
+          tegenslagen word je al nerveus. Het lukt je dan niet om te ontspannen.
+          De stress lijkt zich op te slaan in je lichaam, wat resulteert in druk
+          op de borst en een bonzend hoofd. Die spanning beperkt je dagelijks. 
 
 
-          Herkenbaar? Ontdek hoe jij op een gezonde manier met stress om kan gaan. Neem de touwtjes weer in handen en laat je leven niet leiden door stress.
-        title: Ik ervaar teveel stress
+          Herkenbaar?
+        title: Het lukt niet om te ontspannen
       - title: Weerbaar bij tegenslagen
-        text: >-
-          Ga weer strijdlustig door het leven. Laat je niet uit het veld slaan
-          door stress, maar toon veerkracht bij tegenslagen. Stop met doemdenken
-          en maak je niet onnodig zorgen. Reageer op een gezonde manier op
-          stressvolle situaties en weet weer te ontspannen.  
-
-
-          Meer ontspannen is niet de oplossing. We worden overspoelt met manieren om te ontspannen, maar op een of andere manier werken ze niet.
-      - title: Ontspannen is niet de oplossing
-        text: >-
-          Stress zal er altijd zijn en altijd blijven. Per persoon uit stress
-          zich op een andere manier. Alleen wanneer je stress kan herkennen kan
-          je onnodige stress voorkomen en op stress reageren. Na een gezonde
-          stressreactie kan je weer ontspannen, want ontspanning forceren is
-          geen optie. 
-
-
-          Ontdek wat voor jou een gezonde stressreactie is. Welke reactie jij nodig hebt. Voorkom onnodige stress door te anticiperen op het onvoorspelbare.
+        text: "Laat je niet uit het veld slaan door stress, en wordt veerkrachtiger bij
+          tegenslagen. Stop met doemdenken en reageer op een gezonde manier op
+          stressvolle situaties. Maar hoe doe je dat? "
+      - title: Een gezonde stressreactie
+        text: "De eerste stap is accepteren dat stress er altijd zal zijn. Hoe die
+          stress zich uit, verschilt per persoon. Het is belangrijk om te
+          ontdekken welke situaties jou spanning opleveren. Alleen dan kun je
+          leren om op een gezonde manier met die stress om te gaan en erop te
+          reageren. Pas daarna kun je écht ontspannen. Ontspanning is slechts
+          één onderdeel van de oplossing. Ontdek wat voor jou een gezonde
+          stressreactie is met vitaliteitscoaching. "
     order: text-image
-    title: Ik ervaar teveel stress
+    title: Te veel stress
     type: text-media
     component: text-media
     show: true
