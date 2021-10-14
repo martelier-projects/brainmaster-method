@@ -7,6 +7,11 @@ header:
   text: "Wil je beter slapen? Ga aan de slag met een vitaliteitscoach en
     optimaliseer je nachtrust. "
   illustration: home
+  links:
+    - label: Meer info slaapcoaching
+      href: /slaap/
+    - label: Doe de bioritme-test
+      href: /slaap/bioritme-test/
 sections:
   - type: text-media
     show: true
