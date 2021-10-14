@@ -5,14 +5,16 @@ layout: layouts/theme-page.njk
 text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
   wetenschappelijk perspectief op mentaal welzijn. Laagdrempelig en volledig
   digitaal. "
-title: Word weer energiek wakker zonder slaapmedicatie
+title: Word weer energiek wakker
 header:
-  text: Maak op een duurzame manier een einde aan slapeloze nachten en ga weer met
-    energie de dag tegemoet, zonder hulp van medicatie.
+  text: Maak een einde aan slapeloze nachten, zónder het gebruik van
+    slaapmedicatie. Zo begin je de dag weer vol energie.
   illustration: home
   links:
-    - label: Doe de bioritme test
+    - label: Doe de bioritme-test
       href: /slaap/bioritme-test/
+    - label: Slaapcoaching
+      href: /slaap/adviesgesprek/
 sections:
   - type: rich-text
     show: true
