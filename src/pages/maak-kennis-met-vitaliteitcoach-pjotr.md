@@ -1,6 +1,6 @@
 ---
 indexPage: true
-title: Maak kennis met vitaliteitcoach Pjotr
+title: "Wie is coach Pjotr? "
 permalink: /over-pjotr/
 layout: layouts/default-template.njk
 header:
