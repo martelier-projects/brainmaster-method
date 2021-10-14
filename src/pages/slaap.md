@@ -88,11 +88,12 @@ sections:
   - type: preview
     component: preview
     title: Ontdek slaapcoaching
-    description: "Jouw slaapprobleem is uniek en verdient dus een persoonlijke
-      aanpak. Samen kunnen we onderzoeken hoe slaapcoaching jou kan helpen. Met
-      gratis adviesgesprek zet jij de eerste stap naar een zorgeloze nachtrust.
-      "
-    linkLabel: Ja, dit wil ik!
+    description: Jouw slaapprobleem is uniek en vraagt om een persoonlijke aanpak.
+      Samen kunnen we onderzoeken hoe slaapcoaching jou kan helpen. We rekenen
+      stap voor stap af met de biologische en psychologische stoorzenders. Met
+      een gratis adviesgesprek zet jij de eerste stap naar een zorgeloze
+      nachtrust.
+    linkLabel: Ja, ik wil!
     linkUrl: /slaap/adviesgesprek/
     image: /assets/images/mock.jpg
     url: /coaching/
