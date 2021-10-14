@@ -52,12 +52,11 @@ sections:
     show: true
   - type: preview
     component: preview
-    title: Ontdek binnen vijf minuten wat bioritme is
-    description: Slaap is persoonlijk. Dit komt je individuele biologische
-      slaap-waakritme, bioritme in het kort. Een persoonlijk slaappatroon houdt
-      rekening met je bioritme en de manier hoe jij je leven leidt. Weet jij al
-      wat jouw bioritme is? Doe vandaag nog de gratis online test.
-    linkLabel: Bioritme Test
+    title: Slaap is persoonlijk
+    description: "Hoe je slaapt, heeft alles te maken met je biologische
+      slaap-waakritme – bioritme in het kort. Hieruit volgt je individuele
+      slaappatroon. Ken je jouw bioritme al? Doe de online test. "
+    linkLabel: Ontdek jouw bioritme
     url: /slaap/bioritme-test
     image: /assets/images/image-page-preview-bioritme-test-1-.png
   - type: text-media
