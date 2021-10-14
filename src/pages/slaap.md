@@ -75,12 +75,16 @@ sections:
 
           Herkenbaar? Helaas komt dit maar al te vaak voor. Toch kan ook jij het vertrouwen in je slaap herwinnen.
       - title: Slaap weer als een roos
-        text: Iedereen heeft van nature het vermogen om te slapen. Ook jij was vroeger
+        text: "Iedereen heeft van nature het vermogen om te slapen. Ook jij was vroeger
           zonder problemen de hele nacht in dromenland. Je natuurlijke
           slaappatroon weer terugkrijgen? Dat kan zeker. Belangrijk is op zoek
           te gaan naar de dieperliggende oorzaken. Slaapproblemen zijn vaak
-          complex, en daardoor ligt de oplossing niet voorhanden. Een slaapcoach
-          kan je daarbij helpen.
+          complex, en daardoor ligt de oplossing niet voorhanden. "
+      - title: 101 slaapsaboteurs
+        text: Alleen wanneer aan alle 101 voorwaarden wordt voldaan zal het probleem
+          verholpen zijn. Hierdoor zal de moed je halverwege vaak in de schoenen
+          zinken. Een slaapcoach kan je helpen om stap voor stap aan alle 101
+          voorwaarden te voldoen.
   - type: preview
     component: preview
     title: Ontdek slaapcoaching
