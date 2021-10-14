@@ -11,10 +11,10 @@ header:
     slaapmedicatie. Zo begin je de dag weer vol energie.
   illustration: home
   links:
-    - label: Doe de bioritme-test
-      href: /slaap/bioritme-test/
     - label: Slaapcoaching
       href: /slaap/adviesgesprek/
+    - label: Doe de bioritme-test
+      href: /slaap/bioritme-test/
 sections:
   - type: rich-text
     show: true
