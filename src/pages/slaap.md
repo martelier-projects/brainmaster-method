@@ -69,31 +69,18 @@ sections:
     sections:
       - title: "Ik ben bang om naar bed te gaan "
         text: >-
-          “Al ruim voordat ik naar bed ga begint het. De angst slaat letterlijk
-          in. Bang dat ik weer niet kan slapen. Bang dat ik weer de hele nacht
-          wakker zal liggen. Na al die onsuccesvolle pogingen om beter te
-          slapen, vervliegt de hoop.”
+          Ruim voordat je naar bed gaat, begint het gepieker. Je bent bang weer
+          de hele nacht wakker te liggen en de slaap niet te kunnen vatten. 
 
 
-          Herken jij jezelf hierin? Helaas kot dit maar te vaak voor. Toch kan ook jij weer het vertrouwen herwinnen in je slaapvermogen en zonder angst naar bed gaan.
+          Herkenbaar? Helaas komt dit maar al te vaak voor. Toch kan ook jij het vertrouwen in je slaap herwinnen.
       - title: Slaap weer als een roos
-        text: >
-          Iedereen heeft van nature het vermogen om te slapen. Ook jij kon
-          vroeger zonder problemen de hele nacht doorslapen. Ga weer zonder
-          zorgen naar bed en verlang weer naar die fijne geur van je schone
-          lakens. Val weer zonder problemen binnen een half uur in slaap. 
-
-
-          Je natuurlijke slaapvermogen kan je weer terugkrijgen. Slapeloze nachten hebben namelijk altijd een oorzaak. Vaak is de oorzaak meerledig. Hierdoor is de oorzaak vaak complex.
-      - title: "101 slaapsaboteurs "
-        text: >-
-          Slaapproblemen zijn meerledig en de oplossing is vaak complex. Alleen
-          wanneer aan alle 101 voorwaarden wordt voldaan zal het probleem
-          verholpen zijn. Hierdoor zal de moed je halverwege vaak in de schoenen
-          zinken. 
-
-
-          Slaapproblemen zijn persoonlijk en verdienen een persoonlijke aanpak. We rekenen stap voor stap af met de stoorzenders, zowel biologisch als psychologisch.
+        text: Iedereen heeft van nature het vermogen om te slapen. Ook jij was vroeger
+          zonder problemen de hele nacht in dromenland. Je natuurlijke
+          slaappatroon weer terugkrijgen? Dat kan zeker. Belangrijk is op zoek
+          te gaan naar de dieperliggende oorzaken. Slaapproblemen zijn vaak
+          complex, en daardoor ligt de oplossing niet voorhanden. Een slaapcoach
+          kan je daarbij helpen.
   - type: preview
     component: preview
     title: Ontdek slaapcoaching
