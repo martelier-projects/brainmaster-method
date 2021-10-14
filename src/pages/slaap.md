@@ -20,10 +20,10 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Word jij moe wakker óf ben je bang om naar bed te gaan?
+      ## Last van slapeloze nachten?
 
 
-      Er zijn twee slechte slapers. Zij die te vaak moe wakker worden en met tegenzin aan de dag beginnen. En slechte slapers die al heel lang niet goed slapen en daarom bang zijn om naar bed te gaan, bang om weer een nacht nauwelijks te slapen. Wat voor slaper ben jij?
+      Er zijn twee soorten slechte slapers: degenen die licht slapen en daardoor moe wakker worden, en zij die bang zijn om naar bed te gaan omdat ze al lange tijd slecht slapen. Waar herken jij jezelf in?
   - type: buttons
     component: buttons
     buttons:
