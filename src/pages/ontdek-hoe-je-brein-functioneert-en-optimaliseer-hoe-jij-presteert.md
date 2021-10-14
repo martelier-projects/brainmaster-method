@@ -20,7 +20,7 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Heb je productiever en creatiever werken?
+      ## Wil je productiever en creatiever werken?
 
 
       Krijg je minder werk gedaan dan gepland, en wordt je to-do-lijst alleen maar langer? Zit je tegen beter weten in te wachten op een creatieve ingeving? Ontdek hoe je productiever én creatiever wordt in je werk.
