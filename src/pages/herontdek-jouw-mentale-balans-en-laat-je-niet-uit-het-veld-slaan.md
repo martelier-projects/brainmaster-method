@@ -102,7 +102,7 @@ sections:
           waarbij het doel slechts langzaam dichterbij komt. Onder begeleiding
           van een vitaliteitscoach kan ook jij deze mentale marathon lopen.
           Ontdek welke methodes en meditatie-oefeningen jou helpen op weg naar
-          mentaled balans."
+          mentale balans."
   - type: preview
     component: preview
     title: Ontdek vitaliteitscoaching
