@@ -2,18 +2,19 @@
 indexPage: false
 permalink: /weerbaar/
 layout: layouts/theme-page.njk
-text: 'Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
+text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
   wetenschappelijk perspectief op mentaal welzijn. Laagdrempelig en volledig
-  digitaal. '
-title: 'Herontdek jouw mentale balans  en laat je niet uit het veld slaan '
+  digitaal. "
+title: Herontdek jouw mentale balans en voel je weerbaar
 header:
-  text:
-    Maak op een duurzame manier een einde aan slapeloze nachten en ga weer met
-    energie de dag tegemoet, zonder hulp van medicatie.
+  text: Maak een einde aan -onnodige- stress en negatieve gedachten, waardoor jij
+    je weer veerkrachtig en weerbaar zal gaan voelen.
   illustration: home
   links:
-    - label: Doe de bioritme test
-      href: /
+    - label: Vitaliteitscoaching
+      href: /weerbaar/adviesgesprek/
+    - label: Doe de stress-scan
+      href: /weerbaar/stress-test/
 sections:
   - type: rich-text
     show: true
@@ -27,12 +28,12 @@ sections:
     component: buttons
     buttons:
       - label: Ik ervaar teveel stress
-        link: '#1ste section'
+        link: "#1ste section"
       - label: Ik heb teveel negatieve gedachten
-        link: '#2de section'
+        link: "#2de section"
   - imgSrc: /assets/images/foto-website-2.png
-    imgCaption: ''
-    imgAlt: '- '
+    imgCaption: ""
+    imgAlt: "- "
     sections:
       - text: >-
           "Ik ervaar te veel stress en druk in mijn leven. Bij het minst of
@@ -71,11 +72,11 @@ sections:
   - type: preview
     component: preview
     title: Hoe hoog is jouw burn-out risico?
-    description: 'Ontdek binnen vijf minuten hoe hoog jouw stressniveau is. Een
+    description: "Ontdek binnen vijf minuten hoe hoog jouw stressniveau is. Een
       beetje stress hoort bij het leven, maar niet alle stress is gezond. Je kan
       al snel overspannen raken als te lang en te vaak gestrest bent. Ben je te
       lang overspannen, dan is de kans op burn-out groot. Een burn-out wil je
-      het liefst voor zijn. Doe vandaag nog een gratis online test. '
+      het liefst voor zijn. Doe vandaag nog een gratis online test. "
     linkLabel: Stress Scan
     url: /weerbaar/stress-test/
     image: /assets/images/mock.jpg
@@ -85,7 +86,7 @@ sections:
     component: text-media
     title: Ik heb te veel negatieve gedachten (beter titel)
     imgSrc: /assets/images/artboard-2.png
-    imgAlt: '-'
+    imgAlt: "-"
     sections:
       - title: Ik heb te veel negatieve gedachten
         text: >-
@@ -121,13 +122,13 @@ sections:
   - type: preview
     component: preview
     title: Ontdek vitaliteitscoaching
-    description:
-      Droom jij ervan om weer met een glimlach door het leven te gaan.
+    description: Droom jij ervan om weer met een glimlach door het leven te gaan.
       Zonder opdringerige negatieve gedachten en emoties. Laat mij je helpen om
       je leven op een zachte manier te veranderen in het leven dat jij verdient.
     linkLabel: Ja, dit wil ik!
     linkUrl: /slaap/adviesgesprek/
     image: /assets/images/mock.jpg
+    url: /weerbaar/adviesgesprek/
 illustration: home
 links:
   - label: This is the label
