@@ -36,7 +36,7 @@ sections:
       - text: "Als de wekker gaat, kom je met moeite uit bed. Je bent wazig en hebt
           koffie nodig om écht op te starten. Je bent de hele dag futloos en pas
           ’s avonds leef je weer een beetje op. Herkenbaar?  "
-        title: Als de wekker gaat
+        title: Ik ben de hele dag futloos
       - title: Word weer energiek wakker
         text: "Reken af met vermoeidheid, word weer fris wakker en maak van de ochtenden
           jouw moment. "
@@ -46,7 +46,7 @@ sections:
           vooral belangrijk dat je diep slaapt. Zo wordt de schade van de dag
           ervoor gerepareerd en de ‘troep’ in je hersenen opgeruimd. "
     order: text-image
-    title: Ik word moe wakker
+    title: Moe wakker
     type: text-media
     component: text-media
     show: true
@@ -63,11 +63,11 @@ sections:
     show: true
     order: text-image
     component: text-media
-    title: "Bang om naar bed te gaan "
+    title: Slaapangst
     imgSrc: /assets/images/artboard-2.png
     imgAlt: "-"
     sections:
-      - title: "Angst om naar bed te gaan "
+      - title: "Ik ben bang om naar bed te gaan "
         text: >-
           “Al ruim voordat ik naar bed ga begint het. De angst slaat letterlijk
           in. Bang dat ik weer niet kan slapen. Bang dat ik weer de hele nacht
