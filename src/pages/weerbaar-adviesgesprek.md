@@ -1,6 +1,6 @@
 ---
 indexPage: false
-title: Plan een adviesgesprek
+title: Plan een adviesgesprek om je weerbaarder te voelen
 permalink: /weerbaar/adviesgesprek/
 layout: layouts/theme-page.njk
 header:
