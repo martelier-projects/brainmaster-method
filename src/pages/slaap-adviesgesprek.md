@@ -31,6 +31,9 @@ sections:
           en kosteloos. Pas daarna hoef je te beslissen of je verder wil gaan
           met het traject. Heb je meer vragen? Kijk dan op de FAQ-pagina.
         title: Hoe werkt het?
+      - title: Plan een adviesgesprek
+        text: Ik bied je graag een gratis adviesgesprek aan. Je kunt direct een afspraak
+          maken in mijn digitale agenda.
     imgAlt: /
 seo:
   title: Slaap - adviesgesprek
