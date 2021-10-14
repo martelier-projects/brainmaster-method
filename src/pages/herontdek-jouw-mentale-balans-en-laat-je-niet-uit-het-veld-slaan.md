@@ -106,10 +106,10 @@ sections:
   - type: preview
     component: preview
     title: Ontdek vitaliteitscoaching
-    description: Droom jij ervan om weer met een glimlach door het leven te gaan.
-      Zonder opdringerige negatieve gedachten en emoties. Laat mij je helpen om
-      je leven op een zachte manier te veranderen in het leven dat jij verdient.
-    linkLabel: Ja, dit wil ik!
+    description: Droom jij ervan om weer met een glimlach door het leven te gaan?
+      Ontdek weer hoe het is om mentale rust en stilte te ervaren. Laat je niet
+      meer tegenhouden door negatieve gedachten.
+    linkLabel: Ja, ik wil!
     linkUrl: /slaap/adviesgesprek/
     image: /assets/images/mock.jpg
     url: /weerbaar/adviesgesprek/
