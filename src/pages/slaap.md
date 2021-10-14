@@ -98,7 +98,7 @@ sections:
     linkLabel: Ja, ik wil!
     linkUrl: /slaap/adviesgesprek/
     image: /assets/images/mock.jpg
-    url: /coaching/
+    url: /slaap/adviesgesprek/
 illustration: home
 links:
   - label: This is the label
