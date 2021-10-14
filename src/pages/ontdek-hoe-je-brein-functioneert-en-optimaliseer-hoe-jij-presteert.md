@@ -20,10 +20,10 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Heb je problemen met productiviteit of creativiteit?
+      ## Heb je productiever en creatiever werken?
 
 
-      Iedereen zit wel eens wat minder goed in zijn vel. Dat is heel normaal. Soms wordt je to-do-lijstje alleen maar langer of zit je tegen beter weten in te hopen op een creatieve ingeving. Als je daar last van hebt, kan dat best vervelend zijn. Zeker als het te lang aanhoudt. Een minder dag kan best, maar het mag niet weken aanhouden. Waar loop jij op je werk tegen aan?
+      Krijg je minder werk gedaan dan gepland, en wordt je to-do-lijst alleen maar langer? Zit je tegen beter weten in te wachten op een creatieve ingeving? Ontdek hoe je productiever én creatiever wordt in je werk.
   - type: buttons
     component: buttons
     buttons:
