@@ -24,7 +24,7 @@ sections:
         text: "Tijdens ons gesprek van een half uur zoeken we uit of coaching bij jou
           past. Ook krijg je informatie over de vijf slaapblokkers én
           -saboteurs. Daarnaast ontvang je een stappenplan om zorgeloos in slaap
-          te vallen. Doe voor het adviesgesprek alvast de bioritmetest en
+          te vallen. Doe voor het adviesgesprek alvast de bioritme-test en
           ontvang een persoonlijk advies over je slaappatroon. "
       - text: Als je na het adviesgesprek enthousiast bent, maken we uitgebreid kennis
           tijdens een intakesessie. Het gesprek en de intake zijn vrijblijvend
