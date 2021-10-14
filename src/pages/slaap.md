@@ -29,7 +29,7 @@ sections:
         link: "#1ste section"
       - label: Ik ben bang om te slapen
         link: "#2de section"
-  - imgSrc: /assets/images/artboard-2.png
+  - imgSrc: /assets/images/ontwerp-zonder-titel-12-.png
     imgCaption: ""
     imgAlt: "- "
     sections:
