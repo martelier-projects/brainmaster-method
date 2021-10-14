@@ -55,7 +55,7 @@ sections:
           produceren. Maar kijk eens naar de manier waarop je werkt. Ontdek de
           mogelijkheden van je brein en optimaliseer je prestaties. "
     order: text-image
-    title: Ik ben niet productief (beter titel)
+    title: Ik wil productiever werken
     type: text-media
     component: text-media
     show: true
@@ -77,7 +77,7 @@ sections:
     imgSrc: /assets/images/artboard-2.png
     imgAlt: "-"
     sections:
-      - title: Ik ben niet creatief
+      - title: Staar jij uren naar je computerscherm?
         text: Te vaak staar je uren naar je computerscherm, wachtend op een creatieve
           ingeving. Je creativiteit komt en gaat, je hebt er geen grip op. Je
           zoekt naar nieuwe ideeën, maar hebt geen inspiratie. Herkenbaar?
