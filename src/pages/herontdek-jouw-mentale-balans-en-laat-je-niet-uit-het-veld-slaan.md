@@ -75,41 +75,34 @@ sections:
     show: true
     order: text-image
     component: text-media
-    title: Ik heb te veel negatieve gedachten (beter titel)
+    title: Negatieve gedachten
     imgSrc: /assets/images/artboard-2.png
     imgAlt: "-"
     sections:
-      - title: Ik heb te veel negatieve gedachten
+      - title: Negatieve gedachten komen als een boemerang terug
         text: >-
-          "Ik word gek van mijn gedachten. Negatieve emoties en gedachten
-          blijven als een boemerang terugkomen. Ik ben zo veel aan het piekeren
-          dat ik niet meer weet of het ooit ophoudt. Afleiding helpt allen
-          tijdelijk om mijn gedachten tot stilte te manen. Mijn werk, relaties
-          en levensgeluk leiden onder mijn negatieve emoties en gedachten."
+          Negatieve emoties en gedachten blijven als een boemerang terugkomen.
+          Je bent zo veel aan het piekeren, dat je twijfelt of het ooit nog
+          ophoudt. Afleiding helpt alleen tijdelijk. Je werk, relaties en
+          levensgeluk lijden onder je negatieve emoties en gedachten. 
 
-
-          Herkenbaar? Ontdek weer hoe het is om mentale rust en stilte te ervaren. Laat je niet teisteren door je negatieve gedachten.
-      - title: Ervaar mentale rust en stilte
-        text: >-
-          Iedereen begint het leven met een mentale balans. Ook jij kan de
-          neerwaarde spiraal van doorbreken. Geniet weer van de stilte zonder
+          Herkenbaar?
+      - title: Doorbreek de negatieve spiraal
+        text: "We zijn allemaal op zoek naar een mentale balans. Ben je die balans
+          kwijt, dan kun je in  een neerwaartse spiraal belanden. Maak je geen
+          zorgen: ook jij kan hieruit komen. Geniet weer van de stilte zonder
           bang te zijn voor je eigen gedachten. Word weer de baas over je eigen
-          emoties. Ontdek weer hoe het is om mentale rust te ervaren. Bekijk het
-          leven weer door een roze bril en geniet van iedere dag. 
-
-
-          Met een onrealistische verwachtingen beginnen vele te mediteren. Op zoek naar een verborgen zelf of een oefening die je emoties en gedachten uit zet.
-      - title: Meditatie is geen wondermiddel
-        text: >-
-          Meditatie kan je negatieve emoties en gedachten niet tot stilte manen.
-          Wanneer meditatie als afleiding dient, zal ook meditatie je
-          teleurstellen. Mentale rust komt niet voort uit onderdrukking, maar
-          uit acceptatie. Alleen wanneer leert je gedachtes en emoties toe te
-          laten zal je in staat zijn om mentale rust te ervaren. Alleen dan zal
-          je mentaal in balans zijn. 
-
-
-          Ontdek welke methodes en meditatie-oefeningen jou kunnen helpen op weg naar mentale balans.
+          emoties en ontdek hoe het is om mentale rust te ervaren. Bekijk het
+          leven weer door een roze bril en geniet van iedere dag. "
+      - title: Meditatie is een mentale marathon.
+        text: "Alvast een disclaimer: meditatie kan je negatieve emoties en gedachten
+          niet tot stilte manen. Wanneer meditatie als afleiding dient, word je
+          misschien teleurgesteld. Mentale rust begint bij acceptatie: leer je
+          gedachtes en emoties toe te laten. Meditatie is een mentale marathon,
+          waarbij het doel slechts langzaam dichterbij komt. Onder begeleiding
+          van een vitaliteitscoach kan ook jij deze mentale marathon lopen.
+          Ontdek welke methodes en meditatie-oefeningen jou helpen op weg naar
+          mentaled balans."
   - type: preview
     component: preview
     title: Ontdek vitaliteitscoaching
