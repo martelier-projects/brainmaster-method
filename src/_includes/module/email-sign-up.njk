@@ -23,14 +23,23 @@
             </div>
          </div>
 
-         <div class="_form_element _x15028327 _inline-style email-sign-up__full-name-area">
-            <label for="fullname" class="_form-label">
-            Volledige Naam
+          <div class="_form_element _x89699705 _inline-style email-sign-up__first-name-area">
+            <label for="firstname" class="_form-label">
+              Voornaam <span class="email-sign-up__required">*</span>
             </label>
             <div class="_field-wrapper">
-               <input type="text" id="fullname" name="fullname" placeholder="Type je naam in" />
+              <input type="text" id="firstname" name="firstname" placeholder="Typ je voornaam in" required/>
             </div>
-         </div>
+          </div>
+
+          <div class="_form_element _x51095200 _inline-style email-sign-up__last-name-area">
+            <label for="lastname" class="_form-label">
+              Achternaam <span class="email-sign-up__required">*</span>
+            </label>
+            <div class="_field-wrapper">
+              <input type="text" id="lastname" name="lastname" placeholder="Typ je achternaam in" required/>
+            </div>
+          </div>
 
          <div class="_form_element _x31872452 _inline-style email-sign-up__email-area">
             <label for="email" class="_form-label">
@@ -51,7 +60,6 @@
       <div class="_form-thank-you email-sign-up__response" style="display:none;"></div>
    </form>
 </div>
-
 
 <script type="text/javascript">
 window.cfields = [];
