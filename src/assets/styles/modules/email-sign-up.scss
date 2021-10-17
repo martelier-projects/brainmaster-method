@@ -48,7 +48,8 @@
   grid-template-areas:
     'title'
     'text'
-    'name'
+    'firstName'
+    'lastName'
     'email'
     'submit';
 
@@ -59,16 +60,18 @@
     grid-template-areas:
       'title title'
       'text text'
-      'name email'
+      'firstName lastName'
+      'email email'
       '. submit';
   }
   @include bp-min($bp-ml) {
-    grid-template-columns: repeat(2, 1fr) 12rem;
-    grid-template-rows: repeat(3, auto);
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, auto);
     grid-template-areas:
-      'title title title'
-      'text text text'
-      'name email submit';
+      'title title title title'
+      'text text text text'
+      'firstName firstName lastName lastName'
+      'email email email submit';
   }
 }
 
@@ -93,8 +96,11 @@
 .email-sign-up__text-area {
   grid-area: text;
 }
-.email-sign-up__full-name-area {
-  grid-area: name;
+.email-sign-up__first-name-area {
+  grid-area: firstName;
+}
+.email-sign-up__last-name-area {
+  grid-area: lastName;
 }
 .email-sign-up__email-area {
   grid-area: email;
