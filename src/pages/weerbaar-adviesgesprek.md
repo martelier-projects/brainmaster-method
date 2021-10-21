@@ -33,7 +33,7 @@ sections:
     show: true
     order: text-image
     component: text-media
-    imgSrc: /assets/images/foto-website.jpg
+    imgSrc: /assets/images/kopie-van-kennismaking-s-insta-post-1080-x-600-px-.png
     title: Met wie ga je in gesprek?
     imgAlt: /
     sections:
