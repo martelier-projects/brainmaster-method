@@ -33,14 +33,6 @@ sections:
           met het traject. Heb je meer vragen? Kijk dan op de FAQ-pagina.
         title: Hoe werkt het?
     imgAlt: /
-  - type: preview
-    component: preview
-    title: Plan een adviesgesprek
-    url: https://calendly.com/pjotr-peulen/gratis-adviesgesprek
-    image: /assets/images/foto-website-preview-adviesgesprek-1-.png
-    linkLabel: Plan nu een afspraak
-    description: Ik bied je graag een gratis adviesgesprek aan. Je kunt direct een
-      afspraak maken in mijn digitale agenda.
   - type: text-media
     show: true
     order: text-image
@@ -54,6 +46,14 @@ sections:
           het hele coachingstraject met dezelfde coach. Voelt het bij het gratis
           adviesgesprek goed, dan hoef je die comfortzone niet meer uit. Tot
           snel!
+  - type: preview
+    component: preview
+    title: Plan een adviesgesprek
+    url: https://calendly.com/pjotr-peulen/gratis-adviesgesprek
+    image: /assets/images/foto-website-preview-adviesgesprek-1-.png
+    linkLabel: Plan nu een afspraak
+    description: Ik bied je graag een gratis adviesgesprek aan. Je kunt direct een
+      afspraak maken in mijn digitale agenda.
 seo:
   title: Slaap - adviesgesprek
   description: Slaap - adviesgesprek
