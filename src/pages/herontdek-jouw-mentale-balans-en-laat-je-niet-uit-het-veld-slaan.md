@@ -116,7 +116,7 @@ sections:
   - type: rich-text
     show: true
     component: rich-text
-    text: "## Droom jij ervan om weer met een glimlach door het leven te gaan?"
+    text: "## Interesse in vitaliteitscoaching?"
   - type: preview
     component: preview
     title: Ontdek vitaliteitscoaching
