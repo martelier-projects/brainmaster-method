@@ -46,7 +46,7 @@ sections:
           snel!
   - type: preview
     component: preview
-    title: Plan een adiesgesprek
+    title: Plan een adviesgesprek
     description: Ik bied je graag een gratis adviesgesprek aan. Je kunt direct een
       afspraak maken in mijn digitale agenda.
     url: https://calendly.com/pjotr-peulen/gratis-adviesgesprek
