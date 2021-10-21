@@ -1,6 +1,6 @@
 ---
 indexPage: false
-title: Doe de emotiemeter
+title: Ontdek jouw mentale balans met de emotiemeter
 permalink: /weerbaar/emotie-test/
 layout: layouts/theme-page.njk
 header:
