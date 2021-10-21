@@ -35,7 +35,7 @@ sections:
     imgAlt: /
   - type: text-media
     show: true
-    order: text-image
+    order: image-text
     component: text-media
     title: Met wie ga je in gesprek?
     imgSrc: /assets/images/kopie-van-kennismaking-s-insta-post-1080-x-600-px-.png
