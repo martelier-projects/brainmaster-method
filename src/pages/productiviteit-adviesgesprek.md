@@ -7,7 +7,10 @@ header:
   illustration: home
   text: "Werk niet harder, maar slimmer. Hoe je dat doet? Vitaliteitscoaching kan
     daarbij helpen. "
-  links: []
+  links:
+    - label: Plan een adviesgesprek
+      href: https://calendly.com/pjotr-peulen/gratis-adviesgesprek
+      id: plan-adviesgesprek
 sections:
   - type: text-media
     show: true
@@ -28,6 +31,14 @@ sections:
           tijdens een intakesessie. Het gesprek en de intake zijn vrijblijvend
           en kosteloos. Pas daarna hoef je te beslissen of je verder wil gaan
           met het traject. Heb je nog meer vragen? Kijk dan op de FAQ-pagina.
+  - type: preview
+    component: preview
+    title: Plan een adiesgesprek
+    description: Ik bied je graag een gratis adviesgesprek aan. Je kunt direct een
+      afspraak maken in mijn digitale agenda.
+    url: https://calendly.com/pjotr-peulen/gratis-adviesgesprek
+    linkLabel: Plan nu een afspraak
+    image: /assets/images/foto-website-preview-adviesgesprek-1-.png
 seo:
   title: Productiviteit - adviesgesprek
   description: Productiviteit - adviesgesprek
