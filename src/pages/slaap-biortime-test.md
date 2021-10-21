@@ -1,10 +1,18 @@
 ---
 indexPage: false
 title: Biortime test
-permalink: /slaap/in-constructie/
+permalink: /slaap/verborgen/
 layout: layouts/default-template.njk
 header:
-  illustration: none
+  illustration: home
+  text: Hoe je slaapt, heeft alles te maken met je biologische slaap-waakritme -
+    bioritme in het kort. Hieruit volgt je individuele slaappatroon. Ken je jouw
+    bioritme al? Doe de online test?
+  links:
+    - label: Adviesgesprek
+      href: /slaap/adviesgesprek/
+    - label: Doe de stress-scan
+      href: /weerbaar/stress-test/
 sections:
   - type: embed
     show: true
@@ -106,6 +114,14 @@ sections:
               window.attachEvent("onmessage", handleIFrameMessage);
             }
             </script>
+  - type: preview
+    component: preview
+    title: Plan een gratis adviesgesprek
+    description: Wil je beter slapen? Ga aan de slag met een vitaliteitscoach en
+      optimaliseer je nachtrust.
+    linkLabel: Ja, ik wil!
+    url: /slaap/adviesgesprek/
+    image: /assets/images/1_nfyx05p4n1_qtiw3d71c2g.jpeg
 seo:
   title: Slaap - Biortime test
   description: Slaap Biortime test
