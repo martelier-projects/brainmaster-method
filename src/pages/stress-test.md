@@ -1,10 +1,19 @@
 ---
 indexPage: false
-title: Stress test
+title: Ontdek jouw mentale balans met de stress-scan
 permalink: /weerbaar/verborgen/
-layout: layouts/default-template.njk
+layout: layouts/theme-page.njk
 header:
-  illustration: none
+  illustration: home
+  text: Hoe hoog is jouw risico op een burn-out? Als je te lang en te vaak
+    gestrest bent, kun je overspannen raken. Ben je te lang overspannen, dan is
+    de kans op een burn-out groter. En dat wil je natuurlijk voorkomen. Doe nu
+    de stress-scan en ontdek hoe hoog jouw stressniveau is.
+  links:
+    - label: Adviesgesprek
+      href: /weerbaar/adviesgesprek/
+    - label: Doe de emotiemeter
+      href: /weerbaar/emotie-test/
 sections:
   - type: embed
     show: true
@@ -106,6 +115,16 @@ sections:
               window.attachEvent("onmessage", handleIFrameMessage);
             }
             </script>
+  - type: preview
+    component: preview
+    title: Herontdek jouw mentale balans
+    description: "Iedereen zit weleens wat minder goed in z'n vel. Stress hoort bij
+      het leven, maar het mag je niet belemmeren in je dagelijkse bezigheden.
+      Naast gepieker en stress kunnen negatieve emoties en gedachten je ook in
+      de weg staan. Waar loop jij tegen aan: stress of negatieve gedachten?"
+    linkLabel: Maak een keuze
+    url: /weerbaar/
+    image: /assets/images/mock.jpg
 seo:
   title: Weerbaar - Stress test
   description: Weerbaar - Stress test
