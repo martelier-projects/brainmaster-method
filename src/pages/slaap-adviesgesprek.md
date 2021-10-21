@@ -8,8 +8,9 @@ header:
     optimaliseer je nachtrust. "
   illustration: home
   links:
-    - label: Meer info slaapcoaching
-      href: /slaap/
+    - label: Plan een adviesgesprek
+      href: https://calendly.com/pjotr-peulen/gratis-adviesgesprek
+      id: plan-adviesgesprek
     - label: Doe de bioritme-test
       href: /slaap/bioritme-test/
 sections:
