@@ -11,7 +11,7 @@ header:
     slaapmedicatie. Zo begin je de dag weer vol energie.
   illustration: home
   links:
-    - label: Slaapcoaching
+    - label: Plan een adviesgesprek
       href: /slaap/adviesgesprek/
     - label: Doe de bioritme-test
       href: /slaap/bioritme-test/
@@ -60,7 +60,7 @@ sections:
       slaappatroon. Ken je jouw bioritme al? Doe de online test. "
     linkLabel: Ontdek jouw bioritme
     url: /slaap/bioritme-test
-    image: /assets/images/image-page-preview-bioritme-test-1-.png
+    image: /assets/images/kopie-van-image-page-preview-bioritme-test-1080-x-600-px-.png
   - type: text-media
     show: true
     order: text-image
