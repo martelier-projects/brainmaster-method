@@ -40,7 +40,7 @@ sections:
     component: preview
     title: Plan een adviesgesprek
     url: https://calendly.com/pjotr-peulen/gratis-adviesgesprek
-    image: /assets/images/foto-website-preview-adviesgesprek.png
+    image: /assets/images/foto-website-preview-adviesgesprek-1-.png
     linkLabel: Plan nu een afspraak
     description: Ik bied je graag een gratis adviesgesprek aan. Je kunt direct een
       afspraak maken in mijn digitale agenda.
