@@ -1,6 +1,6 @@
 ---
 indexPage: false
-title: Biortime test
+title: Ontdek jouw individuele slaappatroon met de bioritme-test
 permalink: /slaap/verborgen/
 layout: layouts/default-template.njk
 header:
