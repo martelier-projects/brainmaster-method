@@ -38,7 +38,7 @@ sections:
     order: text-image
     component: text-media
     title: Met wie ga je in gesprek?
-    imgSrc: /assets/images/foto-website.jpg
+    imgSrc: /assets/images/kopie-van-kennismaking-s-insta-post-1080-x-600-px-.png
     imgAlt: /
     sections:
       - title: Coach Pjotr
