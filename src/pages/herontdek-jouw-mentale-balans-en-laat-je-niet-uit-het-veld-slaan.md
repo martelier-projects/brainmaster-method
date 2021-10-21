@@ -107,7 +107,7 @@ sections:
     component: preview
     title: Ontdek jouw mentale balans met de emotiemeter
     linkLabel: Doe de emotiemeter
-    url: /weerbaar/emotie-meter/
+    url: /weerbaar/emotie-test/
     description: Zie jij de wereld door een roze brol of hanger er donkere wolken
       boven je hoofd? De hele dag ervaren we emoties. Soms zijn ze positief en
       soms negatief. De emotiemeter berekent de verhouding en bepaalt of je een
