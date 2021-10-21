@@ -19,7 +19,7 @@ sections:
     order: text-image
     component: text-media
     title: Ontdek of slaapcoach iets voor jou is
-    imgSrc: /assets/images/foto-website.jpg
+    imgSrc: /assets/images/ontwerp-zonder-titel.png
     sections:
       - title: Wat doen we tijdens een adviesgesprek?
         text: "Tijdens ons gesprek van een half uur zoeken we uit of coaching bij jou
@@ -32,9 +32,6 @@ sections:
           en kosteloos. Pas daarna hoef je te beslissen of je verder wil gaan
           met het traject. Heb je meer vragen? Kijk dan op de FAQ-pagina.
         title: Hoe werkt het?
-      - title: Plan een adviesgesprek
-        text: Ik bied je graag een gratis adviesgesprek aan. Je kunt direct een afspraak
-          maken in mijn digitale agenda.
     imgAlt: /
   - type: preview
     component: preview
@@ -44,6 +41,19 @@ sections:
     linkLabel: Plan nu een afspraak
     description: Ik bied je graag een gratis adviesgesprek aan. Je kunt direct een
       afspraak maken in mijn digitale agenda.
+  - type: text-media
+    show: true
+    order: text-image
+    component: text-media
+    title: Met wie ga je in gesprek?
+    imgSrc: /assets/images/foto-website.jpg
+    imgAlt: /
+    sections:
+      - title: Coach Pjotr
+        text: Je gaat met coach Pjotr in gesprek. Je doet het gratis adviesgesprek en
+          het hele coachingstraject met dezelfde coach. Voelt het bij het gratis
+          adviesgesprek goed, dan hoef je die comfortzone niet meer uit. Tot
+          snel!
 seo:
   title: Slaap - adviesgesprek
   description: Slaap - adviesgesprek
