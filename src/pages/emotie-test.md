@@ -1,8 +1,14 @@
 ---
 indexPage: false
-title: Emotie Test
+title: Doe de emotiemeter
 permalink: /weerbaar/emotie-test/
-layout: layouts/default-template.njk
+layout: layouts/theme-page.njk
+header:
+  illustration: home
+  text: "Zie jij de wereld door een roze brol of hanger er donkere wolken boven je
+    hoofd? De hele dag ervaren we emoties. Soms zijn ze positief en soms
+    negatief. De emotiemeter berekent de verhouding en bepaalt of je een 'goede'
+    of een 'slechte' dag hebt gehad. Doe vandaag nog deze online test. "
 sections:
   - type: embed
     show: true
@@ -104,6 +110,16 @@ sections:
               window.attachEvent("onmessage", handleIFrameMessage);
             }
             </script>
+  - type: preview
+    component: preview
+    title: Herontdek jouw mentale balans
+    description: "Iedereen zit weleens wat minder goed in z’n vel. Stress hoort bij
+      het leven, maar het mag je niet belemmeren in je dagelijkse bezigheden.
+      Naast gepieker en stress kunnen negatieve emoties en gedachten je ook in
+      de weg staan. Waar loop jij tegen aan: stress of negatieve gedachten?"
+    linkLabel: Maak een keuze
+    url: /weerbaar/
+    image: /assets/images/mock.jpg
 seo:
   title: Weerbaar - Emotie Test
   description: Emotie Test
