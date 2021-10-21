@@ -5,6 +5,11 @@ permalink: /weerbaar/adviesgesprek/
 layout: layouts/theme-page.njk
 header:
   illustration: home
+  links:
+    - label: Doe de stress-scan
+      href: /weerbaar/stress-test/
+    - label: Doe de emotiemeter
+      href: /weerbaar/emotie-test/
 sections:
   - type: text-media
     show: true
