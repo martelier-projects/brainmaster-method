@@ -19,6 +19,9 @@
     {% if indexPage == false %}
       <meta name="robots" content="noindex">
       <meta name="googlebot" content="noindex">
+    {% else %}
+      <meta name="robots" content="index,follow">
+      <meta name="googlebot" content="index,follow">
     {% endif %}
 
 
