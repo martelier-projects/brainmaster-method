@@ -67,7 +67,7 @@ sections:
       hoog jouw concentratievermogen is. "
     linkLabel: Doe de concentratie-test
     linkUrl: /slaap/concentratie-test/
-    image: /assets/images/mock.jpg
+    image: /assets/images/ontwerp-zonder-titel-28-.png
     url: /
   - type: text-media
     show: true
@@ -102,7 +102,7 @@ sections:
       kwaliteit. "
     linkLabel: Ja, ik wil!
     url: /productiviteit/adviesgesprek/
-    image: /assets/images/mock.jpg
+    image: /assets/images/ontwerp-zonder-titel-27-.png
 illustration: home
 links:
   - label: This is the label
