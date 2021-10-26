@@ -102,7 +102,7 @@ sections:
       kwaliteit. "
     linkLabel: Ja, ik wil!
     url: /productiviteit/adviesgesprek/
-    image: /assets/images/ontwerp-zonder-titel-27-.png
+    image: /assets/images/zonder-titel-3000-x-2500-px-.png
 illustration: home
 links:
   - label: This is the label
