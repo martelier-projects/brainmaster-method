@@ -31,6 +31,16 @@ sections:
         link: "#1ste section"
       - label: Ik heb teveel negatieve gedachten
         link: "#2de section"
+  - type: preview
+    component: preview
+    title: Ontdek wat vitaliteitscoaching voor jou kan betekenen
+    description: Droom jij ervan om weer met een glimlach door het leven te gaan?
+      Ontdek weer hoe het is om je weerbaar te voelen en mentale rust ervaren.
+      Laat je niet meer tegenhouden door stress of negatieve gedachten.
+    linkLabel: Ja, ik wil!
+    linkUrl: /slaap/adviesgesprek/
+    image: /assets/images/mock.jpg
+    url: /weerbaar/adviesgesprek/
   - imgSrc: /assets/images/ontwerp-zonder-titel-21-.png
     imgCaption: ""
     imgAlt: "- "
@@ -132,16 +142,6 @@ sections:
     buttons:
       - label: Ja, ik wil meer weten over vitaliteitscoaching!
         link: /weerbaar/adviesgesprek/
-  - type: preview
-    component: preview
-    title: Ontdek vitaliteitscoaching
-    description: Droom jij ervan om weer met een glimlach door het leven te gaan?
-      Ontdek weer hoe het is om mentale rust en stilte te ervaren. Laat je niet
-      meer tegenhouden door negatieve gedachten.
-    linkLabel: Ja, ik wil!
-    linkUrl: /slaap/adviesgesprek/
-    image: /assets/images/mock.jpg
-    url: /weerbaar/adviesgesprek/
 illustration: home
 links:
   - label: This is the label
