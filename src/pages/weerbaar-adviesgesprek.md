@@ -28,20 +28,12 @@ sections:
           tijdens een intakesessie. Het gesprek en de intake zijn vrijblijvend
           en kosteloos. Pas daarna hoef je te beslissen of je verder wil gaan
           met het traject. Heb je meer vragen? Kijk dan op de FAQ-pagina.
-    imgAlt: /
-  - type: text-media
-    show: true
-    order: text-image
-    component: text-media
-    imgSrc: /assets/images/kopie-van-kennismaking-s-insta-post-1080-x-600-px-.png
-    title: Met wie ga je in gesprek?
-    imgAlt: /
-    sections:
-      - title: Coach Pjotr
-        text: Je gaat met coach Pjotr in gesprek. Je doet het gratis adviesgesprek en
+      - text: Je gaat met coach Pjotr in gesprek. Je doet het gratis adviesgesprek en
           het hele coachingstraject met dezelfde coach. Voelt het bij het gratis
           adviesgesprek goed, dan hoef je die comfortzone niet meer uit. Tot
           snel!
+        title: Met wie ga je in gesprek?
+    imgAlt: /
   - type: preview
     component: preview
     title: Plan een adviesgesprek
