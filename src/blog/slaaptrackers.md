@@ -2,7 +2,7 @@
 title: Slapeloze nachten door slaaptrackers
 description: Andrei Sator, the bad guy van de blockbuster Tenet, deed het ook
   al. Meten is namelijk weten. Maar klopt dat wel?
-image: /assets/images/1_gxv37ctdagkcd8rh1rqxta.jpeg
+image: /assets/images/ontwerp-zonder-titel-16-.png
 author: Pjotr Peulen
 authorImage: /assets/images/pjotr.jpg
 date: 2021-02-22T14:20:18.081Z
@@ -20,10 +20,9 @@ sections:
     url: /slaap/bioritme-test/
     image: /assets/images/image-page-preview-bioritme-test-1-.png
 ---
+Andrei Sator, *the bad guy* van de *blockbuster* Tenet, deed het ook al. Hij had een kek polsbandje waarmee hij zijn hartslag -*in real time*- kon meten. Meten is namelijk weten. Maar klopt dat wel?
 
-Andrei Sator, *the bad guy* van de *blockbuster* Tenet, deed het ook al. Hij had een kek polsbandje waarmee hij zijn hartslag -_in real time_- kon meten. Meten is namelijk weten. Maar klopt dat wel?
-
-![](/assets/images/1_gxv37ctdagkcd8rh1rqxta.jpeg)
+![](/assets/images/ontwerp-zonder-titel-16-.png)
 
 Hoe verstandig is het om je hartslag, je stappen en je slaap te meten? Is het een stap vooruit of juist een stap terug? In deze blog bespreek ik de honger naar data, data over onze eigen gezondheid, en wat de voordelen en risico’s daarvan zijn. Hierbij richten we ons op hoe je slaap kunt meten en hoe je die gegevens, die data, kunt interpreteren.
 
