@@ -120,7 +120,7 @@ sections:
       ### Herontdek jouw mentale balans
 
 
-      Maak een einde aan -onnodige- stress en negatieve gedachten, waardoor jij je weer veerkrachtig en weerbaar zal gaan voelen
+      Maak een einde aan -onnodige- stress en negatieve gedachten, waardoor jij je weer veerkrachtig en weerbaar zal gaan voelen.
   - type: preview
     component: preview
     title: Ontdek vitaliteitscoaching
