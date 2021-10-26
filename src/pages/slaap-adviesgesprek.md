@@ -54,6 +54,28 @@ sections:
     linkLabel: Plan nu een afspraak
     description: Ik bied je graag een gratis adviesgesprek aan. Je kunt direct een
       afspraak maken in mijn digitale agenda.
+  - type: topics
+    showTopics: true
+    component: topics
+    topics:
+      - icon: Kennismaking
+        title: Kennismaking
+        text: Kennismaking
+      - icon: Module
+        title: Module
+        text: Module
+      - icon: Productief
+        title: Productief
+        text: Productief
+      - icon: Slapen
+        title: Slapen
+        text: Slapen
+      - icon: Traject
+        title: Traject
+        text: Traject
+      - icon: Weerbaarheid
+        title: Weerbaarheid
+        text: Weerbaarheid
 seo:
   title: Slaap - adviesgesprek
   description: Slaap - adviesgesprek
