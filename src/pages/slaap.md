@@ -24,6 +24,13 @@ sections:
 
 
       Er zijn twee soorten slechte slapers: degenen die licht slapen en daardoor moe wakker worden, en zij die bang zijn om naar bed te gaan omdat ze al lange tijd slecht slapen. Waar herken jij jezelf in?
+  - type: buttons
+    component: buttons
+    buttons:
+      - label: Ik word moe wakker
+        link: "#1ste section"
+      - label: Ik ben bang om te slapen
+        link: "#2de section"
   - type: preview
     component: preview
     title: Ontdek wat slaapcoaching voor jou kan betekenen
@@ -34,13 +41,6 @@ sections:
     linkLabel: Ja, ik wil!
     url: /slaap/adviesgesprek/
     image: /assets/images/ontwerp-zonder-titel-15-.png
-  - type: buttons
-    component: buttons
-    buttons:
-      - label: Ik word moe wakker
-        link: "#1ste section"
-      - label: Ik ben bang om te slapen
-        link: "#2de section"
   - imgSrc: /assets/images/ontwerp-zonder-titel-12-.png
     imgCaption: ""
     imgAlt: "- "
