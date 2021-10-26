@@ -1,9 +1,9 @@
 ---
 title: 5 Slaaptips! Maar helaas geen quick fix
-description: ' Dat zou fijn zijn, dé oplossing die in één klap alle
+description: " Dat zou fijn zijn, dé oplossing die in één klap alle
   slaapproblemen de wereld uit helpt. Deze vijf tips zijn bedoeld op je slaap te
-  verbeteren.'
-image: /assets/images/1_i7o31amvtncdida1bbznvw.jpeg
+  verbeteren."
+image: /assets/images/ontwerp-zonder-titel-18-.png
 author: Pjotr Peulen
 authorImage: /assets/images/pjotr.jpg
 date: 2021-02-22T14:19:05.168Z
@@ -21,10 +21,9 @@ sections:
     url: /slaap/bioritme-test/
     image: /assets/images/image-page-preview-bioritme-test-1-.png
 ---
-
 Dat zou fijn zijn, dé oplossing die in één klap alle slaapproblemen de wereld uit helpt. Helaas is een *quick fix* nog niet gevonden. Of dat ooit zal gebeuren, is nog maar de vraag. Gelukkig zijn er wel wat slaaptips, waar iedereen mee uit de voeten kan. Onderstaande vijf tips kunnen je helpen om je slaap te verbeteren.
 
-![](/assets/images/1_i7o31amvtncdida1bbznvw.jpeg)
+![](/assets/images/ontwerp-zonder-titel-18-.png)
 
 Hoewel slaap niet altijd even makkelijk is te doorgronden, is slaap voor iedereen van fundamenteel belang om gezond te kunnen blijven functioneren. Toch krijgt slaap in de praktijk lang niet altijd de aandacht die het verdient. Deze blog laat zien dat slaap weliswaar een complex mechanisme is, maar waar je met onderstaande tips wel meer grip om kunt krijgen voor een welverdiende nachtrust.
 
