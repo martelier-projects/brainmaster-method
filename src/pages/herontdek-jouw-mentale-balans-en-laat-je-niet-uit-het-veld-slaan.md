@@ -76,7 +76,7 @@ sections:
     order: text-image
     component: text-media
     title: Negatieve gedachten
-    imgSrc: /assets/images/ontwerp-zonder-titel-22-.png
+    imgSrc: /assets/images/zonder-titel-3000-x-3456-px-.png
     imgAlt: "-"
     sections:
       - title: Negatieve gedachten komen als een boemerang terug
