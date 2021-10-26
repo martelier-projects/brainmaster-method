@@ -3,7 +3,7 @@ title: Slaap — Alle ins & outs
 description: Wat zou jij doen als je dertig jaar extra te leven hebt? Een
   jarenlange wereldreis maken? De Chinese taal leren? Leren vliegen met een
   wingsuit?
-image: /assets/images/1_p8xsno4owmmpolketsaq_a.jpeg
+image: /assets/images/ontwerp-zonder-titel-17-.png
 author: Pjotr Peulen
 authorImage: /assets/images/pjotr.jpg
 date: 2021-02-26T18:32:47.596Z
@@ -21,12 +21,11 @@ sections:
     url: /slaap/bioritme-test/
     image: /assets/images/image-page-preview-bioritme-test-1-.png
 ---
-
 Wat zou jij doen als je dertig jaar extra te leven hebt? Een jarenlange wereldreis maken? De Chinese taal leren? Leren vliegen met een *wingsuit*?
 
 We (ver)slapen 1/3 van ons leven en velen voor jou hebben al gefantaseerd wat ze zouden kunnen doen als ze niet zo veel tijd in bed zouden doorbrengen.
 
-![](/assets/images/1_p8xsno4owmmpolketsaq_a.jpeg)
+![](/assets/images/ontwerp-zonder-titel-17-.png)
 
 Sommige *diehards* slapen maar vier tot zes uur per nacht of doen aan polyfasisch slapen, waarbij ze -in plaats van alles in een keer ’s nachts- door de dag heen een paar slaapmomentje inlassen. Ons gevecht tégen slapen wordt gevoed door de bewering van ‘succesvolle leiders’ die trots stellen dat zij kunnen functioneren met slechts een paar uur slaap. Slapen doe je maar als je dood bent, vinden zij. Echter, dood gaan we allemaal, alleen zij die te weinig slapen iets eerder.
 
@@ -58,4 +57,4 @@ In de zoektocht naar een goede nachtrust zijn sommigen onder ons zo wanhopig dat
 
 Naast de bekende, zoals cafeïne en alcohol, kan sinds kort ook blauw licht aan het lijstje slaapsaboteurs worden toegevoegd. Blauw licht zou namelijk je inslapen verstoren, in de blogpost '[Is blauw licht schadelijk?'](/blog/blauw-licht-schadelijk/) wordt blauw licht nader onder de loep genomen.
 
-Benieuwd naar hoe jij je slaap kan verbeteren? Meld je dan aan voor vitaliteitscoaching en volg alvast de volgende vijf slaaptips op in de blogposts '[5 Slaaptips! Maar helaas geen _quick fix_](https://phantus.com/blog/slaaptips/)'. Houd deze website in de gaten als je ook wil lezen over de effecten van andere ‘slaapmiddelen’, zoals melatonine, CBD en meditatie.
+Benieuwd naar hoe jij je slaap kan verbeteren? Meld je dan aan voor vitaliteitscoaching en volg alvast de volgende vijf slaaptips op in de blogposts '[5 Slaaptips! Maar helaas geen *quick fix*](https://phantus.com/blog/slaaptips/)'. Houd deze website in de gaten als je ook wil lezen over de effecten van andere ‘slaapmiddelen’, zoals melatonine, CBD en meditatie.
