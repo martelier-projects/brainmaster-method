@@ -2,7 +2,7 @@
 indexPage: false
 title: Ontdek jouw individuele slaappatroon met de bioritme-test
 permalink: /slaap/verborgen/
-layout: layouts/default-template.njk
+layout: layouts/theme-page.njk
 header:
   illustration: home
   text: Hoe je slaapt, heeft alles te maken met je biologische slaap-waakritme -
