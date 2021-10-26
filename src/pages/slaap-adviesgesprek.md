@@ -19,7 +19,7 @@ sections:
     order: text-image
     component: text-media
     title: Ontdek of slaapcoach iets voor jou is
-    imgSrc: /assets/images/ontwerp-zonder-titel.png
+    imgSrc: /assets/images/ontwerp-zonder-titel-19-.png
     sections:
       - title: Wat doen we tijdens een adviesgesprek?
         text: "Tijdens ons gesprek van een half uur zoeken we uit of coaching bij jou
