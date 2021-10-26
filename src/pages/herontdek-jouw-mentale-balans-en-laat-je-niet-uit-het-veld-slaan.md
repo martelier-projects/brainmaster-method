@@ -117,7 +117,7 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ### Herontdek jouw mentale balans
+      ## Herontdek jouw mentale balans
 
 
       Maak een einde aan -onnodige- stress en negatieve gedachten, waardoor jij je weer veerkrachtig en weerbaar zal gaan voelen.
