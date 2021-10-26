@@ -17,7 +17,7 @@ sections:
     order: image-text
     component: text-media
     title: Ontdek of vitaliteitscoaching bij jou past
-    imgSrc: /assets/images/ontwerp-zonder-titel-1-.png
+    imgSrc: /assets/images/ontwerp-zonder-titel-29-.png
     imgAlt: /
     sections:
       - title: Wat is een adviesgesprek?
