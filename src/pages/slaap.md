@@ -16,6 +16,16 @@ header:
     - label: Doe de bioritme-test
       href: /slaap/bioritme-test/
 sections:
+  - type: preview
+    component: preview
+    title: Ontdek wat slaapcoaching voor jou kan betekenen
+    description: Jouw slaapprobleem is uniek en vraagt om een persoonlijke aanpak.
+      We rekenen stap voor stap af met de biologische en psychologische
+      stoorzenders. Met een gratis adviesgesprek zet jij de eerste stap naar een
+      zorgeloze nachtrust.
+    linkLabel: Ja, ik wil!
+    url: /slaap/adviesgesprek/
+    image: /assets/images/ontwerp-zonder-titel-15-.png
   - type: rich-text
     show: true
     component: rich-text
@@ -89,15 +99,14 @@ sections:
           voorwaarden te voldoen.
   - type: preview
     component: preview
-    title: Ontdek slaapcoaching
+    title: Ontdek wat slaapcoaching voor jou kan betekenen
     description: Jouw slaapprobleem is uniek en vraagt om een persoonlijke aanpak.
-      Samen kunnen we onderzoeken hoe slaapcoaching jou kan helpen. We rekenen
-      stap voor stap af met de biologische en psychologische stoorzenders. Met
-      een gratis adviesgesprek zet jij de eerste stap naar een zorgeloze
-      nachtrust.
+      We rekenen stap voor stap af met de biologische en psychologische
+      stoorzenders. Met een gratis adviesgesprek zet jij de eerste stap naar een
+      zorgeloze nachtrust.
     linkLabel: Ja, ik wil!
     linkUrl: /slaap/adviesgesprek/
-    image: /assets/images/mock.jpg
+    image: /assets/images/ontwerp-zonder-titel-15-.png
     url: /slaap/adviesgesprek/
 illustration: home
 links:
