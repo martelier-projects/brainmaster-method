@@ -3,7 +3,7 @@ title: Slik jij slaappillen? Dit moet je weten.
 description: Er heerst een slapeloosheidsepidemie en de zoektocht is gericht op
   de magische pil. Een quick fix, waardoor je in een klap weer heerlijk kan
   slapen. Waarom zijn we zo wanhopig op zoek naar deze magische pil?
-image: /assets/images/1_azwodumyjhtl0lu6cv4qiw.jpeg
+image: /assets/images/ontwerp-zonder-titel-14-.png
 author: Pjotr Peulen
 authorImage: /assets/images/pjotr.jpg
 date: 2021-01-23T09:39:14.383Z
@@ -21,10 +21,9 @@ sections:
     url: /slaap/bioritme-test/
     image: /assets/images/image-page-preview-bioritme-test-1-.png
 ---
-
 Er heerst een slapeloosheidsepidemie en de zoektocht is gericht op de magische pil. Een *quick fix*, waardoor je in een klap weer heerlijk kan slapen. Waarom zijn we zo wanhopig op zoek naar deze magische pil?
 
-![](/assets/images/1_azwodumyjhtl0lu6cv4qiw.jpeg)
+![](/assets/images/ontwerp-zonder-titel-14-.png)
 
 Je snapt het al een beetje als je een paar nachten achter elkaar niet goed hebt kunnen slapen. Maar weken, maanden of zelf jaren slecht slapen maakt je echt moedeloos en bereidwillig om alles uit te proberen. Wanneer alles zwaarder aanvoelt, alles minder leuk is en alles meer energie kost. Wanneer het ‘gewone leven’ een uitdaging wordt, waar je jezelf doorheen moet slepen. “HELP?! Wat is de oplossing?”
 
