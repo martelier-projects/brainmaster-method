@@ -5,13 +5,13 @@ layout: layouts/theme-page.njk
 text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
   wetenschappelijk perspectief op mentaal welzijn. Laagdrempelig en volledig
   digitaal. "
-title: Ga productiever te werk
+title: Ga slimmer te werk en boost je creativiteit
 header:
   text: "Ontdek een effectieve manier van werken, kom erachter hoe jouw brein
     functioneert en presteer weer optimaal. "
   illustration: home
   links:
-    - label: Vraag een adviesgesprek aan
+    - label: Ja, ik wil!
       href: /productiviteit/adviesgesprek/
     - label: Doe een concentratie-test
       href: /
@@ -31,7 +31,7 @@ sections:
         link: "#1ste section"
       - label: Ik wil mijn creativiteit boosten
         link: "#2de section"
-  - imgSrc: /assets/images/artboard-2.png
+  - imgSrc: /assets/images/ontwerp-zonder-titel-25-.png
     imgCaption: ""
     imgAlt: "- "
     sections:
@@ -74,7 +74,7 @@ sections:
     order: text-image
     component: text-media
     title: Ik wil mijn creativiteit boosten
-    imgSrc: /assets/images/artboard-2.png
+    imgSrc: /assets/images/ontwerp-zonder-titel-26-.png
     imgAlt: "-"
     sections:
       - title: Staar jij uren naar je computerscherm?
