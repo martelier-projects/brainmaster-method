@@ -1,20 +1,18 @@
 showTextWhy: true
 order: text-image
-title: 'Vitaliteitscoaching: een unieke methode'
-image: /assets/images/foto-website.jpg
+title: "Vitaliteitscoaching: een unieke methode"
+image: /assets/images/website-foto-pjotr-800-x-1080-px-.png
 imgAlt: ggg
 sections:
   - title: Gericht op verbetering
-    text:
-      'Het doel van online vitaliteitscoaching is simpel: je gezond, energiek en
+    text: "Het doel van online vitaliteitscoaching is simpel: je gezond, energiek en
       gelukkig voelen. De focus ligt op waar jij je kunt ontwikkelen. Je haalt
-      snel resultaat, gericht op de lange termijn. Dat is duurzaam!'
+      snel resultaat, gericht op de lange termijn. Dat is duurzaam!"
   - title: Persoonlijke aanpak
-    text: 'Veel mensen ervaren dezelfde problemen. Zoals een slechte nachtrust,
+    text: "Veel mensen ervaren dezelfde problemen. Zoals een slechte nachtrust,
       stress of motivatieproblemen. Maar iedereen is anders. Vitaliteitscoaching
-      is daarom een persoonlijk traject, gericht op jou. '
+      is daarom een persoonlijk traject, gericht op jou. "
   - title: De wetenschap als basis
-    text:
-      Vitaliteitscoach Pjotr Peulen richt zich met een unieke wetenschappelijke
+    text: Vitaliteitscoach Pjotr Peulen richt zich met een unieke wetenschappelijke
       methode op drie thema’s rondom jouw mentaal welzijn. Gebouwd op bestaand
       bewijs uit de wetenschap.
