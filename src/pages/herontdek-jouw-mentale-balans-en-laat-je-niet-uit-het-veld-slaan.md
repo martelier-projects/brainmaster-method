@@ -70,7 +70,7 @@ sections:
       stressniveau is. "
     linkLabel: Doe de stress-scan
     url: /weerbaar/stress-test/
-    image: /assets/images/mock.jpg
+    image: /assets/images/ontwerp-zonder-titel-24-.png
   - type: text-media
     show: true
     order: text-image
