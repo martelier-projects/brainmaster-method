@@ -117,13 +117,16 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Herontdek jouw mentale balans met vitaliteitscoaching
+      ## Herontdek jouw mentale balans
 
 
-      Droom jij ervan om weer met een glimlach door het leven te gaan? Ontdek weer hoe het is om mentale rust en stilte te ervaren. Laat je niet meer tegenhouden door negatieve gedachten.
+      Maak een einde aan -onnodige- stress en negatieve gedachten, waardoor jij je weer veerkrachtig en weerbaar zal voelen.
 
 
       ![](/assets/images/mock.jpg)
+
+
+      Droom jij ervan om weer met een glimlach door het leven te gaan? Ontdek weer hoe het is om je weerbaar te voelen en mentale rust ervaren. Laat je niet meer tegenhouden door stress of negatieve gedachten.
   - type: buttons
     component: buttons
     buttons:
