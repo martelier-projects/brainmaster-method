@@ -31,7 +31,7 @@ sections:
         link: "#1ste section"
       - label: Ik heb teveel negatieve gedachten
         link: "#2de section"
-  - imgSrc: /assets/images/foto-website-2.jpg
+  - imgSrc: /assets/images/ontwerp-zonder-titel-21-.png
     imgCaption: ""
     imgAlt: "- "
     sections:
@@ -76,7 +76,7 @@ sections:
     order: text-image
     component: text-media
     title: Negatieve gedachten
-    imgSrc: /assets/images/artboard-2.png
+    imgSrc: /assets/images/ontwerp-zonder-titel-22-.png
     imgAlt: "-"
     sections:
       - title: Negatieve gedachten komen als een boemerang terug
@@ -112,7 +112,7 @@ sections:
       boven je hoofd? De hele dag ervaren we emoties. Soms zijn ze positief en
       soms negatief. De emotiemeter berekent de verhouding en bepaalt of je een
       'goede' of een 'slechte' dag hebt gehad. Doe vandaag nog deze online test.
-    image: /assets/images/mock.jpg
+    image: /assets/images/ontwerp-zonder-titel-23-.png
   - type: rich-text
     show: true
     component: rich-text
