@@ -11,7 +11,7 @@ header:
     je weer veerkrachtig en weerbaar zal gaan voelen.
   illustration: home
   links:
-    - label: Vitaliteitscoaching
+    - label: "Ja, ik wil! "
       href: /weerbaar/adviesgesprek/
     - label: Doe de stress-scan
       href: /weerbaar/stress-test/
