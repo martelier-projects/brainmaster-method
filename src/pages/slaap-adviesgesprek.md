@@ -32,20 +32,12 @@ sections:
           en kosteloos. Pas daarna hoef je te beslissen of je verder wil gaan
           met het traject. Heb je meer vragen? Kijk dan op de FAQ-pagina.
         title: Hoe werkt het?
-    imgAlt: /
-  - type: text-media
-    show: true
-    order: image-text
-    component: text-media
-    title: Met wie ga je in gesprek?
-    imgSrc: /assets/images/kopie-van-kennismaking-s-insta-post-1080-x-600-px-.png
-    imgAlt: /
-    sections:
-      - title: Coach Pjotr
-        text: Je gaat met coach Pjotr in gesprek. Je doet het gratis adviesgesprek en
+      - text: Je gaat met coach Pjotr in gesprek. Je doet het gratis adviesgesprek en
           het hele coachingstraject met dezelfde coach. Voelt het bij het gratis
           adviesgesprek goed, dan hoef je die comfortzone niet meer uit. Tot
           snel!
+        title: Met wie ga je in gesprek?
+    imgAlt: /
   - type: preview
     component: preview
     title: Plan een adviesgesprek
@@ -54,28 +46,6 @@ sections:
     linkLabel: Plan nu een afspraak
     description: Ik bied je graag een gratis adviesgesprek aan. Je kunt direct een
       afspraak maken in mijn digitale agenda.
-  - type: topics
-    showTopics: true
-    component: topics
-    topics:
-      - icon: Kennismaking
-        title: Kennismaking
-        text: Kennismaking
-      - icon: Module
-        title: Module
-        text: Module
-      - icon: Productief
-        title: Productief
-        text: Productief
-      - icon: Slapen
-        title: Slapen
-        text: Slapen
-      - icon: Traject
-        title: Traject
-        text: Traject
-      - icon: Weerbaarheid
-        title: Weerbaarheid
-        text: Weerbaarheid
 seo:
   title: Slaap - adviesgesprek
   description: Slaap - adviesgesprek
