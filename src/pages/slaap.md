@@ -16,6 +16,14 @@ header:
     - label: Doe de bioritme-test
       href: /slaap/bioritme-test/
 sections:
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Last van slapeloze nachten?
+
+
+      Er zijn twee soorten slechte slapers: degenen die licht slapen en daardoor moe wakker worden, en zij die bang zijn om naar bed te gaan omdat ze al lange tijd slecht slapen. Waar herken jij jezelf in?
   - type: preview
     component: preview
     title: Ontdek wat slaapcoaching voor jou kan betekenen
@@ -26,14 +34,6 @@ sections:
     linkLabel: Ja, ik wil!
     url: /slaap/adviesgesprek/
     image: /assets/images/ontwerp-zonder-titel-15-.png
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: >-
-      ## Last van slapeloze nachten?
-
-
-      Er zijn twee soorten slechte slapers: degenen die licht slapen en daardoor moe wakker worden, en zij die bang zijn om naar bed te gaan omdat ze al lange tijd slecht slapen. Waar herken jij jezelf in?
   - type: buttons
     component: buttons
     buttons:
