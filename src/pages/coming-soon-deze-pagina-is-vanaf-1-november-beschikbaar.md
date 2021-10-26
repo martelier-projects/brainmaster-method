@@ -9,8 +9,8 @@ sections:
   - type: rich-text
     show: true
     component: rich-text
-    text: "##### Laat je gegevens achter en dan krijg je een berichtje als deze
-      pagina beschikbaar is!"
+    text: "## Laat je gegevens achter en dan krijg je een berichtje als deze pagina
+      beschikbaar is!"
   - type: buttons
     component: buttons
     buttons:
