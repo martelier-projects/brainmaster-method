@@ -10,6 +10,9 @@ header:
       href: /weerbaar/stress-test/
     - label: Doe de emotiemeter
       href: /weerbaar/emotie-test/
+  text: Blijf niet langer hopen op een betere morgen, maar neem de eerste stap
+    naar een duurzame verbetering. Ook jij kan je weer vrolijk voelen en met
+    volle teugen van het leven genieten. Ook jij kan weer weerbaar zijn.
 sections:
   - type: text-media
     show: true
