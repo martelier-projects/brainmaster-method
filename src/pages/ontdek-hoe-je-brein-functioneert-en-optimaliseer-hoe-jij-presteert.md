@@ -61,14 +61,14 @@ sections:
     show: true
   - type: preview
     component: preview
-    title: Test je concentratievermogen
+    title: Weet jij wat jou concentratievermogen is?
     description: "In deze hyperdigitale wereld liggen afleidingen altijd op de loer
       en zijn we constant aan het multitasken. Ontdek binnen vijf minuten hoe
       hoog jouw concentratievermogen is. "
     linkLabel: Doe de concentratie-test
     linkUrl: /slaap/concentratie-test/
     image: /assets/images/ontwerp-zonder-titel-28-.png
-    url: /
+    url: /concentratie-test/
   - type: text-media
     show: true
     order: text-image
@@ -96,7 +96,7 @@ sections:
           boosten. "
   - type: preview
     component: preview
-    title: Ontdek vitaliteitscoaching
+    title: Ontdek vitaliteitscoaching voor jou kan betekenen
     description: "Vind jouw werkstijl en word productiever en creatiever. Ga op een
       systematische en georganiseerde manier aan de slag, en lever werk van
       kwaliteit. "
