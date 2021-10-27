@@ -21,22 +21,22 @@ sections:
     title: Ontdek of slaapcoach iets voor jou is
     imgSrc: /assets/images/ontwerp-zonder-titel-20-.png
     sections:
-      - title: Wat doen we tijdens een adviesgesprek?
+      - title: Wat is een adviesgesprek?
         text: "Tijdens ons gesprek van een half uur zoeken we uit of coaching bij jou
           past. Ook krijg je informatie over de vijf slaapblokkers én
           -saboteurs. Daarnaast ontvang je een stappenplan om zorgeloos in slaap
           te vallen. Doe voor het adviesgesprek alvast de bioritme-test en
           ontvang een persoonlijk advies over je slaappatroon. "
-      - text: Als je na het adviesgesprek enthousiast bent, maken we uitgebreid kennis
-          tijdens een intakesessie. Het gesprek en de intake zijn vrijblijvend
-          en kosteloos. Pas daarna hoef je te beslissen of je verder wil gaan
-          met het traject. Heb je meer vragen? Kijk dan op de FAQ-pagina.
-        title: Hoe werkt het?
       - text: Je gaat met coach Pjotr in gesprek. Je doet het gratis adviesgesprek en
           het hele coachingstraject met dezelfde coach. Voelt het bij het gratis
           adviesgesprek goed, dan hoef je die comfortzone niet meer uit. Tot
           snel!
         title: Met wie ga je in gesprek?
+      - text: Als je na het adviesgesprek enthousiast bent, maken we uitgebreid kennis
+          tijdens een intakesessie. Het gesprek en de intake zijn vrijblijvend
+          en kosteloos. Pas daarna hoef je te beslissen of je verder wil gaan
+          met het traject. Heb je meer vragen? Kijk dan op de FAQ-pagina.
+        title: Hoe werkt het?
     imgAlt: /
   - type: preview
     component: preview
