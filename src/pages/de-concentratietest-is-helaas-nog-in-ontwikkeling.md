@@ -14,8 +14,8 @@ sections:
   - type: buttons
     component: buttons
     buttons:
-      - label: Terug naar Home
-        link: /
+      - label: Terug
+        link: /productiviteit/
 seo:
   title: Concentratietest
   description: Concentratietest
