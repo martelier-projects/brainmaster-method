@@ -85,7 +85,7 @@ sections:
     order: text-image
     component: text-media
     title: Leer al je gedachten te accepteren
-    imgSrc: /assets/images/zonder-titel-3000-x-3456-px-.png
+    imgSrc: /assets/images/ontwerp-zonder-titel-2-.png
     imgAlt: "-"
     sections:
       - title: Negatieve gedachten komen als een boemerang terug
