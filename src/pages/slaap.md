@@ -93,10 +93,11 @@ sections:
           te gaan naar de dieperliggende oorzaken. Slaapproblemen zijn vaak
           complex, en daardoor ligt de oplossing niet voorhanden. "
       - title: 101 slaapsaboteurs
-        text: Alleen wanneer aan alle 101 voorwaarden wordt voldaan zal het probleem
-          verholpen zijn. Hierdoor zal de moed je halverwege vaak in de schoenen
-          zinken. Een slaapcoach kan je helpen om stap voor stap aan alle 101
-          voorwaarden te voldoen.
+        text: "Hoe complex slaapproblemen ook kunnen zijn, de oplossing ligt binnen
+          handbereik. Wanneer je systematisch afrekent met alle 101
+          slaapsaboteurs, kan ook jij afscheid nemen van je slaapangst. Dit
+          proces kan lastig zijn, maar een slaapcoach kan je daar stap voor stap
+          bij helpen. "
   - type: preview
     component: preview
     title: Ontdek wat slaapcoaching voor jou kan betekenen
