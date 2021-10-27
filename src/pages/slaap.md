@@ -5,13 +5,13 @@ layout: layouts/theme-page.njk
 text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
   wetenschappelijk perspectief op mentaal welzijn. Laagdrempelig en volledig
   digitaal. "
-title: Word weer energiek wakker
+title: Geniet weer van een herstellende nachtrust
 header:
   text: Maak een einde aan slapeloze nachten, zónder het gebruik van
     slaapmedicatie. Zo begin je de dag weer vol energie.
   illustration: home
   links:
-    - label: Plan een adviesgesprek
+    - label: Ja, ik wil!
       href: /slaap/adviesgesprek/
     - label: Doe de bioritme-test
       href: /slaap/bioritme-test/
@@ -47,18 +47,18 @@ sections:
     sections:
       - text: "Als de wekker gaat, kom je met moeite uit bed. Je bent wazig en hebt
           koffie nodig om écht op te starten. Je bent de hele dag futloos en pas
-          ’s avonds leef je weer een beetje op. Herkenbaar?  "
-        title: Ik ben de hele dag futloos
+          ’s avonds leef je weer een beetje op. Herkenbaar? "
+        title: Koffie is noodzakelijk
       - title: Word weer energiek wakker
         text: "Reken af met vermoeidheid, word weer fris wakker en maak van de ochtenden
           jouw moment. "
       - title: Dieper slapen is de oplossing
-        text: "Alleen met voldoende diepe slaap herstelt je lichaam. Na een stressvolle
+        text: Alleen met voldoende diepe slaap herstelt je lichaam. Na een stressvolle
           en chaotische dag heb je niet zozeer veel nachtrust nodig, maar is het
           vooral belangrijk dat je diep slaapt. Zo wordt de schade van de dag
-          ervoor gerepareerd en de ‘troep’ in je hersenen opgeruimd. "
+          ervoor gerepareerd en de ‘troep’ in je hersenen opgeruimd.
     order: text-image
-    title: Moe wakker
+    title: Moe wakker en met tegenzin op
     type: text-media
     component: text-media
     show: true
@@ -75,17 +75,18 @@ sections:
     show: true
     order: text-image
     component: text-media
-    title: Slaapangst
+    title: Neem afscheid van slaapangst
     imgSrc: /assets/images/ontwerp-zonder-titel-3-.png
     imgAlt: "-"
     sections:
-      - title: "Ik ben bang om naar bed te gaan "
+      - title: Plafonddienst draaien
         text: >-
           Ruim voordat je naar bed gaat, begint het gepieker. Je bent bang weer
-          de hele nacht wakker te liggen en de slaap niet te kunnen vatten. 
+          de hele nacht wakker te liggen en de slaap niet te kunnen vatten. De
+          hele nacht wakker naar het plafond te staren. 
 
 
-          Herkenbaar? Helaas komt dit maar al te vaak voor. Toch kan ook jij het vertrouwen in je slaap herwinnen.
+          Herkenbaar? Helaas komt dit maar al te vaak voor. Toch kan ook jij het vertrouwen in je slaap herwinnen. 
       - title: Slaap weer als een roos
         text: "Iedereen heeft van nature het vermogen om te slapen. Ook jij was vroeger
           zonder problemen de hele nacht in dromenland. Je natuurlijke
