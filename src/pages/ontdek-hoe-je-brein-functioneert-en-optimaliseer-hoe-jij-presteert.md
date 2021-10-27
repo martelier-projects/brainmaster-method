@@ -14,7 +14,7 @@ header:
     - label: Ja, ik wil!
       href: /productiviteit/adviesgesprek/
     - label: Doe een concentratie-test
-      href: /
+      href: /concentratie-test/
 sections:
   - type: rich-text
     show: true
