@@ -27,10 +27,9 @@ sections:
           -saboteurs. Daarnaast ontvang je een stappenplan om zorgeloos in slaap
           te vallen. Doe voor het adviesgesprek alvast de bioritme-test en
           ontvang een persoonlijk advies over je slaappatroon. "
-      - text: Je gaat met coach Pjotr in gesprek. Je doet het gratis adviesgesprek en
-          het hele coachingstraject met dezelfde coach. Voelt het bij het gratis
-          adviesgesprek goed, dan hoef je die comfortzone niet meer uit. Tot
-          snel!
+      - text: Je gaat met coach Pjotr in gesprek. Je doet het adviesgesprek en het hele
+          coachingstraject met dezelfde coach. Voelt het bij het adviesgesprek
+          goed, dan hoef je die comfortzone niet meer uit. Tot snel!
         title: Met wie ga je in gesprek?
       - text: Als je na het adviesgesprek enthousiast bent, maken we uitgebreid kennis
           tijdens een intakesessie. Het gesprek en de intake zijn vrijblijvend
