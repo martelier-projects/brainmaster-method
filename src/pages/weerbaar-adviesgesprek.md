@@ -23,16 +23,15 @@ sections:
           past. Ook krijg je een korte meditatie-oefening en een stappenplan om
           meer mentale balans te ervaren. Doe van tevoren alvast de stress-scan
           en emotiemeter.
+      - text: Je gaat met coach Pjotr in gesprek. Je doet het adviesgesprek en het hele
+          coachingstraject met dezelfde coach. Voelt het bij het adviesgesprek
+          goed, dan hoef je die comfortzone niet meer uit. Tot snel!
+        title: Met wie ga je in gesprek?
       - title: Hoe werkt het?
         text: Als je na het adviesgesprek enthousiast bent, maken we uitgebreid kennis
-          tijdens een intakesessie. Het gesprek en de intake zijn vrijblijvend
+          tijdens de online intake. Het gesprek en de intake zijn vrijblijvend
           en kosteloos. Pas daarna hoef je te beslissen of je verder wil gaan
           met het traject. Heb je meer vragen? Kijk dan op de FAQ-pagina.
-      - text: Je gaat met coach Pjotr in gesprek. Je doet het gratis adviesgesprek en
-          het hele coachingstraject met dezelfde coach. Voelt het bij het gratis
-          adviesgesprek goed, dan hoef je die comfortzone niet meer uit. Tot
-          snel!
-        title: Met wie ga je in gesprek?
     imgAlt: /
   - type: preview
     component: preview
