@@ -76,7 +76,7 @@ sections:
     order: text-image
     component: text-media
     title: Slaapangst
-    imgSrc: /assets/images/ontwerp-zonder-titel-11-.png
+    imgSrc: /assets/images/ontwerp-zonder-titel-2-.png
     imgAlt: "-"
     sections:
       - title: "Ik ben bang om naar bed te gaan "
