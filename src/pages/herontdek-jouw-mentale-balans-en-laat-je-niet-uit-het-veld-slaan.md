@@ -84,7 +84,7 @@ sections:
     show: true
     order: text-image
     component: text-media
-    title: Negatieve gedachten
+    title: Leer al je gedachten te accepteren
     imgSrc: /assets/images/zonder-titel-3000-x-3456-px-.png
     imgAlt: "-"
     sections:
@@ -97,21 +97,19 @@ sections:
 
           Herkenbaar?
       - title: Doorbreek de negatieve spiraal
-        text: "We zijn allemaal op zoek naar een mentale balans. Ben je die balans
-          kwijt, dan kun je in  een neerwaartse spiraal belanden. Maak je geen
-          zorgen: ook jij kan hieruit komen. Geniet weer van de stilte zonder
-          bang te zijn voor je eigen gedachten. Word weer de baas over je eigen
-          emoties en ontdek hoe het is om mentale rust te ervaren. Bekijk het
-          leven weer door een roze bril en geniet van iedere dag. "
-      - title: Meditatie is een mentale marathon
-        text: "Alvast een disclaimer: meditatie kan je negatieve emoties en gedachten
-          niet tot stilte manen. Wanneer meditatie als afleiding dient, word je
-          misschien teleurgesteld. Mentale rust begint bij acceptatie: leer je
-          gedachtes en emoties toe te laten. Meditatie is een mentale marathon,
-          waarbij het doel slechts langzaam dichterbij komt. Onder begeleiding
-          van een vitaliteitscoach kan ook jij deze mentale marathon lopen.
-          Ontdek welke methodes en meditatie-oefeningen jou helpen op weg naar
-          mentale balans."
+        text: "We zijn allemaal op zoek naar mentale balans. Ben je die balans kwijt,
+          dan kun je in  een neerwaartse spiraal belanden. Maak je geen zorgen:
+          ook jij kan hieruit komen. Geniet weer van de stilte zonder bang te
+          zijn voor je eigen gedachten. Word weer de baas over je eigen emoties
+          en ontdek hoe het is om mentale rust te ervaren. Bekijk het leven weer
+          door een roze bril en geniet van iedere dag. "
+      - title: No-nonsense meditatie voor iedereen
+        text: "Meditatie is voor iedereen en kan heel nuchter zijn. Leer simpele en
+          wetenschappelijk onderbouwde meditatietechnieken. Alvast een
+          disclaimer: meditatie kan je brein niet uitzetten. Mentale balans
+          begint bij acceptatie: leer je gedachtes en emoties toe te laten.
+          Onder begeleiding van een vitaliteitscoach leer je hoe je meditatie
+          voor jou kan laten werken. Ook jij kan leren mediteren!"
   - type: preview
     component: preview
     title: Ontdek jouw mentale balans met de emotiemeter
