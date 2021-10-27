@@ -66,7 +66,7 @@ sections:
           kun je écht ontspannen. Ontdek wat voor jou een gezonde stressreactie
           is met vitaliteitscoaching. "
     order: text-image
-    title: Te veel stress
+    title: Leer omgaan met stress
     type: text-media
     component: text-media
     show: true
