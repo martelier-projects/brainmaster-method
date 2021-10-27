@@ -55,7 +55,7 @@ sections:
           produceren. Maar kijk eens naar de manier waarop je werkt. Ontdek de
           mogelijkheden van je brein en optimaliseer je prestaties. "
     order: text-image
-    title: Ik wil productiever werken
+    title: Presteer meer in minder tijd
     type: text-media
     component: text-media
     show: true
@@ -73,7 +73,7 @@ sections:
     show: true
     order: text-image
     component: text-media
-    title: Ik wil mijn creativiteit boosten
+    title: Laat je creativiteit de vrije loop
     imgSrc: /assets/images/ontwerp-zonder-titel-26-.png
     imgAlt: "-"
     sections:
