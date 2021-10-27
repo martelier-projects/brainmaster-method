@@ -7,8 +7,8 @@ text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
   digitaal. "
 title: Herontdek jouw mentale balans en voel je weerbaar
 header:
-  text: Maak een einde aan -onnodige- stress en negatieve gedachten, waardoor jij
-    je weer veerkrachtig en weerbaar zal gaan voelen.
+  text: Maak een einde aan stress en negatieve gedachten, waardoor je veerkrachtig
+    en weerbaarder bent.
   illustration: home
   links:
     - label: "Ja, ik wil! "
@@ -63,9 +63,8 @@ sections:
           stress zich uit, verschilt per persoon. Het is belangrijk om te
           ontdekken welke situaties jou spanning opleveren. Alleen dan kun je
           leren om op een gezonde manier met die stress om te gaan. Pas daarna
-          kun je écht ontspannen. Ontspanning is slechts één onderdeel van de
-          oplossing. Ontdek wat voor jou een gezonde stressreactie is met
-          vitaliteitscoaching. "
+          kun je écht ontspannen. Ontdek wat voor jou een gezonde stressreactie
+          is met vitaliteitscoaching. "
     order: text-image
     title: Te veel stress
     type: text-media
