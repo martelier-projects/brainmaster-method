@@ -5,8 +5,8 @@ permalink: /productiviteit/adviesgesprek/
 layout: layouts/theme-page.njk
 header:
   illustration: home
-  text: "Werk niet harder, maar slimmer. Hoe je dat doet? Vitaliteitscoaching kan
-    daarbij helpen. "
+  text: "Werk niet harder, maar slimmer. Hoe je dat doet? Herwin het vermogen om
+    te presteren met vitaliteitscoaching. "
   links:
     - label: Plan een adviesgesprek
       href: https://calendly.com/pjotr-peulen/gratis-adviesgesprek
@@ -26,16 +26,15 @@ sections:
           kun je al meteen toepassen in je werk. Daarnaast ontvang je een
           stappenplan om je creativiteit te boosten en je productiviteit te
           verhogen. "
+      - text: Je gaat met coach Pjotr in gesprek. Je doet het adviesgesprek en het hele
+          coachingstraject met dezelfde coach. Voelt het bij het adviesgesprek
+          goed, dan hoef je die comfortzone niet meer uit. Tot snel!
+        title: Met wie ga je in gesprek?
       - title: Hoe werkt het?
         text: Als je na het adviesgesprek enthousiast bent, maken we uitgebreid kennis
           tijdens een intakesessie. Het gesprek en de intake zijn vrijblijvend
           en kosteloos. Pas daarna hoef je te beslissen of je verder wil gaan
           met het traject. Heb je nog meer vragen? Kijk dan op de FAQ-pagina.
-      - text: Je gaat met coach Pjotr in gesprek. Je doet het gratis adviesgesprek en
-          het hele coachingstraject met dezelfde coach. Voelt het bij het gratis
-          adviesgesprek goed, dan hoef je die comfortzone niet meer uit. Tot
-          snel!
-        title: Met wie ga je in gesprek?
   - type: preview
     component: preview
     title: Plan een adviesgesprek
