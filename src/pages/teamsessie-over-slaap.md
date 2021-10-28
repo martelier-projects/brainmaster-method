@@ -1,5 +1,5 @@
 ---
-indexPage: true
+indexPage: false
 title: Iedereen verdient een goede nachtrust
 permalink: /teamsessie-over-slaap/
 layout: layouts/default-template.njk
