@@ -1,8 +1,4 @@
 sections:
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: "## Kennismaking"
   - type: preview
     component: preview
     title: Plan een kennismaking
