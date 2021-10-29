@@ -22,7 +22,7 @@ sections:
       In een digitaal uurtje maken we kennis met slaap. De eerste helft bespreken we wat slaap is en de andere helft is voor vragen en antwoorden om ook daadwerkelijk beter te kunnen slapen. Hierdoor kunnen we in een interactieve sessie de basis leggen voor een goede nachtrust.
   - type: text-media
     show: true
-    order: image-text
+    order: text-image
     component: text-media
     imgSrc: /assets/images/ontwerp-zonder-titel-30-.png
     title: Teamsessie over Slaap
