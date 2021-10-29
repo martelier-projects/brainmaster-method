@@ -30,8 +30,8 @@ sections:
     description: Jouw slaapprobleem is uniek en vraagt om een persoonlijke aanpak.
       Weet jij al wat de oorzaak is van jouw slaapproblemen? Ga op onderzoek en
       leer meer over jouw slaapproblemen.
-    linkLabel: /slaap/
-    url: Ga op onderzoek
+    linkLabel: Ga op onderzoek
+    url: /slaap/
     image: /assets/images/zonder-titel-1500-x-1000-px-.png
   - type: text-media
     show: true
