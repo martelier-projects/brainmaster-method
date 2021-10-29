@@ -16,7 +16,7 @@ sections:
       Een teamsessie over slaap kost niets en is vrijblijvend. Dit is een leuke manier om met een kleine groep collega's kennis te maken met slaap en vitaliteitscoaching.
 
 
-      ![](/assets/images/teamsession-sleep.pptx-1-.png)
+      ![/](/assets/images/teamsession-sleep.pptx-1-.png)
 
 
       In een digitaal uurtje maken we kennis met slaap. De eerste helft bespreken we wat slaap is en de andere helft is voor vragen en antwoorden om ook daadwerkelijk beter te kunnen slapen. Hierdoor kunnen we in een interactieve sessie de basis leggen voor een goede nachtrust.
@@ -42,6 +42,13 @@ sections:
           moment vinden? Stuur dan een mailtje met een alternatief voorstel naar
           info@phantus.com.
     imgAlt: /
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: |-
+      ## Wees er snel bij!
+
+      Er zijn nog maar **vijf gratis teamsessies** beschikbaar.
   - type: embed
     show: true
     component: embed
