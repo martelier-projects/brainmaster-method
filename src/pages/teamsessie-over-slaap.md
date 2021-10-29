@@ -58,10 +58,11 @@ sections:
   - type: rich-text
     show: true
     component: rich-text
-    text: |-
+    text: >-
       ## Wees er snel bij!
 
-      Er zijn nog maar **vijf gratis teamsessies** beschikbaar.
+
+      Er zijn nog maar **vijf gratis teamsessies** beschikbaar. Reserveer gelijk één van de vijf gratis teamsessies óf plan eerst een [kennismaking met coach Pjotr.](https://calendly.com/pjotr-peulen/bellen)
   - type: embed
     show: true
     component: embed
