@@ -1,6 +1,6 @@
 ---
 indexPage: false
-title: Slaap dieper en beter als een team
+title: Slaap dieper en beter als één team
 permalink: /teamsessie-over-slaap/
 layout: layouts/default-template.njk
 header:
@@ -10,7 +10,7 @@ sections:
     show: true
     order: image-text
     component: text-media
-    title: Leg als team de basis voor een goede nachtrust!
+    title: Leg als team de basis voor een goede nachtrust
     sections:
       - text: Een teamsessie over slaap kost niets en is vrijblijvend. Dit is een leuke
           manier om met een kleine groep collega's kennis te maken met slaap en
@@ -27,12 +27,12 @@ sections:
   - type: preview
     component: preview
     title: Leer meer over slaapproblemen
-    description: "Jouw slaapprobleem is uniek en vraagt om een persoonlijke aanpak.
+    description: Jouw slaapprobleem is uniek en vraagt om een persoonlijke aanpak.
       Weet jij al wat de oorzaak is van jouw slaapproblemen? Ga op onderzoek en
-      leer over slaapproblemen en hun oorzaken.  "
+      leer meer over jouw slaapproblemen.
     linkLabel: /slaap/
-    url: "Ja, ik wil! "
-    image: /assets/images/ontwerp-zonder-titel-30-.png
+    url: Ga op onderzoek
+    image: /assets/images/zonder-titel-1500-x-1000-px-.png
   - type: text-media
     show: true
     order: text-image
