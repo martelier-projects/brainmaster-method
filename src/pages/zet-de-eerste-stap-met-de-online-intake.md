@@ -13,8 +13,7 @@ sections:
     sections:
       - text: "Ontdek wat vitaliteitscoaching voor jou kan betekenen met deze online
           intake. Gedurende één maand heb je toegang tot het coachingsprogramma
-          en de daarbij horende functionaliteiten, oefeningen en tools.
-          Daarnaast heb je ook recht op één digitale intake met coach Pjotr. "
+          en de daarbij horende functionaliteiten, oefeningen en tools. "
         title: Wat is een online intake?
       - title: Wat kost een online intake?
         text: De online intake kost je niets en is vrijblijvend.
@@ -22,6 +21,10 @@ sections:
           beveiligde digitale omgeving bewaard worden. Zodra jij daar om vraagt,
           zal je account en al je opgeslagen gegevens verwijderd worden. "
         title: Digitale Omgeving
+      - text: "Je mag de komende maand zelf een afspraak met coach Pjotr inplannen. Dit
+          gesprek, de digitale intake, duurt een half uur en zal plaatsvinden
+          via een videobelgesprek. "
+        title: Wanneer spreek ik coach Pjotr weer?
     imgSrc: /assets/images/ontwerp-zonder-titel-10-.png
     title: Online Intake
     imgAlt: /
