@@ -31,7 +31,7 @@ sections:
       ## Meld je aan voor de online intake
 
 
-      Neem een kijkje in het coachingsprogramma. Alles wat jij tijdens de online intake met je coach deelt, zal in een beveiligde digitale omgeving bewaard worden. Zodra jij daar om vraagt, zal je account en al je opgeslagen gegevens verwijderd worden.
+      Neem een kijkje in het coachingsprogramma. Alles wat jij tijdens de online intake met je coach deelt, zal in een beveiligde digitale omgeving bewaard worden. Zodra jij daar om vraagt, zal je account en al je opgeslagen gegevens verwijderd worden. Zie ook ons [Privacy Beleid](https://phantus.com/privacybeleid/).
   - type: embed
     show: true
     component: embed
