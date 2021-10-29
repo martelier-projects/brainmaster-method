@@ -12,7 +12,6 @@ eleventyComputed:
 {% module "header", {
   navigation: mainNav,
   permalink: '{{ permalink }}'
-
 } %}
 
 <article class="text-page">
@@ -22,6 +21,14 @@ eleventyComputed:
     links: header.links,
     illustration: header.illustration
   } %}
+
+  {% if homePage.mainTopics.showTopics %}
+    <div class="homepage__topic-list">
+      {% module 'topic-list', {
+        topics: topics.home.topics
+      } %}
+    </div>
+  {% endif %}
 
   {% module 'flexible-content', {
     sections: sections
