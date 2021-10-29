@@ -2,6 +2,7 @@
   display: block;
   text-decoration: none;
   color: inherit;
+  width: 100%;
 
   transition: $quick $ease-out box-shadow, $quick $ease-out background-color,
     $quick $ease-out border-color, $quick $ease-out color;
@@ -14,10 +15,17 @@
 
 .topic__inner {
   display: flex;
-  flex-direction: column;
-  padding: $gap-m $gap-m $gap-xl;
+  flex-direction: row;
+  align-items: center;
+  padding: $gap-m;
   box-shadow: $shadow-xs;
   background-color: $color-white;
+
+  @include bp-min($bp-m) {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: $gap-m $gap-m $gap-xl;
+  }
 }
 
 .topic__title {
@@ -28,11 +36,20 @@
 
 .topic__text {
   margin: 0;
+  display: none;
+
+  @include bp-min($bp-m) {
+    display: block;
+  }
 }
 
 .topic__icon {
   order: -1;
   width: 2.5rem;
   height: 2.5rem;
-  margin-bottom: $gap-sm;
+  margin-right: $gap-s;
+
+  @include bp-min($bp-m) {
+    margin-bottom: $gap-sm;
+  }
 }

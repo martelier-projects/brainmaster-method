@@ -4,13 +4,12 @@
   flex-direction: column;
   gap: $gap-m;
 
-  @include bp-min($bp-s) {
-    // margin-top: -3rem;
+  @include bp-min($bp-sm) {
     flex-direction: row;
     justify-content: space-between;
 
     @supports (display: grid) {
-      // Add precise aligned columns.
+      // Add precisely aligned columns.
       display: grid;
       grid-template-columns: repeat(3, 1fr);
     }
