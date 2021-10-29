@@ -44,6 +44,17 @@
           {% endfor %}
           </ul>
         </div>
+
+        <div class="footer__nav-section">
+          <h2 class="footer__title">{{ footer.linkListFour.title }}</h2>
+          <ul class="footer__nav-list">
+          {% for item in footer.linkListFour.links %}
+            <li class="footer__nav-item">
+              <a class="footer__link" href="{{ item.url }}">{{ item.label }}</a>
+            </li>
+          {% endfor %}
+          </ul>
+        </div>
       </nav>
 
       <div class="footer__contact">

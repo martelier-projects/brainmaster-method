@@ -1,8 +1,8 @@
-title: Social
+title: Meer
 links:
-  - label: Facebook
-    url: https://www.facebook.com/phantuscoaching/
-  - label: Instagram
-    url: https://www.instagram.com/pjotr.peulen/
-  - label: Linkedin
-    url: https://www.linkedin.com/company/phantus/
+  - label: Blog
+    url: /blog
+  - label: Contact
+    url: /contact
+  - label: FAQ
+    url: /faq

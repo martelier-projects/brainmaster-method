@@ -1379,6 +1379,39 @@ export default [
         ],
       },
       {
+        label: 'Link list four',
+        name: 'link list four',
+        file: 'src/_data/footer/linkListFour.yaml',
+        fields: [
+          {
+            label: 'Title',
+            name: 'title',
+            widget: 'string',
+          },
+          {
+            label: 'Links',
+            name: 'links',
+            widget: 'list',
+            allow_add: true,
+            collapsed: true,
+            max: 5,
+            hint: 'Voeg max 5 links toe.',
+            fields: [
+              {
+                label: 'Label',
+                name: 'label',
+                widget: 'string',
+              },
+              {
+                label: 'URL',
+                name: 'url',
+                widget: 'string',
+              },
+            ],
+          },
+        ],
+      },
+      {
         label: 'Contact',
         name: 'contact',
         file: 'src/_data/footer/contact.yaml',
