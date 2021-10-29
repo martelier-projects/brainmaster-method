@@ -16,10 +16,10 @@ sections:
       Een teamsessie over slaap kost niets en is vrijblijvend. Dit is een leuke manier om met een kleine groep collega's kennis te maken met slaap en vitaliteitscoaching.
 
 
+      In een digitaal uurtje maken we kennis met slaap. De eerste helft bespreken we wat slaap is en de andere helft is voor vragen en antwoorden om ook daadwerkelijk beter te kunnen slapen. Hierdoor kunnen we in een interactieve sessie de basis leggen voor een goede nachtrust.  
+
+
       ![/](/assets/images/teamsession-sleep.pptx-1-.png)
-
-
-      In een digitaal uurtje maken we kennis met slaap. De eerste helft bespreken we wat slaap is en de andere helft is voor vragen en antwoorden om ook daadwerkelijk beter te kunnen slapen. Hierdoor kunnen we in een interactieve sessie de basis leggen voor een goede nachtrust.
   - type: text-media
     show: true
     order: text-image
