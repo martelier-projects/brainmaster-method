@@ -17,10 +17,6 @@ sections:
         title: Wat is een online intake?
       - title: Wat kost een online intake?
         text: De online intake kost je niets en is vrijblijvend.
-      - text: "Alles wat jij tijdens de online intake met je coach deelt, zal in een
-          beveiligde digitale omgeving bewaard worden. Zodra jij daar om vraagt,
-          zal je account en al je opgeslagen gegevens verwijderd worden. "
-        title: Digitale Omgeving
       - text: "Je mag de komende maand zelf een afspraak met coach Pjotr inplannen. Dit
           gesprek, de digitale intake, duurt een half uur en zal plaatsvinden
           via een videobelgesprek. "
