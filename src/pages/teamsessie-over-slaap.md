@@ -6,26 +6,39 @@ layout: layouts/default-template.njk
 header:
   illustration: none
 sections:
-  - type: rich-text
+  - type: text-media
     show: true
-    component: rich-text
-    text: >-
-      ## Leg als team de basis voor een goede nachtrust!
-
-
-      Een teamsessie over slaap kost niets en is vrijblijvend. Dit is een leuke manier om met een kleine groep collega's kennis te maken met slaap en vitaliteitscoaching.
-
-
-      In een digitaal uurtje maken we kennis met slaap. De eerste helft bespreken we wat slaap is en de andere helft is voor vragen en antwoorden om ook daadwerkelijk beter te kunnen slapen. Hierdoor kunnen we in een interactieve sessie de basis leggen voor een goede nachtrust.  
-
-
-      ![/](/assets/images/ontwerp-zonder-titel-31-.png)
+    order: image-text
+    component: text-media
+    title: Leg als team de basis voor een goede nachtrust!
+    sections:
+      - text: Een teamsessie over slaap kost niets en is vrijblijvend. Dit is een leuke
+          manier om met een kleine groep collega's kennis te maken met slaap en
+          vitaliteitscoaching.
+        title: Wat is een teamsessie?
+      - title: Hoe ziet de teamsessie eruit?
+        text: "In een digitaal uurtje maken we kennis met slaap. De eerste helft
+          bespreken we wat slaap is en de andere helft is voor vragen en
+          antwoorden om ook daadwerkelijk beter te kunnen slapen. Hierdoor
+          kunnen we in een interactieve sessie de basis leggen voor een goede
+          nachtrust. "
+    imgSrc: /assets/images/ontwerp-zonder-titel-31-.png
+    imgAlt: /
+  - type: preview
+    component: preview
+    title: Leer meer over slaapproblemen
+    description: "Jouw slaapprobleem is uniek en vraagt om een persoonlijke aanpak.
+      Weet jij al wat de oorzaak is van jouw slaapproblemen? Ga op onderzoek en
+      leer over slaapproblemen en hun oorzaken.  "
+    linkLabel: /slaap/
+    url: "Ja, ik wil! "
+    image: /assets/images/ontwerp-zonder-titel-30-.png
   - type: text-media
     show: true
     order: text-image
     component: text-media
-    imgSrc: /assets/images/ontwerp-zonder-titel-30-.png
-    title: Teamsessie over Slaap
+    imgSrc: /assets/images/ontwerp-zonder-titel-32-.png
+    title: Iedereen verdient het om energiek wakker te worden
     sections:
       - text: Hoeveel deelnemers deelnemen aan deze teamsessie is helemaal aan jullie,
           maar mijn advies is ongeveer 10 deelnemers. Hierdoor kan ik ook echt
