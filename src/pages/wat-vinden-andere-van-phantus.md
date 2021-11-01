@@ -14,14 +14,18 @@ sections:
     title: Slaap dieper en beter
     imgAlt: /
     sections:
-      - title: 87% heeft geen last meer van slaapproblemen
+      - title: 100% hebben géén last meer van slaapproblemen
         text: "Slaapproblemen zijn vaak oplosbaar. Alle cliënten die coach Pjotr
           intensief heeft begeleid hebben nu géén last meer van slaapproblemen.
           Tuurlijk hebben ze nog wel eens een minder nacht, maar slechts zelden.
-          Dit proces duurt bij de één langer dan bij de ander. Sommige cliënten
-          zijn vroegtijdig gestopt en zijn nog zelfstandig op zoek naar de
-          oplossing. Na een intensief coachingstraject zal ook jij weer volop
-          kunnen genieten van een goede nachtrust. "
+          Na een intensief coachingstraject zal ook jij weer volop kunnen
+          genieten van een goede nachtrust. "
+      - title: Vroegtijdig gestopt
+        text: "Slaap is persoonlijk. Het coachingstraject duurt bij de één langer dan
+          bij de ander. Helaas hebben sommige cliënten vroegtijdig moeten
+          stoppen én ervaren nog steeds klachten. Beter leren slapen heeft tijd
+          nodig. Bespreek met coach Pjotr hoe lang hij denkt dat jij nodig hebt,
+          zodat jij niet vroegtijdig moet stoppen. "
 seo:
   title: Reviews
   description: Reviews
