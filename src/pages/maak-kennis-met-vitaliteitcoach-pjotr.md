@@ -12,9 +12,15 @@ sections:
     showTopics: true
     component: topics
     topics:
-      - title: Test
-        text: Test
+      - title: Enthausiast
+        text: d
         icon: Slapen
+      - title: Gedreven
+        text: dd
+        icon: Productief
+      - title: Compassievol
+        text: /
+        icon: Weerbaarheid
   - type: text-media
     show: true
     order: image-text
