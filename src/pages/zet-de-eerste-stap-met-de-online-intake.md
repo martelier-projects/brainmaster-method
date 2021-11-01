@@ -1,6 +1,6 @@
 ---
 indexPage: false
-title: Zet de eerste stap met de online intake
+title: Online Intake
 permalink: /online-intake/
 layout: layouts/default-template.njk
 header:
@@ -22,7 +22,7 @@ sections:
           via een videobelgesprek. "
         title: Wanneer spreek ik coach Pjotr weer?
     imgSrc: /assets/images/ontwerp-zonder-titel-10-.png
-    title: Online Intake
+    title: Begin vandaag nog vanuit de comfort van je eigen huis
     imgAlt: /
   - type: rich-text
     show: true
