@@ -10,7 +10,7 @@ sections:
     show: true
     order: image-text
     component: text-media
-    imgSrc: /assets/images/ontwerp-zonder-titel-4-.png
+    imgSrc: /assets/images/ontwerp-zonder-titel-5-.png
     title: Slaap dieper en beter
     imgAlt: /
     sections:
