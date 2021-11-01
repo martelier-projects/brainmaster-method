@@ -1,5 +1,1 @@
-sections:
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: "[faq]"
+sections: []
