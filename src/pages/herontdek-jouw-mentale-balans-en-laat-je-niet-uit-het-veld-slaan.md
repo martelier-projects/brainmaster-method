@@ -133,7 +133,7 @@ sections:
       ![](/assets/images/mock.jpg)
 
 
-      Droom jij ervan om weer met een glimlach door het leven te gaan? Ontdek weer hoe het is om je weerbaar te voelen en mentale rust ervaren. Laat je niet meer tegenhouden door stress of negatieve gedachten.
+      Droom jij ervan om weer met een glimlach door het leven te gaan? Ontdek weer hoe het is om je weerbaar te voelen en mentale rust te ervaren. Laat je niet meer tegenhouden door stress of negatieve gedachten.
   - type: buttons
     component: buttons
     buttons:
