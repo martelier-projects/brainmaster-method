@@ -56,15 +56,19 @@ sections:
         title: Het lukt niet om te ontspannen
       - title: Weerbaar bij tegenslagen
         text: "Laat je niet uit het veld slaan door stress, en wordt veerkrachtiger bij
-          tegenslagen. Stop met doemdenken en reageer op een gezonde manier op
-          stressvolle situaties. Maar hoe doe je dat? "
-      - title: Een gezonde stressreactie
-        text: "De eerste stap is accepteren dat stress er altijd zal zijn. Hoe die
-          stress zich uit, verschilt per persoon. Het is belangrijk om te
-          ontdekken welke situaties jou spanning opleveren. Alleen dan kun je
-          leren om op een gezonde manier met die stress om te gaan. Pas daarna
-          kun je écht ontspannen. Ontdek wat voor jou een gezonde stressreactie
-          is met vitaliteitscoaching. "
+          tegenslagen. Stop met doemdenken en laat je niet stress je niet
+          tegenhouden. Maar hoe doe je dat? Door te leren hoe je op een gezonde
+          manier kan reageren op stressvolle situatie. Pas na een gezonde
+          stressreactie kun je écht ontspannen. Je kan stress ook te slim af
+          zijn, door je voor te bereiden op het onverwachte. Bewapen jezelf met
+          de laatste tools en technieken en voel je weer weerbaar. "
+      - title: "Jouw gezonde stressreactie "
+        text: "Hoe die stress zich uit, verschilt per persoon. Voel jij de stress in je
+          buik of in je hoofd? Als je stress op tijd kan herkennen kan je op een
+          gezonde manier reageren. Daarnaast is het is belangrijk om te
+          ontdekken welke situaties jou spanning opleveren. Stress zal er altijd
+          zijn, maar veel stress in onnodig. Ontdek wat jouw gezonde
+          stressreactie is met vitaliteitscoaching. "
     order: text-image
     title: Leer omgaan met stress
     type: text-media
@@ -100,16 +104,17 @@ sections:
         text: "We zijn allemaal op zoek naar mentale balans. Ben je die balans kwijt,
           dan kun je in  een neerwaartse spiraal belanden. Maak je geen zorgen:
           ook jij kan hieruit komen. Door simpele, maar effectieve oefeningen
-          uit de positieve psychologie. Leer met compassie je emoties te
-          herkennen en keuzes te maken die je verder brengen. Geniet weer van
-          iedere dag en pluk de vruchten van de positieve spiraal."
+          uit de positieve psychologie. Ontwikkel een compassievolle mindset om
+          liefdevol met je negatieve gedachten en emoties om te gaan. Geniet
+          weer van iedere dag en pluk de vruchten van de positieve spiraal."
       - title: No-nonsense meditatie voor iedereen
-        text: "Meditatie is voor iedereen en kan heel nuchter zijn. Leer simpele en
-          wetenschappelijk onderbouwde meditatietechnieken. Alvast een
-          disclaimer: meditatie kan je brein niet uitzetten. Mentale balans
-          begint bij acceptatie: leer je gedachtes en emoties toe te laten.
-          Onder begeleiding van een vitaliteitscoach leer je hoe je meditatie
-          voor jou kan laten werken. Ook jij kan leren mediteren!"
+        text: "Meditatie is voor iedereen en kan heel nuchter zijn. Met
+          vitaliteitscoaching leer je simpele en wetenschappelijk onderbouwde
+          meditatietechnieken. Alvast een disclaimer: meditatie kan je brein
+          niet uitzetten. Mentale balans begint bij acceptatie: leer je
+          gedachtes en emoties toe te laten. Ontdek onder persoonlijke
+          begeleiding hoe meditatie voor jou kan laten werken. Ook jij kan leren
+          mediteren!"
   - type: preview
     component: preview
     title: Ontdek jouw mentale balans met de emotiemeter
