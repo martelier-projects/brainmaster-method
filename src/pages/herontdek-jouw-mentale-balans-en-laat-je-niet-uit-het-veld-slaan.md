@@ -99,10 +99,10 @@ sections:
       - title: Doorbreek de negatieve spiraal
         text: "We zijn allemaal op zoek naar mentale balans. Ben je die balans kwijt,
           dan kun je in  een neerwaartse spiraal belanden. Maak je geen zorgen:
-          ook jij kan hieruit komen. Geniet weer van de stilte zonder bang te
-          zijn voor je eigen gedachten. Word weer de baas over je eigen emoties
-          en ontdek hoe het is om mentale rust te ervaren. Bekijk het leven weer
-          door een roze bril en geniet van iedere dag. "
+          ook jij kan hieruit komen. Door simpele, maar effectieve oefeningen
+          uit de positieve psychologie. Leer met compassie je emoties te
+          herkennen en keuzes te maken die je verder brengen. Geniet weer van
+          iedere dag en pluk de vruchten van de positieve spiraal."
       - title: No-nonsense meditatie voor iedereen
         text: "Meditatie is voor iedereen en kan heel nuchter zijn. Leer simpele en
           wetenschappelijk onderbouwde meditatietechnieken. Alvast een
