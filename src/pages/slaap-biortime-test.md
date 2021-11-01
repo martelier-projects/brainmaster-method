@@ -7,7 +7,7 @@ header:
   illustration: home
   text: Hoe je slaapt, heeft alles te maken met je biologische slaap-waakritme -
     bioritme in het kort. Hieruit volgt je individuele slaappatroon. Ken je jouw
-    bioritme al? Doe de online test?
+    bioritme al? Doe de online test.
   links:
     - label: Adviesgesprek
       href: /slaap/adviesgesprek/
