@@ -5,7 +5,7 @@ permalink: /weerbaar/emotie-test/
 layout: layouts/theme-page.njk
 header:
   illustration: home
-  text: "Zie jij de wereld door een roze brol of hanger er donkere wolken boven je
+  text: "Zie jij de wereld door een roze bril of hangen er donkere wolken boven je
     hoofd? De hele dag ervaren we emoties. Soms zijn ze positief en soms
     negatief. De emotiemeter berekent de verhouding en bepaalt of je een 'goede'
     of een 'slechte' dag hebt gehad. Doe vandaag nog deze online test. "
