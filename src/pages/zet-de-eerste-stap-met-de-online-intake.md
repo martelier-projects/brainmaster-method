@@ -6,23 +6,40 @@ layout: layouts/default-template.njk
 header:
   illustration: none
 sections:
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Welkom bij de online intake
+
+
+      Ontdek wat vitaliteitscoaching voor jou kan betekenen met deze online intake. Hier vind je alle informatie die je nodig hebt. Je kan altijd terugkeren naar deze pagina.
   - type: text-media
     show: true
     order: image-text
     component: text-media
     sections:
-      - text: "Ontdek wat vitaliteitscoaching voor jou kan betekenen met deze online
-          intake. Gedurende één maand heb je toegang tot het coachingsprogramma
-          en de daarbij horende functionaliteiten, oefeningen en tools. "
-        title: Wat is een online intake?
-      - title: Wat kost een online intake?
-        text: De online intake kost je niets en is vrijblijvend.
-      - text: "Je mag de komende maand zelf een afspraak met coach Pjotr inplannen. Dit
-          gesprek, de digitale intake, duurt een half uur en zal plaatsvinden
-          via een videobelgesprek. "
-        title: Wanneer spreek ik coach Pjotr weer?
+      - text: "Vitaliteitscoaching richt zich op slaap, weerbaarheid en productiviteit.
+          Mijn filosofie is dat iedereen de capaciteit en de innerlijke middelen
+          heeft om een energiek, gezond en gelukkig leven te leiden. Ik zal je
+          ondersteunen bij die zoektocht. "
+        title: Unieke Coaching
+      - title: Flexibele & Digitale Coachsessies
+        text: "Je kan de coachsessies zo inplannen dat het perfect aansluit bij je
+          drukke leven. Een sessie kan 30, 60, óf 90 minuten duren: ideaal voor
+          zowel een korte check-in of een uitgebreid gesprek. Via het
+          coachingsprogramma kan je de sessies inplannen, wanneer het jou
+          uitkomt. Maandelijks bepaal je hoeveel minuten je per maand met je
+          coach wil spreken. Hierbij geldt een minimum van 90 minuten per maand
+          en dat je één maand van tevoren de verandering moet doorvoeren. "
+      - text: "Wanneer je daar behoefte aan hebt, kan je tussen de sessies door aan de
+          slag met verschillende oefeningen en opdrachten via het
+          coachingsprogramma. Dit coachingsprogramma bevat allerlei
+          verschillende modules, oefeningen en tools. Stap voor stap zal je met
+          je coach alles functionaliteiten benutten. "
+        title: Digitale Coachingsprogramma
     imgSrc: /assets/images/ontwerp-zonder-titel-10-.png
-    title: Begin vandaag nog vanuit de comfort van je eigen huis
+    title: "Wat maakt vitaliteitscoaching uniek? "
     imgAlt: /
   - type: rich-text
     show: true
@@ -32,11 +49,6 @@ sections:
 
 
       Neem vast een kijkje in het coachingsprogramma. Alles wat jij tijdens de online intake met je coach deelt, zal in een beveiligde digitale omgeving bewaard worden. Zodra jij daar om vraagt, zal je account en al je opgeslagen gegevens verwijderd worden. Zie ook ons [Privacy Beleid](https://phantus.com/privacybeleid/).
-  - type: embed
-    show: true
-    component: embed
-    embed: <script type="text/javascript"
-      src="https://www.coachaccountable.com/offering/S2NhZ01b64uapcJ221yc3nkJsdc40BL"></script>
 seo:
   title: Online Intake
   description: Online Intake
