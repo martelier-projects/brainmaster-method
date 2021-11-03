@@ -78,23 +78,14 @@ sections:
         title: Oefeningen & Opdrachten
     imgSrc: /assets/images/ontwerp-zonder-titel-25-.png
     imgAlt: /
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: >-
-      ## Online Testjes
-
-
-      Door leuke en leerzame online testjes kom je erachter je wat vitaliteitscoaching voor jou kan betekenen. Heb jij alle drie de onderstaande drie testen al gedaan?
-  - type: buttons
-    component: buttons
-    buttons:
-      - label: Doe de bioritme-test
-        link: /slaap/bioritme-test/
-      - label: Doe de stress-scan
-        link: /weerbaar/stress-test/
-      - label: Doe de emotiemeter
-        link: /weerbaar/emotie-test/
+  - type: preview
+    component: preview
+    title: Kom erachter waar jij behoefte aan hebt
+    description: Door een simpele test kom je erachter waar jij nu behoefte aan
+      hebt. Doe de online test vandaag en krijg persoonlijk advies toegestuurd.
+    linkLabel: Doe de online test
+    url: /coming-soon/
+    image: /assets/images/ontwerp-zonder-titel-1-.png
 seo:
   title: Online Intake
   description: Online Intake
