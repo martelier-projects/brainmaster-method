@@ -14,6 +14,9 @@ sections:
 
 
       Je mag de komende maand zelf een afspraak met coach Pjotr inplannen. De digitale intake een half uur en zal plaatsvinden via een videobelgesprek.
+
+
+      ![/](/assets/images/foto-website-preview-adviesgesprek-1-.png)
   - type: embed
     show: true
     component: embed
