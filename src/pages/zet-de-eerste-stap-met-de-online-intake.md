@@ -29,12 +29,7 @@ sections:
           laten zien hoe een vitaal leven eruit ziet, hoe jij je gezond,
           energiek en gelukkig kan voelen.
         title: Persoonlijke Begeleiding
-      - text: "Het is prettig om elkaars gezicht te zien via een videobelgesprek. Zo
-          leer je elkaar goed kennen, maar dit is niet altijd nodig. Zo heb je
-          naast videobellen de opties om 'normaal' te bellen. Zo kan je gecoacht
-          worden terwijl je aan het autorijden bent of tijdens een wandeling. "
-        title: Bellen of Videobellen
-      - title: Flexibele Plannen
+      - title: Flexibel Plannen
         text: "Je kan de coachsessies zo inplannen dat het perfect aansluit bij je
           drukke leven. Een sessie kan 30, 60, óf 90 minuten duren: ideaal voor
           zowel een korte check-in of een uitgebreid gesprek. Via het
@@ -42,6 +37,11 @@ sections:
           uitkomt. Maandelijks bepaal je hoeveel minuten je per maand met je
           coach wil spreken. Hierbij geldt een minimum van 90 minuten per maand
           en dat je één maand van tevoren de verandering moet doorvoeren. "
+      - text: "Het is prettig om elkaars gezicht te zien via een videobelgesprek. Zo
+          leer je elkaar goed kennen, maar dit is niet altijd nodig. Zo heb je
+          naast videobellen de opties om 'normaal' te bellen. Zo kan je gecoacht
+          worden terwijl je aan het autorijden bent of tijdens een wandeling. "
+        title: Bellen of Videobellen
     imgSrc: /assets/images/kennismaking-vitaliteitscoaching.pptx-6-.png
     title: Persoonlijke Coaching
     imgAlt: /
