@@ -36,7 +36,9 @@ sections:
           slag met verschillende oefeningen en opdrachten via het
           coachingsprogramma. Dit coachingsprogramma bevat allerlei
           verschillende modules, oefeningen en tools. Stap voor stap zal je met
-          je coach alles functionaliteiten benutten. "
+          je coach alles functionaliteiten benutten. Het coachingsprogramma
+          heeft ook een app, zodat je vanaf je smartphone of tablet aan de slag
+          kan. "
         title: Digitale Coachingsprogramma
     imgSrc: /assets/images/ontwerp-zonder-titel-10-.png
     title: "Wat maakt vitaliteitscoaching uniek? "
