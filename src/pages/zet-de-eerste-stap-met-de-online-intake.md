@@ -64,18 +64,18 @@ sections:
           de app. Via de smartphone of tablet kan je aan de slag met oefeningen
           of plan je een nieuwe coachsessie in. "
         title: Vanaf je Smartphone of Tablet
-      - text: Wanneer je daar behoefte aan hebt, kan je tussen de sessies door aan de
-          slag met verschillende oefeningen en opdrachten via het
-          coachingsprogramma. Dit coachingsprogramma bevat allerlei
-          verschillende modules en tools. Stap voor stap zal je met je coach
-          alles functionaliteiten benutten.
-        title: Oefeningen & Opdrachten
       - title: Digitale Coachsessies Inplannen
         text: "Via het coachingsprogramma kan je zelf de coachsessies inplannen. Koppel
           je digitale agenda aan het coachingsprogramma, zodat ze automatisch
           worden toegevoegd. De coachsessies zullen via een videobelgesprek
           worden gevoerd. Net al via het gratis adviesgesprek via een druk op de
           knop. "
+      - text: Wanneer je daar behoefte aan hebt, kan je tussen de sessies door aan de
+          slag met verschillende oefeningen en opdrachten via het
+          coachingsprogramma. Dit coachingsprogramma bevat allerlei
+          verschillende modules en tools. Stap voor stap zal je met je coach
+          alles functionaliteiten benutten.
+        title: Oefeningen & Opdrachten
     imgSrc: /assets/images/ontwerp-zonder-titel-25-.png
     imgAlt: /
   - type: rich-text
