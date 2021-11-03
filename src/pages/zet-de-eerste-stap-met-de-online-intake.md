@@ -40,7 +40,7 @@ sections:
           heeft ook een app, zodat je vanaf je smartphone of tablet aan de slag
           kan. "
         title: Digitale Coachingsprogramma
-    imgSrc: /assets/images/ontwerp-zonder-titel-10-.png
+    imgSrc: /assets/images/kennismaking-vitaliteitscoaching.pptx-6-.png
     title: "Wat maakt vitaliteitscoaching uniek? "
     imgAlt: /
   - type: rich-text
