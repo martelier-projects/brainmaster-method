@@ -45,10 +45,19 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Meld je hieronder aan voor de online intake
+      ## Online Testjes
 
 
-      Neem vast een kijkje in het coachingsprogramma. Alles wat jij tijdens de online intake met je coach deelt, zal in een beveiligde digitale omgeving bewaard worden. Zodra jij daar om vraagt, zal je account en al je opgeslagen gegevens verwijderd worden. Zie ook ons [Privacy Beleid](https://phantus.com/privacybeleid/).
+      Door leuke en leerzame online testjes kom je erachter je wat vitaliteitscoaching voor jou kan betekenen. Heb jij alle drie de onderstaande drie testen al gedaan?
+  - type: buttons
+    component: buttons
+    buttons:
+      - label: Doe de bioritme-test
+        link: /slaap/bioritme-test/
+      - label: Doe de stress-scan
+        link: /weerbaar/stress-test/
+      - label: Doe de emotiemeter
+        link: /weerbaar/emotie-test/
 seo:
   title: Online Intake
   description: Online Intake
