@@ -78,14 +78,6 @@ sections:
         title: Oefeningen & Opdrachten
     imgSrc: /assets/images/ontwerp-zonder-titel-25-.png
     imgAlt: /
-  - type: preview
-    component: preview
-    title: Kom erachter waar jij behoefte aan hebt
-    description: Door een simpele test kom je erachter waar jij nu behoefte aan
-      hebt. Doe de online test vandaag en krijg persoonlijk advies toegestuurd.
-    linkLabel: Doe de online test
-    url: /coming-soon/
-    image: /assets/images/ontwerp-zonder-titel-1-.png
 seo:
   title: Online Intake
   description: Online Intake
