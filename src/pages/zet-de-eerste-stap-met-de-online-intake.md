@@ -42,7 +42,7 @@ sections:
           naast videobellen de opties om 'normaal' te bellen. Zo kan je gecoacht
           worden terwijl je aan het autorijden bent of tijdens een wandeling. "
         title: Bellen of Videobellen
-    imgSrc: /assets/images/kennismaking-vitaliteitscoaching.pptx-6-.png
+    imgSrc: /assets/images/website-foto-pjotr-800-x-1080-px-.png
     title: Persoonlijke Coaching
     imgAlt: /
   - type: preview
@@ -76,7 +76,7 @@ sections:
           worden toegevoegd. De coachsessies zullen via een videobelgesprek
           worden gevoerd. Net al via het gratis adviesgesprek via een druk op de
           knop. "
-    imgSrc: /assets/images/kennismaking-vitaliteitscoaching.pptx-6-.png
+    imgSrc: /assets/images/ontwerp-zonder-titel-25-.png
     imgAlt: /
   - type: rich-text
     show: true
