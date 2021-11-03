@@ -1,7 +1,7 @@
 ---
 indexPage: false
 title: Digitale Intake
-permalink: /digitale-intake/
+permalink: /online-intake/digitale-intake/
 layout: layouts/default-template.njk
 header:
   illustration: none
