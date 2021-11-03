@@ -41,6 +41,13 @@ sections:
     buttons:
       - label: Deelnemen aan gesprek
         link: https://whereby.com/pjotrpeulen
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: |-
+      ```
+
+      ```
 seo:
   title: Digitale Intake
   description: Digitale Intake
