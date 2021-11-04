@@ -50,7 +50,7 @@ sections:
     embed: >-
       <!-- Calendly inline widget begin -->
 
-      <div class="calendly-inline-widget" data-url="https://calendly.com/pjotr-peulen/gratis-adviesgesprek?hide_gdpr_banner=1&primary_color=eb5c36" style="min-width:320px;height:630px;"></div>
+      <div class="calendly-inline-widget" data-url="https://calendly.com/pjotr-peulen/digitale-intake?hide_gdpr_banner=1&primary_color=eb5c36" style="min-width:320px;height:630px;"></div>
 
       <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
