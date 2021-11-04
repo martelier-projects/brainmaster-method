@@ -42,7 +42,7 @@ sections:
           naast videobellen de opties om 'normaal' te bellen. Zo kan je gecoacht
           worden terwijl je aan het autorijden bent of tijdens een wandeling. "
         title: Bellen of Videobellen
-    imgSrc: /assets/images/website-foto-pjotr-800-x-1080-px-.png
+    imgSrc: /assets/images/gesprek-laptop.jpg
     title: Persoonlijke Coaching
     imgAlt: /
   - type: preview
