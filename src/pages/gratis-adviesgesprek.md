@@ -34,7 +34,7 @@ sections:
           vitaliteitscoaching iets voor jou is. Het gesprek en de intake zijn
           vrijblijvend en kosteloos. Heb je nog meer vragen? Kijk dan op de
           FAQ-pagina.
-    imgSrc: /assets/images/website-foto-pjotr-800-x-1080-px-.png
+    imgSrc: /assets/images/website-foto-pjotr-800-x-1080-px-1-.png
     imgAlt: /
   - type: rich-text
     show: true
