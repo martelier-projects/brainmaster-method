@@ -39,7 +39,7 @@ sections:
       stoorzenders. Met een gratis adviesgesprek zet jij de eerste stap naar een
       zorgeloze nachtrust.
     linkLabel: Ja, ik wil!
-    url: /slaap/adviesgesprek/
+    url: /adviesgesprek/
     image: /assets/images/ontwerp-zonder-titel-15-.png
   - imgSrc: /assets/images/ontwerp-zonder-titel-12-.png
     imgCaption: ""
@@ -108,8 +108,8 @@ sections:
       zorgeloze nachtrust.
     linkLabel: Ja, ik wil!
     linkUrl: /slaap/adviesgesprek/
-    image: /assets/images/ontwerp-zonder-titel-15-.png
-    url: /slaap/adviesgesprek/
+    image: /assets/images/ontwerp-zonder-titel-20-.png
+    url: /adviesgesprek/
 illustration: home
 links:
   - label: This is the label
