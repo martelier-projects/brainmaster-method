@@ -1,7 +1,7 @@
 ---
 indexPage: false
-title: Plan een adviesgesprek om je weerbaarder te voelen
-permalink: /weerbaar/adviesgesprek/
+title: "[OUD] Plan een adviesgesprek om je weerbaarder te voelen"
+permalink: /[OUD]-weerbaar-adviesgesprek/
 layout: layouts/theme-page.njk
 header:
   illustration: home
