@@ -14,7 +14,7 @@ header:
 sections:
   - type: text-media
     show: true
-    order: image-text
+    order: text-image
     component: text-media
     title: Ga in gesprek met Coach Pjotr
     sections:
