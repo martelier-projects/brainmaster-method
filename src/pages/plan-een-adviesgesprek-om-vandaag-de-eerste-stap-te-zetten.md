@@ -63,6 +63,9 @@ sections:
 
 
       Zodra het tijd is voor het adviesgesprek kan je onderstaande knop gebruiken om deel te nemen.
+
+
+      ....
   - type: buttons
     component: buttons
     buttons:
