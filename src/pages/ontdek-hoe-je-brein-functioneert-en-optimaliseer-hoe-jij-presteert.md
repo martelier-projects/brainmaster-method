@@ -13,8 +13,6 @@ header:
   links:
     - label: Ja, ik wil!
       href: /adviesgesprek/
-    - label: Doe een concentratie-test
-      href: /concentratie-test/
 sections:
   - type: rich-text
     show: true
@@ -59,16 +57,6 @@ sections:
     type: text-media
     component: text-media
     show: true
-  - type: preview
-    component: preview
-    title: Weet jij wat jou concentratievermogen is?
-    description: "In deze hyperdigitale wereld liggen afleidingen altijd op de loer
-      en zijn we constant aan het multitasken. Ontdek binnen vijf minuten hoe
-      hoog jouw concentratievermogen is. "
-    linkLabel: Doe de concentratie-test
-    linkUrl: /slaap/concentratie-test/
-    image: /assets/images/ontwerp-zonder-titel-28-.png
-    url: /concentratie-test/
   - type: text-media
     show: true
     order: text-image
@@ -101,7 +89,7 @@ sections:
       systematische en georganiseerde manier aan de slag, en lever werk van
       kwaliteit. "
     linkLabel: Ja, ik wil!
-    url: /productiviteit/adviesgesprek/
+    url: /adviesgesprek/
     image: /assets/images/zonder-titel-3000-x-2500-px-.png
 illustration: home
 links:
