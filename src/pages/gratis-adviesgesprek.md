@@ -34,7 +34,7 @@ sections:
           ontdekken of vitaliteitscoaching iets voor jou is. Het gesprek en de
           intake zijn vrijblijvend en kosteloos. Heb je nog meer vragen? Kijk
           dan op de FAQ-pagina.
-    imgSrc: /assets/images/ontwerp-zonder-titel-33-.png
+    imgSrc: /assets/images/adviesgesprek-laptop.jpg
     imgAlt: /
   - type: rich-text
     show: true
