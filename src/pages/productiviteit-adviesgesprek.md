@@ -1,7 +1,7 @@
 ---
 indexPage: false
-title: Plan een adviesgesprek om slimmer te werken
-permalink: /productiviteit/adviesgesprek/
+title: "[OUD] Plan een adviesgesprek om slimmer te werken"
+permalink: /[OUD]-weerbaar-adviesgesprek/
 layout: layouts/theme-page.njk
 header:
   illustration: home
