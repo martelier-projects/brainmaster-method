@@ -59,7 +59,7 @@ sections:
     show: true
     component: rich-text
     text: >-
-      Deelnemen aan het gesprek
+      ## Deelnemen aan het gesprek
 
 
       Zodra het tijd is voor het adviesgesprek kan je onderstaande knop gebruiken om deel te nemen.
