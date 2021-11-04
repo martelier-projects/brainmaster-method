@@ -29,7 +29,7 @@ sections:
         link: "#1ste section"
       - label: Ik wil mijn creativiteit boosten
         link: "#2de section"
-  - imgSrc: /assets/images/ontwerp-zonder-titel-25-.png
+  - imgSrc: /assets/images/ontwerp-zonder-titel-10-.jpg
     imgCaption: ""
     imgAlt: "- "
     sections:
