@@ -1,6 +1,6 @@
 ---
 indexPage: false
-title: "[OUD] Plan een adviesgesprek om je weerbaarder te voelen"
+title: '[OUD] Plan een adviesgesprek om je weerbaarder te voelen'
 permalink: /[OUD]-weerbaar-adviesgesprek/
 layout: layouts/theme-page.njk
 header:
@@ -22,16 +22,19 @@ sections:
     imgSrc: /assets/images/mock.jpg
     sections:
       - title: Wat is een adviesgesprek?
-        text: Tijdens ons gesprek van een half uur zoeken we uit of coaching bij jou
+        text:
+          Tijdens ons gesprek van een half uur zoeken we uit of coaching bij jou
           past. Ook krijg je een korte meditatie-oefening en een stappenplan om
           meer mentale balans te ervaren. Doe van tevoren alvast de stress-scan
           en emotiemeter.
-      - text: Je gaat met coach Pjotr in gesprek. Je doet het adviesgesprek en het hele
+      - text:
+          Je gaat met coach Pjotr in gesprek. Je doet het adviesgesprek en het hele
           coachingstraject met dezelfde coach. Voelt het bij het adviesgesprek
           goed, dan hoef je die comfortzone niet meer uit. Tot snel!
         title: Met wie ga je in gesprek?
       - title: Hoe werkt het?
-        text: Als je na het adviesgesprek enthousiast bent, maken we uitgebreid kennis
+        text:
+          Als je na het adviesgesprek enthousiast bent, maken we uitgebreid kennis
           tijdens de online intake. Het gesprek en de intake zijn vrijblijvend
           en kosteloos. Pas daarna hoef je te beslissen of je verder wil gaan
           met het traject. Heb je meer vragen? Kijk dan op de FAQ-pagina.
@@ -39,7 +42,8 @@ sections:
   - type: preview
     component: preview
     title: Plan een adviesgesprek
-    description: Ik bied je graag een gratis adviesgesprek aan. Je kunt direct een
+    description:
+      Ik bied je graag een gratis adviesgesprek aan. Je kunt direct een
       afspraak maken in mijn digitale agenda.
     linkLabel: Plan nu een afspraak
     url: https://calendly.com/pjotr-peulen/gratis-adviesgesprek
