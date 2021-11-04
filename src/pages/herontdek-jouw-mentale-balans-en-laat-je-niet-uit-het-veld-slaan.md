@@ -12,7 +12,7 @@ header:
   illustration: home
   links:
     - label: "Ja, ik wil! "
-      href: /weerbaar/adviesgesprek/
+      href: /adviesgesprek/
     - label: Doe de stress-scan
       href: /weerbaar/stress-test/
 sections:
@@ -40,7 +40,7 @@ sections:
     linkLabel: Ja, ik wil!
     linkUrl: /slaap/adviesgesprek/
     image: /assets/images/mock.jpg
-    url: /weerbaar/adviesgesprek/
+    url: /adviesgesprek/
   - imgSrc: /assets/images/ontwerp-zonder-titel-21-.png
     imgCaption: ""
     imgAlt: "- "
@@ -142,8 +142,8 @@ sections:
   - type: buttons
     component: buttons
     buttons:
-      - label: Ja, ik wil meer weten over vitaliteitscoaching!
-        link: /weerbaar/adviesgesprek/
+      - label: Ja, ik wil een gratis adviesgesprek
+        link: /adviesgesprek/
 illustration: home
 links:
   - label: This is the label
