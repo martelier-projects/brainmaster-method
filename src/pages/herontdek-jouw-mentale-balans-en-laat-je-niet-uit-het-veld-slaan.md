@@ -48,20 +48,21 @@ sections:
       - text: >-
           Je voelt je vaak gestrest en ervaart een constante druk. Bij kleine
           tegenslagen word je al nerveus. Het lukt je dan niet om te ontspannen.
-          De stress lijkt zich op te slaan in je lichaam, wat resulteert in druk
-          op de borst en een bonzend hoofd. Die spanning beperkt je dagelijks. 
+          De stress lijkt zich op te slaan in je lichaam, wat bijvoorbeeld
+          resulteert in druk op de borst en een bonzend hoofd. Die spanning
+          beperkt je dagelijks. 
 
 
           Herkenbaar?
         title: Het lukt niet om te ontspannen
       - title: Weerbaar bij tegenslagen
         text: "Laat je niet uit het veld slaan door stress, en wordt veerkrachtiger bij
-          tegenslagen. Stop met doemdenken en laat je niet stress je niet
-          tegenhouden. Maar hoe doe je dat? Door te leren hoe je op een gezonde
-          manier kan reageren op stressvolle situatie. Pas na een gezonde
-          stressreactie kun je écht ontspannen. Je kan stress ook te slim af
-          zijn, door je voor te bereiden op het onverwachte. Bewapen jezelf met
-          de laatste tools en technieken en voel je weer weerbaar. "
+          tegenslagen. Stop met doemdenken en laat stress je niet tegenhouden.
+          Maar hoe doe je dat? Door te leren hoe je op een gezonde manier kan
+          reageren op stressvolle situatie. Pas na een gezonde stressreactie kun
+          je écht ontspannen. Je kan stress ook te slim af zijn, door je voor te
+          bereiden op het onverwachte. Bewapen jezelf met de laatste tools en
+          technieken en voel je weer weerbaar. "
       - title: "Jouw gezonde stressreactie "
         text: "Hoe die stress zich uit, verschilt per persoon. Voel jij de stress in je
           buik of in je hoofd? Als je stress op tijd kan herkennen kan je op een
@@ -113,7 +114,7 @@ sections:
           meditatietechnieken. Alvast een disclaimer: meditatie kan je brein
           niet uitzetten. Mentale balans begint bij acceptatie: leer je
           gedachtes en emoties toe te laten. Ontdek onder persoonlijke
-          begeleiding hoe meditatie voor jou kan laten werken. Ook jij kan leren
+          begeleiding hoe meditatie voor jou kan werken. Ook jij kan leren
           mediteren!"
   - type: preview
     component: preview
