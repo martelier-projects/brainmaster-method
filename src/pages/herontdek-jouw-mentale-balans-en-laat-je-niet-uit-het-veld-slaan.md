@@ -41,7 +41,7 @@ sections:
     linkUrl: /slaap/adviesgesprek/
     image: /assets/images/mock.jpg
     url: /adviesgesprek/
-  - imgSrc: /assets/images/ontwerp-zonder-titel-21-.png
+  - imgSrc: /assets/images/ontwerp-zonder-titel-6-.jpg
     imgCaption: ""
     imgAlt: "- "
     sections:
@@ -89,7 +89,7 @@ sections:
     order: text-image
     component: text-media
     title: Leer al je gedachten te accepteren
-    imgSrc: /assets/images/ontwerp-zonder-titel-2-.png
+    imgSrc: /assets/images/ontwerp-zonder-titel-14-.jpg
     imgAlt: "-"
     sections:
       - title: Negatieve gedachten komen als een boemerang terug
@@ -135,7 +135,7 @@ sections:
       Maak een einde aan -onnodige- stress en negatieve gedachten, waardoor jij je weer veerkrachtig en weerbaar zal voelen.
 
 
-      ![](/assets/images/mock.jpg)
+      ![](/assets/images/top-van-de-berg-2-.jpg)
 
 
       Droom jij ervan om weer met een glimlach door het leven te gaan? Ontdek weer hoe het is om je weerbaar te voelen en mentale rust te ervaren. Laat je niet meer tegenhouden door stress of negatieve gedachten.
