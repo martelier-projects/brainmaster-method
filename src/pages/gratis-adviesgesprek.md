@@ -1,7 +1,7 @@
 ---
 indexPage: true
 title: Plan een adviesgesprek om vandaag de eerste stap te zetten
-permalink: /adviesgesprek/
+permalink: /test-test-test/
 layout: layouts/theme-page.njk
 header:
   illustration: home
