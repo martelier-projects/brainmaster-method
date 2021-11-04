@@ -30,10 +30,10 @@ sections:
         title: Met wie ga je in gesprek?
       - title: Wat gebeurt er na het gesprek?
         text: Als je na het adviesgesprek enthousiast bent, kunnen we uitgebreid kennis
-          tijdens de online intake. Tijdens de online intake kan je ontdekken op
-          vitaliteitscoaching iets voor jou is. Het gesprek en de intake zijn
-          vrijblijvend en kosteloos. Heb je nog meer vragen? Kijk dan op de
-          FAQ-pagina.
+          maken tijdens de online intake. Tijdens de online intake kan je
+          ontdekken of vitaliteitscoaching iets voor jou is. Het gesprek en de
+          intake zijn vrijblijvend en kosteloos. Heb je nog meer vragen? Kijk
+          dan op de FAQ-pagina.
     imgSrc: /assets/images/ontwerp-zonder-titel-33-.png
     imgAlt: /
   - type: rich-text
