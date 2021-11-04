@@ -28,7 +28,7 @@ sections:
     component: buttons
     buttons:
       - label: Ik ervaar teveel stress
-        link: "#1ste section"
+        link: "# Leer omgaan met stress"
       - label: Ik heb teveel negatieve gedachten
         link: "#2de section"
   - type: preview
