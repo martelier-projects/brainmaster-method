@@ -14,9 +14,10 @@ header:
 sections:
   - type: text-media
     show: true
-    order: text-image
+    order: image-text
     component: text-media
     title: Ga in gesprek met Coach Pjotr
+    imgSrc: /assets/images/adviesgesprek-laptop.jpg
     sections:
       - text: Tijdens het adviesgesprek bespreken we waar jij in het dagelijks leven
           tegenaan loopt en hoe je daar beter mee om kan gaan. Je eindigt het
@@ -28,13 +29,12 @@ sections:
           luister graag naar jouw verhaal en geef je adviezen en tips waar je
           echt wat aan hebt. Tot snel!
         title: Met wie ga je in gesprek?
-      - title: Wat gebeurt er na het gesprek?
-        text: Als je na het adviesgesprek enthousiast bent, kunnen we uitgebreid kennis
+      - text: Als je na het adviesgesprek enthousiast bent, kunnen we uitgebreid kennis
           maken tijdens de online intake. Tijdens de online intake kan je
           ontdekken of vitaliteitscoaching iets voor jou is. Het gesprek en de
           intake zijn vrijblijvend en kosteloos. Heb je nog meer vragen? Kijk
           dan op de FAQ-pagina.
-    imgSrc: /assets/images/adviesgesprek-laptop.jpg
+        title: Wat gebeurt er na het gesprek?
     imgAlt: /
   - type: rich-text
     show: true
