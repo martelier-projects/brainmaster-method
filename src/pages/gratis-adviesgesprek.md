@@ -55,6 +55,19 @@ sections:
       <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
       <!-- Calendly inline widget end -->
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      Deelnemen aan het gesprek
+
+
+      Zodra het tijd is voor het adviesgesprek kan je onderstaande knop gebruiken om deel te nemen.
+  - type: buttons
+    component: buttons
+    buttons:
+      - label: Deelnemen aan adviesgesprek
+        link: https://whereby.com/pjotrpeulen
 seo:
   title: Adviesgesprek
   description: Adviesgesprek
