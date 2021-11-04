@@ -1,7 +1,7 @@
 ---
 indexPage: false
-title: Plan een adviesgesprek om beter te slapen
-permalink: /slaap/adviesgesprek/
+title: "[OUD] Plan een adviesgesprek om beter te slapen"
+permalink: /[OUD]-slaap-adviesgesprek/
 layout: layouts/theme-page.njk
 header:
   text: "Wil je beter slapen? Ga aan de slag met een vitaliteitscoach en
