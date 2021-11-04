@@ -76,7 +76,7 @@ sections:
           verschillende modules en tools. Stap voor stap zal je met je coach
           alles functionaliteiten benutten.
         title: Oefeningen & Opdrachten
-    imgSrc: /assets/images/ontwerp-zonder-titel-25-.png
+    imgSrc: /assets/images/zonder-titel-1030-x-720-px-.jpg
     imgAlt: /
 seo:
   title: Online Intake
