@@ -12,7 +12,7 @@ header:
   illustration: home
   links:
     - label: Ja, ik wil!
-      href: /slaap/adviesgesprek/
+      href: /adviesgesprek/
     - label: Doe de bioritme-test
       href: /slaap/bioritme-test/
 sections:
