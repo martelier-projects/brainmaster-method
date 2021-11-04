@@ -1,6 +1,6 @@
 ---
 indexPage: false
-title: Ontdek jouw mentale balans met de stress-scan
+title: Hoe hoog is jouw risico op een burn-out?
 permalink: /weerbaar/verborgen/
 layout: layouts/theme-page.njk
 header:
