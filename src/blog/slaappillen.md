@@ -3,7 +3,7 @@ title: Slik jij slaappillen? Dit moet je weten.
 description: Er heerst een slapeloosheidsepidemie en de zoektocht is gericht op
   de magische pil. Een quick fix, waardoor je in een klap weer heerlijk kan
   slapen. Waarom zijn we zo wanhopig op zoek naar deze magische pil?
-image: /assets/images/ontwerp-zonder-titel-14-.png
+image: /assets/images/ontwerp-zonder-titel-1-.jpg
 author: Pjotr Peulen
 authorImage: /assets/images/pjotr.jpg
 date: 2021-01-23T09:39:14.383Z
