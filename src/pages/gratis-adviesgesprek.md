@@ -68,6 +68,10 @@ sections:
     buttons:
       - label: Deelnemen aan adviesgesprek
         link: https://whereby.com/pjotrpeulen
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: \-
 seo:
   title: Adviesgesprek
   description: Adviesgesprek
