@@ -13,7 +13,7 @@ sections:
       ## Plan een digitale intake
 
 
-      Je mag de komende maand zelf een afspraak met coach Pjotr inplannen. De digitale intake een half uur en zal plaatsvinden via een videobelgesprek.
+      Je mag zelf een afspraak met coach Pjotr inplannen. De digitale intake duurt een half uur en zal plaatsvinden via een videobelgesprek.
 
 
       ![/](/assets/images/gesprek-laptop.jpg)
@@ -41,6 +41,8 @@ sections:
     buttons:
       - label: Deelnemen aan gesprek
         link: https://whereby.com/pjotrpeulen
+      - label: Terug naar online intake
+        link: /online-intake/
 seo:
   title: Digitale Intake
   description: Digitale Intake
