@@ -42,7 +42,7 @@ sections:
           naast videobellen de opties om 'normaal' te bellen. Zo kan je gecoacht
           worden terwijl je aan het autorijden bent of tijdens een wandeling. "
         title: Bellen of Videobellen
-    imgSrc: /assets/images/gesprek-laptop.jpg
+    imgSrc: /assets/images/foto-website-preview-adviesgesprek-1-.jpg
     title: Persoonlijke Coaching
     imgAlt: /
   - type: preview
@@ -53,7 +53,7 @@ sections:
       plaatsvinden via een videobelgesprek.
     linkLabel: Plan een digitale intake
     url: /online-intake/digitale-intake/
-    image: /assets/images/ontwerp-zonder-titel-10-.png
+    image: /assets/images/gesprek-laptop.jpg
   - type: text-media
     show: true
     order: image-text
