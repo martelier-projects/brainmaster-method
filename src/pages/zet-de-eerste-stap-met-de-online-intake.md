@@ -17,6 +17,12 @@ sections:
 
 
       Mijn filosofie is dat iedereen de capaciteit en de innerlijke middelen heeft om een energiek, gezond en gelukkig leven te leiden. Ik ondersteun je graag bij die zoektocht!
+
+
+      ### Wat kun je verwachten?
+
+
+      Neem de tijd om de informatie van deze pagina tot je te nemen. Wanneer je behoefte hebt om met mij de opties te bespreken, kan je een digitale intake inplannen. Zodra je weet óf en wat voor coachingstraject bij jou past, kan je via deze pagina aanmelden.
   - type: text-media
     show: true
     order: image-text
