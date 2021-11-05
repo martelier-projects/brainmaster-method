@@ -32,12 +32,12 @@ sections:
       leer meer over jouw slaapproblemen.
     linkLabel: Ga op onderzoek
     url: /slaap/
-    image: /assets/images/zonder-titel-1500-x-1000-px-.png
+    image: /assets/images/ontwerp-zonder-titel-7-.jpg
   - type: text-media
     show: true
     order: text-image
     component: text-media
-    imgSrc: /assets/images/ontwerp-zonder-titel-32-.png
+    imgSrc: /assets/images/ontwerp-zonder-titel-7-.jpg
     title: Iedereen verdient het om energiek wakker te worden
     sections:
       - text: Hoeveel deelnemers deelnemen aan deze teamsessie is helemaal aan jullie,
