@@ -1,7 +1,7 @@
 ---
 indexPage: false
 title: Stress test - Coming Soon
-permalink: /weerbaar/stress-test/
+permalink: /oud2/
 layout: layouts/default-template.njk
 header:
   illustration: none
