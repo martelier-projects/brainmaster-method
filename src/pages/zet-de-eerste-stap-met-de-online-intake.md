@@ -63,7 +63,7 @@ sections:
       - text: "Om overal met je coach contact te kunnen hebben, kan je gebruikmaken van
           de app. Via de smartphone of tablet kan je aan de slag met oefeningen
           of plan je een nieuwe coachsessie in. "
-        title: Vanaf je Smartphone of Tablet
+        title: Smartphone of Tablet
       - title: Digitale Coachsessies Inplannen
         text: "Via het coachingsprogramma kan je zelf de coachsessies inplannen. Koppel
           je digitale agenda aan het coachingsprogramma, zodat ze automatisch
