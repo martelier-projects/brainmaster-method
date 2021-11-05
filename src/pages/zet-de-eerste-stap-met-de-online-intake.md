@@ -30,17 +30,17 @@ sections:
           energiek en gelukkig kan voelen.
         title: Persoonlijke Begeleiding
       - title: Flexibel Plannen
-        text: "Je kan de coachsessies zo inplannen dat het perfect aansluit bij je
-          drukke leven. Een sessie kan 30, 60, óf 90 minuten duren: ideaal voor
-          zowel een korte check-in of een uitgebreid gesprek. Via het
-          coachingsprogramma kan je de sessies inplannen, wanneer het jou
-          uitkomt. Maandelijks bepaal je hoeveel minuten je per maand met je
-          coach wil spreken. Hierbij geldt een minimum van 90 minuten per maand
-          en dat je één maand van tevoren de verandering moet doorvoeren. "
+        text: "Je kan de coachsessies zo inplannen dat het perfect aansluit op je drukke
+          leven. Een sessie kan 30, 60, óf 90 minuten duren: ideaal voor zowel
+          een korte check-in als een uitgebreid gesprek. Via het
+          coachingsprogramma kan je zelf de sessies inplannen en aangeven
+          hoeveel minuten je per maand met je coach wil spreken. Hierbij geldt
+          een minimum van 90 minuten per maand."
       - text: "Het is prettig om elkaars gezicht te zien via een videobelgesprek. Zo
-          leer je elkaar goed kennen, maar dit is niet altijd nodig. Zo heb je
-          naast videobellen de opties om 'normaal' te bellen. Zo kan je gecoacht
-          worden terwijl je aan het autorijden bent of tijdens een wandeling. "
+          leer je elkaar in het begin goed kennen. Elkaar zien is echter niet
+          altijd nodig, daarom kan er ook voor kiezen om 'normaal' te bellen. Zo
+          kan je tijdens het autorijden of tijdens een wandeling gecoacht
+          worden. "
         title: Bellen of Videobellen
     imgSrc: /assets/images/foto-website-preview-adviesgesprek-1-.jpg
     title: Persoonlijke Coaching
