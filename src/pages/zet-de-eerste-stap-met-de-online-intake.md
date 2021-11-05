@@ -64,7 +64,7 @@ sections:
           de app. Via de smartphone of tablet kan je aan de slag met oefeningen
           of plan je een nieuwe coachsessie in. "
         title: Smartphone of Tablet
-      - title: Digitale Coachsessies Inplannen
+      - title: Coachingsprogramma
         text: "Via het coachingsprogramma kan je zelf de coachsessies inplannen. Koppel
           je digitale agenda aan het coachingsprogramma, zodat ze automatisch
           worden toegevoegd. De coachsessies zullen via een videobelgesprek
