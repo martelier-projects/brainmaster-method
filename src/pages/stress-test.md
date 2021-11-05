@@ -1,7 +1,7 @@
 ---
 indexPage: false
 title: Hoe hoog is jouw risico op een burn-out?
-permalink: /weerbaar/verborgen/
+permalink: /weerbaar/stress-test/
 layout: layouts/theme-page.njk
 header:
   illustration: home
