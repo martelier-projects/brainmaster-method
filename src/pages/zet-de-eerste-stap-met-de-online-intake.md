@@ -84,6 +84,36 @@ sections:
         title: Oefeningen & Opdrachten
     imgSrc: /assets/images/zonder-titel-1030-x-720-px-.jpg
     imgAlt: /
+  - type: preview
+    component: preview
+    title: Meld je aan voor vitaliteitscoaching
+    description: "Maak optimaal gebruik van alles wat vitaliteitscoaching je te
+      bieden heeft. Meld je aan voor één van de drie persoonlijke
+      coachingstrajecten. "
+    linkLabel: Maak een keuze
+    url: https://www.coachaccountable.com/offering/PYyHfVsCwb964tQ3OoiuQ8qygRjbBac
+    image: /assets/images/mock.jpg
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Persoonlijke Coachingstrajecten
+
+
+      Je kiest van tevoren hoeveel minuten je per maand met je coach wil spreken. Per maand kan je kiezen tussen 90 minuten óf meer.
+  - type: topics
+    showTopics: true
+    component: topics
+    topics:
+      - title: 90 Minuten p.m.
+        icon: Module
+        text: "Voor € 120,- (incl. BTW) heb je recht op 90 minuten per maand. "
+      - title: 180 Minuten p.m.
+        icon: Module
+        text: "Voor € 220,- (incl. BTW) heb je recht op 180 minuten per maand. "
+      - title: 360 Minuten p.m.
+        icon: Module
+        text: "Voor € 360,- (incl. BTW) heb je recht op 360 minuten per maand. "
 seo:
   title: Online Intake
   description: Online Intake
