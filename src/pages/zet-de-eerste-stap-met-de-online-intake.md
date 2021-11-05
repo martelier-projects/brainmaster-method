@@ -22,7 +22,7 @@ sections:
       ### Wat kun je verwachten?
 
 
-      Neem de tijd om de informatie van deze pagina tot je te nemen. Wanneer je behoefte hebt om met mij de opties te bespreken, kan je een digitale intake inplannen. Zodra je weet óf en wat voor coachingstraject bij jou past, kan je via deze pagina aanmelden.
+      Neem de tijd om de informatie van deze pagina tot je te nemen. Wanneer je behoefte hebt om met mij de opties te bespreken, kan je een digitale intake inplannen. Meld je aan via deze pagina, zodra je weet óf en wat voor coachingstraject bij jou past.
   - type: text-media
     show: true
     order: image-text
@@ -84,15 +84,6 @@ sections:
         title: Oefeningen & Opdrachten
     imgSrc: /assets/images/zonder-titel-1030-x-720-px-.jpg
     imgAlt: /
-  - type: preview
-    component: preview
-    title: Meld je aan voor vitaliteitscoaching
-    description: "Maak optimaal gebruik van alles wat vitaliteitscoaching je te
-      bieden heeft. Meld je aan voor één van de drie persoonlijke
-      coachingstrajecten. "
-    linkLabel: Maak een keuze
-    url: https://www.coachaccountable.com/offering/PYyHfVsCwb964tQ3OoiuQ8qygRjbBac
-    image: /assets/images/mock.jpg
   - type: rich-text
     show: true
     component: rich-text
@@ -117,6 +108,15 @@ sections:
       - title: 360 Minuten p.m.
         icon: Module
         text: "Voor € 360,- (incl. BTW) heb je recht op 360 minuten per maand. "
+  - type: preview
+    component: preview
+    title: Meld je aan voor vitaliteitscoaching
+    description: "Maak optimaal gebruik van alles wat vitaliteitscoaching je te
+      bieden heeft. Meld je aan voor één van de drie persoonlijke
+      coachingstrajecten. "
+    linkLabel: Maak een keuze
+    url: https://www.coachaccountable.com/offering/PYyHfVsCwb964tQ3OoiuQ8qygRjbBac
+    image: /assets/images/mock.jpg
 seo:
   title: Online Intake
   description: Online Intake
