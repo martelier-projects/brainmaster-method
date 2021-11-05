@@ -99,21 +99,24 @@ sections:
     showTopics: true
     component: topics
     topics:
-      - title: 90 Minuten p.m.
+      - title: 90 Minuten
         icon: Module
-        text: "Voor € 120,- (incl. BTW) heb je recht op 90 minuten per maand. "
-      - title: 180 Minuten p.m.
+        text: "Voor € 120,- (incl. BTW) per maand heb je recht op 90 minuten coaching
+          per maand. "
+      - title: 180 Minuten
         icon: Module
-        text: "Voor € 220,- (incl. BTW) heb je recht op 180 minuten per maand. "
-      - title: 360 Minuten p.m.
+        text: "Voor € 220,- (incl. BTW) per maand heb je recht op 90 minuten coaching
+          per maand. "
+      - title: 360 Minuten
         icon: Module
-        text: "Voor € 360,- (incl. BTW) heb je recht op 360 minuten per maand. "
+        text: "Voor € 380,- (incl. BTW) per maand heb je recht op 90 minuten coaching
+          per maand. "
   - type: preview
     component: preview
     title: Meld je aan voor vitaliteitscoaching
     description: "Maak optimaal gebruik van alles wat vitaliteitscoaching je te
-      bieden heeft. Meld je aan voor één van de drie persoonlijke
-      coachingstrajecten. "
+      bieden heeft. Meld je aan voor één van de persoonlijke coachingstrajecten.
+      "
     linkLabel: Maak een keuze
     url: https://www.coachaccountable.com/offering/PYyHfVsCwb964tQ3OoiuQ8qygRjbBac
     image: /assets/images/mock.jpg
