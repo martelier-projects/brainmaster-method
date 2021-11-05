@@ -1,7 +1,7 @@
 ---
 indexPage: false
 title: Ontdek jouw individuele slaappatroon met de bioritme-test
-permalink: /slaap/verborgen/
+permalink: /slaap/bioritme-test/
 layout: layouts/theme-page.njk
 header:
   illustration: home
