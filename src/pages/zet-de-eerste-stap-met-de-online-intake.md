@@ -42,7 +42,7 @@ sections:
           kan je tijdens het autorijden of tijdens een wandeling gecoacht
           worden. "
         title: Bellen of Videobellen
-    imgSrc: /assets/images/foto-website-preview-adviesgesprek-1-.jpg
+    imgSrc: /assets/images/vrouw-bellen-zon.jpg
     title: Persoonlijke Coaching
     imgAlt: /
   - type: preview
