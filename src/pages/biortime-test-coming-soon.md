@@ -1,7 +1,7 @@
 ---
 indexPage: true
 title: Biortime test - Coming Soon
-permalink: /slaap/bioritme-test/
+permalink: /oud/
 layout: layouts/theme-page.njk
 header:
   illustration: none
