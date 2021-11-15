@@ -13,18 +13,19 @@ sections:
     title: Digitale Teamsessie
     sections:
       - text: Een teamsessie over slaap kost niets en is vrijblijvend. Dit is een leuke
-          manier om met een kleine groep collega's kennis te maken met slaap en
-          vitaliteitscoaching. Volledige digitaal en leerzaam!
+          manier om met een kleine groep collega's kennis te maken met van alles
+          rondom slaap en vitaliteitscoaching. Volledige digitaal en leerzaam!
         title: Wat is een teamsessie?
       - title: Hoe ziet de teamsessie eruit?
-        text: "In een digitaal uurtje maken we kennis met slaap. De eerste is eerste
-          helft bespreken wat slaap inhoudt én de andere helft bespreken we wat
-          je kunt doen om ook daadwerkelijk beter te slapen. Hierdoor kunnen we
-          in een interactieve sessie de basis leggen voor een goede nachtrust. "
-      - title: Stel al je vragen over slaap
+        text: In een digitaal uurtje bespreken we wat slaap inhoudt én wat je kunt doen
+          om beter te gaan slapen. Aan het eind van de teamsessie weten de
+          deelnemers waarom ze slaap zo belangrijk is én wat er in de hersenen
+          en het lichaam gebeurt als tijdens slaap.
+      - title: Tijd voor vragen?
         text: "De tweede helft van de teamsessie zal in het teken staan van vraag en
           antwoord. We zullen inzoomen op de onderwerpen en problemen die voor
-          de deelnemers het belangrijkst zijn. "
+          de deelnemers het spelen. Hierdoor kunnen we in een interactieve
+          sessie de basis leggen voor een goede nachtrust. "
     imgSrc: /assets/images/gesprek-laptop.jpg
     imgAlt: /
   - type: preview
