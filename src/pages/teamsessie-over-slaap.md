@@ -1,5 +1,5 @@
 ---
-indexPage: false
+indexPage: true
 title: Slaap dieper en beter als één team
 permalink: /teamsessie-over-slaap/
 layout: layouts/default-template.njk
