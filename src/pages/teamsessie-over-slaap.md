@@ -32,7 +32,7 @@ sections:
       leer meer over jouw slaapproblemen.
     linkLabel: Ga op onderzoek
     url: /slaap/
-    image: /assets/images/ontwerp-zonder-titel-7-.jpg
+    image: /assets/images/ontwerp-zonder-titel-2-.jpg
   - type: text-media
     show: true
     order: text-image
