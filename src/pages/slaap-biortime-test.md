@@ -9,10 +9,8 @@ header:
     bioritme in het kort. Hieruit volgt je individuele slaappatroon. Ken je jouw
     bioritme al? Doe de online test.
   links:
-    - label: Adviesgesprek
-      href: /slaap/adviesgesprek/
-    - label: Doe de stress-scan
-      href: /weerbaar/stress-test/
+    - label: Plan een adviesgesprek
+      href: /adviesgesprek/
 sections:
   - type: embed
     show: true
