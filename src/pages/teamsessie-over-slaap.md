@@ -10,11 +10,11 @@ sections:
     show: true
     order: image-text
     component: text-media
-    title: Leg als team de basis voor een goede nachtrust
+    title: Digitale Teamsessie
     sections:
       - text: Een teamsessie over slaap kost niets en is vrijblijvend. Dit is een leuke
           manier om met een kleine groep collega's kennis te maken met slaap en
-          vitaliteitscoaching.
+          vitaliteitscoaching. Volledige digitaal en leerzaam!
         title: Wat is een teamsessie?
       - title: Hoe ziet de teamsessie eruit?
         text: "In een digitaal uurtje maken we kennis met slaap. De eerste helft
@@ -38,7 +38,7 @@ sections:
     order: text-image
     component: text-media
     imgSrc: /assets/images/ontwerp-zonder-titel-7-.jpg
-    title: Iedereen verdient het om energiek wakker te worden
+    title: Wat nu?
     sections:
       - text: Hoeveel deelnemers deelnemen aan deze teamsessie is helemaal aan jullie,
           maar mijn advies is ongeveer 10 deelnemers. Hierdoor kan ik ook echt
