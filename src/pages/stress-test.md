@@ -10,10 +10,8 @@ header:
     natuurlijk voorkomen. Doe nu de stress-scan en ontdek hoe hoog jouw
     stressniveau is.
   links:
-    - label: Adviesgesprek
-      href: /weerbaar/adviesgesprek/
-    - label: Doe de emotiemeter
-      href: /weerbaar/emotie-test/
+    - label: Plan een adviesgesprek
+      href: /adviesgesprek/
 sections:
   - type: embed
     show: true
