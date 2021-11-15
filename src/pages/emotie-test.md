@@ -11,9 +11,7 @@ header:
     of een 'slechte' dag hebt gehad. Doe vandaag nog deze online test. "
   links:
     - label: Adviesgesprek
-      href: /weerbaar/adviesgesprek/
-    - label: Doe de stress-scan
-      href: /weerbaar/stress-test/
+      href: /adviesgesprek/
 sections:
   - type: embed
     show: true
