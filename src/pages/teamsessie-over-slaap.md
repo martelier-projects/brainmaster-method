@@ -22,7 +22,7 @@ sections:
           antwoorden om ook daadwerkelijk beter te kunnen slapen. Hierdoor
           kunnen we in een interactieve sessie de basis leggen voor een goede
           nachtrust. "
-    imgSrc: /assets/images/ontwerp-zonder-titel-31-.png
+    imgSrc: /assets/images/gesprek-laptop.jpg
     imgAlt: /
   - type: preview
     component: preview
