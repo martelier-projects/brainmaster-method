@@ -22,9 +22,9 @@ sections:
           je kunt doen om ook daadwerkelijk beter te slapen. Hierdoor kunnen we
           in een interactieve sessie de basis leggen voor een goede nachtrust. "
       - title: Stel al je vragen over slaap
-        text: "De tweede helft van de teamsessie zal in het teken staan van de vragen
-          van de deelnemers. We zullen inzoomen op de onderwerpen en problemen
-          die voor de deelnemers het belangrijkst zijn. "
+        text: "De tweede helft van de teamsessie zal in het teken staan van vraag en
+          antwoord. We zullen inzoomen op de onderwerpen en problemen die voor
+          de deelnemers het belangrijkst zijn. "
     imgSrc: /assets/images/gesprek-laptop.jpg
     imgAlt: /
   - type: preview
