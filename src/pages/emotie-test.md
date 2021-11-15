@@ -10,7 +10,7 @@ header:
     negatief. De emotiemeter berekent de verhouding en bepaalt of je een 'goede'
     of een 'slechte' dag hebt gehad. Doe vandaag nog deze online test. "
   links:
-    - label: Adviesgesprek
+    - label: Plan een adviesgesprek
       href: /adviesgesprek/
 sections:
   - type: embed
