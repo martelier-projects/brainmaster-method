@@ -17,11 +17,14 @@ sections:
           vitaliteitscoaching. Volledige digitaal en leerzaam!
         title: Wat is een teamsessie?
       - title: Hoe ziet de teamsessie eruit?
-        text: "In een digitaal uurtje maken we kennis met slaap. De eerste helft
-          bespreken we wat slaap is en de andere helft is voor vragen en
-          antwoorden om ook daadwerkelijk beter te kunnen slapen. Hierdoor
-          kunnen we in een interactieve sessie de basis leggen voor een goede
-          nachtrust. "
+        text: "In een digitaal uurtje maken we kennis met slaap. De eerste is eerste
+          helft bespreken wat slaap inhoudt én de andere helft bespreken we wat
+          je kunt doen om ook daadwerkelijk beter te slapen. Hierdoor kunnen we
+          in een interactieve sessie de basis leggen voor een goede nachtrust. "
+      - title: Stel al je vragen over slaap
+        text: "De tweede helft van de teamsessie zal in het teken staan van de vragen
+          van de deelnemers. We zullen inzoomen op de onderwerpen en problemen
+          die voor de deelnemers het belangrijkst zijn. "
     imgSrc: /assets/images/gesprek-laptop.jpg
     imgAlt: /
   - type: preview
