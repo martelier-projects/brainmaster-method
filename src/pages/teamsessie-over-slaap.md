@@ -22,9 +22,9 @@ sections:
           waarom slaap zo belangrijk is én wat er in de hersenen en het lichaam
           gebeurt tijdens slaap.
       - title: Tijd voor vragen?
-        text: "Het laatste gedeelte helft van de teamsessie zal in het teken staan van
-          vraag en antwoord. We zullen inzoomen op de onderwerpen en problemen
-          die voor de deelnemers het meest spelen. Hiermee leggen we in één
+        text: "Het laatste gedeelte van de teamsessie zal in het teken staan van vraag
+          en antwoord. We zullen inzoomen op de onderwerpen en problemen die
+          voor de deelnemers het meest spelen. Hiermee leggen we in één
           interactieve sessie de basis voor een goede nachtrust. "
     imgSrc: /assets/images/gesprek-laptop.jpg
     imgAlt: /
