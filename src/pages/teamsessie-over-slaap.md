@@ -12,19 +12,19 @@ sections:
     component: text-media
     title: Digitale Teamsessie
     sections:
-      - text: Een teamsessie over slaap kost niets en is vrijblijvend. Dit is een leuke
+      - text: Een teamsessie over slaap is kosteloos en vrijblijvend. Dit is een leuke
           manier om met een kleine groep collega's kennis te maken met van alles
           rondom slaap en vitaliteitscoaching. Volledige digitaal en leerzaam!
         title: Wat is een teamsessie?
       - title: Hoe ziet de teamsessie eruit?
         text: In een digitaal uurtje bespreken we wat slaap inhoudt én wat je kunt doen
-          om beter te gaan slapen. Aan het eind van de teamsessie weten de
-          deelnemers waarom ze slaap zo belangrijk is én wat er in de hersenen
-          en het lichaam gebeurt als tijdens slaap.
+          om beter te slapen. Aan het eind van de teamsessie weten de deelnemers
+          waarom slaap zo belangrijk is én wat er in de hersenen en het lichaam
+          gebeurt tijdens slaap.
       - title: Tijd voor vragen?
         text: "De tweede helft van de teamsessie zal in het teken staan van vraag en
           antwoord. We zullen inzoomen op de onderwerpen en problemen die voor
-          de deelnemers het spelen. Hierdoor kunnen we in een interactieve
+          de deelnemers het meest spelen. Hierdoor kunnen we in een interactieve
           sessie de basis leggen voor een goede nachtrust. "
     imgSrc: /assets/images/gesprek-laptop.jpg
     imgAlt: /
@@ -45,12 +45,12 @@ sections:
     title: Wat nu?
     sections:
       - text: Hoeveel deelnemers deelnemen aan deze teamsessie is helemaal aan jullie,
-          maar mijn advies is ongeveer 10 deelnemers. Hierdoor kan ik ook echt
-          uitgebreid antwoorden op de vragen van alle deelnemers.
+          maar mijn advies is ongeveer 10 tot 15 deelnemers. Hierdoor kan ik ook
+          echt uitgebreid antwoord geven op de vragen van alle deelnemers.
         title: Hoeveel deelnemers?
       - text: "Nadat jij een sessie hebt ingepland, krijg je een bevestigingsmail.
           Hierin wordt alles uitgelegd. In het kort: deelnemers schrijven zich
-          in via een Eventbrite pagina en we zullen bellen via het
+          in via een eventpagina en voor de sessies gebruiken we het
           videobelprogramma Whereby."
         title: Hoe gaat het verder in zijn werk?
       - title: Wat moet jij doen?
