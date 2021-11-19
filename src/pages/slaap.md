@@ -80,7 +80,7 @@ sections:
     order: text-image
     component: text-media
     title: Neem afscheid van slaapangst
-    imgSrc: /assets/images/ontwerp-zonder-titel-3-.png
+    imgSrc: /assets/images/ontwerp-zonder-titel-3-.jpg
     imgAlt: '-'
     sections:
       - title: Plafonddienst draaien
