@@ -37,5 +37,9 @@
       {% if section.component == 'buttons' %}
           {% module 'buttons', section %}
       {% endif %}
+
+      {% if section.component == 'calandy-button' %}
+          {% module 'calandy-button', section %}
+      {% endif %}
   {% endfor %}
 </div>

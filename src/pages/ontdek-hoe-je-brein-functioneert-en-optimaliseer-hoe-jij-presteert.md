@@ -40,7 +40,7 @@ sections:
           kwijt. 
 
 
-          Herkenbaar? 
+          Herkenbaar?
         title: Loop jij achter de feiten aan?
       - title: Fix je focus
         text: Haal je deadlines zonder uren over te werken, en geniet na een succesvolle
@@ -91,6 +91,9 @@ sections:
     linkLabel: Ja, ik wil!
     url: /adviesgesprek/
     image: /assets/images/zonder-titel-3000-x-2500-px-.png
+  - type: calandy-button
+    buttonType: adviesgesprek
+    component: calandy-button
 illustration: home
 links:
   - label: This is the label
