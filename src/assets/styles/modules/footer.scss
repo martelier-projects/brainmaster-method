@@ -39,6 +39,7 @@
 }
 .footer__nav-section {
   margin-right: $gap-xxl;
+  margin-bottom: $gap-m;
 }
 .footer__nav-list {
   @include bare-list;
