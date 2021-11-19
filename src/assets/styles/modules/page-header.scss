@@ -17,6 +17,15 @@
 .page-header[data-illustration='home'] {
   background-image: url('../images/home-header-illustration.svg');
 }
+.page-header[data-illustration='slaap'] {
+  background-image: url('../images/slaap.png');
+}
+.page-header[data-illustration='weerbaar'] {
+  background-image: url('../images/weerbaar.png');
+}
+.page-header[data-illustration='productiviteit'] {
+  background-image: url('../images/productiviteit.png');
+}
 
 .page-header__inner {
   @include container-page;

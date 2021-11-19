@@ -9,7 +9,7 @@ title: Geniet weer van een herstellende nachtrust
 header:
   text: Maak een einde aan slapeloze nachten, zónder het gebruik van
     slaapmedicatie. Zo begin je de dag weer vol energie.
-  illustration: home
+  illustration: slaap
   links:
     - label: Ja, ik wil!
       href: /adviesgesprek/

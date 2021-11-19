@@ -9,7 +9,7 @@ title: Herontdek jouw mentale balans en voel je weerbaar
 header:
   text: Maak een einde aan stress en negatieve gedachten, waardoor je veerkrachtig
     en weerbaarder bent.
-  illustration: home
+  illustration: weerbaar
   links:
     - label: "Ja, ik wil! "
       href: /adviesgesprek/

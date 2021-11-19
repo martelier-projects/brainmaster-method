@@ -73,6 +73,18 @@ export default {
               label: 'Home',
               value: 'home',
             },
+            {
+              label: 'Slaap',
+              value: 'slaap',
+            },
+            {
+              label: 'Weerbaar',
+              value: 'weerbaar',
+            },
+            {
+              label: 'Productiviteit',
+              value: 'productiviteit',
+            },
           ],
           default: 'none',
         },

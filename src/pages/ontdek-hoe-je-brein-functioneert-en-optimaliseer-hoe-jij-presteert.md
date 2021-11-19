@@ -9,7 +9,7 @@ title: Ga slimmer te werk en boost je creativiteit
 header:
   text: "Ontdek een effectieve manier van werken, kom erachter hoe jouw brein
     functioneert en presteer weer optimaal. "
-  illustration: home
+  illustration: productiviteit
   links:
     - label: Ja, ik wil!
       href: /adviesgesprek/
