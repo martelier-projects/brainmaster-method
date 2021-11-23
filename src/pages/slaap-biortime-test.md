@@ -4,7 +4,7 @@ title: Ontdek jouw individuele slaappatroon met de bioritme-test
 permalink: /slaap/bioritme-test/
 layout: layouts/theme-page.njk
 header:
-  illustration: home
+  illustration: slaap
   text: Hoe je slaapt, heeft alles te maken met je biologische slaap-waakritme -
     bioritme in het kort. Hieruit volgt je individuele slaappatroon. Ken je jouw
     bioritme al? Doe de online test.
