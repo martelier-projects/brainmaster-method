@@ -9,9 +9,7 @@ header:
     hoofd? De hele dag ervaren we emoties. Soms zijn ze positief en soms
     negatief. De emotiemeter berekent de verhouding en bepaalt of je een 'goede'
     of een 'slechte' dag hebt gehad. Doe vandaag nog deze online test. "
-  links:
-    - label: Plan een adviesgesprek
-      href: /adviesgesprek/
+  links: []
 sections:
   - type: embed
     show: true
