@@ -118,7 +118,7 @@ sections:
       bieden heeft. Meld je aan voor één van de persoonlijke coachingstrajecten.
       "
     linkLabel: Maak een keuze
-    url: https://www.coachaccountable.com/offering/PYyHfVsCwb964tQ3OoiuQ8qygRjbBac
+    url: https://www.coachaccountable.com/offering/POZflv9VPu6ur8hMrOLUIVmnVZLwMZj
     image: /assets/images/mock.jpg
 seo:
   title: Online Intake
