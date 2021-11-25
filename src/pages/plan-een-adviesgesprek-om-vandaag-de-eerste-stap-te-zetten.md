@@ -71,7 +71,7 @@ sections:
   - type: rich-text
     show: true
     component: rich-text
-    text: "\\*Werkt de knop niet? Kopieer en plan dan deze link in een nieuw
+    text: "\\*Werkt de knop niet? Kopieer en plak dan deze link in een nieuw
       tabblad: <https://whereby.com/pjotrpeulen>"
   - type: calandy-button
     buttonType: adviesgesprek
