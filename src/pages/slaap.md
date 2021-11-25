@@ -110,6 +110,9 @@ sections:
     linkUrl: /slaap/adviesgesprek/
     image: /assets/images/slapen-meisje-handen.jpg
     url: /adviesgesprek/
+  - type: calandy-button
+    buttonType: adviesgesprek
+    component: calandy-button
 illustration: home
 links:
   - label: This is the label
