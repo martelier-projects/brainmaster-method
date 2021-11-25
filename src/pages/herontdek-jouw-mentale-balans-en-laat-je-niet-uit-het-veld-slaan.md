@@ -145,6 +145,9 @@ sections:
     buttons:
       - label: Ja, ik wil een gratis adviesgesprek
         link: /adviesgesprek/
+  - type: calandy-button
+    buttonType: adviesgesprek
+    component: calandy-button
 illustration: home
 links:
   - label: This is the label
