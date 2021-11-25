@@ -117,7 +117,7 @@ sections:
       optimaliseer je nachtrust.
     linkLabel: Ja, ik wil!
     url: /slaap/adviesgesprek/
-    image: /assets/images/1_nfyx05p4n1_qtiw3d71c2g.jpeg
+    image: /assets/images/slapen-meisje-handen.jpg
 seo:
   title: Slaap - Biortime test
   description: Slaap Biortime test
