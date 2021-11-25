@@ -3,7 +3,7 @@ title: 5 Slaaptips! Maar helaas geen quick fix
 description: " Dat zou fijn zijn, dé oplossing die in één klap alle
   slaapproblemen de wereld uit helpt. Deze vijf tips zijn bedoeld op je slaap te
   verbeteren."
-image: /assets/images/ontwerp-zonder-titel-5-.jpg
+image: /assets/images/sleep-optimalization.jpg
 author: Pjotr Peulen
 authorImage: /assets/images/pjotr.jpg
 date: 2021-02-22T14:19:05.168Z
