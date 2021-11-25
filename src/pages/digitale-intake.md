@@ -39,10 +39,15 @@ sections:
   - type: buttons
     component: buttons
     buttons:
-      - label: Deelnemen aan gesprek
+      - label: Deelnemen aan gesprek*
         link: https://whereby.com/pjotrpeulen
       - label: Terug naar online intake
         link: /online-intake/
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: "\\*Werkt deze knop niet? Kopieer en plak dan deze link in een nieuw
+      tabblad: <https://whereby.com/pjotrpeulen>"
 seo:
   title: Digitale Intake
   description: Digitale Intake
