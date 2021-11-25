@@ -41,7 +41,7 @@ sections:
     linkUrl: /slaap/adviesgesprek/
     image: /assets/images/mock.jpg
     url: /adviesgesprek/
-  - imgSrc: /assets/images/ontwerp-zonder-titel-6-.jpg
+  - imgSrc: /assets/images/man-stress.jpg
     imgCaption: ""
     imgAlt: "- "
     sections:
@@ -84,13 +84,13 @@ sections:
       stressniveau is. "
     linkLabel: Doe de stress-scan
     url: /weerbaar/stress-test/
-    image: /assets/images/ontwerp-zonder-titel-24-.png
+    image: /assets/images/lucifers-opgebrand.jpg
   - type: text-media
     show: true
     order: text-image
     component: text-media
     title: Leer al je gedachten te accepteren
-    imgSrc: /assets/images/ontwerp-zonder-titel-14-.jpg
+    imgSrc: /assets/images/vrouw-mediteren-zon.jpg
     imgAlt: "-"
     sections:
       - title: Negatieve gedachten komen als een boemerang terug
@@ -125,7 +125,7 @@ sections:
       boven je hoofd? De hele dag ervaren we emoties. Soms zijn ze positief en
       soms negatief. De emotiemeter berekent de verhouding en bepaalt of je een
       'goede' of een 'slechte' dag hebt gehad. Doe vandaag nog deze online test.
-    image: /assets/images/ontwerp-zonder-titel-23-.png
+    image: /assets/images/emoties-meisje.jpg
   - type: rich-text
     show: true
     component: rich-text
