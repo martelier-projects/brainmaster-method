@@ -29,7 +29,7 @@ sections:
         link: "#1ste section"
       - label: Ik wil mijn creativiteit boosten
         link: "#2de section"
-  - imgSrc: /assets/images/ontwerp-zonder-titel-10-.jpg
+  - imgSrc: /assets/images/man-tablet-computer.jpg
     imgCaption: ""
     imgAlt: "- "
     sections:
@@ -62,7 +62,7 @@ sections:
     order: text-image
     component: text-media
     title: Laat je creativiteit de vrije loop
-    imgSrc: /assets/images/ontwerp-zonder-titel-26-.png
+    imgSrc: /assets/images/vrouw-laptop-tablet-licht.jpg
     imgAlt: "-"
     sections:
       - title: Staar jij uren naar je computerscherm?
@@ -90,7 +90,7 @@ sections:
       kwaliteit. "
     linkLabel: Ja, ik wil!
     url: /adviesgesprek/
-    image: /assets/images/zonder-titel-3000-x-2500-px-.png
+    image: /assets/images/hand-laptop-pen.jpg
   - type: calandy-button
     buttonType: adviesgesprek
     component: calandy-button
