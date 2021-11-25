@@ -3,7 +3,7 @@ title: Slaap — Alle ins & outs
 description: Wat zou jij doen als je dertig jaar extra te leven hebt? Een
   jarenlange wereldreis maken? De Chinese taal leren? Leren vliegen met een
   wingsuit?
-image: /assets/images/ontwerp-zonder-titel-4-.jpg
+image: /assets/images/zandlopen-bed.jpg
 author: Pjotr Peulen
 authorImage: /assets/images/pjotr.jpg
 date: 2021-02-26T18:32:47.596Z
