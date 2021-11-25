@@ -82,7 +82,7 @@ sections:
           verschillende modules en tools. Stap voor stap zal je met je coach
           alles functionaliteiten benutten.
         title: Oefeningen & Opdrachten
-    imgSrc: /assets/images/zonder-titel-1030-x-720-px-.jpg
+    imgSrc: /assets/images/iphone-coaching-app.jpg
     imgAlt: /
   - type: rich-text
     show: true
