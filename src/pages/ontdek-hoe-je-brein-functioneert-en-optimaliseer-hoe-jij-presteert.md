@@ -94,6 +94,9 @@ sections:
   - type: calandy-button
     buttonType: adviesgesprek
     component: calandy-button
+  - type: calandy-button
+    buttonType: adviesgesprek
+    component: calandy-button
 illustration: home
 links:
   - label: This is the label
