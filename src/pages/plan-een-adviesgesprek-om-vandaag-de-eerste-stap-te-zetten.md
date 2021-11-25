@@ -63,18 +63,16 @@ sections:
 
 
       Zodra het tijd is voor het adviesgesprek kan je onderstaande knop gebruiken om deel te nemen.
-
-
-      ....
   - type: buttons
     component: buttons
     buttons:
-      - label: Deelnemen aan adviesgesprek
+      - label: Deelnemen aan adviesgesprek*
         link: https://whereby.com/pjotrpeulen
   - type: rich-text
     show: true
     component: rich-text
-    text: \-
+    text: "\\*Werkt de knop niet? Kopieer en plan dan deze link in een nieuw
+      tabblad: <https://whereby.com/pjotrpeulen>"
 seo:
   title: Adviesgesprek
   description: Adviesgesprek
