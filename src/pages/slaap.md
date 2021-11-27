@@ -5,7 +5,6 @@ layout: layouts/theme-page.njk
 text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
   wetenschappelijk perspectief op mentaal welzijn. Laagdrempelig en volledig
   digitaal. "
-title: Geniet weer van een herstellende nachtrust
 header:
   text: Maak een einde aan slapeloze nachten, zónder het gebruik van
     slaapmedicatie. Zo begin je de dag weer vol energie.
@@ -28,9 +27,9 @@ sections:
     component: buttons
     buttons:
       - label: Ik word moe wakker
-        link: "#1ste section"
+        link: "#moe-wakker-en-met-tegenzin-op"
       - label: Ik ben bang om te slapen
-        link: "#2de section"
+        link: "#neem-afscheid-van-slaapangst"
   - type: preview
     component: preview
     title: Ontdek wat slaapcoaching voor jou kan betekenen
