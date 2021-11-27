@@ -41,5 +41,10 @@
       {% if section.component == 'calandy-button' %}
           {% module 'calandy-button', section %}
       {% endif %}
+
+      {# Exception, modules gets all sections to create a list of items based on this data. #}
+      {% if section.component == 'in-page-nav-for-flexibles' %}
+          {% inPageNavForFlexibles sections %}
+      {% endif %}
   {% endfor %}
 </div>

@@ -5,5 +5,15 @@ import richText from './rich-text.js'
 import topics from './topics.js'
 import buttons from './buttons.js'
 import calandy from './calandy.js'
+import inPageNav from './in-page-nav.js'
 
-export default [embed, textMedia, preview, richText, topics, buttons, calandy]
+export default [
+  embed,
+  textMedia,
+  preview,
+  richText,
+  topics,
+  buttons,
+  calandy,
+  inPageNav,
+]

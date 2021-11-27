@@ -114,6 +114,7 @@ sections:
     buttonType: adviesgesprek
     component: calandy-button
 illustration: home
+title: Geniet weer van een herstellende nachtrust
 links:
   - label: This is the label
     href: /

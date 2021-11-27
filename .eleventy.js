@@ -7,6 +7,7 @@ const dateFilter = require('nunjucks-date-filter')
 const { classesFilter } = require('./utils/classes-filter')
 
 const inPageNav = require('./src/_includes/shortcodes/in-page-nav')
+const inPageNavForFlexibles = require('./src/_includes/shortcodes/in-page-nav-for-flexibles')
 const wysiwyg = require('./src/_includes/shortcodes/wysiwyg')
 const navItem = require('./src/_includes/shortcodes/nav-item')
 
@@ -77,6 +78,10 @@ module.exports = function (eleventyConfig) {
 
   // Shortcodes
   eleventyConfig.addNunjucksShortcode('inPageNav', inPageNav)
+  eleventyConfig.addNunjucksShortcode(
+    'inPageNavForFlexibles',
+    inPageNavForFlexibles
+  )
   eleventyConfig.addNunjucksShortcode('wysiwyg', wysiwyg(nunjucksEnvironment))
   eleventyConfig.addNunjucksShortcode('navItem', navItem)
 

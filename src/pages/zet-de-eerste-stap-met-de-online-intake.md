@@ -28,7 +28,8 @@ sections:
     order: image-text
     component: text-media
     sections:
-      - text: Ik zal je persoonlijk coachen. Dat betekent dat ik je adviseert, motiveert
+      - text:
+          Ik zal je persoonlijk coachen. Dat betekent dat ik je adviseert, motiveert
           én inspireert. Als je niet weet hoe je verder moet, zal ik
           verschillende opties voor je klaar leggen. Wanneer jij het even niet
           meer ziet zitten, zal ik je aanmoedigen om door te gaan. Ik zal je
@@ -36,13 +37,15 @@ sections:
           energiek en gelukkig kan voelen.
         title: Persoonlijke Begeleiding
       - title: Flexibel Plannen
-        text: "Je kan de coachsessies zo inplannen dat het perfect aansluit op je drukke
+        text:
+          'Je kan de coachsessies zo inplannen dat het perfect aansluit op je drukke
           leven. Een sessie kan 30, 60, óf 90 minuten duren: ideaal voor zowel
           een korte check-in als een uitgebreid gesprek. Via het
           coachingsprogramma kan je zelf de sessies inplannen en aangeven
           hoeveel minuten je per maand met je coach wil spreken. Hierbij geldt
-          een minimum van 90 minuten per maand."
-      - text: "Het is prettig om elkaars gezicht te zien via een videobelgesprek. Zo
+          een minimum van 90 minuten per maand.'
+      - text:
+          "Het is prettig om elkaars gezicht te zien via een videobelgesprek. Zo
           leer je elkaar in het begin goed kennen. Elkaar zien is echter niet
           altijd nodig, daarom kan er ook voor kiezen om 'normaal' te bellen. Zo
           kan je tijdens het autorijden of tijdens een wandeling gecoacht
@@ -66,17 +69,20 @@ sections:
     component: text-media
     title: Online Coaching
     sections:
-      - text: "Om overal met je coach contact te kunnen hebben, kan je gebruikmaken van
+      - text:
+          'Om overal met je coach contact te kunnen hebben, kan je gebruikmaken van
           de app. Via de smartphone of tablet kan je aan de slag met oefeningen
-          of plan je een nieuwe coachsessie in. "
+          of plan je een nieuwe coachsessie in. '
         title: Smartphone of Tablet
       - title: Coachingsprogramma
-        text: "Via het coachingsprogramma kan je zelf de coachsessies inplannen. Koppel
+        text:
+          'Via het coachingsprogramma kan je zelf de coachsessies inplannen. Koppel
           je digitale agenda aan het coachingsprogramma, zodat ze automatisch
           worden toegevoegd. De coachsessies zullen via een videobelgesprek
           worden gevoerd. Net al via het gratis adviesgesprek via een druk op de
-          knop. "
-      - text: Wanneer je daar behoefte aan hebt, kan je tussen de sessies door aan de
+          knop. '
+      - text:
+          Wanneer je daar behoefte aan hebt, kan je tussen de sessies door aan de
           slag met verschillende oefeningen en opdrachten via het
           coachingsprogramma. Dit coachingsprogramma bevat allerlei
           verschillende modules en tools. Stap voor stap zal je met je coach
@@ -101,22 +107,25 @@ sections:
     topics:
       - title: 90 Minuten
         icon: Module
-        text: "Voor € 120,- (incl. BTW) per maand heb je recht op 90 coachingsminuten
-          per maand. "
+        text:
+          'Voor € 120,- (incl. BTW) per maand heb je recht op 90 coachingsminuten
+          per maand. '
       - title: 180 Minuten
         icon: Module
-        text: "Voor € 220,- (incl. BTW) per maand heb je recht op 180 coachingsminuten
-          per maand. "
+        text:
+          'Voor € 220,- (incl. BTW) per maand heb je recht op 180 coachingsminuten
+          per maand. '
       - title: 360 Minuten
         icon: Module
-        text: "Voor € 380,- (incl. BTW) per maand heb je recht op 360 coachingsminuten
-          per maand. "
+        text:
+          'Voor € 380,- (incl. BTW) per maand heb je recht op 360 coachingsminuten
+          per maand. '
   - type: preview
     component: preview
     title: Meld je aan voor vitaliteitscoaching
-    description: "Maak optimaal gebruik van alles wat vitaliteitscoaching je te
+    description: 'Maak optimaal gebruik van alles wat vitaliteitscoaching je te
       bieden heeft. Meld je aan voor één van de persoonlijke coachingstrajecten.
-      "
+      '
     linkLabel: Maak een keuze
     url: https://www.coachaccountable.com/offering/POZflv9VPu6ur8hMrOLUIVmnVZLwMZj
     image: /assets/images/mock.jpg
