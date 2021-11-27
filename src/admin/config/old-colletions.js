@@ -500,6 +500,22 @@ export default [
           },
         ],
       },
+      {
+        label: 'Flexible content',
+        file: 'src/_data/contact/flexibleContent.yaml',
+        name: 'flexible content',
+        widget: 'list',
+        collapsed: false,
+        fields: [
+          {
+            label: 'Flexible content sections',
+            name: 'sections',
+            widget: 'list',
+            types: flexibles,
+            collapsed: false,
+          },
+        ],
+      },
     ],
   },
   {

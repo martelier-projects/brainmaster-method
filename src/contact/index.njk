@@ -42,6 +42,10 @@ eleventyComputed:
     <!-- Calendly inline widget end -->
   </section>
 
+  {% module 'flexible-content', {
+    sections: contact.flexibleContent.sections
+  } %}
+
 </article>
 
 {% part 'calandy-kennismaking' %}
