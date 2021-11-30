@@ -26,9 +26,9 @@ sections:
     component: buttons
     buttons:
       - label: Ik wil productiever werken
-        link: "#1ste section"
+        link: "#presteer-meer-in-minder-tijd"
       - label: Ik wil mijn creativiteit boosten
-        link: "#2de section"
+        link: "#laat-je-creativiteit-de-vrije-loop"
   - imgSrc: /assets/images/man-tablet-computer.jpg
     imgCaption: ""
     imgAlt: "- "
