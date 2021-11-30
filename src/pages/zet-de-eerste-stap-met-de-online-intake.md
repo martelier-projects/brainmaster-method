@@ -51,7 +51,7 @@ sections:
           worden. "
         title: Bellen of Videobellen
     imgSrc: /assets/images/vrouw-bellen-zon.jpg
-    title: Persoonlijke Coaching
+    title: Persoonlijke Coachsessies
     imgAlt: /
   - type: preview
     component: preview
