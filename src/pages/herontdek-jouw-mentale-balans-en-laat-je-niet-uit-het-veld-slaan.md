@@ -30,7 +30,7 @@ sections:
       - label: Ik ervaar teveel stress
         link: "#leer-omgaan-met-stress"
       - label: Ik heb teveel negatieve gedachten
-        link: "#2de section"
+        link: "#leer-al-je-gedachten-te-accepteren"
   - type: preview
     component: preview
     title: Ontdek wat vitaliteitscoaching voor jou kan betekenen
