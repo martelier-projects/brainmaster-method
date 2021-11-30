@@ -6,6 +6,8 @@ layout: layouts/default-template.njk
 header:
   illustration: none
 sections:
+  - type: in-page-nav
+    component: in-page-nav-for-flexibles
   - type: rich-text
     show: true
     component: rich-text
@@ -120,8 +122,6 @@ sections:
     linkLabel: Maak een keuze
     url: https://www.coachaccountable.com/offering/POZflv9VPu6ur8hMrOLUIVmnVZLwMZj
     image: /assets/images/mock.jpg
-  - type: in-page-nav
-    component: in-page-nav-for-flexibles
 seo:
   title: Online Intake
   description: Online Intake
