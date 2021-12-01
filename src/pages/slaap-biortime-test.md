@@ -116,7 +116,7 @@ sections:
     description: Wil je beter slapen? Ga aan de slag met een vitaliteitscoach en
       optimaliseer je nachtrust.
     linkLabel: Ja, ik wil!
-    url: /slaap/adviesgesprek/
+    url: /adviesgesprek/
     image: /assets/images/slapen-meisje-handen.jpg
 seo:
   title: Slaap - Biortime test
