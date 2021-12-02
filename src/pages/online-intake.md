@@ -169,6 +169,6 @@ sections:
     url: /coaching/
     image: /assets/images/mock.jpg
 seo:
-  title: Online Intake
-  description: Online Intake
+  title: Vitality Check
+  description: Vitality Check
 ---
