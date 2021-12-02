@@ -160,6 +160,14 @@ sections:
         title: Emotiemeter
         href: /weerbaar/emotie-test/
         icon: Module
+  - type: preview
+    component: preview
+    title: Wat is vitaliteitscoaching?
+    description: "Wil je meer weten over vitaliteitscoaching? Kom erachter wat
+      vitaliteitscoaching is en wat het voor jou kan betekenen. "
+    linkLabel: Meer weten
+    url: /coaching/
+    image: /assets/images/mock.jpg
 seo:
   title: Online Intake
   description: Online Intake
