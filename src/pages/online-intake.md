@@ -147,9 +147,8 @@ sections:
     topics:
       - title: Bioritme-test
         href: /slaap/bioritme-test/
-        text: Hoe je slaapt, heeft alles te maken met je biologische slaap-waakritme -
-          bioritme in het kort. Hieruit volgt je individuele slaappatroon. Ken
-          je jouw bioritme al? Doe de online test.
+        text: Slaap is heel persoonlijk. Hoe je slaapt, heeft alles te maken met je
+          bioritme. Ken je jouw bioritme al? Doe de online test.
         icon: Module
       - title: Stress-scan
         href: /weerbaar/stress-test/
