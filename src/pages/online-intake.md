@@ -1,10 +1,14 @@
 ---
 indexPage: false
-title: Online Intake
+title: Vitality Check
 permalink: /vitality-check/
-layout: layouts/default-template.njk
+layout: layouts/theme-page.njk
 header:
-  illustration: none
+  illustration: home
+  text: Niet iedereen heeft behoefte aan coaching en ik kan ook niet iedereen
+    helpen. Wellicht heb jij alleen wat tips nodig en kan je zelf aan de slag.
+    Of sta jij te trappelen om te beginnen met jouw eigen coachingstraject? Doe
+    vandaag deze online test en kom erachter waar jij behoefte aan hebt!
 sections:
   - type: in-page-nav
     component: in-page-nav-for-flexibles
