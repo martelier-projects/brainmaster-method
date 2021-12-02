@@ -5,11 +5,25 @@ permalink: /vitality-check/
 layout: layouts/theme-page.njk
 header:
   illustration: home
-  text: Niet iedereen heeft behoefte aan coaching en ik kan ook niet iedereen
-    helpen. Wellicht heb jij alleen wat tips nodig en kan je zelf aan de slag.
-    Of sta jij te trappelen om te beginnen met jouw eigen coachingstraject? Doe
-    vandaag deze online test en kom erachter waar jij behoefte aan hebt!
+  text: "Iedere situatie is anders en iedereen is anders. Niet iedereen heeft
+    behoefte aan coaching en ik kan ook niet iedereen helpen. Doe vandaag deze
+    online test en kom erachter waar jij behoefte aan hebt! Sta jij al te
+    trappelen om te beginnen met jouw eigen coachingstraject? Plan dan gelijk
+    een adviesgesprek in. "
+  links:
+    - label: Doe de vitality check
+      href: /
+    - label: Gratis Adviesgesprek
+      href: /adviesgesprek/
 sections:
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Waarom een Vitality Check?
+
+
+      Niet iedereen heeft behoefte aan coaching en ik kan ook niet iedereen helpen. Ontdek met deze online test hoe vitaal jij momenteel bent. Ik, coach Pjotr, geef je graag de juiste tips en adviezen zodat jij de juiste stappen kan zetten. Voor de één is dat een coachingstraject, maar een ander heeft genoeg aan een aantal adviezen. Het kan ook voorkomen dat ik je graag doorverwijs naar een arts of therapeut. Ik wil je graag opweg helpen.
   - type: embed
     show: true
     component: embed
