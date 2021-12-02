@@ -12,7 +12,7 @@ header:
     een adviesgesprek in. "
   links:
     - label: Doe de vitality check
-      href: /
+      href: "#JotFormIFrame-213332280609349"
     - label: Gratis Adviesgesprek
       href: /adviesgesprek/
 sections:
@@ -23,7 +23,19 @@ sections:
       ## Waarom een Vitality Check?
 
 
-      Niet iedereen heeft behoefte aan coaching en ik kan ook niet iedereen helpen. Ontdek met deze online test hoe vitaal jij momenteel bent. Ik, coach Pjotr, geef je graag de juiste tips en adviezen zodat jij de juiste stappen kan zetten. Voor de één is dat een coachingstraject, maar een ander heeft genoeg aan een aantal adviezen. Het kan ook voorkomen dat ik je graag doorverwijs naar een arts of therapeut. Ik wil je graag opweg helpen.
+      Ontdek met deze online test hoe vitaal jij momenteel bent en waar jij behoefte aan hebt. Ik, coach Pjotr, geef je graag de juiste tips en adviezen zodat jij de juiste stappen kan zetten. Voor de één is dat een coachingstraject én gaan we samen een avontuur aan. 
+
+
+      ### Coaching is niet voor iedereen
+
+
+      Niet iedereen heeft behoefte aan coaching. Gelukkig kan ik veel mensen helpen met slechts een paar goede tips en adviezen. Met de vitality check kan ik bepalen hoe ik jou het best kan helpen. Tijdens het adviesgesprek kan jij vertellen waar je tegenaan loopt en hoe je daar beter mee kan omgaan. 
+
+
+      ### Ik kan niet iedereen helpen
+
+
+      Gelukkig ben ik goed in wat ik doen, maar ik kan niet alles. Wellicht heb jij behoefte aan hulp die ik jou niet kan bieden. Met de vitality check kan ik erachter komen óf ik jou kan helpen. Als een coachingstraject niet de oplossing is voor jou, dan help ik je graag op weg. Ik kan je bijvoorbeeld doorverwijzen naar een arts of therapeut waarvan ik weet dat hij of zij je goed kan helpen.
   - type: embed
     show: true
     component: embed
