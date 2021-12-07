@@ -26,6 +26,10 @@ sections:
           stoppen én ervaren nog steeds klachten. Beter leren slapen heeft tijd
           nodig. Bespreek met coach Pjotr hoe lang hij denkt dat jij nodig hebt,
           zodat jij niet vroegtijdig moet stoppen. "
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: "[testimonials]"
 seo:
   title: Reviews
   description: Reviews
