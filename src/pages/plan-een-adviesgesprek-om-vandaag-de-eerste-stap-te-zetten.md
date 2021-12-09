@@ -4,7 +4,7 @@ title: Plan een adviesgesprek om vandaag de eerste stap te zetten
 permalink: /adviesgesprek/
 layout: layouts/theme-page.njk
 header:
-  illustration: home
+  illustration: none
   text: "Een adviesgesprek is vrijblijvend, kosteloos en volledig digitaal. Wacht
     niet tot morgen, maar neem nu actie. Ik help je graag verder en geef je tips
     die je meteen kan inzetten. "
