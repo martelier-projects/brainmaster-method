@@ -4,7 +4,7 @@ title: Vitality Check
 permalink: /vitality-check/
 layout: layouts/theme-page.njk
 header:
-  illustration: home
+  illustration: none
   text: "Iedere situatie is anders en iedereen is anders. Niet iedereen heeft
     behoefte aan coaching en ik kan ook niet iedereen helpen. Doe vandaag deze
     online test en kom erachter waar jij behoefte aan hebt! Sta jij al te
