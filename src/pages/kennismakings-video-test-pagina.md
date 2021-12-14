@@ -1,6 +1,6 @@
 ---
 indexPage: true
-title: Kennismaking's Video (test pagina)
+title: Kennismaking Video (test pagina)
 permalink: /kennismaking/
 layout: layouts/default-template.njk
 header:
