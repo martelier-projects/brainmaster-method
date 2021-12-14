@@ -5,11 +5,9 @@ permalink: /vitality-check/
 layout: layouts/theme-page.njk
 header:
   illustration: none
-  text: "Iedere situatie is anders en iedereen is anders. Niet iedereen heeft
-    behoefte aan coaching en ik kan ook niet iedereen helpen. Doe vandaag deze
-    online test en kom erachter waar jij behoefte aan hebt! Sta jij al te
-    trappelen om te beginnen met jouw eigen coachingstraject? Plan dan gelijk
-    een adviesgesprek in. "
+  text: Iedereen zit anders in elkaar én iedere situatie is anders. Niet iedereen
+    zal behoefte aan coaching hebben én ik kan ook niet iedereen helpen. Doe
+    vandaag nog deze online test en kom erachter waar jouw behoefte ligt!
   links:
     - label: Doe de vitality check
       href: "#JotFormIFrame-213332280609349"
@@ -23,19 +21,19 @@ sections:
       ## Waarom een Vitality Check?
 
 
-      Ontdek met deze online test hoe vitaal jij momenteel bent en waar jij behoefte aan hebt. Ik, coach Pjotr, geef je graag de juiste tips en adviezen zodat jij de juiste stappen kan zetten. Voor de één is dat een coachingstraject én gaan we samen een avontuur aan. 
+      Ontdek met deze online test hoe vitaal jij momenteel bent en waar jij behoefte aan hebt. Ik, coach Pjotr, geef je graag een aantal tips en adviezen, waarmee jij weer een aantal stappen vooruit kan maken. Als daar ook een coachingstraject uit voortkomt, dan gaan we samen dat avontuur aan!
 
 
       ### Coaching is niet voor iedereen
 
 
-      Niet iedereen heeft behoefte aan coaching. Gelukkig kan ik veel mensen helpen met slechts een paar goede tips en adviezen. Met de vitality check kan ik bepalen hoe ik jou het best kan helpen. Tijdens het adviesgesprek kan jij vertellen waar je tegenaan loopt en hoe je daar beter mee kan omgaan. 
+      Niet iedereen heeft behoefte aan coaching. Mogelijk kan ik ook helpen met een paar goede tips en adviezen. Met de vitality check kan ik bepalen hoe ik jou het best kan helpen. Tijdens een adviesgesprek wordt vanzelf duidelijk waar jij tegenaan loopt en kan ik je tips geven hoe je daar beter mee kan omgaan. 
 
 
-      ### Ik kan niet iedereen helpen
+      ### Ik kan niet alles oplossen
 
 
-      Gelukkig ben ik goed in wat ik doen, maar ik kan niet alles. Wellicht heb jij behoefte aan hulp die ik jou niet kan bieden. Met de vitality check kan ik erachter komen óf ik jou kan helpen. Als een coachingstraject niet de oplossing is voor jou, dan help ik je graag op weg. Ik kan je bijvoorbeeld doorverwijzen naar een arts of therapeut waarvan ik weet dat hij of zij je goed kan helpen.
+      Ik ben goed in wat ik doen, maar ik kan niet alles. Wellicht heb jij behoefte aan hulp die ik niet in huis heb. Met de vitality check kan ik erachter komen óf ik jou kan helpen. Als blijkt dat een coachingstraject voor jou geen oplossing is, dan help ik je graag verder op weg. Ik kan je bijvoorbeeld doorverwijzen naar zorgverlener van wie ik weet, dat hij of zij in huis heeft waar jij behoefte aan hebt.
   - type: embed
     show: true
     component: embed
@@ -168,6 +166,9 @@ sections:
     linkLabel: Meer weten
     url: /coaching/
     image: /assets/images/mock.jpg
+  - type: calandy-button
+    buttonType: adviesgesprek
+    component: calandy-button
 seo:
   title: Vitality Check
   description: Vitality Check
