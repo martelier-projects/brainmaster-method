@@ -6,24 +6,19 @@ layout: layouts/default-template.njk
 header:
   illustration: none
 sections:
-  - type: embed
+  - type: rich-text
     show: true
-    component: embed
-    embed: <iframe src="https://whereby.com/pjotrpeulen" allow="camera; microphone;
-      fullscreen; speaker; display-capture"></iframe>
-  - type: embed
-    show: true
-    component: embed
-    embed: >-
-      <!-- Calendly link widget begin -->
+    component: rich-text
+    text: >-
+      ## **Videobellen met coach Pjotr**
 
-      <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 
-      <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-
-      <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/pjotr-peulen/videobellen'});return false;">Schedule time with me</a>
-
-      <!-- Calendly link widget end -->
+      Om te videobellen met coach Pjotr wordt het softwareprogramma Whereby gebruikt. Gebruik onderstaande knop of kopieer en plak deze link in een nieuw tabblad: <https://whereby.com/pjotrpeulen>
+  - type: buttons
+    component: buttons
+    buttons:
+      - label: Nu videobellen
+        link: https://whereby.com/pjotrpeulen
 seo:
   title: Videobellen
   description: Videobellen
