@@ -19,6 +19,10 @@ sections:
     buttons:
       - label: Nu videobellen
         link: https://whereby.com/pjotrpeulen
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: "![/](/assets/images/gesprek-laptop.jpg)"
 seo:
   title: Videobellen
   description: Videobellen
