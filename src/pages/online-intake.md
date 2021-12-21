@@ -54,52 +54,29 @@ sections:
     show: true
     component: embed
     embed: >-
-      <div id="smart-button-container">
-            <div style="text-align: center;">
-              <div id="paypal-button-container"></div>
-            </div>
-          </div>
-        <script src="https://www.paypal.com/sdk/js?client-id=AWkod0ivAzE5B97AL4my60Et0tJJJmf3mkmI1O2zVA90T2c4MIwOxBl-DA56WrrOzzKKTWSgTI3e7X0f&enable-funding=venmo&currency=EUR" data-sdk-integration-source="button-factory"></script>
-        <script>
-          function initPayPalButton() {
-            paypal.Buttons({
-              style: {
+      <div id="paypal-button-container-P-4W645579T0895794WMHAZ6TI"></div>
+
+      <script src="https://www.paypal.com/sdk/js?client-id=AWkod0ivAzE5B97AL4my60Et0tJJJmf3mkmI1O2zVA90T2c4MIwOxBl-DA56WrrOzzKKTWSgTI3e7X0f&vault=true&intent=subscription" data-sdk-integration-source="button-factory"></script>
+
+      <script>
+        paypal.Buttons({
+            style: {
                 shape: 'rect',
                 color: 'gold',
                 layout: 'vertical',
-                label: 'paypal',
-                
-              },
-
-              createOrder: function(data, actions) {
-                return actions.order.create({
-                  purchase_units: [{"description":"Vitality Check","amount":{"currency_code":"EUR","value":1.21,"breakdown":{"item_total":{"currency_code":"EUR","value":1},"shipping":{"currency_code":"EUR","value":0},"tax_total":{"currency_code":"EUR","value":0.21}}}}]
-                });
-              },
-
-              onApprove: function(data, actions) {
-                return actions.order.capture().then(function(orderData) {
-                  
-                  // Full available details
-                  console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
-
-                  // Show a success message within this page, e.g.
-                  const element = document.getElementById('paypal-button-container');
-                  element.innerHTML = '';
-                  element.innerHTML = '<h3>Thank you for your payment!</h3>';
-
-                  // Or go to another URL:  actions.redirect('thank_you.html');
-                  
-                });
-              },
-
-              onError: function(err) {
-                console.log(err);
-              }
-            }).render('#paypal-button-container');
-          }
-          initPayPalButton();
-        </script>
+                label: 'paypal'
+            },
+            createSubscription: function(data, actions) {
+              return actions.subscription.create({
+                /* Creates the subscription */
+                plan_id: 'P-4W645579T0895794WMHAZ6TI'
+              });
+            },
+            onApprove: function(data, actions) {
+              alert(data.subscriptionID); // You can add optional success message for the subscriber here
+            }
+        }).render('#paypal-button-container-P-4W645579T0895794WMHAZ6TI'); // Renders the PayPal button
+      </script>
   - type: rich-text
     show: true
     component: rich-text
