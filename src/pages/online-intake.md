@@ -42,14 +42,6 @@ sections:
           hebt.
         title: Ik kan niet alles oplossen
     imgAlt: /
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: >-
-      ## Wat krijg je bij de Vitality Check?
-
-
-      Voor slechts €30,- krijg je persoonlijk advies tijdens een coachsessie. Na het maken van de online test kan je een digitale coachsessie inplannen.
   - type: embed
     show: true
     component: embed
