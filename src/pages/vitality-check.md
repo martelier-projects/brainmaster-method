@@ -154,29 +154,6 @@ sections:
       <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
       <!-- Calendly inline widget end -->
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: "## Heb je al alle drie de online testjes gedaan?"
-  - type: topics
-    showTopics: true
-    component: topics
-    topics:
-      - title: Bioritme-test
-        href: /slaap/bioritme-test/
-        text: Slaap is heel persoonlijk. Hoe je slaapt, heeft alles te maken met je
-          bioritme. Ken je jouw bioritme al? Doe de online test.
-        icon: Module
-      - title: Stress-scan
-        href: /weerbaar/stress-test/
-        text: Hoe hoog is jouw risico op een burn-out? Doe vandaag nog de stress-scan en
-          ontdek hoe hoog jouw stressniveau is.
-        icon: Module
-      - text: "Wat voor emoties heb jij vandaag ervaren? Doe vandaaag nog de emotiemeter
-          en kom erachter of je een 'goede' of een 'slechte' dag hebt gehad. "
-        title: Emotiemeter
-        href: /weerbaar/emotie-test/
-        icon: Module
   - type: preview
     component: preview
     title: Wat is vitaliteitscoaching?
