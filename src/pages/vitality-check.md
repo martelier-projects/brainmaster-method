@@ -138,6 +138,25 @@ sections:
   - type: rich-text
     show: true
     component: rich-text
+    text: >-
+      ## Plan een coachsessie
+
+
+      Je mag zelf een afspraak met mij, coach Pjotr, inplannen. De coachsessie duurt anderhalf uur en zal plaatsvinden via een videobelgesprek.
+  - type: embed
+    show: true
+    component: embed
+    embed: >-
+      <!-- Calendly inline widget begin -->
+
+      <div class="calendly-inline-widget" data-url="https://calendly.com/pjotr-peulen/coachsessie-vitality-check?hide_gdpr_banner=1&primary_color=eb5c36" style="min-width:320px;height:630px;"></div>
+
+      <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+
+      <!-- Calendly inline widget end -->
+  - type: rich-text
+    show: true
+    component: rich-text
     text: "## Heb je al alle drie de online testjes gedaan?"
   - type: topics
     showTopics: true
@@ -166,9 +185,6 @@ sections:
     linkLabel: Meer weten
     url: /coaching/
     image: /assets/images/mock.jpg
-  - type: calandy-button
-    buttonType: adviesgesprek
-    component: calandy-button
 seo:
   title: Vitality Check
   description: Vitality Check
