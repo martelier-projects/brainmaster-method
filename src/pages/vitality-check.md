@@ -1,6 +1,6 @@
 ---
 indexPage: false
-title: Vitality Check
+title: Begin met de Vitality Check
 permalink: /vitality-check/74823ghdsj12ynev/
 layout: layouts/theme-page.njk
 header:
