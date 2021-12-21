@@ -14,14 +14,6 @@ header:
     - label: Gratis Adviesgesprek
       href: /adviesgesprek/
 sections:
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: >-
-      ## Wat krijg je bij de Vitality Check?
-
-
-      Voor slechts €30,- krijg je persoonlijk advies tijdens een coachsessie. Na het maken van de online test kan je een digitale coachsessie inplannen.
   - type: text-media
     show: true
     order: image-text
@@ -50,6 +42,14 @@ sections:
           hebt.
         title: Ik kan niet alles oplossen
     imgAlt: /
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Wat krijg je bij de Vitality Check?
+
+
+      Voor slechts €30,- krijg je persoonlijk advies tijdens een coachsessie. Na het maken van de online test kan je een digitale coachsessie inplannen.
   - type: embed
     show: true
     component: embed
@@ -131,9 +131,6 @@ sections:
     linkLabel: Meer weten
     url: /coaching/
     image: /assets/images/mock.jpg
-  - type: calandy-button
-    buttonType: adviesgesprek
-    component: calandy-button
 seo:
   title: Vitality Check
   description: Vitality Check
