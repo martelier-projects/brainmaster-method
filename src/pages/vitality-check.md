@@ -154,14 +154,6 @@ sections:
       <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
       <!-- Calendly inline widget end -->
-  - type: preview
-    component: preview
-    title: Wat is vitaliteitscoaching?
-    description: "Wil je meer weten over vitaliteitscoaching? Kom erachter wat
-      vitaliteitscoaching is en wat het voor jou kan betekenen. "
-    linkLabel: Meer weten
-    url: /coaching/
-    image: /assets/images/mock.jpg
   - type: rich-text
     show: true
     component: rich-text
@@ -175,6 +167,14 @@ sections:
     buttons:
       - label: Deelnemen aan coachsessie
         link: /videobellen/
+  - type: preview
+    component: preview
+    title: Wat is vitaliteitscoaching?
+    description: "Wil je meer weten over vitaliteitscoaching? Kom erachter wat
+      vitaliteitscoaching is en wat het voor jou kan betekenen. "
+    linkLabel: Meer weten
+    url: /coaching/
+    image: /assets/images/mock.jpg
 seo:
   title: Vitality Check
   description: Vitality Check
