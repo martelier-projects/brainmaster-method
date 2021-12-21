@@ -37,104 +37,53 @@ sections:
   - type: embed
     show: true
     component: embed
-    embed: >-2
-      
-          <iframe
-            id="JotFormIFrame-213332280609349"
-            title="Vitality Check"
-            onload="window.parent.scrollTo(0,0)"
-            allowtransparency="true"
-            allowfullscreen="true"
-            allow="geolocation; microphone; camera"
-            src="https://form.jotform.com/213332280609349"
-            frameborder="0"
-            style="
-            min-width: 100%;
-            height:539px;
-            border:none;"
-            scrolling="no"
-          >
-          </iframe>
-          <script type="text/javascript">
-            var ifr = document.getElementById("JotFormIFrame-213332280609349");
-            if (ifr) {
-              var src = ifr.src;
-              var iframeParams = [];
-              if (window.location.href && window.location.href.indexOf("?") > -1) {
-                iframeParams = iframeParams.concat(window.location.href.substr(window.location.href.indexOf("?") + 1).split('&'));
-              }
-              if (src && src.indexOf("?") > -1) {
-                iframeParams = iframeParams.concat(src.substr(src.indexOf("?") + 1).split("&"));
-                src = src.substr(0, src.indexOf("?"))
-              }
-              iframeParams.push("isIframeEmbed=1");
-              ifr.src = src + "?" + iframeParams.join('&');
-            }
-            window.handleIFrameMessage = function(e) {
-              if (typeof e.data === 'object') { return; }
-              var args = e.data.split(":");
-              if (args.length > 2) { iframe = document.getElementById("JotFormIFrame-" + args[(args.length - 1)]); } else { iframe = document.getElementById("JotFormIFrame"); }
-              if (!iframe) { return; }
-              switch (args[0]) {
-                case "scrollIntoView":
-                  iframe.scrollIntoView();
-                  break;
-                case "setHeight":
-                  iframe.style.height = args[1] + "px";
-                  break;
-                case "collapseErrorPage":
-                  if (iframe.clientHeight > window.innerHeight) {
-                    iframe.style.height = window.innerHeight + "px";
-                  }
-                  break;
-                case "reloadPage":
-                  window.location.reload();
-                  break;
-                case "loadScript":
-                  if( !window.isPermitted(e.origin, ['jotform.com', 'jotform.pro']) ) { break; }
-                  var src = args[1];
-                  if (args.length > 3) {
-                      src = args[1] + ':' + args[2];
-                  }
-                  var script = document.createElement('script');
-                  script.src = src;
-                  script.type = 'text/javascript';
-                  document.body.appendChild(script);
-                  break;
-                case "exitFullscreen":
-                  if      (window.document.exitFullscreen)        window.document.exitFullscreen();
-                  else if (window.document.mozCancelFullScreen)   window.document.mozCancelFullScreen();
-                  else if (window.document.mozCancelFullscreen)   window.document.mozCancelFullScreen();
-                  else if (window.document.webkitExitFullscreen)  window.document.webkitExitFullscreen();
-                  else if (window.document.msExitFullscreen)      window.document.msExitFullscreen();
-                  break;
-              }
-              var isJotForm = (e.origin.indexOf("jotform") > -1) ? true : false;
-              if(isJotForm && "contentWindow" in iframe && "postMessage" in iframe.contentWindow) {
-                var urls = {"docurl":encodeURIComponent(document.URL),"referrer":encodeURIComponent(document.referrer)};
-                iframe.contentWindow.postMessage(JSON.stringify({"type":"urls","value":urls}), "*");
-              }
-            };
-            window.isPermitted = function(originUrl, whitelisted_domains) {
-              var url = document.createElement('a');
-              url.href = originUrl;
-              var hostname = url.hostname;
-              var result = false;
-              if( typeof hostname !== 'undefined' ) {
-                whitelisted_domains.forEach(function(element) {
-                    if( hostname.slice((-1 * element.length - 1)) === '.'.concat(element) ||  hostname === element ) {
-                        result = true;
-                    }
+    embed: >-
+      <div id="smart-button-container">
+            <div style="text-align: center;">
+              <div id="paypal-button-container"></div>
+            </div>
+          </div>
+        <script src="https://www.paypal.com/sdk/js?client-id=AWkod0ivAzE5B97AL4my60Et0tJJJmf3mkmI1O2zVA90T2c4MIwOxBl-DA56WrrOzzKKTWSgTI3e7X0f&enable-funding=venmo&currency=EUR" data-sdk-integration-source="button-factory"></script>
+        <script>
+          function initPayPalButton() {
+            paypal.Buttons({
+              style: {
+                shape: 'rect',
+                color: 'gold',
+                layout: 'vertical',
+                label: 'paypal',
+                
+              },
+
+              createOrder: function(data, actions) {
+                return actions.order.create({
+                  purchase_units: [{"description":"Vitality Check","amount":{"currency_code":"EUR","value":1.21,"breakdown":{"item_total":{"currency_code":"EUR","value":1},"shipping":{"currency_code":"EUR","value":0},"tax_total":{"currency_code":"EUR","value":0.21}}}}]
                 });
-                return result;
+              },
+
+              onApprove: function(data, actions) {
+                return actions.order.capture().then(function(orderData) {
+                  
+                  // Full available details
+                  console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+
+                  // Show a success message within this page, e.g.
+                  const element = document.getElementById('paypal-button-container');
+                  element.innerHTML = '';
+                  element.innerHTML = '<h3>Thank you for your payment!</h3>';
+
+                  // Or go to another URL:  actions.redirect('thank_you.html');
+                  
+                });
+              },
+
+              onError: function(err) {
+                console.log(err);
               }
-            };
-            if (window.addEventListener) {
-              window.addEventListener("message", handleIFrameMessage, false);
-            } else if (window.attachEvent) {
-              window.attachEvent("onmessage", handleIFrameMessage);
-            }
-            </script>
+            }).render('#paypal-button-container');
+          }
+          initPayPalButton();
+        </script>
   - type: rich-text
     show: true
     component: rich-text
