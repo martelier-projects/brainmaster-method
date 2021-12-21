@@ -162,6 +162,19 @@ sections:
     linkLabel: Meer weten
     url: /coaching/
     image: /assets/images/mock.jpg
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Deelnemen aan het gesprek
+
+
+      Zodra het tijd is voor de coachsessie kan je onderstaande knop gebruiken om deel te nemen.
+  - type: buttons
+    component: buttons
+    buttons:
+      - label: Deelnemen aan coachsessie
+        link: /videobellen/
 seo:
   title: Vitality Check
   description: Vitality Check
