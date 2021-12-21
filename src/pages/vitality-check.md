@@ -2,7 +2,7 @@
 indexPage: false
 title: Begin met de Vitality Check
 permalink: /vitality-check/74823ghdsj12ynev/
-layout: layouts/theme-page.njk
+layout: layouts/default-template.njk
 header:
   illustration: none
   text: Iedereen zit anders in elkaar én iedere situatie is anders. Niet iedereen
