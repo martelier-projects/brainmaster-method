@@ -18,7 +18,7 @@ sections:
     show: true
     order: image-text
     component: text-media
-    title: Ga in gesprek met Coach Pjotr
+    title: Spreek met Coach Pjotr
     imgSrc: /assets/images/adviesgesprek-laptop.jpg
     sections:
       - text: Tijdens het adviesgesprek bespreken we waar jij in het dagelijks leven
