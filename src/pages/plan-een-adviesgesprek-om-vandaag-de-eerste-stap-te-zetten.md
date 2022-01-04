@@ -22,11 +22,23 @@ sections:
 
 
       Tijdens het adviesgesprek bespreken we waar jij in het dagelijks leven tegenaan loopt en hoe je daar beter mee om kan gaan. Je eindigt het gesprek zonder verplichtingen en mét de eerste tips die je direct toe kan passen.
+
+
+      ### Met wie ga je in gesprek?
+
+
+      Je gaat met mij, coach Pjotr, in gesprek. Mijn jaren ervaring en kennis als vitaliteitscoach deel ik graag met je in dit adviesgesprek. Ik luister graag naar jouw verhaal en geef je adviezen en tips waar je echt wat aan hebt. Tot snel!
+
+
+      ### Wat gebeurt er na het gesprek?
+
+
+      Als je na het adviesgesprek enthousiast bent, kunnen we uitgebreid kennis maken tijdens de online intake. Tijdens de online intake kan je ontdekken of vitaliteitscoaching iets voor jou is. Het gesprek en de intake zijn vrijblijvend en kosteloos. Heb je nog meer vragen? Kijk dan op de [FAQ-pagina](https://phantus.com/faq/).
   - type: text-media
-    show: true
+    show: false
     order: image-text
     component: text-media
-    title: Coach Pjotr
+    title: Voorbeelden
     imgSrc: /assets/images/adviesgesprek-laptop.jpg
     sections:
       - text: Je gaat met mij, coach Pjotr, in gesprek. Mijn jaren ervaring en kennis
