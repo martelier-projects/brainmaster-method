@@ -1,6 +1,6 @@
 ---
 indexPage: true
-title: Gratis Adviesgesprek
+title: Adviesgesprek
 permalink: /adviesgesprek/
 layout: layouts/default-template.njk
 header:
