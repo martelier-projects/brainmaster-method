@@ -68,9 +68,9 @@ sections:
     component: text-media
     title: Digitale Omgeving
     sections:
-      - text: "Om overal met je coach contact te kunnen hebben, kan je gebruikmaken van
-          de app. Via de smartphone of tablet kan je aan de slag met oefeningen
-          of plan je een nieuwe coachsessie in. "
+      - text: Om met je mij in contact te kunnen blijven, kan je gebruikmaken van de app
+          van het coachingsprogramma. Via smartphone of tablet kun je dan aan de
+          slag met oefeningen of plan je een nieuwe coachsessie in.
         title: Smartphone App
       - title: Digitale Agenda
         text: Via het coachingsprogramma kan je zelf coachsessies inplannen. Koppel je
@@ -81,7 +81,7 @@ sections:
       - text: Wanneer je daar behoefte aan hebt, kan je tussen de sessies door aan de
           slag met verschillende oefeningen en opdrachten via het
           coachingsprogramma. Dit coachingsprogramma bevat allerlei
-          verschillende modules en tools. Stap voor stap helpt je coach je om
+          verschillende modules en tools. Stap voor stap zal ik je helpen om
           alle functionaliteiten te gaan benutten.
         title: Oefeningen & Opdrachten
     imgSrc: /assets/images/iphone-coaching-app.jpg
