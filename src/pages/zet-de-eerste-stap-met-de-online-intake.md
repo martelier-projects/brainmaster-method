@@ -45,10 +45,10 @@ sections:
           hoeveel minuten je per maand met je coach wil spreken. Hierbij geldt
           een minimum van 90 minuten per maand."
       - text: "Het is prettig om elkaars gezicht te zien via een videobelgesprek. Zo
-          leer je elkaar in het begin goed kennen. Elkaar zien is echter niet
-          altijd nodig, daarom kan er ook voor kiezen om 'normaal' te bellen. Zo
-          kan je tijdens het autorijden of tijdens een wandeling gecoacht
-          worden. "
+          leer je elkaar in vanaf het begin beter kennen. Elkaar zien is echter
+          niet altijd nodig, daarom kun je er ook voor kiezen om 'normaal' te
+          bellen. Zo kan ik je ook coachen als je onderweg bent of tijdens een
+          wandeling! "
         title: Bellen of Videobellen
     imgSrc: /assets/images/vrouw-bellen-zon.jpg
     title: Coachsessies
