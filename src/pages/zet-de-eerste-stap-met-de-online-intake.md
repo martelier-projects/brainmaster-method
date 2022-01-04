@@ -66,23 +66,23 @@ sections:
     show: true
     order: image-text
     component: text-media
-    title: Online Coaching
+    title: Digitale Omgeving
     sections:
       - text: "Om overal met je coach contact te kunnen hebben, kan je gebruikmaken van
           de app. Via de smartphone of tablet kan je aan de slag met oefeningen
           of plan je een nieuwe coachsessie in. "
-        title: Smartphone of Tablet
-      - title: Coachingsprogramma
-        text: "Via het coachingsprogramma kan je zelf de coachsessies inplannen. Koppel
-          je digitale agenda aan het coachingsprogramma, zodat ze automatisch
+        title: Smartphone App
+      - title: Digitale Agenda
+        text: Via het coachingsprogramma kan je zelf coachsessies inplannen. Koppel je
+          digitale agenda aan het coachingsprogramma, zodat ze automatisch
           worden toegevoegd. De coachsessies zullen via een videobelgesprek
-          worden gevoerd. Net al via het gratis adviesgesprek via een druk op de
-          knop. "
+          worden gevoerd. Net al via het gratis adviesgesprek eenvoudig via een
+          druk op de knop.
       - text: Wanneer je daar behoefte aan hebt, kan je tussen de sessies door aan de
           slag met verschillende oefeningen en opdrachten via het
           coachingsprogramma. Dit coachingsprogramma bevat allerlei
-          verschillende modules en tools. Stap voor stap zal je met je coach
-          alles functionaliteiten benutten.
+          verschillende modules en tools. Stap voor stap helpt je coach je om
+          alle functionaliteiten te gaan benutten.
         title: Oefeningen & Opdrachten
     imgSrc: /assets/images/iphone-coaching-app.jpg
     imgAlt: /
