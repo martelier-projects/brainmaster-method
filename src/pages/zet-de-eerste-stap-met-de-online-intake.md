@@ -30,12 +30,12 @@ sections:
     order: image-text
     component: text-media
     sections:
-      - text: Ik zal je persoonlijk coachen. Dat betekent dat ik je adviseert, motiveert
-          én inspireert. Als je niet weet hoe je verder moet, zal ik
+      - text: Ik zal je persoonlijk coachen. Dat betekent dat ik je adviseer, motiveer
+          én inspireer. Als je niet weet hoe je verder moet, zal ik
           verschillende opties voor je klaar leggen. Wanneer jij het even niet
           meer ziet zitten, zal ik je aanmoedigen om door te gaan. Ik zal je
-          laten zien hoe een vitaal leven eruit ziet, hoe jij je gezond,
-          energiek en gelukkig kan voelen.
+          laten zien hoe een vitaal leven eruit kan zien, hoe jij je gezonder,
+          energieker en gelukkiger kan gaan voelen.
         title: Persoonlijke Begeleiding
       - title: Flexibel Plannen
         text: "Je kan de coachsessies zo inplannen dat het perfect aansluit op je drukke
@@ -51,7 +51,7 @@ sections:
           worden. "
         title: Bellen of Videobellen
     imgSrc: /assets/images/vrouw-bellen-zon.jpg
-    title: Persoonlijke Coachsessies
+    title: Coachsessies
     imgAlt: /
   - type: preview
     component: preview
