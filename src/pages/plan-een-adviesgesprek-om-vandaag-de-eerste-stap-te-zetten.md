@@ -28,6 +28,9 @@ sections:
       Je gaat met mij, coach Pjotr, in gesprek. Mijn jaren ervaring en kennis als vitaliteitscoach deel ik graag met je in dit adviesgesprek. Ik luister graag naar jouw verhaal en geef je adviezen en tips waar je echt wat aan hebt. Tot snel!
 
 
+      ![/](/assets/images/adviesgesprek-laptop.jpg)
+
+
       ### Wat gebeurt er na het gesprek?
 
 
