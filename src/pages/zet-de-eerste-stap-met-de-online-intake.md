@@ -37,7 +37,7 @@ sections:
           laten zien hoe een vitaal leven eruit kan zien, hoe jij je gezonder,
           energieker en gelukkiger kan gaan voelen.
         title: Persoonlijke Begeleiding
-      - title: Flexibel Plannen
+      - title: Flexibel Traject
         text: "Je kan de coachsessies zo inplannen dat het perfect aansluit op je drukke
           leven. Een sessie kan 30, 60, óf 90 minuten duren: ideaal voor zowel
           een korte check-in als een uitgebreid gesprek. Via het
