@@ -1,6 +1,6 @@
 ---
 indexPage: true
-title: Plan een adviesgesprek om vandaag de eerste stap te zetten
+title: Gratis Adviesgesprek
 permalink: /adviesgesprek/
 layout: layouts/default-template.njk
 header:
