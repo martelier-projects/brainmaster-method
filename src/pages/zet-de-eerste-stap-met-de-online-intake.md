@@ -51,7 +51,7 @@ sections:
           wandeling! "
         title: Bellen of Videobellen
     imgSrc: /assets/images/vrouw-bellen-zon.jpg
-    title: Coachsessies
+    title: Wat is persoonlijke online coaching?
     imgAlt: /
   - type: preview
     component: preview
