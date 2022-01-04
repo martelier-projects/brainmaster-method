@@ -14,18 +14,21 @@ header:
 sections:
   - type: in-page-nav
     component: in-page-nav-for-flexibles
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Wat is een adviesgesprek?
+
+
+      Tijdens het adviesgesprek bespreken we waar jij in het dagelijks leven tegenaan loopt en hoe je daar beter mee om kan gaan. Je eindigt het gesprek zonder verplichtingen en mét de eerste tips die je direct toe kan passen.
   - type: text-media
     show: true
     order: image-text
     component: text-media
-    title: Wat is het?
+    title: Coach Pjotr
     imgSrc: /assets/images/adviesgesprek-laptop.jpg
     sections:
-      - text: Tijdens het adviesgesprek bespreken we waar jij in het dagelijks leven
-          tegenaan loopt en hoe je daar beter mee om kan gaan. Je eindigt het
-          gesprek zonder verplichtingen en mét de eerste tips die je direct toe
-          kan passen.
-        title: Wat is een adviesgesprek?
       - text: Je gaat met mij, coach Pjotr, in gesprek. Mijn jaren ervaring en kennis
           als vitaliteitscoach deel ik graag met je in dit adviesgesprek. Ik
           luister graag naar jouw verhaal en geef je adviezen en tips waar je
