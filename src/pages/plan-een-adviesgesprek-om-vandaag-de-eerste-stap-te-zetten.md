@@ -2,7 +2,7 @@
 indexPage: true
 title: Plan een adviesgesprek om vandaag de eerste stap te zetten
 permalink: /adviesgesprek/
-layout: layouts/theme-page.njk
+layout: layouts/default-template.njk
 header:
   illustration: none
   text: "Een adviesgesprek is vrijblijvend, kosteloos en volledig digitaal. Wacht
@@ -12,6 +12,8 @@ header:
     - label: Meer over vitaliteitscoaching
       href: /coaching/
 sections:
+  - type: in-page-nav
+    component: in-page-nav-for-flexibles
   - type: text-media
     show: true
     order: image-text
