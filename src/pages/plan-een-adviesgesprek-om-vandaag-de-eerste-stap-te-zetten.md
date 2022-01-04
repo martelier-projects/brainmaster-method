@@ -12,8 +12,6 @@ header:
     - label: Meer over vitaliteitscoaching
       href: /coaching/
 sections:
-  - type: in-page-nav
-    component: in-page-nav-for-flexibles
   - type: rich-text
     show: true
     component: rich-text
