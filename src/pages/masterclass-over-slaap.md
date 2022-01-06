@@ -13,7 +13,7 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Je brein slaapt niét
+      ## Waarom slapen we?
 
 
       Er bestaat veel onduidelijkheid over slaap. Veel lukt het niet om hun weg te vinden in het oerwoud van slaaptips en adviezen. Herken jij je in de volgende vragen?
@@ -28,12 +28,13 @@ sections:
       *"Welke slaapmiddelen werken én zijn veilig?"*
 
 
+      ![](/assets/images/slaap-masterclass-2-.png)
 
 
-      ## *Waarom slapen we?* 
+      ### *Je brein slaapt niét*
 
 
-      In een interactieve masterclass heb je de kans om al je slaapgerelateerde vragen te stellen aan. Ik deel graag mijn kennis en ervaring als vitaliteitscoach.
+      In een interactieve masterclass heb je de kans om al je slaapgerelateerde vragen te stellen aan en kom je erachter waarom je slaapt. Alvast een tipje van de sluier: Je brein slaapt niét.
   - type: text-media
     show: true
     order: image-text
