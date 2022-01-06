@@ -90,6 +90,6 @@ sections:
           });
       </script>
 seo:
-  title: Masterclass
-  description: masterclass
+  title: Masterclass over slaap
+  description: Masterclass over slaap
 ---
