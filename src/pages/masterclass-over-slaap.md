@@ -16,25 +16,10 @@ sections:
       ## Waarom slapen we?
 
 
-      Er bestaat veel onduidelijkheid over slaap. Veel lukt het niet om hun weg te vinden in het oerwoud van slaaptips en adviezen. Herken jij je in de volgende vragen?
-
-
-      *"Hoeveel uur slaap heb je nu echt nodig?"*
-
-
-      *"Is je smartphone gebruikten voor het slapengaan echt schadelijk?"*
-
-
-      *"Welke slaapmiddelen werken én zijn veilig?"*
+      Er bestaat veel onduidelijkheid over slaap. Veel lukt het niet om hun weg te vinden in het oerwoud van slaaptips en adviezen. In een interactieve masterclass heb je de kans om al je slaapgerelateerde vragen te stellen aan en kom je erachter waarom je slaapt. Alvast een tipje van de sluier: Je brein slaapt niét.
 
 
       ![](/assets/images/slaap-masterclass-2-.png)
-
-
-      ### *Je brein slaapt niét*
-
-
-      In een interactieve masterclass heb je de kans om al je slaapgerelateerde vragen te stellen aan en kom je erachter waarom je slaapt. Alvast een tipje van de sluier: Je brein slaapt niét.
   - type: text-media
     show: true
     order: image-text
