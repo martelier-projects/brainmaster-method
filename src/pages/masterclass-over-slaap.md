@@ -7,6 +7,15 @@ header:
   illustration: slaap
   links: []
 sections:
+  - type: in-page-nav
+    component: in-page-nav-for-flexibles
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: |-
+      ## Aanmelden
+
+      Meld je aan voor één van de volgende masterclasses over slaap.
   - type: embed
     show: true
     component: embed
