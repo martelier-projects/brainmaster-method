@@ -9,6 +9,28 @@ header:
 sections:
   - type: in-page-nav
     component: in-page-nav-for-flexibles
+  - type: text-media
+    show: true
+    order: image-text
+    component: text-media
+    sections:
+      - title: Waarom een masterclass over slaap?
+        text: Slaap is het fundament van een gezond leven. Iedereen verdient het om goed
+          te slapen. Ik deel graag mijn kennis en ervaring als vitaliteitscoach,
+          zodat jij beter en dieper kan slapen.
+      - text: In een digitaal uurtje bespreken we wat slaap inhoudt én wat je kunt doen
+          om beter te slapen. Aan het eind van de teamsessie weten de deelnemers
+          waarom slaap zo belangrijk is én wat er in de hersenen en het lichaam
+          gebeurt tijdens slaap.
+        title: Hoe ziet de masterclass eruit?
+      - text: Het laatste gedeelte van de teamsessie zal in het teken staan van vraag en
+          antwoord. We zullen inzoomen op de onderwerpen en problemen die voor
+          de deelnemers het meest spelen. Hiermee leggen we in één interactieve
+          sessie de basis voor een goede nachtrust.
+        title: Tijd voor vragen?
+    imgAlt: /
+    imgSrc: /assets/images/gesprek-laptop.jpg
+    title: Masterclass
   - type: rich-text
     show: true
     component: rich-text
