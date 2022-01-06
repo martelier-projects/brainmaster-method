@@ -14,6 +14,26 @@ header:
     - label: Gratis Adviesgesprek
       href: /adviesgesprek/
 sections:
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Waarom een Vitality Check?
+
+
+      Ontdek met deze online test hoe vitaal jij momenteel bent en waar jij behoefte aan hebt. Ik, coach Pjotr, geef je graag een aantal tips en adviezen, waarmee jij weer een aantal stappen vooruit kan maken. Als daar ook een coachingstraject uit voortkomt, dan gaan we samen dat avontuur aan!
+
+
+      ### Coaching is niet voor iedereen
+
+
+      Niet iedereen heeft behoefte aan coaching. Mogelijk kan ik ook helpen met een paar goede tips en adviezen. Met de vitality check kan ik bepalen hoe ik jou het best kan helpen. Tijdens een adviesgesprek wordt vanzelf duidelijk waar jij tegenaan loopt en kan ik je tips geven hoe je daar beter mee kan omgaan.
+
+
+      ### Ik kan niet alles oplossen
+
+
+      Ik ben goed in wat ik doen, maar ik kan niet alles. Wellicht heb jij behoefte aan hulp die ik niet in huis heb. Met de vitality check kan ik erachter komen óf ik jou kan helpen. Als blijkt dat een coachingstraject voor jou geen oplossing is, dan help ik je graag verder op weg. Ik kan je bijvoorbeeld doorverwijzen naar zorgverlener van wie ik weet, dat hij of zij in huis heeft waar jij behoefte aan hebt.
   - type: text-media
     show: true
     order: image-text
