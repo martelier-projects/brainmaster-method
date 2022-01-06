@@ -9,6 +9,31 @@ header:
 sections:
   - type: in-page-nav
     component: in-page-nav-for-flexibles
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Je brein slaapt niét
+
+
+      Er bestaat veel onduidelijkheid over slaap. Veel lukt het niet om hun weg te vinden in het oerwoud van slaaptips en adviezen. Herken jij je in de volgende vragen?
+
+
+      *"Hoeveel uur slaap heb je nu echt nodig?"*
+
+
+      *"Is je smartphone gebruikten voor het slapengaan echt schadelijk?"*
+
+
+      *"Welke slaapmiddelen werken én zijn veilig?"*
+
+
+
+
+      ## *Waarom slapen we?* 
+
+
+      In een interactieve masterclass heb je de kans om al je slaapgerelateerde vragen te stellen aan. Ik deel graag mijn kennis en ervaring als vitaliteitscoach.
   - type: text-media
     show: true
     order: image-text
