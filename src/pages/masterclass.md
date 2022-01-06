@@ -1,7 +1,7 @@
 ---
 indexPage: true
-title: Slaap Masterclass
-permalink: /masterclass/slaap/
+title: Masterclass
+permalink: /masterclass/
 layout: layouts/default-template.njk
 header:
   illustration: none
