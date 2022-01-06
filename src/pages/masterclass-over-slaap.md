@@ -2,21 +2,16 @@
 indexPage: true
 title: Slaap Masterclass
 permalink: /masterclass/slaap/
-layout: layouts/theme-page.njk
+layout: layouts/default-template.njk
 header:
   illustration: slaap
+  links: []
 sections:
   - type: embed
     show: true
     component: embed
     embed: >-
-      <!-- Noscript content voor toegevoegde SEO -->
-
-      <noscript><a href="https://www.eventbrite.nl/e/tickets-slaap-masterclass-je-brein-slaapt-niet-239883105827" rel="noopener noreferrer" target="_blank">Tickets kopen op Eventbrite</a></noscript>
-
-      <!-- Je kunt deze knop naar wens aanpassen -->
-
-      <button id="eventbrite-widget-modal-trigger-239883105827" type="button">Tickets kopen</button>
+      <div id="eventbrite-widget-container-239883105827"></div>
 
 
       <script src="https://www.eventbrite.nl/static/widgets/eb_widgets.js"></script>
@@ -28,11 +23,14 @@ sections:
           };
 
           window.EBWidgets.createWidget({
+              // Required
               widgetType: 'checkout',
               eventId: '239883105827',
-              modal: true,
-              modalTriggerElementId: 'eventbrite-widget-modal-trigger-239883105827',
-              onOrderComplete: exampleCallback
+              iframeContainerId: 'eventbrite-widget-container-239883105827',
+
+              // Optional
+              iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+              onOrderComplete: exampleCallback  // Method called when an order has successfully completed
           });
       </script>
 seo:
