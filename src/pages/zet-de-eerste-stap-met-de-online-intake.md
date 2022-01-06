@@ -71,7 +71,7 @@ sections:
       via een videobelgesprek. "
     linkLabel: Plan een digitale intake
     url: /online-intake/digitale-intake/
-    image: /assets/images/gesprek-laptop.jpg
+    image: /assets/images/preview-gesprek-laptop-1080-x-800-px-1080-x-700-px-.jpg
   - type: text-media
     show: true
     order: image-text
