@@ -125,7 +125,7 @@ sections:
           per maand. "
   - type: preview
     component: preview
-    title: Meld je aan voor vitaliteitscoaching
+    title: Meld je aan
     description: "Maak optimaal gebruik van alles wat vitaliteitscoaching je te
       bieden heeft. Meld je aan voor één van de persoonlijke coachingstrajecten.
       "
