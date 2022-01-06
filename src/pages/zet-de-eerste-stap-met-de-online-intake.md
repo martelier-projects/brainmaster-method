@@ -66,10 +66,9 @@ sections:
   - type: preview
     component: preview
     title: Spreek met Coach Pjotr
-    description: "Je mag de komende maand zelf een afspraak met coach Pjotr
-      inplannen. Dit gesprek, de digitale intake, duurt een half uur en zal
-      plaatsvinden via een videobelgesprek. Tijdens dit gesprek kan je al je
-      vragen stellen over het coachingstraject. agen over "
+    description: "Heb je nog vragen? Plan dan een afspraak in met mij, Coach Pjotr.
+      Dit gesprek, de digitale intake, duurt een half uur en zal plaatsvinden
+      via een videobelgesprek. "
     linkLabel: Plan een digitale intake
     url: /online-intake/digitale-intake/
     image: /assets/images/gesprek-laptop.jpg
