@@ -8,17 +8,6 @@ header:
 sections:
   - type: in-page-nav
     component: in-page-nav-for-flexibles
-  - type: preview
-    component: preview
-    title: Vitality Check
-    linkLabel: Doe de test
-    url: /vitality-check/
-    description: Ontdek met deze online test hoe vitaal jij momenteel bent en waar
-      jij behoefte aan hebt. Ik, coach Pjotr, geef je graag een aantal tips en
-      adviezen, waarmee jij weer een aantal stappen vooruit kan maken. Als daar
-      ook een coachingstraject uit voortkomt, dan gaan we samen dat avontuur
-      aan!
-    image: /assets/images/emoties-meisje.jpg
   - type: rich-text
     show: true
     component: rich-text
@@ -36,6 +25,17 @@ sections:
 
 
       Neem de tijd om de informatie van deze pagina tot je te nemen. Wanneer je behoefte hebt om met mij de opties te bespreken, kan je een digitale intake inplannen. Meld je aan via deze pagina, zodra je weet óf en wat voor coachingstraject bij jou past.
+  - type: preview
+    component: preview
+    title: Vitality Check
+    linkLabel: Doe de test
+    url: /vitality-check/
+    description: Ontdek met deze online test hoe vitaal jij momenteel bent en waar
+      jij behoefte aan hebt. Ik, coach Pjotr, geef je graag een aantal tips en
+      adviezen, waarmee jij weer een aantal stappen vooruit kan maken. Als daar
+      ook een coachingstraject uit voortkomt, dan gaan we samen dat avontuur
+      aan!
+    image: /assets/images/emoties-meisje.jpg
   - type: text-media
     show: true
     order: image-text
