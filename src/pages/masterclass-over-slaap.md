@@ -1,10 +1,10 @@
 ---
 indexPage: true
-title: Masterclass over Slaap
+title: Slaap Masterclass
 permalink: /masterclass/slaap/
-layout: layouts/default-template.njk
+layout: layouts/theme-page.njk
 header:
-  illustration: none
+  illustration: slaap
 sections:
   - type: embed
     show: true
