@@ -1,6 +1,6 @@
 ---
 indexPage: true
-title: Masterclass
+title: Slaap Masterclass
 permalink: /masterclass/slaap/
 layout: layouts/default-template.njk
 header:
