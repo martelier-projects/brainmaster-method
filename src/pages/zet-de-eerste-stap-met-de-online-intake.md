@@ -61,7 +61,7 @@ sections:
           ook coachen als je onderweg bent of tijdens een wandeling! "
         title: Online Coaching
     imgSrc: /assets/images/vrouw-bellen-zon.jpg
-    title: Persoonlijke Online Coaching
+    title: Online Coaching
     imgAlt: /
   - type: preview
     component: preview
