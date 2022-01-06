@@ -38,12 +38,12 @@ sections:
       leer meer over jouw slaapproblemen.
     linkLabel: Ga op onderzoek
     url: /slaap/
-    image: /assets/images/ontwerp-zonder-titel-2-.jpg
+    image: /assets/images/voeten-bed.jpg
   - type: text-media
     show: true
     order: text-image
     component: text-media
-    imgSrc: /assets/images/ontwerp-zonder-titel-7-.jpg
+    imgSrc: /assets/images/slapen-meisje-handen.jpg
     title: Wat nu?
     sections:
       - text: Hoeveel deelnemers deelnemen aan deze teamsessie is helemaal aan jullie,
