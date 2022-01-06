@@ -60,10 +60,11 @@ sections:
   - type: rich-text
     show: true
     component: rich-text
-    text: |-
+    text: >-
       ## Aanmelden
 
-      Meld je aan voor één van de volgende masterclasses over slaap.
+
+      Meld je aan voor één van de volgende masterclasses over slaap. Wees er snel bij want vol = vol.
   - type: embed
     show: true
     component: embed
