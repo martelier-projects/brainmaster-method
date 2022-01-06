@@ -30,11 +30,9 @@ sections:
     title: Vitality Check
     linkLabel: Doe de test
     url: /vitality-check/
-    description: Ontdek met deze online test hoe vitaal jij momenteel bent en waar
-      jij behoefte aan hebt. Ik, coach Pjotr, geef je graag een aantal tips en
-      adviezen, waarmee jij weer een aantal stappen vooruit kan maken. Als daar
-      ook een coachingstraject uit voortkomt, dan gaan we samen dat avontuur
-      aan!
+    description: "Ontdek met deze online test hoe vitaal jij momenteel bent en waar
+      jij behoefte aan hebt. Heb je behoefte aan vitaliteitscoaching, dan is dit
+      een mooie voorbereiding. "
     image: /assets/images/emoties-meisje.jpg
   - type: text-media
     show: true
