@@ -33,7 +33,7 @@ sections:
     description: "Ontdek met deze online test hoe vitaal jij momenteel bent en waar
       jij behoefte aan hebt. Heb je behoefte aan vitaliteitscoaching, dan is dit
       een mooie voorbereiding. "
-    image: /assets/images/emoties-meisje.jpg
+    image: /assets/images/hand-laptop-pen.jpg
   - type: text-media
     show: true
     order: image-text
