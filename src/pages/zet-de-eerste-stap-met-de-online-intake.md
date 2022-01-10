@@ -12,7 +12,7 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Welkom bij de online intake
+      ## Start hier
 
 
       Ontdek wat vitaliteitscoaching voor jou kan betekenen met deze online intake. Hier vind je alle informatie die je nodig hebt. Je kan altijd terugkeren naar deze pagina. 
@@ -29,10 +29,7 @@ sections:
     component: preview
     title: Vitality Check
     linkLabel: Doe de test
-    url: "     <a       href=\"javascript:void(         window.open(           'htt\
-      ps://form.jotform.com/213332280609349',           'blank',           'scr\
-      ollbars=yes,           toolbar=no,           width=700,           height=\
-      500'         )       )     \">       Vitality Check     </a>"
+    url: /vitality-check/
     description: "Ontdek met deze online test hoe vitaal jij momenteel bent en waar
       jij behoefte aan hebt. Heb je behoefte aan vitaliteitscoaching, dan is dit
       een mooie voorbereiding. "
