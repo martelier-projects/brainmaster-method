@@ -80,6 +80,9 @@ sections:
       <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
       <!-- Calendly inline widget end -->
+  - type: calandy-button
+    buttonType: kennismaking
+    component: calandy-button
 seo:
   title: Teamsessie over Slaap
   description: Teamsessie over Slaap
