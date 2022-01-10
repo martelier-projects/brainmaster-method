@@ -77,7 +77,7 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Deelnemen aan het gesprek
+      ## Deelnemen
 
 
       Zodra het tijd is voor het adviesgesprek kan je onderstaande knop gebruiken om deel te nemen.
@@ -89,6 +89,10 @@ sections:
   - type: calandy-button
     buttonType: adviesgesprek
     component: calandy-button
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: \-----
 seo:
   title: Adviesgesprek
   description: Adviesgesprek
