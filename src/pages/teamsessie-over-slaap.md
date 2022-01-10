@@ -68,7 +68,7 @@ sections:
       ## Wees er snel bij!
 
 
-      Er zijn nog maar **vijf gratis teamsessies** beschikbaar. Reserveer gelijk één van de vijf gratis teamsessies óf plan eerst een [kennismaking met coach Pjotr.](https://calendly.com/pjotr-peulen/bellen)
+      Er zijn nog maar een paar **gratis teamsessies** beschikbaar. Reserveer gelijk één van de gratis teamsessies óf plan eerst een [kennismaking met coach Pjotr.](https://calendly.com/pjotr-peulen/bellen)
   - type: embed
     show: true
     component: embed
