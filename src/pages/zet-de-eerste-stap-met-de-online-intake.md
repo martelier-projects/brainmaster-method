@@ -100,7 +100,7 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Persoonlijke Coachingstrajecten
+      ## Coachingstrajecten
 
 
       Jij kiest hoeveel minuten je per maand met je coach wil spreken. Per maand heb je de keuze uit 90 minuten óf meer.
