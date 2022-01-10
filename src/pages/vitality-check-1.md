@@ -65,6 +65,14 @@ sections:
       \    </script>
 
       \    "
+  - type: buttons
+    component: buttons
+    buttons:
+      - link: "     <a       href=\"javascript:void(         window.open(           'ht\
+          tps://form.jotform.com/213332280609349',           'blank',           \
+          'scrollbars=yes,           toolbar=no,           width=700,           \
+          height=500'         )       )     \">       Vitality Check     </a>"
+        label: Test
 seo:
   title: .c
   description: d
