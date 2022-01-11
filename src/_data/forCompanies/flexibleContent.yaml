@@ -3,6 +3,22 @@ sections:
     show: true
     component: rich-text
     text: >-
+      ## Investeer in je team
+
+
+      Met vitaliteitscoaching investeer je niet alleen in een gezond, gelukkig en energiek team, maar werk je ook aan de productiviteit in jouw bedrijf.
+  - type: preview
+    component: preview
+    title: Ontdek vitaliteitscoaching
+    description: Voel je gezonder, energieker en gelukkiger door persoonlijke
+      coaching. Weten wat het kan betekenen? Lees meer over vitaliteitscoaching.
+    linkLabel: Ik wil meer weten
+    url: /coaching/
+    image: /assets/images/mock.jpg
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
       ## Digitale teamsessies
 
 
