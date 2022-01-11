@@ -29,7 +29,7 @@ sections:
     component: preview
     title: Vitality Check
     linkLabel: Doe de test
-    url: /vitality-check/
+    url: /online-intake/vitality-check/
     description: "Ontdek met deze online test hoe vitaal jij momenteel bent en waar
       jij behoefte aan hebt. Heb je behoefte aan vitaliteitscoaching, dan is dit
       een mooie voorbereiding. "
