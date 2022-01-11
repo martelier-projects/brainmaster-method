@@ -1,7 +1,7 @@
 ---
 indexPage: true
 title: Vitality Check
-permalink: /vitality-check/
+permalink: /online-intake/vitality-check/
 layout: layouts/default-template.njk
 header:
   illustration: none
