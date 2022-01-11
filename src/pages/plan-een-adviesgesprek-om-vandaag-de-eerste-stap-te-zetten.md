@@ -12,6 +12,8 @@ header:
     - label: Meer over vitaliteitscoaching
       href: /coaching/
 sections:
+  - type: in-page-nav
+    component: in-page-nav-for-flexibles
   - type: rich-text
     show: true
     component: rich-text
@@ -93,6 +95,14 @@ sections:
     show: true
     component: rich-text
     text: \-----
+  - type: preview
+    component: preview
+    title: Deelnemen
+    description: Zodra het tijd is voor het adviesgesprek kan je onderstaande knop
+      gebruiken om deel te nemen.
+    linkLabel: Deelnemen aan het gesprek
+    url: /videobellen/
+    image: /assets/images/vrouw-laptop-gesprek.jpg
 seo:
   title: Adviesgesprek
   description: Adviesgesprek
