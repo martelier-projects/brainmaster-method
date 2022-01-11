@@ -1,6 +1,6 @@
 ---
 indexPage: true
-title: Voel je vitaler na een gratis adviesgesprek
+title: Voel je vitaler na een adviesgesprek
 permalink: /adviesgesprek/
 layout: layouts/default-template.njk
 header:
