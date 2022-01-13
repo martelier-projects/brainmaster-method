@@ -13,10 +13,10 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Waarom slapen we?
+      ## Wil jij beter en dieper slapen?
 
 
-      Er bestaat veel onduidelijkheid over slaap. Veel lukt het niet om hun weg te vinden in het oerwoud van slaaptips en adviezen. In een interactieve masterclass heb je de kans om al je slaapgerelateerde vragen te stellen en kom je erachter waarom slapen zou belangrijk is. Alvast een tipje van de sluier: Je brein slaapt niét.
+      Er bestaat veel onduidelijkheid over slaap. Velen lukt het niet om hun weg te vinden in het oerwoud van alle slaaptips en slaapadviezen. In een interactieve masterclass heb je de kans om al je slaapgerelateerde vragen te stellen om beter en dieper te slapen. Daarnaast kom je erachter waarom slapen zou belangrijk is. Alvast een tipje van de sluier: Je brein slaapt niét.
 
 
       ![](/assets/images/kopie-van-slaap-masterclass.png)
