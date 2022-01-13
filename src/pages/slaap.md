@@ -5,6 +5,7 @@ layout: layouts/theme-page.njk
 text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
   wetenschappelijk perspectief op mentaal welzijn. Laagdrempelig en volledig
   digitaal. "
+title: Geniet weer van een herstellende nachtrust
 header:
   text: Maak een einde aan slapeloze nachten, zónder het gebruik van
     slaapmedicatie. Zo begin je de dag weer vol energie.
@@ -32,13 +33,12 @@ sections:
         link: "#neem-afscheid-van-slaapangst"
   - type: preview
     component: preview
-    title: Ontdek wat slaapcoaching voor jou kan betekenen
-    description: Jouw slaapprobleem is uniek en vraagt om een persoonlijke aanpak.
-      We rekenen stap voor stap af met de biologische en psychologische
-      stoorzenders. Met een gratis adviesgesprek zet jij de eerste stap naar een
-      zorgeloze nachtrust.
-    linkLabel: Ja, ik wil!
-    url: /adviesgesprek/
+    title: Masterclass over slaap
+    description: Meld je aan voor een digitale masterclass over slaap. En pak de
+      kans om al je slaapgerelateerde vragen te stellen én kom je erachter
+      waarom slapen zou belangrijk is.
+    linkLabel: "Ik wil meer weten! "
+    url: /masterclass/slaap/
     image: /assets/images/slapen-meisje-handen.jpg
   - imgSrc: /assets/images/moe-wakker-koffie.jpg
     imgCaption: ""
@@ -113,7 +113,6 @@ sections:
     buttonType: adviesgesprek
     component: calandy-button
 illustration: home
-title: Geniet weer van een herstellende nachtrust
 links:
   - label: This is the label
     href: /
