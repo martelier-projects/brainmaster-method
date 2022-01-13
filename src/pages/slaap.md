@@ -35,8 +35,8 @@ sections:
     component: preview
     title: Masterclass over slaap
     description: Meld je aan voor een digitale masterclass over slaap. En pak de
-      kans om al je slaapgerelateerde vragen te stellen én kom je erachter
-      waarom slapen zou belangrijk is.
+      kans om al je slaapgerelateerde vragen te stellen én kom erachter waarom
+      slapen zou belangrijk is.
     linkLabel: "Ik wil meer weten! "
     url: /masterclass/slaap/
     image: /assets/images/slapen-meisje-handen.jpg
