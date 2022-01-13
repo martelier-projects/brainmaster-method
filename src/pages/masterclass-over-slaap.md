@@ -81,7 +81,7 @@ sections:
     title: Last van slaapproblemen?
     description: "Jouw slaapprobleem is uniek en vraagt om een persoonlijke aanpak.
       Weet jij al wat de oorzaak is van jouw slaapprobleem? Ga op onderzoek en
-      leer meer jouw slaapprobleem. "
+      leer meer over jouw slaapprobleem. "
     linkLabel: Ga op onderzoek
     url: /slaap/
     image: /assets/images/voeten-bed.jpg
