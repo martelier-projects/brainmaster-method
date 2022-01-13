@@ -16,7 +16,7 @@ sections:
       ## Waarom slapen we?
 
 
-      Er bestaat veel onduidelijkheid over slaap. Veel lukt het niet om hun weg te vinden in het oerwoud van slaaptips en adviezen. In een interactieve masterclass heb je de kans om al je slaapgerelateerde vragen te stellen en kom je erachter waarom je slaapt. Alvast een tipje van de sluier: Je brein slaapt niét.
+      Er bestaat veel onduidelijkheid over slaap. Veel lukt het niet om hun weg te vinden in het oerwoud van slaaptips en adviezen. In een interactieve masterclass heb je de kans om al je slaapgerelateerde vragen te stellen en kom je erachter waarom slapen zou belangrijk is. Alvast een tipje van de sluier: Je brein slaapt niét.
 
 
       ![](/assets/images/kopie-van-slaap-masterclass.png)
