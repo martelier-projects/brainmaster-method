@@ -1,6 +1,6 @@
 ---
 indexPage: true
-title: Meld je aan voor de masterclass over slaap
+title: Meld je aan voor de digitale masterclass over slaap
 permalink: /masterclass/slaap/
 layout: layouts/default-template.njk
 header:
