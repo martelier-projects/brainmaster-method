@@ -28,6 +28,19 @@ sections:
       <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
       <!-- Calendly inline widget end -->
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Contactgegevens
+
+
+      Wil je al mijn contactgegevens zien? Bekijk dan mijn digitale visitekaartje door op onderstaande knop te drukken. Je kan zelfs mijn contactgegevens gelijk opslaan in je telefoon óf delen met bijvoorbeeld een collega of vriend.
+  - type: buttons
+    component: buttons
+    buttons:
+      - label: Digitale Visitekaartje
+        link: https://app2.bizzerd.com/show/phantus/Phantus
   - type: preview
     component: preview
     title: Coaching voor jou
