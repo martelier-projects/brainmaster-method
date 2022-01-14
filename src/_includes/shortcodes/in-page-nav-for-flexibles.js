@@ -44,6 +44,7 @@ const getTitleFromFlexible = flexible => {
  */
 module.exports = sections => {
   const titles = sections
+    .filter(section => (section.show ? section.show : true))
     .map(getTitleFromFlexible)
     .filter(title => title)
     .map(title => ({

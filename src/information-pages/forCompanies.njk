@@ -21,9 +21,12 @@ eleventyComputed:
     text: forCompanies.pageHeader.text
   } %}
 
-  {% inPageNav forCompanies.content.text | markdown | safe %}
+  {% inPageNav {
+    content: forCompanies.content.text | markdown | safe,
+    sections: forCompanies.flexibleContent.sections
+  } %}
 
-  <section class="text-page__content">
+  <section class="text-page__content" data-foo>
     {% set asHTML = forCompanies.content.text | markdown | safe %}
     {% wysiwyg asHTML, {
       quotes: quotes,

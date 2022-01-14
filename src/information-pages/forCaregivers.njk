@@ -21,7 +21,10 @@ eleventyComputed:
     text: forCaregivers.pageHeader.text
   } %}
 
-  {% inPageNav forCaregivers.content.text | markdown | safe %}
+  {% inPageNav {
+    content: forCaregivers.content.text | markdown | safe,
+    sections: forCaregivers.flexibleContent.sections
+  } %}
 
   <section class="text-page__content">
     {% set asHTML = forCaregivers.content.text | markdown | safe %}
