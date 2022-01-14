@@ -1,1 +1,40 @@
-sections: []
+sections:
+  - type: in-page-nav
+    component: in-page-nav-for-flexibles
+  - type: embed
+    show: true
+    component: embed
+    embed: <div style="padding:56.25% 0 0 0;position:relative;"><iframe
+      src="https://player.vimeo.com/video/662648222?h=dfb73667e8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+      frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+      allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Maak
+      kennis met Coach Pjotr"></iframe></div><script
+      src="https://player.vimeo.com/api/player.js"></script>
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Kennis maken?
+
+
+      Benieuwd wat ik voor je kan betekenen, ik maak graag kennis. Ook als je gewoon nieuwsgierig bent of een andere vraag hebt, kunnen we in gesprek! Plan een afspraak in om te (video)bellen.
+  - type: embed
+    show: true
+    component: embed
+    embed: >-
+      <!-- Calendly inline widget begin -->
+
+      <div class="calendly-inline-widget" data-url="https://calendly.com/pjotr-peulen/bellen?hide_gdpr_banner=1&primary_color=eb5c36" style="min-width:320px;height:630px;"></div>
+
+      <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+
+      <!-- Calendly inline widget end -->
+  - type: preview
+    component: preview
+    title: Coaching voor jou
+    description: "Benieuwd wat vitaliteitscoaching voor jou kan betekenen? Lees meer
+      en plan een gratis adviesgesprek. "
+    linkLabel: Ja, ik wil!
+    url: /coaching/
+    image: /assets/images/handen-boom.jpg
