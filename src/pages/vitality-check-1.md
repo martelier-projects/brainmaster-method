@@ -1,6 +1,6 @@
 ---
 indexPage: true
-title: Check hoe vitaal je bent
+title: Check hoe vitaal je bent met een online test
 permalink: /online-intake/vitality-check/
 layout: layouts/default-template.njk
 header:
