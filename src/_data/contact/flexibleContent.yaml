@@ -1,6 +1,6 @@
 sections:
   - type: embed
-    show: false
+    show: true
     component: embed
     embed: <div style="padding:56.25% 0 0 0;position:relative;"><iframe
       src="https://player.vimeo.com/video/662648222?h=dfb73667e8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
@@ -10,7 +10,7 @@ sections:
       kennis met Coach Pjotr"></iframe></div><script
       src="https://player.vimeo.com/api/player.js"></script>
   - type: rich-text
-    show: false
+    show: true
     component: rich-text
     text: >-
       ## Kennis maken?
@@ -18,7 +18,7 @@ sections:
 
       Benieuwd wat ik voor je kan betekenen, ik maak graag kennis. Ook als je gewoon nieuwsgierig bent of een andere vraag hebt, kunnen we in gesprek! Plan een afspraak in om te (video)bellen.
   - type: embed
-    show: false
+    show: true
     component: embed
     embed: >-
       <!-- Calendly inline widget begin -->
