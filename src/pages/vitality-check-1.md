@@ -28,9 +28,10 @@ sections:
 
 
       Als je het coachingstraject aangaat, heb ik er alle vertrouwen in dat ik je kan helpen om energieker, gezonder en vitaler te worden, maar ik kan niet alles. Met de Vitality Check kan ik erachter komen óf ik jou kan helpen. Wellicht heb jij behoefte aan specifieke hulp die ik niet in huis heb. Als blijkt dat een coachingstraject jou niet of onvoldoende gaat helpen, dan zal ik je doorverwijzen naar een zorgverlener van wie ik weet, dat hij of zij in huis heeft waar jij behoefte aan hebt.
-
-
-      ## Doe de online test
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: "## Doe de online test"
   - type: embed
     show: true
     component: embed
