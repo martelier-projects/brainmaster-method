@@ -8,6 +8,14 @@ header:
 sections:
   - type: in-page-nav
     component: in-page-nav-for-flexibles
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Beter en dieper slapen
+
+
+      Er bestaat veel onduidelijkheid over slaap. Velen lukt het niet om hun weg te vinden in het oerwoud van alle slaaptips en slaapadviezen. In een interactieve teamsessie heb je de kans om al je slaapgerelateerde vragen te stellen om beter en dieper te slapen. Daarnaast kom je erachter waarom slapen zou belangrijk is.
   - type: text-media
     show: true
     order: image-text
@@ -32,7 +40,7 @@ sections:
     imgAlt: /
   - type: preview
     component: preview
-    title: Last van slaapproblemen?
+    title: Slaapproblemen oplossen
     description: Jouw slaapprobleem is uniek en vraagt om een persoonlijke aanpak.
       Weet jij al wat de oorzaak is van jouw slaapproblemen? Ga op onderzoek en
       leer meer over jouw slaapprobleem.
@@ -44,7 +52,7 @@ sections:
     order: text-image
     component: text-media
     imgSrc: /assets/images/slapen-meisje-handen.jpg
-    title: Wat nu?
+    title: Praktische zaken
     sections:
       - text: Hoeveel deelnemers deelnemen aan deze teamsessie is helemaal aan jullie,
           maar mijn advies is ongeveer 10 tot 15 deelnemers. Hierdoor kan ik ook
@@ -65,7 +73,7 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Wees er snel bij!
+      ## Wees er snel bij
 
 
       Er zijn nog maar een paar **gratis teamsessies** beschikbaar. Reserveer gelijk één van de gratis teamsessies óf plan eerst een [kennismaking met coach Pjotr.](https://calendly.com/pjotr-peulen/bellen)
