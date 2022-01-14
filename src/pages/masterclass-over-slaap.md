@@ -13,7 +13,7 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Wil jij beter en dieper slapen?
+      ## Beter en dieper slapen
 
 
       Er bestaat veel onduidelijkheid over slaap. Velen lukt het niet om hun weg te vinden in het oerwoud van alle slaaptips en slaapadviezen. In een interactieve masterclass heb je de kans om al je slaapgerelateerde vragen te stellen om beter en dieper te slapen. Daarnaast kom je erachter waarom slapen zou belangrijk is. Alvast een tipje van de sluier: Je brein slaapt niét.
@@ -78,7 +78,7 @@ sections:
       </script>
   - type: preview
     component: preview
-    title: Last van slaapproblemen?
+    title: Slaapproblemen oplossen
     description: "Jouw slaapprobleem is uniek en vraagt om een persoonlijke aanpak.
       Weet jij al wat de oorzaak is van jouw slaapprobleem? Ga op onderzoek en
       leer meer over jouw slaapprobleem. "
