@@ -16,7 +16,7 @@ sections:
       ## Beter en dieper slapen
 
 
-      Er bestaat veel onduidelijkheid over slaap. Velen lukt het niet om hun weg te vinden in het oerwoud van alle slaaptips en slaapadviezen. In een interactieve masterclass heb je de kans om al je slaapgerelateerde vragen te stellen om beter en dieper te slapen. Daarnaast kom je erachter waarom slapen zou belangrijk is. Alvast een tipje van de sluier: Je brein slaapt niét.
+      Er bestaan veel onduidelijkheden over slaap. Op internet kun je er van alles over lezen, maar lang niet iedereen lukt het om de weg te vinden in een oerwoud van slaaptips en slaapadviezen. In deze interactieve masterclass krijg je de kans om al je slaapgerelateerde vragen te stellen. Tijdens deze masterclass leggen we de basis voor een goede nachtrust én kom je erachter waarom slapen eigenlijk zo belangrijk is. Ik licht alvast een tipje van de sluier op: Je brein slaapt niét. 
 
 
       ![](/assets/images/kopie-van-slaap-masterclass.png)
@@ -26,18 +26,20 @@ sections:
     component: text-media
     sections:
       - title: Waarom een masterclass over slaap?
-        text: Slaap is het fundament van een gezond leven. Iedereen verdient het om goed
-          te slapen. Ik deel graag mijn kennis en ervaring als vitaliteitscoach,
-          zodat jij beter en dieper kan slapen.
-      - text: In een digitaal uurtje bespreken we kort wat slaap inhoudt én wat je kunt
-          doen om beter te slapen. Aan het eind van de masterclass weet je
-          waarom slaap zo belangrijk is én wat er in de hersenen en het lichaam
-          gebeurt tijdens slaap.
+        text: Slaap is het fundament van een gezond leven. In de kern verdient iedereen
+          het om goed te kunnen slapen. Ik deel graag mijn kennis en ervaring
+          als vitaliteitscoach met jou, zodat jij beter en dieper kan slapen.
+      - text: "In een digitaal uurtje bespreken we kort wat slaap inhoudt én wat jij
+          kunt doen om beter te slapen. Aan het eind van de masterclass weet je
+          dan in ieder geval waarom slaap zo belangrijk is, wat er in jouw
+          hersenen en lichaam gebeurt tijdens het slapen én wat kok zelf kunt
+          doen. "
         title: Hoe ziet de masterclass eruit?
-      - text: "Het laatste gedeelte van de masterclass zal in het teken staan van vraag
-          en antwoord. We zullen inzoomen op de onderwerpen en problemen die
-          voor de deelnemers het meest spelen. Denk alvast na over een
-          slaapgerelateerde vraag die jij wil stellen! "
+      - text: "In het laatste gedeelte van de masterclass kun je jouw vragen stellen,
+          waar je nog meer toelichting op wil, waar je nog mee zit, óf wat niet
+          aan bod gekomen is. We zullen inzoomen op de onderwerpen en problemen,
+          die bij de meeste deelnemers spelen. Denk alvast na over de vragen die
+          jij zou willen stellen! "
         title: Tijd voor vragen?
     imgAlt: /
     imgSrc: /assets/images/gesprek-laptop.jpg
@@ -49,7 +51,7 @@ sections:
       ## Aanmelden
 
 
-      Meld je aan voor één van de volgende masterclasses over slaap. Wees er snel bij want vol = vol.
+      Meld je aan voor één van de komende masterclasses over slaap. Wees er snel bij, want: vol = vol.
   - type: embed
     show: true
     component: embed
