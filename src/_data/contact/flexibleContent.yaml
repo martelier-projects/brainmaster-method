@@ -1,4 +1,6 @@
 sections:
+  - type: in-page-nav
+    component: in-page-nav-for-flexibles
   - type: embed
     show: true
     component: embed
