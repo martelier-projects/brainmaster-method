@@ -1,6 +1,6 @@
 ---
 indexPage: true
-title: Vitality Check
+title: Check hoe vitaal je bent
 permalink: /online-intake/vitality-check/
 layout: layouts/default-template.njk
 header:
@@ -12,10 +12,25 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Online Test
+      ## Wat is een Vitality Check?
 
 
-      Ik leer je graag beter kennen! Wil je deze online test doen? Ontdek met deze online test hoe vitaal jij momenteel bent en waar jij behoefte aan hebt. Heb je behoefte aan vitaliteitscoaching, dan is dit een mooie voorbereiding.
+      De Vitality Check is een korte online test. Ik, coach Pjotr, leer je namelijk graag beter kennen! Ontdek met deze online test hoe vitaal jij momenteel bent en waar jij behoefte aan hebt. Heb je behoefte aan vitaliteitscoaching, dan is dit een mooie voorbereiding.
+
+
+      ### Coaching is niet voor iedereen noodzakelijk
+
+
+      Met de Vitality Check kan ik bepalen hoe ik jou het beste kan helpen. Voor lang niet iedereen blijkt coaching noodzakelijk. Mogelijk heb je voldoende aan een paar -voor jou- geschikte tips en adviezen.
+
+
+      ### Ik kan je helpen, maar niet alles oplossen
+
+
+      Als je het coachingstraject aangaat, heb ik er alle vertrouwen in dat ik je kan helpen om energieker, gezonder en vitaler te worden, maar ik kan niet alles. Met de Vitality Check kan ik erachter komen óf ik jou kan helpen. Wellicht heb jij behoefte aan specifieke hulp die ik niet in huis heb. Als blijkt dat een coachingstraject jou niet of onvoldoende gaat helpen, dan zal ik je doorverwijzen naar een zorgverlener van wie ik weet, dat hij of zij in huis heeft waar jij behoefte aan hebt.
+
+
+      ## Doe de online test
   - type: embed
     show: true
     component: embed
