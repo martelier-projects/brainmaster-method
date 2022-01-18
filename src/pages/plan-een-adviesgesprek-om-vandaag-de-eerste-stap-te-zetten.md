@@ -41,7 +41,7 @@ sections:
           maken tijdens de online intake. Tijdens de online intake kan je
           ontdekken of vitaliteitscoaching iets voor jou is. Het gesprek en de
           intake zijn vrijblijvend en kosteloos. Heb je nog meer vragen? Kijk
-          dan op de [FAQ-pagina](https://phantus.com/faq/).
+          dan op de FAQ-pagina.
         title: Wat gebeurt er na het gesprek?
     title: Adviesgesprek
     imgSrc: /assets/images/adviesgesprek-laptop.jpg
