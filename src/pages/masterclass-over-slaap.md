@@ -29,11 +29,10 @@ sections:
         text: Slaap is het fundament van een gezond leven. In de kern verdient iedereen
           het om goed te kunnen slapen. Ik deel graag mijn kennis en ervaring
           als vitaliteitscoach met jou, zodat jij beter en dieper kan slapen.
-      - text: "In een digitaal uurtje bespreken we kort wat slaap inhoudt én wat jij
-          kunt doen om beter te slapen. Aan het eind van de masterclass weet je
-          dan in ieder geval waarom slaap zo belangrijk is, wat er in jouw
-          hersenen en lichaam gebeurt tijdens het slapen én wat kok zelf kunt
-          doen. "
+      - text: In een digitaal uurtje bespreken we kort wat slaap inhoudt én wat jij kunt
+          doen om beter te slapen. Aan het eind van de masterclass weet je dan
+          in ieder geval waarom slaap zo belangrijk is én wat er in jouw
+          hersenen en lichaam gebeurt tijdens het slapen.
         title: Hoe ziet de masterclass eruit?
       - text: "In het laatste gedeelte van de masterclass kun je jouw vragen stellen,
           waar je nog meer toelichting op wil, waar je nog mee zit, óf wat niet
