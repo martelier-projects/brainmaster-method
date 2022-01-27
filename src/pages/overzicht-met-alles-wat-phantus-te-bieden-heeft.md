@@ -1,7 +1,7 @@
 ---
 indexPage: true
-title: Overzicht met alles wat Phantus te bieden heeft
-permalink: /overzicht/
+title: Drie Online Testjes
+permalink: /online-testjes/
 layout: layouts/default-template.njk
 header:
   illustration: none
