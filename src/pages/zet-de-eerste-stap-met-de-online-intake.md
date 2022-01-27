@@ -24,7 +24,7 @@ sections:
       ### Wat kun je verwachten?
 
 
-      Neem de tijd om de informatie van deze pagina tot je te nemen. Wanneer je behoefte hebt om met mij de opties te bespreken, kan je een digitale intake inplannen. Meld je aan via deze pagina, zodra je weet óf en wat voor coachingstraject bij jou past.
+      Neem de tijd om de informatie van deze pagina tot je te nemen. Wanneer je behoefte hebt om met mij de opties te bespreken, kan je een digitale intake inplannen. Meld je aan via deze pagina, zodra je weet óf en welk coachingstraject het best bij jou past.
   - type: preview
     component: preview
     title: Vitality Check
