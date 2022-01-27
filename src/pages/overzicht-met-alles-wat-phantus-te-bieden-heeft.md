@@ -10,7 +10,7 @@ sections:
     component: in-page-nav-for-flexibles
   - type: preview
     component: preview
-    title: Bioritme Test
+    title: Bioritme-test
     description: Hoe je slaapt, heeft alles te maken met je biologische
       slaap-waakritme - bioritme in het kort. Hieruit volgt je individuele
       slaappatroon. Ken jij jouw bioritme al? Doe de online test.
