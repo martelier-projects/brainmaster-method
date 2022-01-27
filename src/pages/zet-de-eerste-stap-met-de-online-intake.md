@@ -54,12 +54,13 @@ sections:
           coachingsprogramma kan je zelf de sessies inplannen en aangeven
           hoeveel minuten je per maand met je coach wil spreken. Hierbij geldt
           een minimum van 90 minuten per maand."
-      - text: "Het is prettig om elkaars gezicht te zien tijdens de coachsessies.
-          Wanneer je 1 op 1 met elkaar spreek kan dat prima via een
-          videobelgesprek. Zo leren we elkaar vanaf het begin beter kennen.
-          Tijdens een korte check-in is het niet altijd nodig om elkaar te zijn,
-          daarom kun je er ook voor kiezen om 'normaal' te bellen. Zo kan ik je
-          ook coachen als je onderweg bent of tijdens een wandeling! "
+      - text: Het is prettig om elkaars gezicht te zien tijdens de coachsessies. Wanneer
+          je één op één met elkaar spreekt kan dat ook prima via een
+          videobelgesprek, met als voordeel dat jij daarvoor niet hoeft te
+          reizen. Zo leren we elkaar beter kennen. Tijdens de korte check-ins is
+          het niet per se nodig om elkaar te zien. Daarom kun je er dan ook voor
+          kiezen om ‘gewoon’ te bellen. Zo kan ik je zelfs coachen als je
+          onderweg bent of tijdens een wandeling.
         title: Online Coaching
     imgSrc: /assets/images/vrouw-bellen-zon.jpg
     title: Online Coaching
