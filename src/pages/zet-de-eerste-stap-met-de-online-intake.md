@@ -90,11 +90,11 @@ sections:
           worden toegevoegd. De coachsessies zullen via een videobelgesprek
           worden gevoerd. Dat kan op dezelfde manier, als via het adviesgesprek,
           door een druk op de knop.
-      - text: Wanneer je daar behoefte aan hebt, kan je tussen de sessies door aan de
+      - text: Wanneer je daar behoefte aan hebt, kan je -tussen de sessies door- aan de
           slag met verschillende oefeningen en opdrachten via het
-          coachingsprogramma. Dit coachingsprogramma bevat allerlei
-          verschillende modules en tools. Stap voor stap zal ik je helpen om
-          alle functionaliteiten te gaan benutten.
+          coachingsprogramma. Dit coachingsprogramma bevat verschillende
+          interessante modules en tools. Stap voor stap zal ik je helpen om de
+          functionaliteiten te gaan benutten.
         title: Oefeningen & Opdrachten
     imgSrc: /assets/images/iphone-coaching-app.jpg
     imgAlt: /
