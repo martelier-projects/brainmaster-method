@@ -18,7 +18,7 @@ sections:
       Ontdek wat vitaliteitscoaching voor jou kan betekenen met deze online intake. Hier vind je alle informatie die je nodig hebt. Je kan altijd terugkeren naar deze pagina. 
 
 
-      Mijn filosofie is dat iedereen de capaciteit en de innerlijke middelen heeft om een energiek, gezond en gelukkig leven te leiden. Ik ondersteun je graag bij die zoektocht!
+      Mijn filosofie is dat iedereen de capaciteit en de innerlijke middelen heeft om een energieker, gezonder en gelukkiger leven te leiden. Ik ondersteun je graag bij die zoektocht!
 
 
       ### Wat kun je verwachten?
