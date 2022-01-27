@@ -39,12 +39,13 @@ sections:
     order: image-text
     component: text-media
     sections:
-      - text: Ik zal je persoonlijk coachen. Dat betekent dat ik je adviseer, motiveer
-          én inspireer. Als je niet weet hoe je verder moet, zal ik
-          verschillende opties voor je klaar leggen. Wanneer jij het even niet
-          meer ziet zitten, zal ik je aanmoedigen om door te gaan. Ik zal je
-          laten zien hoe een vitaal leven eruit kan zien, hoe jij je gezonder,
-          energieker en gelukkiger kan gaan voelen.
+      - text: "Ik zal je persoonlijk coachen. Dat betekent dat ik je adviseer, motiveer
+          én inspireer. Als je dreigt vast te lopen, bied ik je verschillende
+          openingen aan, waarmee je weer verder kunt komen. Wanneer jij het even
+          niet meer ziet zitten, dan kun je bij mij terecht voor de nodige
+          aanmoediging. Ik bied je graag een inkijk in hoe een vitaal leven
+          eruit kan zien, hoe jij je gezonder, energieker en gelukkiger kan gaan
+          voelen. "
         title: Persoonlijke Begeleiding
       - title: Flexibel Traject
         text: "Je kan de coachsessies zo inplannen dat het perfect aansluit op je drukke
