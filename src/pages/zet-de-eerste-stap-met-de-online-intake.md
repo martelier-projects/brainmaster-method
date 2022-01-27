@@ -80,9 +80,9 @@ sections:
     component: text-media
     title: Digitale Omgeving
     sections:
-      - text: Om met je mij in contact te kunnen blijven, kan je gebruikmaken van de app
-          van het coachingsprogramma. Via smartphone of tablet kun je dan aan de
-          slag met oefeningen of plan je een nieuwe coachsessie in.
+      - text: Om met mij in contact te kunnen blijven, kan je gebruikmaken van de
+          coachingsapp. Via smartphone of tablet kun je dan aan de slag met
+          oefeningen of plan je een nieuwe coachsessie in.
         title: Smartphone App
       - title: Digitale Agenda
         text: Via het coachingsprogramma kan je zelf coachsessies inplannen. Koppel je
