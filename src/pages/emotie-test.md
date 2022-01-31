@@ -7,8 +7,9 @@ header:
   illustration: weerbaar
   text: "Zie jij de wereld door een roze bril of hangen er donkere wolken boven je
     hoofd? De hele dag ervaren we emoties. Soms zijn ze positief en soms
-    negatief. De emotiemeter berekent de verhouding en bepaalt of je een 'goede'
-    of een 'slechte' dag hebt gehad. Doe vandaag nog deze online test. "
+    negatief. De emotiemeter berekent hoe je positieve en negatieve emoties zich
+    tot elkaar verhouden en bepaalt of je een 'goede' of een 'slechte' dag hebt
+    gehad. Doe vandaag nog deze online test. "
   links: []
 sections:
   - type: embed
