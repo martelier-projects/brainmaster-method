@@ -7,7 +7,7 @@ text: "Voel je gezonder, energieker en gelukkiger in enkele weken door een uniek
   digitaal. "
 title: Ga slimmer te werk en boost je creativiteit
 header:
-  text: "Ontdek een effectieve manier van werken, kom erachter hoe jouw brein
+  text: "Ontdek een effectievere manier van werken, kom erachter hoe jouw brein
     functioneert en presteer weer optimaal. "
   illustration: productiviteit
   links:
@@ -66,9 +66,10 @@ sections:
     imgAlt: "-"
     sections:
       - title: Staar jij uren naar je computerscherm?
-        text: Te vaak staar je uren naar je computerscherm, wachtend op een creatieve
-          ingeving. Je creativiteit komt en gaat, je hebt er geen grip op. Je
-          zoekt naar nieuwe ideeën, maar hebt geen inspiratie. Herkenbaar?
+        text: Hoe vaak staar je niet uren naar je computerscherm, wachtend op een
+          creatieve ingeving. Je creativiteit komt en gaat, je hebt er geen grip
+          op. Je zoekt naar nieuwe ideeën, maar hebt geen inspiratie.
+          Herkenbaar?
       - title: Creativiteit is een cadeautje
         text: "Ontwikkel je creatieve vermogen. Geniet weer van het gevoel dat je krijgt
           als je de missing link hebt gevonden. Laat je inspireren en produceer
@@ -84,7 +85,7 @@ sections:
           boosten. "
   - type: preview
     component: preview
-    title: Ontdek vitaliteitscoaching voor jou kan betekenen
+    title: Ontdek wat vitaliteitscoaching voor jou kan betekenen
     description: "Vind jouw werkstijl en word productiever en creatiever. Ga op een
       systematische en georganiseerde manier aan de slag, en lever werk van
       kwaliteit. "
