@@ -114,17 +114,18 @@ sections:
           meditatietechnieken. Alvast een disclaimer: meditatie kan je brein
           niet uitzetten. Mentale balans begint bij acceptatie: leer je
           gedachtes en emoties toe te laten. Ontdek onder persoonlijke
-          begeleiding hoe meditatie voor jou kan werken. Ook jij kan leren
-          mediteren!"
+          begeleiding hoe jij meditatie voor jou kan laten werken. Ook jij kan
+          leren mediteren!"
   - type: preview
     component: preview
     title: Ontdek jouw mentale balans met de emotiemeter
     linkLabel: Doe de emotiemeter
     url: /weerbaar/emotie-test/
-    description: Zie jij de wereld door een roze bril of hanger er donkere wolken
-      boven je hoofd? De hele dag ervaren we emoties. Soms zijn ze positief en
-      soms negatief. De emotiemeter berekent de verhouding en bepaalt of je een
-      'goede' of een 'slechte' dag hebt gehad. Doe vandaag nog deze online test.
+    description: Zie jij de wereld door een roze bril of hanger er juist donkere
+      wolken boven je hoofd? De hele dag ervaren we emoties. Soms zijn ze
+      positief en soms negatief. De emotiemeter berekent de verhouding en
+      bepaalt of je een 'goede' of een 'slechte' dag hebt gehad. Doe vandaag nog
+      deze online test.
     image: /assets/images/emoties-meisje.jpg
   - type: rich-text
     show: true
