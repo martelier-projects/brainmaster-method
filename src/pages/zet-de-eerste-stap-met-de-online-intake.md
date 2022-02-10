@@ -88,7 +88,7 @@ sections:
         text: Via het coachingsprogramma kan je zelf coachsessies inplannen. Koppel je
           digitale agenda aan het coachingsprogramma, zodat ze automatisch
           worden toegevoegd. De coachsessies zullen via een videobelgesprek
-          worden gevoerd. Dat kan op dezelfde manier, als via het adviesgesprek,
+          worden gevoerd. Dat kan op dezelfde manier, als bij het adviesgesprek,
           door een druk op de knop.
       - text: Wanneer je daar behoefte aan hebt, kan je -tussen de sessies door- aan de
           slag met verschillende oefeningen en opdrachten via het
