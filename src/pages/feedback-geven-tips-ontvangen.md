@@ -11,20 +11,24 @@ sections:
   - type: rich-text
     show: true
     component: rich-text
-    text: "## Formulier invullen"
+    text: >-
+      ## Formulier invullen
+
+
+      Hi! Zou je kort willen vertellen wat je van de sessie vond? En wil je de adviezen en tips ontvangen waar ik tijdens de sessie over vertelde?
   - type: embed
     show: true
     component: embed
     embed: >-2
       
           <iframe
-            id="JotFormIFrame-213332280609349"
-            title="Vitality Check"
+            id="JotFormIFrame-220413922468050"
+            title="Feedback & Funnel Formulier"
             onload="window.parent.scrollTo(0,0)"
             allowtransparency="true"
             allowfullscreen="true"
             allow="geolocation; microphone; camera"
-            src="https://form.jotform.com/213332280609349"
+            src="https://form.jotform.com/220413922468050"
             frameborder="0"
             style="
             min-width: 100%;
@@ -34,7 +38,7 @@ sections:
           >
           </iframe>
           <script type="text/javascript">
-            var ifr = document.getElementById("JotFormIFrame-213332280609349");
+            var ifr = document.getElementById("JotFormIFrame-220413922468050");
             if (ifr) {
               var src = ifr.src;
               var iframeParams = [];
@@ -129,6 +133,14 @@ sections:
     linkLabel: Blog lezen
     url: /blog/
     image: /assets/images/sleep-optimalization.jpg
+  - type: preview
+    component: preview
+    title: Ontdek vitaliteitscoaching
+    description: Voel je gezonder, energieker en gelukkiger door persoonlijke
+      coaching. Weten wat het kan betekenen? Lees meer over vitaliteitscoaching.
+    linkLabel: Ik wil meer weten
+    url: /coaching/
+    image: /assets/images/mock.jpg
 seo:
   title: Feedback & Tips
   description: Feedback & Tips
