@@ -134,13 +134,7 @@ sections:
       ## Herontdek jouw mentale balans
 
 
-      Maak een einde aan -onnodige- stress en negatieve gedachten, waardoor jij je weer veerkrachtig en weerbaar zal voelen.
-
-
-      ![](/assets/images/top-van-de-berg-2-.jpg)
-
-
-      Droom jij ervan om weer met een glimlach door het leven te gaan? Ontdek weer hoe het is om je weerbaar te voelen en mentale rust te ervaren. Laat je niet meer tegenhouden door stress of negatieve gedachten.
+      Maak een einde aan -onnodige- stress en negatieve gedachten, waardoor jij je weer veerkrachtig en weerbaar zal voelen. Droom jij ervan om weer met een glimlach door het leven te gaan? Ontdek weer hoe het is om je weerbaar te voelen en mentale rust te ervaren. Laat je niet meer tegenhouden door stress of negatieve gedachten.
   - type: buttons
     component: buttons
     buttons:
