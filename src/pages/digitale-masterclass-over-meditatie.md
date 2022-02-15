@@ -22,7 +22,7 @@ sections:
       Wat gebeurt er dan in je hersenen tijdens meditatie? Tijdens deze masterclass zullen we een kijkje nemen in je brein én analyseren wat er gebeurt tijdens een meditatiesessie. Ik, Coach Pjotr, deel graag hoe ik cliënten helpt om te leren mediteren. Er zijn verschillende simpele en wetenschappelijk onderbouwde meditatietechnieken. Natuurlijk zal er ook tijd zijn om daadwerkelijk te mediteren
 
 
-      ![](/assets/images/meditatie-masterclass-v2-.jpg)
+      ![/](/assets/images/meditatie-masterclass-v2-.jpg "/")
   - type: text-media
     show: true
     order: image-text
