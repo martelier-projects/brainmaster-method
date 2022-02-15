@@ -13,7 +13,7 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Beter en dieper slapen
+      ## Leer mediteren
 
 
       Meditatie is voor iedereen en kan heel nuchter zijn. Sterker, meditatie is heel wetenschappelijk! Alvast een disclaimer: Je gaat nooit leren om met meditatie je brein uit te zetten. 
@@ -22,7 +22,7 @@ sections:
       Wat gebeurt er dan in je hersenen tijdens meditatie? Tijdens deze masterclass zullen we een kijkje nemen in je brein én analyseren wat er gebeurt tijdens een meditatiesessie. Ik, Coach Pjotr, deel graag hoe ik cliënten helpt om te leren mediteren. Er zijn verschillende simpele en wetenschappelijk onderbouwde meditatietechnieken. Natuurlijk zal er ook tijd zijn om daadwerkelijk te mediteren
 
 
-      ![](/assets/images/kopie-van-slaap-masterclass.png)
+      ![](/assets/images/meditatie-masterclass-v2-.jpg)
   - type: text-media
     show: true
     order: image-text
