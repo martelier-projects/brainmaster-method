@@ -12,10 +12,10 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Formulier invullen
+      ## Feedback & Tips
 
 
-      Hi! Zou je kort willen vertellen wat je van de sessie vond? En wil je de adviezen en tips ontvangen waar ik tijdens de sessie over vertelde?
+      Wat leuk dat je hebt deelgenomen aan een van mijn sessies. Je bent op deze pagina terecht gekomen omdat je hebt meegedaan aan of een van mijn masterclasses, teamsessies of workshops. Zou je kort willen vertellen wat je van de sessie vond? Daar maak je mij heel blij mee! Je kan dan ook gelijk aangeven of je de adviezen en tips wil ontvangen waar ik tijdens de sessie over vertelde.
   - type: embed
     show: true
     component: embed
