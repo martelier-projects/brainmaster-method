@@ -19,7 +19,7 @@ sections:
       Meditatie is voor iedereen en kan heel nuchter zijn. Sterker, meditatie is heel wetenschappelijk! Alvast een disclaimer: Je gaat nooit leren om met meditatie je brein uit te zetten. 
 
 
-      Wat gebeurt er dan in je hersenen tijdens meditatie? Tijdens deze masterclass zullen we een kijkje nemen in je brein én analyseren wat er gebeurt tijdens een meditatiesessie. Ik, Coach Pjotr, deel graag hoe ik cliënten helpt om te leren mediteren. Er zijn verschillende simpele en wetenschappelijk onderbouwde meditatietechnieken. Natuurlijk zal er ook tijd zijn om daadwerkelijk te mediteren
+      Wat gebeurt er dan in je hersenen tijdens meditatie? Tijdens deze masterclass zullen we een kijkje nemen in je brein én analyseren wat er gebeurt tijdens een meditatiesessie. Ik, Coach Pjotr, deel graag hoe ik cliënten helpt om te leren mediteren. Er zijn verschillende simpele en wetenschappelijk onderbouwde meditatietechnieken. Natuurlijk zal er ook tijd zijn om daadwerkelijk te mediteren.
 
 
       ![/](/assets/images/meditatie-masterclass-v2-.jpg "/")
@@ -59,22 +59,22 @@ sections:
     show: true
     component: embed
     embed: >-
-      <div id="eventbrite-widget-container-239883105827"></div>
+      <div id="eventbrite-widget-container-275483908787"></div>
 
 
-      <script src="https://www.eventbrite.nl/static/widgets/eb_widgets.js"></script>
+      <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
 
       <script type="text/javascript">
           var exampleCallback = function() {
-              console.log('Order voltooid.');
+              console.log('Order complete!');
           };
 
           window.EBWidgets.createWidget({
               // Required
               widgetType: 'checkout',
-              eventId: '239883105827',
-              iframeContainerId: 'eventbrite-widget-container-239883105827',
+              eventId: '275483908787',
+              iframeContainerId: 'eventbrite-widget-container-275483908787',
 
               // Optional
               iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
