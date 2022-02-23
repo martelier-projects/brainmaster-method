@@ -96,6 +96,6 @@ sections:
     buttonType: kennismaking
     component: calandy-button
 seo:
-  title: Teamsessie over Slaap
-  description: Teamsessie over Slaap
+  title: Teamsessie over Slimmer Werken
+  description: Teamsessie over Slimmer Werken
 ---
