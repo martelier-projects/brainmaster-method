@@ -8,7 +8,10 @@ header:
   text: Hoe je slaapt, heeft alles te maken met je biologische slaap-waakritme -
     bioritme in het kort. Hieruit volgt je individuele slaappatroon. Ken je jouw
     bioritme al? Doe de online test.
-  links: []
+  links:
+    - label: Doe de test
+      href: https://form.jotform.com/212432325111337
+      id: bioritme-test-doen
 sections:
   - type: embed
     show: true
