@@ -120,11 +120,6 @@ sections:
               window.attachEvent("onmessage", handleIFrameMessage);
             }
             </script>
-  - type: buttons
-    component: buttons
-    buttons:
-      - label: Ik wil feedback geven & tips krijgen
-        link: https://form.jotform.com/220413922468050
   - type: preview
     component: preview
     title: Online Testjes
