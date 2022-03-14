@@ -35,6 +35,17 @@ sections:
       they don’t know how their brains work. "
     linkLabel: "Go on! "
     image: /assets/images/hand-laptop-pen.jpg
+  - type: preview
+    component: preview
+    title: More GRIP on your work
+    description: “Your agenda is sacred”, says Rick Pastoor in his book GRIP. And he
+      is right! Our days are getting fuller and our to-do lists longer. To stay
+      standing, we need a smarter way to deal with our agenda and all your
+      digital productivity tools. How to do this, without spending hours
+      organizing?
+    linkLabel: Go on!
+    url: https://www.wesharetalent.com/events/more-grip-on-your-work-by-phantus/
+    image: /assets/images/man-tablet-computer.jpg
 seo:
   title: Masterclass
   description: masterclass
