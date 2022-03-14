@@ -37,3 +37,16 @@ sections:
     linkLabel: Plan een kennismaking
     image: /assets/images/hand-telefoon-plannen-zon.jpg
     url: https://www.calendly.com/pjotr-peulen/bellen
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Masterclass
+
+
+      Ik deel graag mijn kennis en ervaring als vitaliteitscoach met jou. Hopelijk helpt het jou om je energieker, gezonder en gelukkiger in gaan voelen. In samenwerking met WeShareTalent geef ik een aantal gratis masterclasses.
+  - type: buttons
+    component: buttons
+    buttons:
+      - label: Aanmelden Masterclass
+        link: /masterclass/
