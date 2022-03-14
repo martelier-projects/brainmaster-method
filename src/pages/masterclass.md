@@ -28,6 +28,16 @@ sections:
     linkLabel: Meld je aan!
     url: https://www.wesharetalent.com/events/neurofeedback-meditation-session-by-phantus/
     image: /assets/images/yoga-bos-vrouw.jpg
+  - type: preview
+    component: preview
+    url: https://www.wesharetalent.com/events/how-to-reflect-look-back-to-go-forward-by-phantus/
+    title: How to reflect – Look back to go forward
+    description: "When is the last time you took time to reflect on your work or
+      life? Did you have a eureka-moment or find out what is holding you back?
+      Probably not. Most people have no idea how to reflect properly because
+      they don’t know how their brains work. "
+    linkLabel: "Go on! "
+    image: /assets/images/hand-laptop-pen.jpg
 seo:
   title: Masterclass
   description: masterclass
