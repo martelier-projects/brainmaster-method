@@ -20,12 +20,9 @@ sections:
     component: preview
     description: Meditation is for everyone! In fact, meditation is very scientific!
       So what happens in your brain during meditation? During the session,
-      participants’ brain activity will be measured and analyzed. Vitality coach
-      Pjotr Peulen also likes to share how he helps clients to learn to
-      meditate. There are several simple and scientifically based meditation
-      techniques. Of course, there will also be time to actually meditate.
+      participants’ brain activity will be measured and analyzed.
     title: Neurofeedback Meditation session
-    linkLabel: Meld je aan!
+    linkLabel: Go on!
     url: https://www.wesharetalent.com/events/neurofeedback-meditation-session-by-phantus/
     image: /assets/images/yoga-bos-vrouw.jpg
   - type: preview
