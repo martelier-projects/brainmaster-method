@@ -18,26 +18,6 @@ sections:
       Ik deel graag mijn kennis en ervaring als vitaliteitscoach met jou. Hopelijk helpt het jou om je energieker, gezonder en gelukkiger in gaan voelen. In samenwerking met WeShareTalent geef ik een aantal gratis masterclasses. Hieronder vind je een overzicht met de aankomende masterclasses. Je kan je vervolgens gratis aanmelden via de website van WeShareTalent. Sommige masterclasses zijn fysiek én andere digitaal. De meeste zijn toegankelijk voor internationale deelnemers, dus zal de voertaal Engels zijn. Zie ik je snel?
   - type: preview
     component: preview
-    title: Je brein slaapt niét
-    description: In deze interactieve masterclass krijg je de kans om al je
-      slaapgerelateerde vragen te stellen. Tijdens deze masterclass leggen we de
-      basis voor een goede nachtrust én kom je erachter waarom slapen eigenlijk
-      zo belangrijk is.
-    linkLabel: Meld je aan!
-    url: /masterclass/slaap/
-    image: /assets/images/slaap-masterclass-1080-x-1080-px-voor-website-en-social.png
-  - type: preview
-    component: preview
-    title: Meer dan ontspanning
-    image: /assets/images/meditatie-masterclass-v2-1080-x-1080-px-.jpg
-    url: /masterclass/meditatie/
-    linkLabel: Meld je aan!
-    description: In deze interactieve masterclass krijg je de kans om al je
-      meditatiegerelateerde vragen te stellen. Tijdens deze masterclass leggen
-      we de basis voor een goede meditatiesessie én kom je erachter waarom
-      meditatie eigenlijk zo belangrijk is.
-  - type: preview
-    component: preview
     description: "Meditation is for everyone! In fact, meditation is very
       scientific! A disclaimer in advance: You will never learn to turn off your
       brain with meditation. So what happens in your brain during meditation?
