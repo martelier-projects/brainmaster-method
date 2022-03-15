@@ -47,34 +47,22 @@ sections:
     show: true
     order: image-text
     component: text-media
-    title: Digitale Teamsessie
+    title: Inspiratiesessie
     sections:
-      - text: Een teamsessie over slimmer werken is kosteloos en vrijblijvend. Dit is
-          een leuke manier om met een kleine groep collega's kennis te maken met
-          mijn methode en vitaliteitscoaching. Volledige digitaal en leerzaam!
-        title: Wat is een teamsessie?
+      - text: Een inspiratiesessie is kosteloos en vrijblijvend. Dit is een leuke manier
+          om met een kleine groep collega's kennis te maken met mijn methode. Je
+          gaat naar huis met concrete tips en adviezen!
+        title: Wat is een inspiratiesessie?
       - title: Hoe ziet de teamsessie eruit?
-        text: "In een digitaal uurtje bespreken we wat slimmer werken inhoudt én hoe jij
-          dat direct kan inzetten. Aan het eind van de teamsessie weten de
-          deelnemers waarom slimmer werken zo belangrijk is én wat er in de
-          hersenen gebeurt tijdens multitasken, concentreren en een
-          brainstormsessie. "
+        text: "Een inspiratiesessie duurt een uurtje én kan zowel digitaal als fysiek
+          plaatsvinden. Ik ben bereid om bij jullie op kantoor langs te komen
+          als jullie een prettige ruimte ter beschikking kunnen stellen. "
       - title: Tijd voor vragen?
-        text: "Het laatste gedeelte van de teamsessie zal in het teken staan van vraag
-          en antwoord. We zullen inzoomen op de onderwerpen en problemen die bij
-          de deelnemers het meest spelen. Hiermee leggen we in één interactieve
-          sessie de basis om slimmer te werken. "
+        text: Het laatste gedeelte van de inspiratiesessie zal in het teken staan van
+          vraag en antwoord. We zullen inzoomen op de onderwerpen en problemen
+          die bij de deelnemers het meest spelen.
     imgSrc: /assets/images/gesprek-laptop.jpg
     imgAlt: /
-  - type: preview
-    component: preview
-    title: Werkproblemen oplossen
-    description: De combinatie tussen jouw brein en jouw baan is uniek en vraagt om
-      een persoonlijke aanpak. Weet jij al wat de oorzaak is van jouw
-      werkprobleem? Ga op onderzoek en leer meer over slimmer werken.
-    linkLabel: Ga op onderzoek
-    url: /productiviteit/
-    image: /assets/images/vrouw-laptop-tablet-licht.jpg
   - type: text-media
     show: true
     order: text-image
@@ -82,9 +70,9 @@ sections:
     imgSrc: /assets/images/hand-laptop-pen.jpg
     title: Praktische zaken
     sections:
-      - text: Hoeveel deelnemers deelnemen aan deze teamsessie is helemaal aan jullie,
-          maar mijn advies is ongeveer 10 tot 15 deelnemers. Hierdoor kan ik ook
-          echt uitgebreid antwoord geven op de vragen van alle deelnemers.
+      - text: "Hoeveel deelnemers deelnemen aan deze inspiratiesessie is helemaal aan
+          jullie, maar mijn advies is ongeveer 15 deelnemers. Hierdoor kan ik
+          uitgebreid antwoord geven op de vragen van alle deelnemers. "
         title: Hoeveel deelnemers?
       - text: "Nadat jij een sessie hebt ingepland, krijg je een bevestigingsmail.
           Hierin wordt alles uitgelegd. In het kort: deelnemers schrijven zich
@@ -92,10 +80,9 @@ sections:
           videobelprogramma Whereby."
         title: Hoe gaat het verder in zijn werk?
       - title: Wat moet jij doen?
-        text: Plan de sessie in mijn digitale agenda. Je kan eventueel van tevoren met
-          je collega's bespreken wanneer iedereen kan. Kan je geen geschikt
-          moment vinden? Stuur dan een mailtje met een alternatief voorstel naar
-          info@phantus.com.
+        text: "Plan een kennismakinggesprek met mij én dan bespreken we de
+          mogelijkheden. Je kan eventueel van tevoren met je collega's bespreken
+          wanneer iedereen kan. "
     imgAlt: /
   - type: rich-text
     show: true
@@ -119,6 +106,15 @@ sections:
   - type: calandy-button
     buttonType: kennismaking
     component: calandy-button
+  - type: preview
+    component: preview
+    title: Werkproblemen oplossen
+    description: De combinatie tussen jouw brein en jouw baan is uniek en vraagt om
+      een persoonlijke aanpak. Weet jij al wat de oorzaak is van jouw
+      werkprobleem? Ga op onderzoek en leer meer over slimmer werken.
+    linkLabel: Ga op onderzoek
+    url: /productiviteit/
+    image: /assets/images/vrouw-laptop-tablet-licht.jpg
 seo:
   title: Teamsessie over Slimmer Werken
   description: Teamsessie over Slimmer Werken
