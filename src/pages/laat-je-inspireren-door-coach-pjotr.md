@@ -16,24 +16,6 @@ sections:
 
 
       Voel je vitaler na een inspiratiesessie! Ik deel graag mijn kennis en ervaring als vitaliteitscoach met jouw team, partners of klanten! Maak vrijblijvend kennis met mijn methode door één van mijn drie inspiratiesessies.
-
-
-      ## Slaap beter
-
-
-      ## Voel je weerbaar
-
-
-      ## Slimmer Werken
-
-
-      Ik deel graag mijn kennsi
-
-
-      De slimmer werk technieken vliegen om je oren. Van pomodoro, scrum, grip, deepwork én getting things done. Wat kan jij doen om sneller én harder te werken? 
-
-
-      In een interactieve teamsessie duiken we in de neuropsychologie achter al deze technieken. Waar is je brein allemaal toe in staat én wat zijn de beperkingen van je brein. Je krijgt de kans om al je vragen te stellen aan vitaliteitscoach en trainer Pjotr.
   - type: rich-text
     show: true
     component: rich-text
@@ -41,7 +23,7 @@ sections:
       ## Slaap beter
 
 
-      Er bestaat veel onduidelijkheid over slaap. Velen lukt het niet om hun weg te vinden in het oerwoud van alle slaaptips en slaapadviezen. In een interactieve sessie heb je de kans om al je slaapgerelateerde vragen te stellen om beter en dieper te slapen. Daarnaast kom je erachter waarom slapen zou belangrijk is.
+      Er bestaat veel onduidelijkheid over slaap. Velen lukt het niet om hun weg te vinden in het oerwoud van alle slaaptips en slaapadviezen. Tijdens deze inspiratiesessie kom je erachter waarom slaap zo belangrijk is en heb je de kans om al je slaapgerelateerde vragen te stellen om beter en dieper te slapen.
   - type: rich-text
     show: true
     component: rich-text
