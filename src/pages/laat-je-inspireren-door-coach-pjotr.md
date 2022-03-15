@@ -15,7 +15,7 @@ sections:
       ## Voel je vitaal
 
 
-      Voel je vitaler na een inspiratiesessie! Ik deel graag mijn kennis en ervaring als vitaliteitscoach met jouw team, partners of klanten! 
+      Voel je vitaler na een inspiratiesessie! Ik deel graag mijn kennis en ervaring als vitaliteitscoach met jouw team, partners of klanten! Maak vrijblijvend kennis met mijn methode door één van mijn drie inspiratiesessies.
 
 
       ## Slaap beter
