@@ -76,9 +76,9 @@ sections:
     imgSrc: /assets/images/hand-laptop-pen.jpg
     title: Praktische zaken
     sections:
-      - text: "Hoeveel deelnemers deelnemen aan deze inspiratiesessie is helemaal aan
-          jullie, maar mijn advies is ongeveer 15 deelnemers. Hierdoor kan ik
-          uitgebreid antwoord geven op de vragen van alle deelnemers. "
+      - text: "Hoeveel deelnemers deelnemen aan deze sessie is helemaal aan jullie, maar
+          mijn advies is ongeveer 15 deelnemers. Hierdoor kan ik uitgebreid
+          antwoord geven op de vragen van alle deelnemers. "
         title: Hoeveel deelnemers?
       - text: "Nadat jij een sessie hebt ingepland, krijg je een bevestigingsmail.
           Hierin wordt alles uitgelegd. In het kort: deelnemers schrijven zich
@@ -87,8 +87,9 @@ sections:
         title: Hoe gaat het verder in zijn werk?
       - title: Wat moet jij doen?
         text: "Plan een kennismakinggesprek met mij én dan bespreken we de
-          mogelijkheden. Je kan eventueel van tevoren met je collega's bespreken
-          wanneer iedereen kan. "
+          mogelijkheden. Dan plannen we gelijk een inspiratiesessie inplannen.
+          Je kan eventueel van tevoren met je collega's bespreken wanneer
+          iedereen kan. "
     imgAlt: /
   - type: embed
     show: true
