@@ -34,6 +34,18 @@ sections:
 
 
       In een interactieve teamsessie duiken we in de neuropsychologie achter al deze technieken. Waar is je brein allemaal toe in staat én wat zijn de beperkingen van je brein. Je krijgt de kans om al je vragen te stellen aan vitaliteitscoach en trainer Pjotr.
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: "## Slaap beter"
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: "## Voel je weerbaar"
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: "## Slimmer Werken"
   - type: text-media
     show: true
     order: image-text
