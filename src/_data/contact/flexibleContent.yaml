@@ -34,7 +34,7 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Contactgegevens
+      ## Digitale Visitekaartje 
 
 
       Wil je al mijn contactgegevens zien? Bekijk dan mijn digitale visitekaartje door op onderstaande knop te drukken. Je kan zelfs mijn contactgegevens gelijk opslaan in je telefoon óf delen met bijvoorbeeld een collega of vriend.
@@ -51,3 +51,24 @@ sections:
     linkLabel: Ja, ik wil!
     url: /coaching/
     image: /assets/images/handen-boom.jpg
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Contactgegevens 
+
+
+      Ik, Coach Pjotr, ben actief onder de handelsnaam 'Phantus'. Hieronder heb ik al mijn zakelijke gegevens op een rijtje gezet. Zie ook mijn [algemene voorwaarden](https://phantus.com/algemene-voorwaarden/).
+
+
+      * Handelnaam: Phantus
+
+      * Hygiëaplein 21-3, 1076RP, Amsterdam
+
+      * KvK nr. 72507721
+
+      * BTW nr. NL002282585B50
+
+      * IBAN NL51BUNQ2059340381
+
+      * info@phantus.com
