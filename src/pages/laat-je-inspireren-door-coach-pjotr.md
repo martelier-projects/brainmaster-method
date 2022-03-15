@@ -45,7 +45,11 @@ sections:
   - type: rich-text
     show: true
     component: rich-text
-    text: "## Voel je weerbaar"
+    text: >-
+      ## Voel je weerbaar
+
+
+      De burn-outs én depressies vliegen om je oren. Hoe kan je overeind blijven in deze drukke én veeleisende wereld? Tijdens deze inspiratiesessie duiken we in de neurofysiologie van stress én negatieve gedachten. Je gaat naar huis met concrete tips die je direct kan inzetten om je weerbaarder te gaan voelen.
   - type: rich-text
     show: true
     component: rich-text
