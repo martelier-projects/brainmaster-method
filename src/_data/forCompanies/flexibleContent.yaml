@@ -11,15 +11,28 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Digitale teamsessies
+      ## Inspiratiesessie
 
 
-      Maak kennis met coach Pjotr en leg de basis om beter te slapen, je weerbaarder te voelen óf om productiever te worden. Een digitale teamsessie kost niets en is vrijblijvend.
+      Voel je vitaler na een inspiratiesessie! Ik deel graag mijn kennis en ervaring als vitaliteitscoach met jouw team, partners of klanten! Maak vrijblijvend kennis met mijn methode door één van mijn drie inspiratiesessies.
   - type: buttons
     component: buttons
     buttons:
-      - label: Teamsessie over Slaap
-        link: /teamsessie-over-slaap/
+      - label: Inspiratiesessie
+        link: /inspiratiesessie/
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Masterclass
+
+
+      Ik deel graag mijn kennis en ervaring als vitaliteitscoach met jou. Hopelijk helpt het jou om je energieker, gezonder en gelukkiger in gaan voelen. In samenwerking met WeShareTalent geef ik een aantal gratis masterclasses.
+  - type: buttons
+    component: buttons
+    buttons:
+      - label: Aanmelden Masterclass
+        link: /masterclass/
   - type: rich-text
     show: true
     component: rich-text
@@ -37,16 +50,3 @@ sections:
     linkLabel: Plan een kennismaking
     image: /assets/images/hand-telefoon-plannen-zon.jpg
     url: https://www.calendly.com/pjotr-peulen/bellen
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: >-
-      ## Masterclass
-
-
-      Ik deel graag mijn kennis en ervaring als vitaliteitscoach met jou. Hopelijk helpt het jou om je energieker, gezonder en gelukkiger in gaan voelen. In samenwerking met WeShareTalent geef ik een aantal gratis masterclasses.
-  - type: buttons
-    component: buttons
-    buttons:
-      - label: Aanmelden Masterclass
-        link: /masterclass/
