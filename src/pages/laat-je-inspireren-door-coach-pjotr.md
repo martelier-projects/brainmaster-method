@@ -105,6 +105,6 @@ sections:
     buttonType: kennismaking
     component: calandy-button
 seo:
-  title: Teamsessie over Slimmer Werken
-  description: Teamsessie over Slimmer Werken
+  title: Vrijblijvende Inspiratiesessie
+  description: Vrijblijvende Inspiratiesessie
 ---
