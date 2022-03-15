@@ -1,6 +1,6 @@
 ---
 indexPage: true
-title: Inspiratiesessies met jouw team, partners of klanten
+title: Plan een sessie om je team te inspireren
 permalink: /inspiratiesessie/
 layout: layouts/default-template.njk
 header:
