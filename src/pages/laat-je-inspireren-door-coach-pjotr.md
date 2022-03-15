@@ -59,7 +59,7 @@ sections:
           om met een kleine groep collega's kennis te maken met mijn methode. Je
           gaat naar huis met concrete tips en adviezen!
         title: Wat is een inspiratiesessie?
-      - title: Hoe ziet de teamsessie eruit?
+      - title: Hoe ziet de sessie eruit?
         text: "Een inspiratiesessie duurt een uurtje én kan zowel digitaal als fysiek
           plaatsvinden. Ik ben bereid om bij jullie op kantoor langs te komen
           als jullie een prettige ruimte ter beschikking kunnen stellen. "
