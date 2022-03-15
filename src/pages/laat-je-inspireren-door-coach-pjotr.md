@@ -41,11 +41,10 @@ sections:
   - type: preview
     component: preview
     title: Slimmer werken
-    description: De slimmer werk technieken vliegen om je oren. Van pomodoro, scrum,
-      grip, deepwork én getting things done. Wat kan jij doen om slimmer te werk
-      te gaan?  In deze inspiratiesessie duiken we in de neuropsychologie achter
-      al deze technieken. Waar is je brein allemaal toe in staat én wat zijn de
-      beperkingen van je brein.
+    description: Wat kan jij doen om slimmer te werk te gaan? In deze
+      inspiratiesessie duiken in de wereld van de neurowetenschappen. Hoe kan
+      jij het meest uit je brein halen? Waar is je brein allemaal toe in staat
+      én wat zijn de beperkingen van je brein.
     linkLabel: Plan een kennismaking
     url: https://calendly.com/pjotr-peulen/bellen
     image: /assets/images/man-tablet-computer.jpg
