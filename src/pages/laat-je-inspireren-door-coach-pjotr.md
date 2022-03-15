@@ -49,17 +49,6 @@ sections:
     linkLabel: Plan een kennismaking
     url: https://calendly.com/pjotr-peulen/bellen
     image: /assets/images/man-tablet-computer.jpg
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: >-
-      ## Slimmer Werken
-
-
-      De slimmer werk technieken vliegen om je oren. Van pomodoro, scrum, grip, deepwork én getting things done. Wat kan jij doen om slimmer te werk te gaan?
-
-
-      In deze inspiratiesessie duiken we in de neuropsychologie achter al deze technieken. Waar is je brein allemaal toe in staat én wat zijn de beperkingen van je brein.
   - type: text-media
     show: true
     order: image-text
@@ -101,14 +90,6 @@ sections:
           mogelijkheden. Je kan eventueel van tevoren met je collega's bespreken
           wanneer iedereen kan. "
     imgAlt: /
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: >-
-      ## Wees er snel bij
-
-
-      Er zijn nog maar een paar **gratis teamsessies** beschikbaar. Reserveer gelijk één van de gratis teamsessies óf plan eerst een [kennismaking met coach Pjotr.](https://calendly.com/pjotr-peulen/bellen)
   - type: embed
     show: true
     component: embed
@@ -123,15 +104,6 @@ sections:
   - type: calandy-button
     buttonType: kennismaking
     component: calandy-button
-  - type: preview
-    component: preview
-    title: Werkproblemen oplossen
-    description: De combinatie tussen jouw brein en jouw baan is uniek en vraagt om
-      een persoonlijke aanpak. Weet jij al wat de oorzaak is van jouw
-      werkprobleem? Ga op onderzoek en leer meer over slimmer werken.
-    linkLabel: Ga op onderzoek
-    url: /productiviteit/
-    image: /assets/images/vrouw-laptop-tablet-licht.jpg
 seo:
   title: Teamsessie over Slimmer Werken
   description: Teamsessie over Slimmer Werken
