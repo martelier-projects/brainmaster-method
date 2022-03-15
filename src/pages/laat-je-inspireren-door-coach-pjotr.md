@@ -16,22 +16,39 @@ sections:
 
 
       Voel je vitaler na een inspiratiesessie! Ik deel graag mijn kennis en ervaring als vitaliteitscoach met jouw team, partners of klanten! Maak vrijblijvend kennis met mijn methode door één van mijn drie inspiratiesessies.
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: >-
-      ## Slaap beter
-
-
-      Er bestaat veel onduidelijkheid over slaap. Velen lukt het niet om hun weg te vinden in het oerwoud van alle slaaptips en slaapadviezen. Tijdens deze inspiratiesessie kom je erachter waarom slaap zo belangrijk is en heb je de kans om al je slaapgerelateerde vragen te stellen om beter en dieper te slapen.
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: >-
-      ## Voel je weerbaar
-
-
-      De burn-outs én depressies vliegen om je oren. Hoe kan je overeind blijven in deze drukke én veeleisende wereld? Tijdens deze inspiratiesessie duiken we in de neurofysiologie van stress én negatieve gedachten. Je gaat naar huis met concrete tips die je direct kan inzetten om je weerbaarder te gaan voelen.
+  - type: preview
+    component: preview
+    title: Slaap beter & dieper
+    description: Er bestaat veel onduidelijkheid over slaap. Velen lukt het niet om
+      hun weg te vinden in het oerwoud van alle slaaptips en slaapadviezen.
+      Tijdens deze inspiratiesessie kom je erachter waarom slaap zo belangrijk
+      is en heb je de kans om al je slaapgerelateerde vragen te stellen om beter
+      en dieper te slapen.
+    linkLabel: Plan een kennismaking
+    url: https://calendly.com/pjotr-peulen/bellen
+    image: /assets/images/slapen-meisje-handen.jpg
+  - type: preview
+    component: preview
+    title: Voel je weerbaar
+    description: De burn-outs én depressies vliegen om je oren. Hoe kan je overeind
+      blijven in deze drukke én veeleisende wereld? Tijdens deze
+      inspiratiesessie duiken we in de neurofysiologie van stress én negatieve
+      gedachten. Je gaat naar huis met concrete tips die je direct kan inzetten
+      om je weerbaarder te gaan voelen.
+    linkLabel: Plan een kennismaking
+    url: https://calendly.com/pjotr-peulen/bellen
+    image: /assets/images/mock.jpg
+  - type: preview
+    component: preview
+    title: Slimmer werken
+    description: De slimmer werk technieken vliegen om je oren. Van pomodoro, scrum,
+      grip, deepwork én getting things done. Wat kan jij doen om slimmer te werk
+      te gaan?  In deze inspiratiesessie duiken we in de neuropsychologie achter
+      al deze technieken. Waar is je brein allemaal toe in staat én wat zijn de
+      beperkingen van je brein.
+    linkLabel: Plan een kennismaking
+    url: https://calendly.com/pjotr-peulen/bellen
+    image: /assets/images/man-tablet-computer.jpg
   - type: rich-text
     show: true
     component: rich-text
