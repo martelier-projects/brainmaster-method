@@ -80,16 +80,15 @@ sections:
           mijn advies is ongeveer 15 deelnemers. Hierdoor kan ik uitgebreid
           antwoord geven op de vragen van alle deelnemers. "
         title: Hoeveel deelnemers?
-      - text: "Nadat jij een sessie hebt ingepland, krijg je een bevestigingsmail.
-          Hierin wordt alles uitgelegd. In het kort: deelnemers schrijven zich
-          in via een eventpagina en voor de sessies gebruiken we het
-          videobelprogramma Whereby."
-        title: Hoe gaat het verder in zijn werk?
       - title: Wat moet jij doen?
-        text: "Plan een kennismakinggesprek met mij én dan bespreken we de
-          mogelijkheden. Dan plannen we gelijk een inspiratiesessie inplannen.
-          Je kan eventueel van tevoren met je collega's bespreken wanneer
-          iedereen kan. "
+        text: "Plan om te beginnen een kennismakinggesprek met mij én dan bespreken we
+          de mogelijkheden. Vervolgens promoot jij de inspiratiesessie bij je
+          collega's, partners of klanten én deel jij de link naar de
+          aanmeldpagina. "
+      - text: "Nadat wij een sessie hebben ingepland, krijg je een bevestigingsmail.
+          Hierin wordt alles uitgelegd. In het kort: ik kan of via Eventbrite
+          een eventpagina aanmaken of een promotekst aanleveren. "
+        title: Hoe gaat het verder in zijn werk?
     imgAlt: /
   - type: embed
     show: true
