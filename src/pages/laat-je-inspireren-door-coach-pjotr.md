@@ -42,7 +42,7 @@ sections:
     component: preview
     title: Slimmer werken
     description: Vliegen de to-do-lijstjes, mailtjes én afspraken je om de oren? In
-      deze inspiratiesessie duiken in de wereld van de neurowetenschappen om
+      deze inspiratiesessie duiken we in de wereld van de neurowetenschappen om
       slimmer te werken. Hoe kan jij het meest uit je brein halen? Waar is je
       brein allemaal toe in staat én wat zijn de beperkingen van je brein.
     linkLabel: Plan een kennismaking
