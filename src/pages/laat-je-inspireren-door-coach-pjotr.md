@@ -37,7 +37,11 @@ sections:
   - type: rich-text
     show: true
     component: rich-text
-    text: "## Slaap beter"
+    text: >-
+      ## Slaap beter
+
+
+      Er bestaat veel onduidelijkheid over slaap. Velen lukt het niet om hun weg te vinden in het oerwoud van alle slaaptips en slaapadviezen. In een interactieve sessie heb je de kans om al je slaapgerelateerde vragen te stellen om beter en dieper te slapen. Daarnaast kom je erachter waarom slapen zou belangrijk is.
   - type: rich-text
     show: true
     component: rich-text
@@ -45,7 +49,14 @@ sections:
   - type: rich-text
     show: true
     component: rich-text
-    text: "## Slimmer Werken"
+    text: >-
+      ## Slimmer Werken
+
+
+      De slimmer werk technieken vliegen om je oren. Van pomodoro, scrum, grip, deepwork én getting things done. Wat kan jij doen om slimmer te werk te gaan?
+
+
+      In deze inspiratiesessie duiken we in de neuropsychologie achter al deze technieken. Waar is je brein allemaal toe in staat én wat zijn de beperkingen van je brein.
   - type: text-media
     show: true
     order: image-text
