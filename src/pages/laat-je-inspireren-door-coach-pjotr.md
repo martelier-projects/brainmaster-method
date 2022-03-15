@@ -1,6 +1,6 @@
 ---
 indexPage: true
-title: Laat je inspireren door Coach Pjotr
+title: Inspiratiesessies met jouw team, partners of klanten
 permalink: /inspiratiesessie/
 layout: layouts/default-template.njk
 header:
