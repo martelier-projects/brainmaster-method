@@ -41,10 +41,10 @@ sections:
   - type: preview
     component: preview
     title: Slimmer werken
-    description: Wat kan jij doen om slimmer te werk te gaan? In deze
-      inspiratiesessie duiken in de wereld van de neurowetenschappen. Hoe kan
-      jij het meest uit je brein halen? Waar is je brein allemaal toe in staat
-      én wat zijn de beperkingen van je brein.
+    description: Vliegen de to-do-lijstjes, mailtjes én afspraken je om de oren? In
+      deze inspiratiesessie duiken in de wereld van de neurowetenschappen om
+      slimmer te werken. Hoe kan jij het meest uit je brein halen? Waar is je
+      brein allemaal toe in staat én wat zijn de beperkingen van je brein.
     linkLabel: Plan een kennismaking
     url: https://calendly.com/pjotr-peulen/bellen
     image: /assets/images/man-tablet-computer.jpg
