@@ -18,28 +18,16 @@ sections:
       Voel je vitaler na een inspiratiesessie! Ik deel graag mijn kennis en ervaring als vitaliteitscoach met jouw team, partners of klanten! 
 
 
+      ## Slaap beter
 
 
-      ### Slaap beter
+      ## Voel je weerbaar
 
 
-
-
-
-
-      ### Voel je weerbaar
-
-
-
-
-
-
-      ### Slimmer Werken
+      ## Slimmer Werken
 
 
       Ik deel graag mijn kennsi
-
-
 
 
       De slimmer werk technieken vliegen om je oren. Van pomodoro, scrum, grip, deepwork én getting things done. Wat kan jij doen om sneller én harder te werken? 
