@@ -10,7 +10,9 @@ header:
     negatief. De emotiemeter berekent hoe je positieve en negatieve emoties zich
     tot elkaar verhouden en bepaalt of je een 'goede' of een 'slechte' dag hebt
     gehad. Doe vandaag nog deze online test. "
-  links: []
+  links:
+    - label: Doe de test
+      href: https://form.jotform.com/212292521619049
 sections:
   - type: embed
     show: true
