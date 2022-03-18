@@ -27,6 +27,10 @@ sections:
         text: Doe de emotiemeter.
         href: https://phantus.com/weerbaar/emotie-test/
         icon: Module
+      - title: Coaching
+        href: /coaching/
+        text: "Lees meer over coaching. "
+        icon: Kennismaking
 seo:
   title: Menu
   description: Menu
