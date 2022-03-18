@@ -14,7 +14,7 @@ sections:
       - title: Masterclasses
         href: https://phantus.com/masterclass/
         text: Doe mee met een masterclass.
-        icon: Kennismaking
+        icon: Traject
       - title: Bioritme-test
         text: Doe de bioritme-test.
         href: https://phantus.com/slaap/bioritme-test/
