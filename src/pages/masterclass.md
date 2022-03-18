@@ -37,7 +37,7 @@ sections:
     image: /assets/images/slapen-meisje-handen.jpg
   - type: preview
     component: preview
-    title: Maditation Basics Session (17 May)
+    title: Meditation Session (17 May)
     description: "Meditation is for everyone! In fact, meditation is very
       scientific! Research has already shown that meditation can be used to
       improve your concentration, improve your mood, better regulate stress, and
