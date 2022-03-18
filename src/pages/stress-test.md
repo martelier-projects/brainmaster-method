@@ -9,7 +9,9 @@ header:
     te lang overspannen, dan is de kans op een burn-out groter. En dat wil je
     natuurlijk voorkomen. Doe nu de stress-scan en ontdek hoe hoog jouw
     stressniveau is.
-  links: []
+  links:
+    - label: Doe de test
+      href: https://form.jotform.com/212433463411344
 sections:
   - type: embed
     show: true
