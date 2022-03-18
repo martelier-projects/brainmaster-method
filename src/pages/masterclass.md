@@ -37,6 +37,16 @@ sections:
     image: /assets/images/slapen-meisje-handen.jpg
   - type: preview
     component: preview
+    title: Maditation Basics Session (17 May)
+    description: "Meditation is for everyone! In fact, meditation is very
+      scientific! Research has already shown that meditation can be used to
+      improve your concentration, improve your mood, better regulate stress, and
+      increase compassion for yourself and others. "
+    linkLabel: Go on!
+    url: https://www.wesharetalent.com/events/mediatio-basic-session-by-phantus/
+    image: /assets/images/vrouw-mediteren-zon.jpg
+  - type: preview
+    component: preview
     title: Sleep is your superpower (8 June)
     description: "It’s time to wake up energetic and get rid of sleepless nights.
       “Sleep is your life-support system and Mother Nature’s best effort yet at
