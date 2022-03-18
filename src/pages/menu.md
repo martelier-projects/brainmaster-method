@@ -5,6 +5,7 @@ permalink: /menu/
 layout: layouts/default-template.njk
 header:
   illustration: none
+  text: Test
 sections:
   - type: topics
     showTopics: true
