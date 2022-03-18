@@ -15,7 +15,10 @@ sections:
       ## WeShareTalent
 
 
-      Ik deel graag mijn kennis en ervaring als vitaliteitscoach met jou. Hopelijk helpt het jou om je energieker, gezonder en gelukkiger te gaan voelen. In samenwerking met WeShareTalent geef ik een aantal gratis masterclasses. Hieronder vind je een overzicht met de aankomende masterclasses. Je kan je vervolgens gratis aanmelden via de website van WeShareTalent. Sommige masterclasses zijn fysiek én andere digitaal. De meeste zijn toegankelijk voor internationale deelnemers, dus zal de voertaal Engels zijn. Zie ik je snel?
+      Ik deel graag mijn kennis en ervaring als vitaliteitscoach met jou. Hopelijk helpt het jou om je energieker, gezonder en gelukkiger te gaan voelen. In samenwerking met WeShareTalent geef ik een aantal gratis masterclasses. Hieronder vind je een overzicht van de aankomende masterclasses. Klik op de masterclass waar je aan mee wil doen en meld je aan! 
+
+
+      Sommige masterclasses zijn fysiek én andere digitaal. De meeste zijn toegankelijk voor internationale deelnemers, dus zal de voertaal Engels zijn.
   - type: preview
     component: preview
     description: Meditation is for everyone! In fact, meditation is very scientific!
