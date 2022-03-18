@@ -10,9 +10,21 @@ sections:
     showTopics: true
     component: topics
     topics:
+      - title: Masterclasses
+        href: https://phantus.com/masterclass/
+        text: Doe mee met een masterclass.
+        icon: Kennismaking
       - title: Bioritme-test
-        text: Bioritme-test
+        text: Doe de bioritme-test.
         href: https://phantus.com/slaap/bioritme-test/
+        icon: Module
+      - title: Stress-scan
+        href: https://phantus.com/weerbaar/stress-test/
+        text: Doe de stress-scan.
+        icon: Module
+      - title: Emotiemeter
+        text: Doe de emotiemeter.
+        href: https://phantus.com/weerbaar/emotie-test/
         icon: Module
 seo:
   title: Menu
