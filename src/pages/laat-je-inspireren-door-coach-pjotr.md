@@ -56,8 +56,8 @@ sections:
     title: Inspiratiesessie
     sections:
       - text: Een inspiratiesessie is kosteloos en vrijblijvend. Dit is een leuke manier
-          om met een kleine groep collega's kennis te maken met mijn methode. Je
-          gaat naar huis met concrete tips en adviezen!
+          om met een kleine groep collega's, partners of klanten kennis te maken
+          met mijn methode. Jullie gaat naar huis met concrete tips en adviezen!
         title: Wat is een inspiratiesessie?
       - title: Hoe ziet de sessie eruit?
         text: "Een inspiratiesessie duurt een uurtje én kan zowel digitaal als fysiek
