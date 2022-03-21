@@ -21,7 +21,7 @@ sections:
       ## Kom in actie
 
 
-      Een adviesgesprek is vrijblijvend, kosteloos en volledig digitaal. Wacht niet tot morgen, maar neem nu actie. Ik help je graag verder en geef je tips die je meteen kan inzetten.
+      Een adviesgesprek is vrijblijvend, kosteloos en volledig digitaal. Wacht niet tot morgen, maar kom nu in actie. Ik help je graag verder en geef je tips die je meteen kan inzetten.
   - type: text-media
     show: true
     order: image-text
