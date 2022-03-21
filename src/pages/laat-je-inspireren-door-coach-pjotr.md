@@ -31,10 +31,11 @@ sections:
     component: preview
     title: Voel je weerbaar
     description: Hoe kan je overeind blijven in deze drukke én veeleisende wereld?
-      Hoe kan je burn-outs en depressies voorkomen? Tijdens deze
-      inspiratiesessie duiken we in de neurowetenschappen van stress én
-      negatieve gedachten. Je gaat naar huis met concrete tips die je direct kan
-      inzetten om je weerbaarder te gaan voelen.
+      Hoe kan je burn-outs en depressies voorkomen? Voel je weerbaarder en reken
+      af met stress en negatieve gedachten. Tijdens deze inspiratiesessie
+      onderzoeken we wat er in je brein gebeurt tijdens stress en negatieve
+      gedachten. Je gaat naar huis met concrete tips die je direct kan inzetten
+      om je weerbaarder te gaan voelen.
     linkLabel: Plan een kennismaking
     url: https://calendly.com/pjotr-peulen/bellen
     image: /assets/images/mock.jpg
