@@ -46,7 +46,7 @@ sections:
       deze inspiratiesessie duiken we in de wereld van de neurowetenschappen om
       slimmer te werken. Hoe kan jij het meest uit je brein halen? Waar is je
       brein allemaal toe in staat én wat zijn de beperkingen van je brein.
-      Ontdek welke technieken je het best kan inzetten.
+      Ontdek welke slimmer-werk-technieken jij het best kan inzetten.
     linkLabel: Plan een kennismaking
     url: https://calendly.com/pjotr-peulen/bellen
     image: /assets/images/man-tablet-computer.jpg
