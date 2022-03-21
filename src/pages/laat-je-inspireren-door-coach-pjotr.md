@@ -22,8 +22,8 @@ sections:
     description: Er bestaat veel onduidelijkheid over slaap. Velen lukt het niet om
       hun weg te vinden in het oerwoud van alle slaaptips en slaapadviezen.
       Tijdens deze inspiratiesessie kom je erachter waarom slaap zo belangrijk
-      is en heb je de kans om al je slaapgerelateerde vragen te stellen om beter
-      en dieper te slapen.
+      is voor je lichaam en brein. Je krijgt de kans om al je slaapgerelateerde
+      vragen te stellen, om een einde te maken aan slapeloze nachten.
     linkLabel: Plan een kennismaking
     url: https://calendly.com/pjotr-peulen/bellen
     image: /assets/images/slapen-meisje-handen.jpg
