@@ -81,7 +81,7 @@ sections:
           antwoord geven op de vragen van alle deelnemers. "
         title: Hoeveel deelnemers?
       - title: Wat moet jij doen?
-        text: "Plan om te beginnen een kennismakinggesprek met mij én dan bespreken we
+        text: "Plan om te beginnen een kennismakingsgesprek met mij én dan bespreken we
           de mogelijkheden. Vervolgens promoot jij de inspiratiesessie bij je
           collega's, partners of klanten én deel jij de link naar de
           aanmeldpagina. "
