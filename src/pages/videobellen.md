@@ -37,7 +37,7 @@ sections:
       Wil je videobellen met je smartphone of tablet, dan moet je eerst de app downloaden. Ga naar de [App Store](https://apps.apple.com/us/app/whereby-video-meetings/id878583078) of [Play Store](https://play.google.com/store/apps/details?id=appear.in.app&hl=en&gl=US) en download de app. Maak vervolgens een account aan. Zodra je wil deelnemen aan het gesprek klik je op 'join room' en type je mijn voor- en achternaam in: 'pjotrpeulen'.
 
 
-      **Belangrijk**: Vergeet in alle gevallen niet om te kloppen (*knock*) wanneer je vanuit de wachtkamer wil deelnemen aan het gesprek.
+      **Belangrijk**: Vergeet in alle gevallen niet om te kloppen (*knock*), wanneer je vanuit de wachtkamer wil deelnemen aan het gesprek.
   - type: preview
     component: preview
     image: /assets/images/gesprek-laptop.jpg
