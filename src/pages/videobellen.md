@@ -26,7 +26,7 @@ sections:
       ## **Videobellen met Laptop**
 
 
-      Wil je videobellen met je laptop of computer, kopieer en plak dan bovenstaande [link](https://whereby.com/pjotrpeulen) in een nieuw tabblad. Soms komt het voor dat firewalls het gesprek tegen houden, zeker op goed beveiligde werkcomputers. Zet deze firewalls tijdelijk uit of probeer deel te nemen via een andere browser of een ander device.
+      Wil je videobellen met je laptop of computer, kopieer en plak dan bovenstaande [link](https://whereby.com/pjotrpeulen) in een nieuw tabblad. Soms komt het voor dat firewalls het gesprek tegen houden, zeker op goed beveiligde werkcomputers. Zet deze firewalls tijdelijk uit of probeer deel te nemen via een andere browser of een ander apparaat.
   - type: rich-text
     show: true
     component: rich-text
