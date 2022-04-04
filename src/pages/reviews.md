@@ -1,7 +1,7 @@
 ---
 indexPage: true
-title: Reviews
-permalink: /reviews/
+title: Review
+permalink: /review/
 layout: layouts/default-template.njk
 header:
   illustration: none
