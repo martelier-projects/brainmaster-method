@@ -1,7 +1,7 @@
 ---
 indexPage: false
 title: Wat vinden andere van Phantus?
-permalink: /reviews/
+permalink: /reviewsldjakdfdddd/
 layout: layouts/default-template.njk
 header:
   illustration: none
