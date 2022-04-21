@@ -53,7 +53,7 @@ sections:
       ## Plan een adviesgesprek
 
 
-      Je mag zelf een afspraak met mij, coach Pjotr, inplannen. Het gratis adviesgesprek duurt een half uur en zal plaatsvinden via een videobelgesprek.
+      Je mag zelf een afspraak met mij, coach Pjotr, inplannen. Het gratis adviesgesprek duurt ongeveer 30 tot 60 minuten en zal plaatsvinden via een videobelgesprek.
   - type: embed
     show: true
     component: embed
