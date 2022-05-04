@@ -10,9 +10,20 @@ sections:
     show: true
     component: rich-text
     text: >-
-      
+      ## Online Training
+
+
+      Slaap beter en dieper met deze online training. Werk aan je slaaphygiëne, ochtendritueel en droombed met tips en video's van Coach Pjotr.
+
+
+
 
       ![](/assets/images/kopie-van-sleep-workshop-sleep-is-your-super-poer-presentatie-169-.png)
+  - type: embed
+    show: true
+    component: embed
+    embed: <script type="text/javascript"
+      src="https://form.jotform.com/jsform/221231959099059"></script>
 seo:
   title: "Online Training: Dieper Slapen"
   description: "Online Training: Dieper Slapen"
