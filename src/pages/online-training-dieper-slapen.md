@@ -58,7 +58,7 @@ sections:
 
       \       \ 
 
-      \        buttonText: \"Online Training\",
+      \        buttonText: \"Koop nu\",
 
       \        buttonFontColor: \"#ffffff\",
 
