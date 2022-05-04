@@ -13,31 +13,7 @@ sections:
       ## Goede nachtrust
 
 
-      Ook jij verdient een goede nachtrust
-
-
-
-
-      Online Trianing
-
-
-      Makkelijk uit comfort huis en op eigen tempo
-
-
-
-
-      Coach Pjotr
-
-
-      Alles tips en idee van coach pjotr
-
-
-
-
-      Stap voor stap
-
-
-      Ga stapv voor stap aan de slag hygiene en ritme etc. 
+      Ook jij verdient een goede nachtrust én ook jij kan -weer- diep slapen. Maak een einde aan slapeloze nachten én begin de dag weer met energie. 
 
 
 
@@ -45,22 +21,23 @@ sections:
       ## Online Training
 
 
-      Slaap beter en dieper met deze online training. Werk aan je slaaphygiëne, ochtendritueel en droombed met tips en video's van Coach Pjotr.
+      Ga makkelijk van start uit het comfort van je eigen huis. In je eigen leeromgeving kan je op je eigen tempo stappen maken. 
 
 
 
 
-      ## Ontvang Tips
+      ## Coach Pjotr
+
+
+      Ik, Coach Pjotr, deel graag de beste tips en tricks om beter en dieper te slapen. Je ontvangt iedere dag een nieuwe video met tips die jij direct kan toepassen. 
 
 
 
 
+      ## **Leer beter slapen**
 
 
-      ## Elke dag een nieuwe video
-
-
-      Ontvang iedere dag een nieuwe video 
+      Werk stap voor stap aan betere slaaphygiëne, een gezond ochtendritueel én creëer je eigen droombed.   
 
 
 
