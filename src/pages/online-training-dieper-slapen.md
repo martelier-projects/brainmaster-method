@@ -19,7 +19,7 @@ sections:
       Ook jij verdient een goede nachtrust én ook jij kan -weer- diep slapen. Maak een einde aan slapeloze nachten én begin de dag weer met energie. 
 
 
-      ![](/assets/images/kopie-van-sleep-workshop-sleep-is-your-super-poer-presentatie-169-1-.png)
+      ![](/assets/images/kopie-van-sleep-workshop-sleep-is-your-super-poer-presentatie-169-2-.png)
 
 
       ## Online Training
