@@ -43,6 +43,42 @@ sections:
     component: embed
     embed: <script type="text/javascript"
       src="https://form.jotform.com/jsform/221231959099059"></script>
+  - type: embed
+    show: true
+    component: embed
+    embed: "
+
+      \    <script
+      src=\"https://form.jotform.com/cardforms/feedbackEmbedButton.min.js\"></s\
+      cript>
+
+      \    <script>
+
+      \      new JF_FeedbackEmbedButton({
+
+      \       \ 
+
+      \        buttonText: \"Online Training\",
+
+      \        buttonFontColor: \"#ffffff\",
+
+      \        buttonBackgroundColor: \"#EB5C36\",
+
+      \        buttonSide: \"Bottom\",
+
+      \        buttonAlign: \"Right\",
+
+      \        buttonIcon: \"default\",
+
+      \        base: \"https://form.jotform.com/\",
+
+      \        formId: 221231959099059
+
+      \      });
+
+      \    </script>
+
+      \    "
 seo:
   title: "Online Training: Dieper Slapen"
   description: "Online Training: Dieper Slapen"
