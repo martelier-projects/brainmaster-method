@@ -16,11 +16,7 @@ sections:
       Ook jij verdient een goede nachtrust én ook jij kan -weer- diep slapen. Maak een einde aan slapeloze nachten én begin de dag weer met energie. 
 
 
-
-
       ![](/assets/images/slapen-meisje-handen.jpg)
-
-
 
 
       ## Online Training
@@ -29,6 +25,7 @@ sections:
       Ga makkelijk van start uit het comfort van je eigen huis. In je eigen leeromgeving kan je op je eigen tempo stappen maken. 
 
 
+      ![](/assets/images/gesprek-laptop.jpg)
 
 
       ## Coach Pjotr
@@ -40,12 +37,13 @@ sections:
       ![](/assets/images/kopie-van-sleep-workshop-sleep-is-your-super-poer-presentatie-169-1-.png)
 
 
-
-
       ## **Leer beter slapen**
 
 
-      Werk stap voor stap aan betere slaaphygiëne, een gezond ochtendritueel én creëer je eigen droombed.
+      Werk stap voor stap aan betere slaaphygiëne, een gezond ochtendritueel én creëer je eigen droombed.   
+
+
+      ![](/assets/images/sleep-optimalization.jpg)
   - type: embed
     show: true
     component: embed
