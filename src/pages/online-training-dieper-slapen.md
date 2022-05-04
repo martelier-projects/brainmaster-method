@@ -18,6 +18,11 @@ sections:
 
 
 
+      ![](/assets/images/wolk-en-sterren.png)
+
+
+
+
       ## Online Training
 
 
