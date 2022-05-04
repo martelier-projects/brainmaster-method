@@ -10,6 +10,38 @@ sections:
     show: true
     component: rich-text
     text: >-
+      ## Goede nachtrust
+
+
+      Ook jij verdient een goede nachtrust
+
+
+
+
+      Online Trianing
+
+
+      Makkelijk uit comfort huis en op eigen tempo
+
+
+
+
+      Coach Pjotr
+
+
+      Alles tips en idee van coach pjotr
+
+
+
+
+      Stap voor stap
+
+
+      Ga stapv voor stap aan de slag hygiene en ritme etc. 
+
+
+
+
       ## Online Training
 
 
