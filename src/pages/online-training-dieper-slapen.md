@@ -20,11 +20,6 @@ sections:
 
 
       ![](/assets/images/slapen-meisje-handen.jpg)
-  - type: embed
-    show: true
-    component: embed
-    embed: <script type="text/javascript"
-      src="https://form.jotform.com/jsform/221231959099059"></script>
   - type: text-media
     show: true
     order: image-text
@@ -43,6 +38,11 @@ sections:
     title: Online Training
     imgSrc: /assets/images/online-training-1-.png
     imgAlt: /
+  - type: embed
+    show: true
+    component: embed
+    embed: <script type="text/javascript"
+      src="https://form.jotform.com/jsform/221231959099059"></script>
 seo:
   title: "Online Training: Dieper Slapen"
   description: "Online Training: Dieper Slapen"
