@@ -2,7 +2,7 @@
 indexPage: true
 title: "Online Training: Dieper Slapen"
 permalink: /online-training-dieper-slapen/
-layout: layouts/theme-page.njk
+layout: layouts/default-template.njk
 header:
   illustration: none
   links:
