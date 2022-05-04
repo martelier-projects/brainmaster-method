@@ -18,7 +18,7 @@ sections:
 
 
 
-      ![](/assets/images/wolk-en-sterren.png)
+      ![](/assets/images/slapen-meisje-handen.jpg)
 
 
 
@@ -34,7 +34,10 @@ sections:
       ## Coach Pjotr
 
 
-      Ik, Coach Pjotr, deel graag de beste tips en tricks om beter en dieper te slapen. Je ontvangt iedere dag een nieuwe video met tips die jij direct kan toepassen. 
+      ![](/assets/images/kopie-van-sleep-workshop-sleep-is-your-super-poer-presentatie-169-1-.png)
+
+
+      ## Ik, Coach Pjotr, deel graag de beste tips en tricks om beter en dieper te slapen. Je ontvangt iedere dag een nieuwe video met tips die jij direct kan toepassen. 
 
 
 
@@ -42,12 +45,7 @@ sections:
       ## **Leer beter slapen**
 
 
-      Werk stap voor stap aan betere slaaphygiëne, een gezond ochtendritueel én creëer je eigen droombed.   
-
-
-
-
-      ![](/assets/images/kopie-van-sleep-workshop-sleep-is-your-super-poer-presentatie-169-.png)
+      Werk stap voor stap aan betere slaaphygiëne, een gezond ochtendritueel én creëer je eigen droombed.
   - type: embed
     show: true
     component: embed
