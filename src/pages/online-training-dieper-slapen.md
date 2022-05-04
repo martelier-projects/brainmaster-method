@@ -19,25 +19,25 @@ sections:
       Ook jij verdient een goede nachtrust én ook jij kan -weer- diep slapen. Maak een einde aan slapeloze nachten én begin de dag weer met energie. 
 
 
-      ![](/assets/images/slapen-meisje-handen.jpg)
-  - type: text-media
-    show: true
-    order: image-text
-    component: text-media
-    sections:
-      - text: Ga makkelijk van start uit het comfort van je eigen huis. In je eigen
-          leeromgeving kan je op je eigen tempo stappen maken.
-        title: Start vandaag nog
-      - text: Ik, Coach Pjotr, deel graag de beste tips en tricks om beter en dieper te
-          slapen. Je ontvangt iedere dag een nieuwe video met tips die jij
-          direct kan toepassen.
-        title: Video's & Tips
-      - text: Werk stap voor stap aan betere slaaphygiëne, een gezond ochtendritueel én
-          creëer je eigen droombed.
-        title: Leer beter slapen
-    title: Online Training
-    imgSrc: /assets/images/online-training-1-.png
-    imgAlt: /
+      ![](/assets/images/kopie-van-sleep-workshop-sleep-is-your-super-poer-presentatie-169-1-.png)
+
+
+      ## Online Training
+
+
+      Ga makkelijk van start uit het comfort van je eigen huis. In je eigen leeromgeving kan je op je eigen tempo stappen maken.
+
+
+      ## Video's & Tips
+
+
+      Ik, Coach Pjotr, deel graag de beste tips en tricks om beter en dieper te slapen. Je ontvangt iedere dag een nieuwe video met tips die jij direct kan toepassen.
+
+
+      ## Leer beter slapen
+
+
+      Werk stap voor stap aan betere slaaphygiëne, een gezond ochtendritueel én creëer je eigen droombed.
   - type: embed
     show: true
     component: embed
