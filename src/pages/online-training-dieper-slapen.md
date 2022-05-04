@@ -4,7 +4,7 @@ title: "Online Training: Dieper Slapen"
 permalink: /online-training-dieper-slapen/
 layout: layouts/theme-page.njk
 header:
-  illustration: slaap
+  illustration: none
   links:
     - label: Pre-sale
       href: https://form.jotform.com/221231959099059
