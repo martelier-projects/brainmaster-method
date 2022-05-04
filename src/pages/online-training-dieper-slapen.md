@@ -34,10 +34,10 @@ sections:
       ## Coach Pjotr
 
 
+      Ik, Coach Pjotr, deel graag de beste tips en tricks om beter en dieper te slapen. Je ontvangt iedere dag een nieuwe video met tips die jij direct kan toepassen. 
+
+
       ![](/assets/images/kopie-van-sleep-workshop-sleep-is-your-super-poer-presentatie-169-1-.png)
-
-
-      ## Ik, Coach Pjotr, deel graag de beste tips en tricks om beter en dieper te slapen. Je ontvangt iedere dag een nieuwe video met tips die jij direct kan toepassen. 
 
 
 
