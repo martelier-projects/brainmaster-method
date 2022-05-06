@@ -43,6 +43,14 @@ sections:
     component: embed
     embed: <script type="text/javascript"
       src="https://form.jotform.com/jsform/221251604191344"></script>
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Coachsessie inplannen
+
+
+      Zodra je een abonnement hebt afgesloten of een extra coachsessie hebt geboekt kan je een coachsessie inplannen. Kijk hieronder in mijn agenda en
 seo:
   title: Abonnementen
   description: Abonnementen
