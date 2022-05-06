@@ -41,14 +41,23 @@ sections:
     linkLabel: Boek een sessie
     url: https://form.jotform.com/221251604191344
     image: /assets/images/iphone-coaching-app.jpg
-  - type: preview
-    component: preview
-    description: Zodra je een abonnement hebt afgesloten of een extra coachsessie
-      hebt geboekt, kan je een coachsessie inplannen.
-    title: Coachsessie inplannen
-    linkLabel: Inplannen
-    image: /assets/images/hand-laptop-pen.jpg
-    url: https://calendly.com/pjotr-peulen/coachsessie
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Coachsessie inplannen
+
+
+      Zodra je een abonnement hebt afgesloten of een extra coachsessie hebt geboekt, kan je een coachsessie inplannen. 
+
+
+      [30 Minuten Coachsessie](https://calendly.com/pjotr-peulen/coachsessie-30-minuten)
+
+
+      [60 Minuten Coachsessie](https://calendly.com/pjotr-peulen/coachsessie-60-minuten)
+
+
+      [90 Minuten Coachsessie](https://calendly.com/pjotr-peulen/coachsessie-90-minuten)
 seo:
   title: Abonnementen
   description: Abonnementen
