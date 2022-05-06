@@ -25,32 +25,30 @@ sections:
 
 
       Ik maak gebruik van een aantal abonnementsopties. Je account wordt dan bevroren, waardoor je op een passieve manier toegang blijft houden tot alle informatie in je account. Zo kan je video's blijven bekijken óf technieken opnieuw doorlopen. Je kan alleen niet aan nieuwe modules of technieken beginnen. In het kort, je account blijft precies zoals het nu is. Afhankelijk van je abonnement kan je coachsessies inplannen, maar je kan natuurlijk ook altijd extra coachsessie boeken als je daar behoefte aan hebt.
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: "## Kies Abonnement"
-  - type: embed
-    show: true
-    component: embed
-    embed: <script type="text/javascript"
-      src="https://form.jotform.com/jsform/221252384807051"></script>
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: "## Extra Coachsessie"
-  - type: embed
-    show: true
-    component: embed
-    embed: <script type="text/javascript"
-      src="https://form.jotform.com/jsform/221251604191344"></script>
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: >-
-      ## Coachsessie inplannen
-
-
-      Zodra je een abonnement hebt afgesloten of een extra coachsessie hebt geboekt kan je een coachsessie inplannen. Kijk hieronder in mijn agenda en
+  - type: preview
+    component: preview
+    url: https://form.jotform.com/221252384807051
+    image: /assets/images/hand-telefoon-plannen-zon.jpg
+    title: Abonnementen
+    linkLabel: Kies je abonnement
+    description: Kies een van de vier abonnementen. Je kan tot een maand vóór de
+      nieuwe betalingen je abonnement opzeggen of wijzigen.
+  - type: preview
+    component: preview
+    title: Extra Coachsessie
+    description: Boek een extra coachsessie met Coach Pjotr wanneer je daar behoefte
+      aan hebt.
+    linkLabel: Boek een sessie
+    url: https://form.jotform.com/221251604191344
+    image: /assets/images/iphone-coaching-app.jpg
+  - type: preview
+    component: preview
+    description: Zodra je een abonnement hebt afgesloten of een extra coachsessie
+      hebt geboekt, kan je een coachsessie inplannen.
+    title: Coachsessie inplannen
+    linkLabel: Inplannen
+    image: /assets/images/hand-laptop-pen.jpg
+    url: https://calendly.com/pjotr-peulen/coachsessie
 seo:
   title: Abonnementen
   description: Abonnementen
