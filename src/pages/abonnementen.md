@@ -33,31 +33,6 @@ sections:
     linkLabel: Kies je abonnement
     description: Kies een van de vier abonnementen. Je kan tot een maand vóór de
       nieuwe betalingen je abonnement opzeggen of wijzigen.
-  - type: preview
-    component: preview
-    title: Extra Coachsessie
-    description: Boek een extra coachsessie met Coach Pjotr wanneer je daar behoefte
-      aan hebt.
-    linkLabel: Boek een sessie
-    url: https://form.jotform.com/221251604191344
-    image: /assets/images/iphone-coaching-app.jpg
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: >-
-      ## Coachsessie inplannen
-
-
-      Zodra je een abonnement hebt afgesloten of een extra coachsessie hebt geboekt, kan je een coachsessie inplannen. 
-
-
-      [30 Minuten Coachsessie](https://calendly.com/pjotr-peulen/coachsessie-30-minuten)
-
-
-      [60 Minuten Coachsessie](https://calendly.com/pjotr-peulen/coachsessie-60-minuten)
-
-
-      [90 Minuten Coachsessie](https://calendly.com/pjotr-peulen/coachsessie-90-minuten)
 seo:
   title: Abonnementen
   description: Abonnementen
