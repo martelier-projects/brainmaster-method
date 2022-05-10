@@ -1,7 +1,7 @@
 ---
 indexPage: false
 title: Boek een coachsessie
-permalink: /boek-een-coachsessie/chakfhf344isenrzdfj3q4j234vgjs
+permalink: /boek-een-coachsessie/chakfhf344isenrzdfj3q4j234vgjs/
 layout: layouts/default-template.njk
 header:
   illustration: none
