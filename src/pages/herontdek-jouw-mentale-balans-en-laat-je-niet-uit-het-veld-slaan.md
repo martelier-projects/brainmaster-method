@@ -58,17 +58,17 @@ sections:
       - title: Weerbaar bij tegenslagen
         text: "Laat je niet uit het veld slaan door stress, en wordt veerkrachtiger bij
           tegenslagen. Stop met doemdenken en laat stress je niet tegenhouden.
-          Maar hoe doe je dat? Door te leren hoe je op een gezonde manier kan
-          reageren op stressvolle situatie. Pas na een gezonde stressreactie kun
-          je écht ontspannen. Je kan stress ook te slim af zijn, door je voor te
-          bereiden op het onverwachte. Bewapen jezelf met de laatste tools en
-          technieken en voel je weer weerbaar. "
+          Maar hoe doe je dat? Door te leren, hoe je op een gezonde manier kan
+          reageren op stressvolle situaties. Pas na een gezonde stressreactie
+          kun je écht ontspannen. Je kan stress ook te slim af zijn, door je
+          voor te bereiden op het onverwachte. Bewapen jezelf met de laatste
+          tools en technieken en voel je weer weerbaar. "
       - title: "Jouw gezonde stressreactie "
         text: "Hoe die stress zich uit, verschilt per persoon. Voel jij de stress in je
           buik of in je hoofd? Als je stress op tijd kan herkennen kan je op een
           gezonde manier reageren. Daarnaast is het is belangrijk om te
-          ontdekken welke situaties jou spanning opleveren. Stress zal er altijd
-          zijn, maar veel stress in onnodig. Ontdek wat jouw gezonde
+          ontdekken, welke situaties jou spanning opleveren. Stress zal er
+          altijd zijn, maar veel stress is onnodig. Ontdek wat jouw gezonde
           stressreactie is met vitaliteitscoaching. "
     order: text-image
     title: Leer omgaan met stress
