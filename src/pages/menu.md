@@ -31,6 +31,10 @@ sections:
         href: /coaching/
         text: "Lees meer over coaching. "
         icon: Kennismaking
+      - title: Terug naar Insta
+        href: https://www.instagram.com/pjotr.peulen/
+        icon: Productief
+        text: Ga terug naar mijn instragram.
 seo:
   title: Menu
   description: Menu
