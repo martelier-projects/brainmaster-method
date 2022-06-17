@@ -31,7 +31,7 @@ sections:
     image: /assets/images/hand-telefoon-plannen-zon.jpg
     title: Abonnementen
     linkLabel: Kies je abonnement
-    description: Kies een van de vier abonnementen. Je kan tot een maand vóór de
+    description: Kies een van de vier abonnementen. Je kan tot 10 dagen vóór de
       nieuwe betalingen je abonnement opzeggen of wijzigen.
 seo:
   title: Abonnementen
