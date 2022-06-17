@@ -24,13 +24,7 @@ sections:
       ### Wat kun je verwachten?
 
 
-      Met een vitaliteitsabonnement kan je zelfstandig werken aan een vitale leefstijl én kan je je coach om hulp vragen wanneer jij daar behoefte aan hebt. Je huidige account wordt bevroren, waardoor je op een passieve manier toegang blijft houden tot alle informatie in je account. Zo kan je video's blijven bekijken óf technieken opnieuw doorlopen. Je kan op je eigen tempo verder met de onderwerpen die tijdens je coachingstraject zijn besproken. Je kan alleen niet aan nieuwe modules of technieken beginnen. Hiervoor moet je een actief coachingstraject hebben afgesloten. In het kort, wanneer je van start gaat met een abonnement, blijft je account precies zoals het nu is. Afhankelijk van je abonnement kan je coachsessies inplannen, maar je kan natuurlijk ook altijd extra coachsessies bijboeken als je daar behoefte aan hebt.
-
-
-      ### **Flexibel abonnement**
-
-
-      Met een flexibel abonnement hou je wel toegang tot je coachingsaccount, maar moet je zelfstandig losse coachsessie bijboeken. Op deze [pagina](https://phantus.com/boek-een-coachsessie/chakfhf344isenrzdfj3q4j234vgjs/), kan je zelfstandig coachsessie bijboeken én inplannen.
+      Met een vitaliteitsabonnement kan je zelfstandig werken aan een vitale leefstijl én kan je je coach om hulp vragen wanneer jij daar behoefte aan hebt. Je huidige account wordt bevroren, waardoor je op een passieve manier toegang blijft houden tot alle informatie in je account. Zo kan je video's blijven bekijken óf technieken opnieuw doorlopen. Je kan op je eigen tempo verder met de onderwerpen die tijdens je coachingstraject zijn besproken. Je kan alleen niet aan nieuwe modules of technieken beginnen. Hiervoor moet je een actief coachingstraject hebben afgesloten. In het kort, wanneer je van start gaat met een abonnement, blijft je account precies zoals het nu is. Afhankelijk van je abonnement kan je coachsessies inplannen, maar je kan natuurlijk ook altijd extra coachsessies bijboeken als je daar behoefte aan hebt. Met een flexibel abonnement hou je wel toegang tot je coachingsaccount, maar moet je zelfstandig losse coachsessie bijboeken.
   - type: preview
     component: preview
     url: https://form.jotform.com/221292292386358
