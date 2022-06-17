@@ -50,7 +50,7 @@ sections:
       opties. De wijziging wordt een maand later uitgevoerd.
     linkLabel: Wijzigen
     image: /assets/images/iphone-coaching-app.jpg
-    url: /
+    url: https://form.jotform.com/221292292386358
 seo:
   title: Boek een coachsessie
   description: Boek een coachsessie
