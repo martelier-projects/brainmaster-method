@@ -18,7 +18,7 @@ sections:
       Ontdek wat een abonnement voor jou kan betekenen. Hier vind je alle informatie die je nodig hebt. Je kan altijd terugkeren naar deze pagina.
 
 
-      Ik ben pas tevreden als jij resultaat hebt geboekt. Wil je bezig blijven met je vitaliteit? Dat kan met vitaliteitsabonnementen. Laagdrempelig, maar effectief. Zo kan je zelfstandig verder met alles wat we hebben behandeld.
+      Ik ben pas tevreden als jij duurzaam resultaat hebt geboekt en weet hoe je vitaal kan blijven. Vitaliteit is namelijk niet iets wat je kan bereiken, maar waar je constant voor moet werken. Daarom adviseer ik altijd om na een intensief coachingstraject, gebruik te maken van een vitaliteitsabonnement. Laagdrempelig, maar effectief. 
 
 
       ### Wat kun je verwachten?
