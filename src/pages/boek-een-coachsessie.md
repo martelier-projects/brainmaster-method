@@ -11,6 +11,14 @@ sections:
   - type: rich-text
     show: true
     component: rich-text
+    text: Ik ben pas tevreden als jij duurzaam resultaat hebt geboekt en weet hoe je
+      vitaal kan blijven. Vitaliteit is namelijk niet iets wat je kan bereiken,
+      maar waar je constant voor moet werken. Daarom adviseer ik altijd om na
+      een intensief coachingstraject, gebruik te maken van een
+      vitaliteitsabonnement. Laagdrempelig, maar effectief.
+  - type: rich-text
+    show: true
+    component: rich-text
     text: >-
       ## Abonnementen
 
