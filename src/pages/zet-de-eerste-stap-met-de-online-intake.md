@@ -105,10 +105,7 @@ sections:
       ## Coachingstrajecten
 
 
-      Jij kiest hoeveel minuten je per maand met je coach wil spreken. Per maand heb je de keuze uit 90 minuten óf meer.
-
-
-      Onderstaande coachingstrajecten worden momenteel uitgebreid met meer opties. Als jouw voorkeur er nog niet bijstaat, stuur dan een bericht naar info@phantus.com en geef aan hoeveel coachingsminuten jij per maand zou willen.
+      Jij kiest hoeveel minuten je per maand met je coach wil spreken. Per maand heb je de keuze uit 120 minuten óf meer.
   - type: topics
     showTopics: true
     component: topics
