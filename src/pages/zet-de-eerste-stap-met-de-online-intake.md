@@ -115,15 +115,15 @@ sections:
     topics:
       - title: 120 Minuten
         icon: Module
-        text: "Voor € 160,- (incl. BTW) per maand heb je recht op 120 coachingsminuten
+        text: "Voor € 285,- (incl. BTW) per maand heb je recht op 120 coachingsminuten
           per maand. "
       - title: 180 Minuten
         icon: Module
-        text: "Voor € 220,- (incl. BTW) per maand heb je recht op 180 coachingsminuten
+        text: "Voor € 475,- (incl. BTW) per maand heb je recht op 180 coachingsminuten
           per maand. "
       - title: 240 Minuten
         icon: Module
-        text: "Voor € 290,- (incl. BTW) per maand heb je recht op 240 coachingsminuten
+        text: "Voor € 585,- (incl. BTW) per maand heb je recht op 240 coachingsminuten
           per maand. "
   - type: preview
     component: preview
