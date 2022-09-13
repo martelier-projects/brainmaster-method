@@ -68,9 +68,9 @@ sections:
   - type: preview
     component: preview
     title: Spreek met Coach Pjotr
-    description: "Heb je nog vragen? Plan dan een afspraak in met mij, Coach Pjotr.
-      Dit gesprek, de digitale intake, duurt een half uur en zal plaatsvinden
-      via een videobelgesprek. "
+    description: "Heb je nog vragen óf wil je de Vitality Check bespreken? Plan dan
+      een afspraak in met mij, Coach Pjotr. Dit gesprek, de digitale intake,
+      duurt een half uur en zal plaatsvinden via een videobelgesprek. "
     linkLabel: Plan een digitale intake
     url: /online-intake/digitale-intake/
     image: /assets/images/preview-gesprek-laptop-1080-x-800-px-1080-x-700-px-.jpg
