@@ -7,6 +7,7 @@ illustration: home
 links:
   - label: Ik wil meer weten!
     href: /coaching/
-    id: ""
+    id: meer-informatie
   - label: Over Coach Pjotr
-    href: /contact
+    href: /contact/
+    id: meer-informatie
