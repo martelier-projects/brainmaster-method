@@ -28,26 +28,19 @@ sections:
       <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
       <!-- Calendly inline widget end -->
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: >-
-      ## Deelnemen aan het gesprek
-
-
-      Zodra het tijd is voor je digitale intake kan je onderstaande knop gebruiken om deel te nemen aan het gesprek.
+  - type: preview
+    component: preview
+    title: Deelnemen
+    description: "Zodra het tijd is voor de digitale intake kan je onderstaande knop
+      gebruiken om deel te nemen. "
+    linkLabel: Deelnemen aan het gesprek
+    url: /videobellen/
+    image: /assets/images/vrouw-laptop-gesprek.jpg
   - type: buttons
     component: buttons
     buttons:
-      - label: Deelnemen aan gesprek*
-        link: https://whereby.com/pjotrpeulen
       - label: Terug naar online intake
         link: /online-intake/
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: "\\*Werkt deze knop niet? Kopieer en plak dan deze link in een nieuw
-      tabblad: <https://whereby.com/pjotrpeulen>"
 seo:
   title: Digitale Intake
   description: Digitale Intake
