@@ -4,7 +4,7 @@ title: Online Intake
 permalink: /online-intake/
 layout: layouts/default-template.njk
 header:
-  illustration: none
+  illustration: home
 sections:
   - type: in-page-nav
     component: in-page-nav-for-flexibles
@@ -105,7 +105,7 @@ sections:
       ## Coachingstrajecten
 
 
-      Jij kiest hoeveel minuten je per maand met je coach wil spreken. Per maand heb je de keuze uit 120 minuten óf meer..
+      Jij kiest hoeveel minuten je per maand met je coach wil spreken. Per maand heb je de keuze uit 120 minuten óf meer.
   - type: topics
     showTopics: true
     component: topics
