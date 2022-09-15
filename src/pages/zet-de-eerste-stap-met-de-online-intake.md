@@ -25,6 +25,16 @@ sections:
 
 
       Neem de tijd om de informatie van deze pagina tot je te nemen. Wanneer je behoefte hebt om met mij de opties te bespreken, kan je een digitale intake inplannen. Meld je aan via deze pagina, zodra je weet óf en welk coachingstraject het best bij jou past.
+  - type: embed
+    show: true
+    component: embed
+    embed: <div style="padding:56.25% 0 0 0;position:relative;"><iframe
+      src="https://player.vimeo.com/video/662648222?h=dfb73667e8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+      frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+      allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Maak
+      kennis met Coach Pjotr"></iframe></div><script
+      src="https://player.vimeo.com/api/player.js"></script>
   - type: preview
     component: preview
     title: Vitality Check
