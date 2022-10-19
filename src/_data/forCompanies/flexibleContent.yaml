@@ -40,7 +40,15 @@ sections:
       ## Trainingen
 
 
-      Behoefte aan een inspirerende en interactieve training? Pjotr geeft regelmatig meditatietrainingen, burn-out preventietrainingen en trainingen om je creativiteit te boosten of om beter te slapen. Er wordt graag meegedacht om jullie teamdag of leerdag tot een succes te maken.
+      Behoefte aan een inspirerende en interactieve training? Ik geef regelmatig trainingen op het gebied van slimmer werken, burn-out preventie, meditatie of beter slapen. Ik denk graag mee om jullie teamdag of leerdag tot een succes te maken.
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Samen groeien
+
+
+      In een aantal interactieve sessies kunnen we met het MT spreken over verschillende keuzes op het gebied van mentale welzijn en vitaliteit. Verschillende onderwerpen kunnen besproken worden, zoals thuiswerken, werktijden, kantoortuin, digitale technologie, sfeer op de werkvloer, feedback geven, ruimte voor fouten maken, én bedrijfscultuur. Vervolgens kan er een protocol opgesteld worden, die d.m.v. een training geïmplementeerd kan worden.
   - type: preview
     component: preview
     title: Plan een kennismaking
