@@ -10,7 +10,7 @@ sections:
     component: in-page-nav-for-flexibles
   - type: preview
     component: preview
-    title: Adviesgesprek
+    title: Slides
     description: Bedankt voor het fijne gesprek. Ik gun je het allerbeste en hoop
       dat mijn adviezen je gaan helpen! Hierbij een link naar de slides die ik
       tijdens het gesprek liet zien.
