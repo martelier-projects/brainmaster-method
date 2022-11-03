@@ -16,7 +16,7 @@ sections:
       die ik liet zien tijdens het adviesgesprek?
     linkLabel: Slides bekijken
     url: https://www.canva.com/design/DAFMTE9tE8w/Ydj9aYmWTe5VhtOTbWG0Tg/view?website#2:beter-in-je-vel-door-persoonlijke-online-coaching
-    image: /assets/images/vrouw-met-ipad.png
+    image: /assets/images/vrouw-met-ipad-1200-x-720-px-.png
   - type: rich-text
     show: true
     component: rich-text
