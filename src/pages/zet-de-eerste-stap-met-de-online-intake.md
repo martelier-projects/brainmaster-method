@@ -12,8 +12,8 @@ sections:
     component: preview
     title: Adviesgesprek
     description: Bedankt voor het fijne gesprek. Ik gun je het allerbeste en hoop
-      dat mijn adviezen je gaan helpen! Wil je de slides nog een keer bekijken
-      die ik liet zien tijdens het adviesgesprek?
+      dat mijn adviezen je gaan helpen! Hierbij een link naar de slides die ik
+      tijdens het gesprek liet zien.
     linkLabel: Slides bekijken
     url: https://www.canva.com/design/DAFMTE9tE8w/Ydj9aYmWTe5VhtOTbWG0Tg/view?website#2:beter-in-je-vel-door-persoonlijke-online-coaching
     image: /assets/images/vrouw-met-ipad-1200-x-720-px-.png
