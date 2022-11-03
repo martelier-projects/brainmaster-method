@@ -8,6 +8,15 @@ header:
 sections:
   - type: in-page-nav
     component: in-page-nav-for-flexibles
+  - type: preview
+    component: preview
+    title: Adviesgesprek
+    description: Bedankt voor het fijne gesprek. Ik gun je het allerbeste en hoop
+      dat mijn adviezen je gaan helpen! Wil je de slides nog een keer bekijken
+      die ik liet zien tijdens het adviesgesprek?
+    linkLabel: Slides bekijken
+    url: https://www.canva.com/design/DAFMTE9tE8w/Ydj9aYmWTe5VhtOTbWG0Tg/view?website#2:beter-in-je-vel-door-persoonlijke-online-coaching
+    image: /assets/images/vrouw-tablet.jpg
   - type: rich-text
     show: true
     component: rich-text
