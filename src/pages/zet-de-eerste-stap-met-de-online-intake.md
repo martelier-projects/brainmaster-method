@@ -8,15 +8,6 @@ header:
 sections:
   - type: in-page-nav
     component: in-page-nav-for-flexibles
-  - type: preview
-    component: preview
-    title: Slides
-    description: Bedankt voor het fijne gesprek. Ik gun je het allerbeste en hoop
-      dat mijn adviezen je gaan helpen! Hierbij een link naar de slides die ik
-      tijdens het gesprek liet zien.
-    linkLabel: Slides bekijken
-    url: https://www.canva.com/design/DAFMTE9tE8w/Ydj9aYmWTe5VhtOTbWG0Tg/view?website#2:beter-in-je-vel-door-persoonlijke-online-coaching
-    image: /assets/images/vrouw-met-ipad-1200-x-720-px-.png
   - type: rich-text
     show: true
     component: rich-text
@@ -36,13 +27,13 @@ sections:
       Neem de tijd om de informatie van deze pagina tot je te nemen. Wanneer je behoefte hebt om met mij de opties te bespreken, kan je een digitale intake inplannen. Meld je aan via deze pagina, zodra je weet óf en welk coachingstraject het best bij jou past.
   - type: preview
     component: preview
-    title: Vitality Check
-    linkLabel: Doe de test
-    url: /online-intake/vitality-check/
-    description: "Ontdek met deze online test hoe vitaal jij momenteel bent en waar
-      jij behoefte aan hebt. Heb je behoefte aan vitaliteitscoaching, dan is dit
-      een mooie voorbereiding. "
-    image: /assets/images/hand-laptop-pen.jpg
+    title: Slides
+    description: Bedankt nog voor het fijne gesprek. Ik gun je het allerbeste en
+      hoop dat mijn adviezen je gaan helpen! Hierbij een link naar de slides die
+      ik tijdens het gesprek liet zien.
+    linkLabel: Slides bekijken
+    url: https://www.canva.com/design/DAFMTE9tE8w/Ydj9aYmWTe5VhtOTbWG0Tg/view?website#2:beter-in-je-vel-door-persoonlijke-online-coaching
+    image: /assets/images/vrouw-met-ipad-1200-x-720-px-.png
   - type: text-media
     show: true
     order: image-text
@@ -76,13 +67,13 @@ sections:
     imgAlt: /
   - type: preview
     component: preview
-    title: Spreek met Coach Pjotr
-    description: "Heb je nog vragen óf wil je de Vitality Check bespreken? Plan dan
-      een afspraak in met mij, Coach Pjotr. Dit gesprek, de digitale intake,
-      duurt een half uur en zal plaatsvinden via een videobelgesprek. "
-    linkLabel: Plan een digitale intake
-    url: /online-intake/digitale-intake/
-    image: /assets/images/preview-gesprek-laptop-1080-x-800-px-1080-x-700-px-.jpg
+    title: Vitality Check
+    linkLabel: Doe de test
+    url: /online-intake/vitality-check/
+    description: "Ontdek met deze online test hoe vitaal jij momenteel bent en waar
+      jij behoefte aan hebt. Heb je behoefte aan vitaliteitscoaching, dan is dit
+      een mooie voorbereiding. "
+    image: /assets/images/hand-laptop-pen.jpg
   - type: text-media
     show: true
     order: image-text
@@ -107,6 +98,15 @@ sections:
         title: Oefeningen & Opdrachten
     imgSrc: /assets/images/iphone-coaching-app.jpg
     imgAlt: /
+  - type: preview
+    component: preview
+    title: Spreek met Coach Pjotr
+    description: "Heb je nog vragen óf wil je de Vitality Check bespreken? Plan dan
+      een afspraak in met mij, Coach Pjotr. Dit gesprek, de digitale intake,
+      duurt een half uur en zal plaatsvinden via een videobelgesprek. "
+    linkLabel: Plan een digitale intake
+    url: /online-intake/digitale-intake/
+    image: /assets/images/preview-gesprek-laptop-1080-x-800-px-1080-x-700-px-.jpg
   - type: rich-text
     show: true
     component: rich-text
