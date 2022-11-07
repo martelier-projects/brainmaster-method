@@ -26,39 +26,59 @@ sections:
       Binnen de tweejarige opleiding geef ik één lesdag om onszelf onder te dompelen in de wereld van de meditatie. Meditatie en Mindfulness heeft een prominente positie in ACT en andere therapieën. Tijdens de lesdag zullen we actief oefenen met verschillende meditatievormen en bekijken we de huidige wetenschappelijke kennis van meditatie en mindfulness. 
 
 
-      ### Ter voorbereiding
+      ## Ter voorbereiding
 
 
       Ter voorbereiding wil ik je adviseren om zo veel mogelijk zelf te mediteren. Hoe meer meditatie-ervaring je hebt, hoe meer je uit deze lesdag zal halen. Weet je niet goed waar je moet beginnen, begin dan met het gebruik van een meditatieapp. Inmiddels stikt het van de meditatieapps, zoals Headspace en Calm. Ikzelf vind de nieuwere app, [Petit Bambou](https://www.petitbambou.com/nl), een erg prettige Nederlandstalige app om mee te beginnen. 
 
 
-      ### Achtergrond informatie
+      ## Achtergrond informatie
 
 
       Er zijn veel verschillende boeken geschreven over meditatie. Helaas zitten er ook veel boeken tussen die de plank misslaan of zelfs incorrecte informatie verspreiden. Veel populaire meditatieboeken overdrijven de werking van meditatie en citeren onderzoeksresultaten die niet gereproduceerd kunnen worden. Er zijn twee boeken waar ik jullie op wil wijzen. 
 
 
-      #### [Practical Meditation](https://partner.bol.com/click/click?p=2&t=url&s=1072144&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Ff%2Fpractical-meditation%2F9200000084329858%2F&name=Practical%20Meditation%2C%20Giovanni%20Dienstmann)
+      ### [Practical Meditation](https://partner.bol.com/click/click?p=2&t=url&s=1072144&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Ff%2Fpractical-meditation%2F9200000084329858%2F&name=Practical%20Meditation%2C%20Giovanni%20Dienstmann)
 
 
       Dit boek van Giovanni Dienstamann is een absolute aanrader als je meditatie actief wil inzetten als zorgprofessional. Giovanni is in staat geweest een compact boek te schrijven en je kort kennis te laten maken met allerlei verschillende meditatiestromingen en oefeningen. Dit boek is een perfecte inspiratiebron als je zelf meditatie-oefeningen wil gaan ontwikkelen. 
 
 
-      #### [Altered Traits](https://partner.bol.com/click/click?p=2&t=url&s=1072144&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Ff%2Faltered-traits%2F9200000074437562%2F&name=Altered%20Traits)
+      ### [Altered Traits](https://partner.bol.com/click/click?p=2&t=url&s=1072144&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Ff%2Faltered-traits%2F9200000074437562%2F&name=Altered%20Traits)
 
 
       Dit boek van Daniel Goleman (journalist) en Richard Davidson (neurowetenschapper) is het boek als je jezelf wil verdiepen in de wetenschappelijke onderbouwde werking van meditatie. Ook al hebben Daniel en Richard een prachtig toegankelijk boek geschreven, het blijft een samenvatting van 20 jaar wetenschappelijk onderzoek naar meditatie.
+
+
+      ## Huiswerkopdracht
+
+
+      Schrijf een meditatie-oefening uit op papier van begin tot eind van ongeveer 10-30 minuten. Dit kan een oefening zijn die je kent en bewerkt óf die je zelf bedenkt. Wat voor meditatie-oefening of meditatie-techniek je gebruikt is helemaal aan jou. Zorg er voor dat je begint met een intro waarbij men ontspannen kan beginnen aan de oefening én een outro om langzaam uit de oefening te komen.
+
+
+      Beantwoord de volgende vragen voordat je begint, zodat je alvast bewust nadenkt over waarom je bepaalde keuzes maakt.
+
+
+      1. Binnen welke ACT-zuil wil je een meditatie-oefening ontwikkelen?
+
+      2. Voor wie is deze meditatie-oefening bedoelt?
+
+      3. Op wat voor (korte termijn en/of lange termijn) effect hoop je nadat de meditatie is afgerond?
+
+      4. In welke situatie - gemoedstoestand - zou je deze meditatie zelf willen gebruiken?
+
+      5. Wat is de belangrijkste ‘opdracht’ tijdens de meditatie-oefening?
   - type: rich-text
     show: true
     component: rich-text
     text: >-
-      ## Hybride Leslokaal
+      ## Trainingen
 
 
-      Het is mogelijk om online met een les mee te doen als je coronaklachten hebt. StressWise Academy heeft een hybride leslokaal waardoor je vanuit huis volwaardig mee kunt doen met de groep. In ons lokaal hangen grote schermen met luidsprekers waardoor je goed bent te zien en te horen voor je medestudenten. In het lokaal hangen camera’s en microfoons, zodat jij thuis goed kan zien en horen wat er gebeurt. Door professionele software kun je ook volwaardig deelnemen als de groep wordt opgedeeld in kleinere groepjes om te oefenen. Deze innovaties zijn natuurlijk geweldig in tijden van corona, maar ook als je niet aanwezig kunt zijn door ziekte of vakantie is het een uitkomst. Zo hoef je nooit meer een les te missen. Lees hieronder verder om snel een indruk te krijgen van onze cursussen of krijg antwoord op je vragen via onderstaande opties.
+      Volg een van mijn trainingen bij de StressWise Academy. Je kan gebruik maken van het STAP-budget.
   - type: preview
     component: preview
-    title: Training - Slimmer Werken
+    title: Slimmer Werken
     description: Vergroot je mentale vermogen en je werkprestaties. Tijdens deze
       training werk je aan een concrete en duurzame manier van werken, waardoor
       je efficiënter leert werken én ervaren zult, dat ook je tevredenheid over
@@ -72,7 +92,7 @@ sections:
     image: /assets/images/man-tablet-computer.jpg
   - type: preview
     component: preview
-    title: Training - Burn-out Preventie
+    title: Burn-out Preventie
     description: Je voelt je vaak gestrest en ervaart een constante druk. Bij kleine
       tegenslagen word je al nerveus. Het lukt je dan niet om te ontspannen. De
       stress lijkt zich op te slaan in je lichaam, wat bijvoorbeeld resulteert
