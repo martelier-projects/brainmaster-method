@@ -65,14 +65,6 @@ sections:
       4. In welke situatie - gemoedstoestand - zou je deze meditatie zelf willen gebruiken?
 
       5. Wat is de belangrijkste ‘opdracht’ tijdens de meditatie-oefening?
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: >-
-      ## Trainingen
-
-
-      Volg een van mijn trainingen bij de StressWise Academy. Je kan gebruik maken van het STAP-budget.
   - type: preview
     component: preview
     title: Slimmer Werken
