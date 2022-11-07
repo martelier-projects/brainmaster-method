@@ -44,7 +44,7 @@ sections:
       Dit boek van Giovanni Dienstamann is een absolute aanrader als je meditatie actief wil inzetten als zorgprofessional. Giovanni is in staat geweest een compact boek te schrijven en je kort kennis te laten maken met allerlei verschillende meditatiestromingen en oefeningen. Dit boek is een perfecte inspiratiebron als je zelf meditatie-oefeningen wil gaan ontwikkelen. 
 
 
-      ```
+      ```ags
 
       <script type="text/javascript">var bol_sitebar_v2={"id":"bol_1667816792540", "baseUrl":"partner.bol.com","productId":"9200000084329858","familyId":"9200000084329858","siteId":"1072144","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"Practical%20Meditation%2C%20Giovanni%20Dienstmann","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1667816792540"></script>
 
