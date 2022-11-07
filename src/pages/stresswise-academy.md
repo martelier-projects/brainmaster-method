@@ -44,24 +44,10 @@ sections:
       Dit boek van Giovanni Dienstamann is een absolute aanrader als je meditatie actief wil inzetten als zorgprofessional. Giovanni is in staat geweest een compact boek te schrijven en je kort kennis te laten maken met allerlei verschillende meditatiestromingen en oefeningen. Dit boek is een perfecte inspiratiebron als je zelf meditatie-oefeningen wil gaan ontwikkelen. 
 
 
-      ```ags
-
-      <script type="text/javascript">var bol_sitebar_v2={"id":"bol_1667816792540", "baseUrl":"partner.bol.com","productId":"9200000084329858","familyId":"9200000084329858","siteId":"1072144","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"Practical%20Meditation%2C%20Giovanni%20Dienstmann","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1667816792540"></script>
-
-      ```
-
-
       #### [Altered Traits](https://partner.bol.com/click/click?p=2&t=url&s=1072144&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Ff%2Faltered-traits%2F9200000074437562%2F&name=Altered%20Traits)
 
 
-      Dit boek van Daniel Goleman (journalist) en Richard Davidson (neurowetenschapper) is het boek als je jezelf wil verdiepen in de wetenschappelijke onderbouwde werking van meditatie. Ook al hebben Daniel en Richard een prachtig toegankelijk boek geschreven, het blijft een samenvatting van 20 jaar wetenschappelijk onderzoek naar meditatie. 
-
-
-      ```ags
-
-      <script type="text/javascript">var bol_sitebar_v2={"id":"bol_1667816911057", "baseUrl":"partner.bol.com","productId":"9200000074437562","familyId":"9200000074437562","siteId":"1072144","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"Altered%20Traits","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1667816911057"></script>
-
-      ```
+      Dit boek van Daniel Goleman (journalist) en Richard Davidson (neurowetenschapper) is het boek als je jezelf wil verdiepen in de wetenschappelijke onderbouwde werking van meditatie. Ook al hebben Daniel en Richard een prachtig toegankelijk boek geschreven, het blijft een samenvatting van 20 jaar wetenschappelijk onderzoek naar meditatie.
   - type: rich-text
     show: true
     component: rich-text
