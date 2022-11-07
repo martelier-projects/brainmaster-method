@@ -104,15 +104,6 @@ sections:
     linkLabel: Meer info
     url: https://stresswiseacademy.nl/training/meditatie-voor-zorgprofessionals/
     image: /assets/images/vrouw-mediteren-zon.jpg
-  - type: embed
-    show: true
-    component: embed
-    embed: <script type="text/javascript">var
-      bol_sitebar_v2={"id":"bol_1667816792540",
-      "baseUrl":"partner.bol.com","productId":"9200000084329858","familyId":"9200000084329858","siteId":"1072144","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"Practical%20Meditation%2C%20Giovanni%20Dienstmann","linkSubId":""};</script><script
-      type="text/javascript"
-      src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js"
-      id="bol_1667816792540"></script>
 seo:
   title: StressWise Academy
   description: StressWise Academy
