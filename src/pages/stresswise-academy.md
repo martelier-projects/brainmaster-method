@@ -19,10 +19,49 @@ sections:
   - type: rich-text
     show: true
     component: rich-text
-    text: |-
+    text: >-
       ## ACT Therapeut
 
-      Binnen de tweejarige opleiding geef ik
+
+      Binnen de tweejarige opleiding geef ik één lesdag om onszelf onder te dompelen in de wereld van de meditatie. Meditatie en Mindfulness heeft een prominente positie in ACT en andere therapieën. Tijdens de lesdag zullen we actief oefenen met verschillende meditatievormen en bekijken we de huidige wetenschappelijke kennis van meditatie en mindfulness. 
+
+
+      ### Ter voorbereiding
+
+
+      Ter voorbereiding wil ik je adviseren om zo veel mogelijk zelf te mediteren. Hoe meer meditatie-ervaring je hebt, hoe meer je uit deze lesdag zal halen. Weet je niet goed waar je moet beginnen, begin dan met het gebruik van een meditatieapp. Inmiddels stikt het van de meditatieapps, zoals Headspace en Calm. Ikzelf vind de nieuwere app, [Petit Bambou](https://www.petitbambou.com/nl), een erg prettige Nederlandstalige app om mee te beginnen. 
+
+
+      ### Achtergrond informatie
+
+
+      Er zijn veel verschillende boeken geschreven over meditatie. Helaas zitten er ook veel boeken tussen die de plank misslaan of zelfs incorrecte informatie verspreiden. Veel populaire meditatieboeken overdrijven de werking van meditatie en citeren onderzoeksresultaten die niet gereproduceerd kunnen worden. Er zijn twee boeken waar ik jullie op wil wijzen. 
+
+
+      #### Practical Meditation
+
+
+      Dit boek van Giovanni Dienstamann is een absolute aanrader als je meditatie actief wil inzetten als zorgprofessional. Giovanni is in staat geweest een compact boek te schrijven en je kort kennis te laten maken met allerlei verschillende meditatiestromingen en oefeningen. Dit boek is een perfecte inspiratiebron als je zelf meditatie-oefeningen wil gaan ontwikkelen. 
+
+
+      ```
+
+      <script type="text/javascript">var bol_sitebar_v2={"id":"bol_1667816792540", "baseUrl":"partner.bol.com","productId":"9200000084329858","familyId":"9200000084329858","siteId":"1072144","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"Practical%20Meditation%2C%20Giovanni%20Dienstmann","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1667816792540"></script>
+
+      ```
+
+
+      #### Altered Traits
+
+
+      Dit boek van Daniel Goleman (journalist) en Richard Davidson (neurowetenschapper) is het boek als je jezelf wil verdiepen in de wetenschappelijke onderbouwde werking van meditatie. Ook al hebben Daniel en Richard een prachtig toegankelijk boek geschreven, het blijft een samenvatting van 20 jaar wetenschappelijk onderzoek naar meditatie. 
+
+
+      ```
+
+      <script type="text/javascript">var bol_sitebar_v2={"id":"bol_1667816911057", "baseUrl":"partner.bol.com","productId":"9200000074437562","familyId":"9200000074437562","siteId":"1072144","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"Altered%20Traits","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1667816911057"></script>
+
+      ```
   - type: rich-text
     show: true
     component: rich-text
