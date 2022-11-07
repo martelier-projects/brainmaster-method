@@ -16,6 +16,14 @@ sections:
 
 
       Sinds 2020 werk ik met veel plezier samen met de StressWise Academy. Ik geef regelmatig lessen binnen de tweejarige ACT-therapeutenopleiding over de werking van het menselijk brein tijdens meditatie-oefeningen en andere interventies. Daarnaast bied ik recent verschillende drie-daagse trainingen aan, namelijk Slimmer Werken, Burn-out Preventie én Meditatie voor zorgprofessionals.
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Hybride Leslokaal
+
+
+      Het is mogelijk om online met een les mee te doen als je coronaklachten hebt. StressWise Academy heeft een hybride leslokaal waardoor je vanuit huis volwaardig mee kunt doen met de groep. In ons lokaal hangen grote schermen met luidsprekers waardoor je goed bent te zien en te horen voor je medestudenten. In het lokaal hangen camera’s en microfoons, zodat jij thuis goed kan zien en horen wat er gebeurt. Door professionele software kun je ook volwaardig deelnemen als de groep wordt opgedeeld in kleinere groepjes om te oefenen. Deze innovaties zijn natuurlijk geweldig in tijden van corona, maar ook als je niet aanwezig kunt zijn door ziekte of vakantie is het een uitkomst. Zo hoef je nooit meer een les te missen. Lees hieronder verder om snel een indruk te krijgen van onze cursussen of krijg antwoord op je vragen via onderstaande opties.
   - type: preview
     component: preview
     title: Training - Slimmer Werken
