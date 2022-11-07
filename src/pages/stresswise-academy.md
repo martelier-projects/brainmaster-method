@@ -38,7 +38,7 @@ sections:
       Er zijn veel verschillende boeken geschreven over meditatie. Helaas zitten er ook veel boeken tussen die de plank misslaan of zelfs incorrecte informatie verspreiden. Veel populaire meditatieboeken overdrijven de werking van meditatie en citeren onderzoeksresultaten die niet gereproduceerd kunnen worden. Er zijn twee boeken waar ik jullie op wil wijzen. 
 
 
-      #### Practical Meditation
+      #### [Practical Meditation](https://partner.bol.com/click/click?p=2&t=url&s=1072144&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Ff%2Fpractical-meditation%2F9200000084329858%2F&name=Practical%20Meditation%2C%20Giovanni%20Dienstmann)
 
 
       Dit boek van Giovanni Dienstamann is een absolute aanrader als je meditatie actief wil inzetten als zorgprofessional. Giovanni is in staat geweest een compact boek te schrijven en je kort kennis te laten maken met allerlei verschillende meditatiestromingen en oefeningen. Dit boek is een perfecte inspiratiebron als je zelf meditatie-oefeningen wil gaan ontwikkelen. 
@@ -51,7 +51,7 @@ sections:
       ```
 
 
-      #### Altered Traits
+      #### [Altered Traits](https://partner.bol.com/click/click?p=2&t=url&s=1072144&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Ff%2Faltered-traits%2F9200000074437562%2F&name=Altered%20Traits)
 
 
       Dit boek van Daniel Goleman (journalist) en Richard Davidson (neurowetenschapper) is het boek als je jezelf wil verdiepen in de wetenschappelijke onderbouwde werking van meditatie. Ook al hebben Daniel en Richard een prachtig toegankelijk boek geschreven, het blijft een samenvatting van 20 jaar wetenschappelijk onderzoek naar meditatie. 
