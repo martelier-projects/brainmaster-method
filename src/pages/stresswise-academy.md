@@ -57,7 +57,7 @@ sections:
       Dit boek van Daniel Goleman (journalist) en Richard Davidson (neurowetenschapper) is het boek als je jezelf wil verdiepen in de wetenschappelijke onderbouwde werking van meditatie. Ook al hebben Daniel en Richard een prachtig toegankelijk boek geschreven, het blijft een samenvatting van 20 jaar wetenschappelijk onderzoek naar meditatie. 
 
 
-      ```
+      ```ags
 
       <script type="text/javascript">var bol_sitebar_v2={"id":"bol_1667816911057", "baseUrl":"partner.bol.com","productId":"9200000074437562","familyId":"9200000074437562","siteId":"1072144","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"Altered%20Traits","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1667816911057"></script>
 
