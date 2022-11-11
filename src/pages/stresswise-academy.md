@@ -118,9 +118,10 @@ sections:
     component: text-media
     imgSrc: /assets/images/foto-website-coachingspagina.jpg
     sections:
-      - text: "Vanuit mijn eigen praktijk ben ik actief al coach en trainer én hou ik
-          mij bezig met drie thema's: 1. Beter Slapen; 2. Voel je weerbaar; 3.
-          Slimmer Werken. "
+      - text: "Vanuit mijn eigen praktijk ben ik actief als coach en trainer. Ik richt
+          mij op drie thema's: 1. Beter Slapen; 2. Voel je weerbaar; 3. Slimmer
+          Werken. Het doel is simpel: je gezonder, energieker en gelukkiger gaan
+          voelen. "
         title: Coach & Trainer
       - title: Meditatie
         text: "Voor de ontwikkeling van mijn eigen methode heb ik onderzoek gedaan in de
