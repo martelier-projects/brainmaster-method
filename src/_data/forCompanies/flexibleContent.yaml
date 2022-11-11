@@ -8,10 +8,10 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Inspiratiesessie
+      ## Workshops
 
 
-      Voel je vitaler na een inspiratiesessie! Ik deel graag mijn kennis en ervaring als vitaliteitscoach met jouw team, partners of klanten! Maak vrijblijvend kennis met mijn methode door één van mijn drie inspiratiesessies.
+      Voel je vitaler na een inspirerende workshop, na een inspiratiesessie! Ik deel graag mijn kennis en ervaring als met jouw team! Maak vrijblijvend kennis met mijn methode door één van mijn drie inspiratiesessies.
   - type: buttons
     component: buttons
     buttons:
