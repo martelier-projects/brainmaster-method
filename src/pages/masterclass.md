@@ -12,14 +12,6 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Coming soon
-
-
-      Nieuwe masterclasses voor de periode januari 2023 t/m juli 2023 worden snel gepubliceerd.
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: >-
       ## WeShareTalent
 
 
@@ -27,6 +19,14 @@ sections:
 
 
       Sommige masterclasses zijn fysiek én andere digitaal. De meeste zijn toegankelijk voor internationale deelnemers, dus zal de voertaal Engels zijn.
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Coming soon
+
+
+      Nieuwe masterclasses voor de periode januari 2023 t/m juli 2023 worden snel gepubliceerd.
   - type: preview
     component: preview
     description: Meditation is for everyone! In fact, meditation is very scientific!
