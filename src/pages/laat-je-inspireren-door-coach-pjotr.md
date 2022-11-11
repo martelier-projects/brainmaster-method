@@ -1,6 +1,6 @@
 ---
 indexPage: true
-title: Vrijblijvende Inspiratiesessies
+title: Inspiratiesessies & Workshops
 permalink: /inspiratiesessie/
 layout: layouts/default-template.njk
 header:
@@ -15,7 +15,7 @@ sections:
       ## Voel je vitaal
 
 
-      Voel je vitaler na een inspiratiesessie! Ik deel graag mijn kennis en ervaring als vitaliteitscoach met jouw team, partners of klanten! Maak vrijblijvend kennis met mijn methode door één van mijn drie inspiratiesessies.
+      Voel je vitaler na een inspiratiesessie! Ik deel graag mijn kennis en ervaring als vitaliteitscoach met jouw team, partners of klanten! Maak kennis met mijn methode door één van mijn drie inspiratiesessies.
   - type: preview
     component: preview
     title: Slaap beter & dieper
@@ -55,14 +55,14 @@ sections:
     component: text-media
     title: Inspiratiesessie
     sections:
-      - text: Een inspiratiesessie is kosteloos en vrijblijvend. Dit is een leuke manier
-          om met een kleine groep collega's, partners of klanten kennis te maken
-          met mijn methode. Jullie gaat naar huis met concrete tips en adviezen!
+      - text: Met een inspiratiesessie maak je op een leuke manier kennis met mijn
+          methode. Geschikt voor zowel kleine als grote groepen. Jullie gaat
+          naar huis met concrete tips en adviezen!
         title: Wat is een inspiratiesessie?
       - title: Hoe ziet de sessie eruit?
-        text: "Een inspiratiesessie duurt een uurtje én kan zowel digitaal als fysiek
-          plaatsvinden. Ik ben bereid om bij jullie op kantoor langs te komen
-          als jullie een prettige ruimte ter beschikking kunnen stellen. "
+        text: "Een inspiratiesessie duurt een tot twee uur én kan zowel digitaal als
+          fysiek plaatsvinden. Ik ben bereid om bij jullie op kantoor langs te
+          komen als jullie een prettige ruimte ter beschikking kunnen stellen. "
       - title: Tijd voor vragen?
         text: Het laatste gedeelte van de inspiratiesessie zal in het teken staan van
           vraag en antwoord. We zullen inzoomen op de onderwerpen en problemen
@@ -76,15 +76,16 @@ sections:
     imgSrc: /assets/images/hand-laptop-pen.jpg
     title: Praktische zaken
     sections:
-      - text: "Hoeveel deelnemers deelnemen aan deze sessie is helemaal aan jullie, maar
-          mijn advies is ongeveer 15 deelnemers. Hierdoor kan ik uitgebreid
-          antwoord geven op de vragen van alle deelnemers. "
+      - text: "Hoeveel deelnemers deelnemen aan deze sessie is helemaal aan jullie. Wil
+          je een interactieve sessie, dan is mijn advies is ongeveer 12
+          deelnemers. Hierdoor kan ik uitgebreid antwoord geven op de vragen van
+          alle deelnemers. Echter, dit soort sessies zijn ook geschikt voor
+          grotere groepen. "
         title: Hoeveel deelnemers?
       - title: Wat moet jij doen?
         text: "Plan om te beginnen een kennismakingsgesprek met mij én dan bespreken we
           de mogelijkheden. Vervolgens promoot jij de inspiratiesessie bij je
-          collega's, partners of klanten én deel jij de link naar de
-          aanmeldpagina. "
+          collega's, partners of klanten. "
       - text: "Nadat wij een sessie hebben ingepland, krijg je een bevestigingsmail.
           Hierin wordt alles uitgelegd. In het kort: ik kan of via Eventbrite
           een eventpagina aanmaken of een promotekst aanleveren. "
