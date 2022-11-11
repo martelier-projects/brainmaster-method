@@ -17,6 +17,15 @@ sections:
     buttons:
       - label: Inspiratiesessie
         link: /inspiratiesessie/
+  - type: preview
+    component: preview
+    title: Kennismaking
+    description: Plan gerust een belafspraak in om kennis te maken. Pjotr denkt
+      graag mee hoe hij met zijn vaardigheden en kennis jullie organisatie
+      vitaler kan maken. Hopelijk tot snel!
+    linkLabel: Plan een kennismaking
+    image: /assets/images/hand-telefoon-plannen-zon.jpg
+    url: https://www.calendly.com/pjotr-peulen/bellen
   - type: rich-text
     show: true
     component: rich-text
@@ -87,15 +96,6 @@ sections:
 
 
       In een aantal interactieve sessies kan ik met het MT spreken over verschillende keuzes op het gebied van mentaal welzijn en vitaliteit. Verschillende onderwerpen kunnen besproken worden, zoals thuiswerken, werktijden, kantoortuin, digitale technologie, sfeer op de werkvloer, feedback geven, ruimte voor fouten maken, én bedrijfscultuur. Vervolgens kan er een protocol opgesteld worden, die d.m.v. een training geïmplementeerd kan worden. Zo kunnen we samen als organisatie groeien.
-  - type: preview
-    component: preview
-    title: Kennismaking
-    description: Plan gerust een belafspraak in om kennis te maken. Pjotr denkt
-      graag mee hoe hij met zijn vaardigheden en kennis jullie organisatie
-      vitaler kan maken. Hopelijk tot snel!
-    linkLabel: Plan een kennismaking
-    image: /assets/images/hand-telefoon-plannen-zon.jpg
-    url: https://www.calendly.com/pjotr-peulen/bellen
   - type: preview
     component: preview
     description: Met vitaliteitscoaching investeer je niet alleen in een gezond,
