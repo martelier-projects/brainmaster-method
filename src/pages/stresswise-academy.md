@@ -38,25 +38,25 @@ sections:
       #### [Practical Meditation](https://partner.bol.com/click/click?p=2&t=url&s=1072144&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Ff%2Fpractical-meditation%2F9200000084329858%2F&name=Practical%20Meditation%2C%20Giovanni%20Dienstmann)
 
 
-      Pratical Meditation van Giovanni Dienstamann is een absolute aanrader, zeer geschikt voor zorgprofessionals. Giovanni is in staat geweest een compact boek te schrijven, waardoor je  op een overzichtelijke wijze -   kennis maakt met verschillende meditatiestromingen en oefeningen. Dit boek kan perfect als inspiratiebron dienen voor jouw meditatie-oefeningen.
+      *Pratical Meditation* van Giovanni Dienstamann is een absolute aanrader, zeer geschikt voor zorgprofessionals. Giovanni is in staat geweest een compact boek te schrijven, waardoor je  op een overzichtelijke wijze -   kennis maakt met verschillende meditatiestromingen en oefeningen. Dit boek kan perfect als inspiratiebron dienen voor jouw meditatie-oefeningen.
 
 
       #### [Altered Traits](https://partner.bol.com/click/click?p=2&t=url&s=1072144&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Ff%2Faltered-traits%2F9200000074437562%2F&name=Altered%20Traits)
 
 
-      Altered Traits van Daniel Goleman (journalist) en Richard Davidson (neurowetenschapper) is dé bron om je jezelf te verdiepen in de wetenschappelijke onderbouwde werking van meditatie. Met die kanttekening dat hoe toegankelijk dan ook, het blijft een samenvatting van 20 jaar wetenschappelijk onderzoek naar meditatie.
+      *Altered Traits* van Daniel Goleman (journalist) en Richard Davidson (neurowetenschapper) is dé bron om je jezelf te verdiepen in de wetenschappelijke onderbouwde werking van meditatie. Met die kanttekening dat hoe toegankelijk dan ook, het blijft een samenvatting van 20 jaar wetenschappelijk onderzoek naar meditatie.
 
 
       #### [Voordelen van meditatie](https://www.scientificamerican.com/article/neuroscience-reveals-the-secrets-of-meditation-s-benefits/)
 
 
-      Richard Davidson schreef in 2014 een artikel in de Scientific American over de voordelen van meditatie. Lees dit populaire wetenschappelijke artikel, ideaal voor als je er niet aan toe komt om het boek Altered Traits te lezen. 
+      Richard Davidson schreef in 2014 een artikel in de Scientific American over de voordelen van meditatie. Lees deze journalisiteke wetenschapspublicatie, ideaal voor als je er niet aan toe komt om het boek *Altered Traits* te lezen. 
 
 
       #### [Neurowetenschappelijk onderzoek](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00776/full)
 
 
-      In het journal Frontiers of Psychology verscheen in 2015 een perspectief artikel dat in slechts 10 pagina's een mooie samenvatting geeft van het neurowetenschappelijk onderzoek gericht op meditatie.
+      In het *journal Frontiers of Psychology* verscheen in 2015 een *perspective article* dat in slechts 10 pagina's een mooie samenvatting geeft van het neurowetenschappelijk onderzoek gericht op meditatie.
 
 
       #### [Video van Yewande Pearse ](https://www.youtube.com/watch?v=rZN6DcV5chA)
