@@ -20,6 +20,9 @@ sections:
       Burn-out Preventie én Meditatie voor zorgprofessionals.
 
 
+      ![](/assets/images/foto-website-coachingspagina.jpg)
+
+
       ## ACT Therapeut
 
 
