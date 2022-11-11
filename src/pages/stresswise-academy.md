@@ -123,11 +123,17 @@ sections:
           Werken. Het doel is simpel: je gezonder, energieker en gelukkiger gaan
           voelen. "
         title: Coach & Trainer
+      - title: "E-health "
+        text: "E-health is bezig met een opmars én ik geloof dat het van toegevoegde
+          waarde kan zijn voor zorgprofessionals. Binnen mijn eigen trajecten
+          werk ik al met een E-health component. Momenteel wordt mijn methode
+          omgezet in een E-health programma waar verschillende coaches en
+          therapeuten gebruik van kunnen maken in hun eigen praktijk. "
       - title: Meditatie
         text: "Voor de ontwikkeling van mijn eigen methode heb ik onderzoek gedaan in de
           neurowetenschappen én ben ik mij gaan verdiepen in meditatie. Dit
           wetenschappelijk perspectief was verfrissend én opende mijn ogen.
-          Sinds dien geef ik veel trainingen én lezingen op dit gebied. "
+          Sindsdien geef ik trainingen én lezingen op dit gebied. "
     imgAlt: /
     title: "Wie ben ik? "
 seo:
