@@ -47,6 +47,18 @@ sections:
       Altered Traits van Daniel Goleman (journalist) en Richard Davidson (neurowetenschapper) is dé bron om je jezelf te verdiepen in de wetenschappelijke onderbouwde werking van meditatie. Met die kanttekening dat hoe toegankelijk dan ook, het blijft een samenvatting van 20 jaar wetenschappelijk onderzoek naar meditatie.
 
 
+      #### [Voordelen van meditatie](https://www.scientificamerican.com/article/neuroscience-reveals-the-secrets-of-meditation-s-benefits/)
+
+
+      Richard Davidson schreef in 2014 een artikel in de Scientific American over de voordelen van meditatie. Lees dit populaire wetenschappelijke artikel, ideaal voor als je er niet aan toe komt om het boek Altered Traits te lezen. 
+
+
+      #### [Neurowetenschappelijk onderzoek](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00776/full)
+
+
+      In het journal Frontiers of Psychology verscheen in 2015 een perspectief artikel dat in slechts 10 pagina's een mooie samenvatting geeft van het neurowetenschappelijk onderzoek gericht op meditatie.
+
+
       ### Huiswerkopdracht
 
 
