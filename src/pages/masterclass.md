@@ -12,6 +12,14 @@ sections:
     show: true
     component: rich-text
     text: >-
+      ## Coming soon
+
+
+      Nieuwe masterclasses voor de periode januari 2023 t/m juli 2023 worden snel gepubliceerd.
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
       ## WeShareTalent
 
 
