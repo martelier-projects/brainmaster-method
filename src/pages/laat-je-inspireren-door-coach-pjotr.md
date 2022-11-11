@@ -1,6 +1,6 @@
 ---
 indexPage: true
-title: Inspiratiesessies & Workshops
+title: Inspiratiesessies
 permalink: /inspiratiesessie/
 layout: layouts/default-template.njk
 header:
@@ -106,6 +106,6 @@ sections:
     buttonType: kennismaking
     component: calandy-button
 seo:
-  title: Vrijblijvende Inspiratiesessie
-  description: Vrijblijvende Inspiratiesessie
+  title: Inspiratiesessies
+  description: Inspiratiesessies
 ---
