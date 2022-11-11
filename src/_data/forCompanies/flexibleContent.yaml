@@ -1,12 +1,17 @@
 sections:
   - type: rich-text
-    show: false
+    show: true
     component: rich-text
     text: >-
-      ## Investeer in je team
+      ## Masterclass
 
 
-      Met vitaliteitscoaching investeer je niet alleen in een gezond, gelukkig en energiek team, maar werk je ook aan de productiviteit in jouw bedrijf.
+      Ik deel graag mijn kennis en ervaring als vitaliteitscoach met jou. Hopelijk helpt het jou om je energieker, gezonder en gelukkiger in gaan voelen. In samenwerking met WeShareTalent geef ik een aantal gratis masterclasses.
+  - type: buttons
+    component: buttons
+    buttons:
+      - label: Aanmelden Masterclass
+        link: /masterclass/
   - type: rich-text
     show: true
     component: rich-text
@@ -24,19 +29,6 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Masterclass
-
-
-      Ik deel graag mijn kennis en ervaring als vitaliteitscoach met jou. Hopelijk helpt het jou om je energieker, gezonder en gelukkiger in gaan voelen. In samenwerking met WeShareTalent geef ik een aantal gratis masterclasses.
-  - type: buttons
-    component: buttons
-    buttons:
-      - label: Aanmelden Masterclass
-        link: /masterclass/
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: >-
       ## Trainingen
 
 
@@ -45,7 +37,7 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Samen groeien
+      ## MT-sessies
 
 
       In een aantal interactieve sessies kan ik met het MT spreken over verschillende keuzes op het gebied van mentaal welzijn en vitaliteit. Verschillende onderwerpen kunnen besproken worden, zoals thuiswerken, werktijden, kantoortuin, digitale technologie, sfeer op de werkvloer, feedback geven, ruimte voor fouten maken, én bedrijfscultuur. Vervolgens kan er een protocol opgesteld worden, die d.m.v. een training geïmplementeerd kan worden. Zo kunnen we samen als organisatie groeien.
@@ -58,3 +50,12 @@ sections:
     linkLabel: Plan een kennismaking
     image: /assets/images/hand-telefoon-plannen-zon.jpg
     url: https://www.calendly.com/pjotr-peulen/bellen
+  - type: preview
+    component: preview
+    description: Met vitaliteitscoaching investeer je niet alleen in een gezond,
+      gelukkig en energiek team, maar werk je ook aan de productiviteit in jouw
+      bedrijf. Weten wat het kan betekenen? Lees meer over vitaliteitscoaching.
+    title: Coaching
+    linkLabel: Ik wil meer weten!
+    url: /coaching/
+    image: /assets/images/mock.jpg
