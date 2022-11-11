@@ -115,6 +115,23 @@ sections:
     linkLabel: Meer info
     url: https://stresswiseacademy.nl/training/meditatie-voor-zorgprofessionals/
     image: /assets/images/vrouw-mediteren-zon.jpg
+  - type: text-media
+    show: true
+    order: image-text
+    component: text-media
+    imgSrc: /assets/images/foto-website-coachingspagina.jpg
+    sections:
+      - text: "Vanuit mijn eigen praktijk ben ik actief al coach en trainer én hou ik
+          mij bezig met drie thema's: 1. Beter Slapen; 2. Voel je weerbaar; 3.
+          Slimmer Werken. "
+        title: Coach & Trainer
+      - title: Meditatie
+        text: "Voor de ontwikkeling van mijn eigen methode heb ik onderzoek gedaan in de
+          neurowetenschappen én ben ik mij gaan verdiepen in meditatie. Dit
+          wetenschappelijk perspectief was verfrissend én opende mijn ogen.
+          Sinds dien geef ik veel trainingen én lezingen op dit gebied. "
+    imgAlt: /
+    title: "Wie ben ik? "
 seo:
   title: StressWise Academy
   description: StressWise Academy
