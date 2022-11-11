@@ -1,6 +1,6 @@
 ---
 indexPage: true
-title: Inspiratiesessies
+title: Inspiratiesessie
 permalink: /inspiratiesessie/
 layout: layouts/default-template.njk
 header:
