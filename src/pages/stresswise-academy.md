@@ -14,7 +14,7 @@ sections:
     text: >-
       Sinds 2020 werk ik met veel plezier samen met de StressWise Academy. Ik
       geef regelmatig lessen binnen de tweejarige ACT-therapeutenopleiding als
-      gastdocent over de werking van het menselijk brein tijdens
+      gastdocent over de werking van het menselijk brein, tijdens
       meditatie-oefeningen en andere interventies. Daarnaast bied ik recent
       verschillende drie-daagse trainingen aan, namelijk Slimmer Werken,
       Burn-out Preventie én Meditatie voor zorgprofessionals.
@@ -23,48 +23,47 @@ sections:
       ## ACT Therapeut
 
 
-      Binnen de tweejarige opleiding geef ik één lesdag om onszelf onder te dompelen in de wereld van de meditatie. Meditatie en Mindfulness heeft een prominente positie in ACT en andere therapieën. Tijdens de lesdag zullen we actief oefenen met verschillende meditatievormen en bekijken we de huidige wetenschappelijke kennis van meditatie en mindfulness. 
+      Binnen de tweejarige opleiding geef ik één lesdag, waarin we onszelf onder dompelen in de wereld van de meditatie. Meditatie en Mindfulness heeft een prominente positie binnen ACT. Tijdens die lesdag zullen we dan ook actief oefenen met verschillende meditatievormen n bekijken we wat de huidige wetenschappelijke kennis ons te bieden heeft over meditatie en mindfulness. 
 
 
-      Ter voorbereiding wil ik je adviseren om zo veel mogelijk zelf te mediteren. Hoe meer meditatie-ervaring je hebt, hoe meer je uit deze lesdag zal halen. Weet je niet goed waar je moet beginnen, begin dan met het gebruik van een meditatieapp. Inmiddels stikt het van de meditatieapps, zoals Headspace en Calm. Ikzelf vind de nieuwere app, [Petit Bambou](https://www.petitbambou.com/nl), een erg prettige Nederlandstalige app om mee te beginnen. 
+      Ter voorbereiding wil ik je adviseren om alvast zelf te starten met mediteren. Hoe meer meditatie-ervaring je hebt, hoe meer deze dag je zal opleveren. Weet je niet goed waar je moet beginnen, begin dan met het gebruik van een meditatieapp. Inmiddels stikt het van de meditatieapps, zoals Headspace en Calm. Ik vind zelf de nieuwere app, [Petit Bambou](https://www.petitbambou.com/nl), een erg prettige Nederlandstalige app om mee te starten. 
 
 
       ### Achtergrond informatie
 
 
-      Er zijn veel verschillende boeken geschreven over meditatie. Helaas zitten er ook veel boeken tussen die de plank misslaan of zelfs incorrecte informatie verspreiden. Veel populaire meditatieboeken overdrijven de werking van meditatie en citeren onderzoeksresultaten die niet gereproduceerd kunnen worden. Er zijn twee boeken waar ik jullie op wil wijzen. 
+      Er zijn tal van boeken geschreven over meditatie. Helaas zitten er ook veel boeken tussen, die zich baseren op onvoldoende of zelfs incorrecte informatie. Veel populaire meditatieboeken overdrijven bijvoorbeeld de werking van meditatie of citeren slecht uitgevoerde onderzoeken. Echter, er zijn twee boeken, die ik kan aanraden. 
 
 
       #### [Practical Meditation](https://partner.bol.com/click/click?p=2&t=url&s=1072144&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Ff%2Fpractical-meditation%2F9200000084329858%2F&name=Practical%20Meditation%2C%20Giovanni%20Dienstmann)
 
 
-      Dit boek van Giovanni Dienstamann is een absolute aanrader als je meditatie actief wil inzetten als zorgprofessional. Giovanni is in staat geweest een compact boek te schrijven en je kort kennis te laten maken met allerlei verschillende meditatiestromingen en oefeningen. Dit boek is een perfecte inspiratiebron als je zelf meditatie-oefeningen wil gaan ontwikkelen. 
+      Pratical Meditation van Giovanni Dienstamann is een absolute aanrader, zeer geschikt voor zorgprofessionals. Giovanni is in staat geweest een compact boek te schrijven, waardoor je  op een overzichtelijke wijze -   kennis maakt met verschillende meditatiestromingen en oefeningen. Dit boek kan perfect als inspiratiebron dienen voor jouw meditatie-oefeningen.
 
 
       #### [Altered Traits](https://partner.bol.com/click/click?p=2&t=url&s=1072144&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Ff%2Faltered-traits%2F9200000074437562%2F&name=Altered%20Traits)
 
 
-      Dit boek van Daniel Goleman (journalist) en Richard Davidson (neurowetenschapper) is het boek als je jezelf wil verdiepen in de wetenschappelijke onderbouwde werking van meditatie. Ook al hebben Daniel en Richard een prachtig toegankelijk boek geschreven, het blijft een samenvatting van 20 jaar wetenschappelijk onderzoek naar meditatie.
+      Altered Traits van Daniel Goleman (journalist) en Richard Davidson (neurowetenschapper) is dé bron om je jezelf te verdiepen in de wetenschappelijke onderbouwde werking van meditatie. Met die kanttekening dat hoe toegankelijk dan ook, het blijft een samenvatting van 20 jaar wetenschappelijk onderzoek naar meditatie.
 
 
       ### Huiswerkopdracht
 
 
-      Schrijf een meditatie-oefening uit op papier van begin tot eind van ongeveer 10-30 minuten. Dit kan een oefening zijn die je kent en bewerkt óf die je zelf bedenkt. Wat voor meditatie-oefening of meditatie-techniek je gebruikt is helemaal aan jou. Zorg er voor dat je begint met een intro waarbij men ontspannen kan beginnen aan de oefening én een outro om langzaam uit de oefening te komen.
+      Schrijf een meditatie-oefening uit op papier, van begin tot eind, van ongeveer 10-30 minuten. Dit kan een oefening zijn, die je kent óf een, die je bewerkt óf een, die je zelf bedenkt. Welke meditatie-oefening of meditatie-techniek je kiest is helemaal aan jou. Zorg ervoor dat je begint met een intro, waarbij je ontspannen kan beginnen met de oefening én een outro om langzaam uit de oefening te komen.
 
-
-      Beantwoord de volgende vragen voordat je begint, zodat je alvast bewust nadenkt over waarom je bepaalde keuzes maakt.
+      Beantwoord de volgende vragen voordat je begint, zodat je alvast bewust nadenkt waarom je bepaalde keuzes maakt.
 
 
       1. Binnen welke ACT-zuil wil je een meditatie-oefening ontwikkelen?
 
-      2. Voor wie is deze meditatie-oefening bedoelt?
+      2. Voor wie is deze meditatie-oefening bedoeld?
 
-      3. Op wat voor (korte termijn en/of lange termijn) effect hoop je nadat de meditatie is afgerond?
+      3. Op wat voor (korte termijn en/of lange termijn) effect hoop je, nadat de meditatie is afgerond?
 
-      4. In welke situatie - gemoedstoestand - zou je deze meditatie zelf willen gebruiken?
+      4. In welke situatie - gemoedstoestand - zou je deze meditatiewillen gebruiken?
 
-      5. Wat is de belangrijkste ‘opdracht’ tijdens de meditatie-oefening?
+      5. Wat is de belangrijkste ‘opdracht’ voor jou, tijdens de meditatie-oefening?
   - type: preview
     component: preview
     title: Slimmer Werken
