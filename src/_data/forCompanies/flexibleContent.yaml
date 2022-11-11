@@ -80,7 +80,7 @@ sections:
     url: https://stresswiseacademy.nl/training/meditatie-voor-zorgprofessionals/
     image: /assets/images/meditatie-voor-zorgprofessionals.jpg
   - type: rich-text
-    show: true
+    show: false
     component: rich-text
     text: >-
       ## MT-sessies
