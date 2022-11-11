@@ -66,25 +66,6 @@ sections:
 
 
       Daniel Goleman, mede auteur van *Altered Traits*, legt in een korte video uit wat voor unieke bevindingen zijn collega Richard Davidson heeft gedaan met zijn onderzoeksteam.
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: >-
-      ## Huiswerkopdracht
-
-
-      Schrijf een meditatie-oefening uit op papier, van begin tot eind, van ongeveer 10-30 minuten. Dit kan een oefening zijn, die je kent óf een, die je bewerkt óf een, die je zelf bedenkt. Welke meditatie-oefening of meditatie-techniek je kiest, is helemaal aan jou. Zorg ervoor dat je begint met een intro, waarbij je ontspannen kan beginnen met de oefening én een outro om langzaam uit de oefening te komen. Beantwoord de volgende vragen voordat je begint, zodat je alvast bewust bedenkt waarom je bepaalde keuzes maakt.
-
-
-      1. Binnen welke ACT-zuil wil je een meditatie-oefening ontwikkelen?
-
-      2. Voor wie is deze meditatie-oefening bedoeld?
-
-      3. Op wat voor (korte termijn en/of lange termijn) effect hoop je, nadat de meditatie is afgerond?
-
-      4. In welke situatie - gemoedstoestand - zou je deze meditatie willen gebruiken?
-
-      5. Wat is de belangrijkste ‘opdracht’ voor jou, tijdens de meditatie-oefening?
   - type: text-media
     show: true
     order: text-image
@@ -111,6 +92,25 @@ sections:
           geef ik trainingen én lezingen op dit gebied. "
     imgAlt: /
     title: Wie ben ik
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Huiswerkopdracht
+
+
+      Schrijf een meditatie-oefening uit op papier, van begin tot eind, van ongeveer 10-30 minuten. Dit kan een oefening zijn, die je kent óf een, die je bewerkt óf een, die je zelf bedenkt. Welke meditatie-oefening of meditatie-techniek je kiest, is helemaal aan jou. Zorg ervoor dat je begint met een intro, waarbij je ontspannen kan beginnen met de oefening én een outro om langzaam uit de oefening te komen. Beantwoord de volgende vragen voordat je begint, zodat je alvast bewust bedenkt waarom je bepaalde keuzes maakt.
+
+
+      1. Binnen welke ACT-zuil wil je een meditatie-oefening ontwikkelen?
+
+      2. Voor wie is deze meditatie-oefening bedoeld?
+
+      3. Op wat voor (korte termijn en/of lange termijn) effect hoop je, nadat de meditatie is afgerond?
+
+      4. In welke situatie - gemoedstoestand - zou je deze meditatie willen gebruiken?
+
+      5. Wat is de belangrijkste ‘opdracht’ voor jou, tijdens de meditatie-oefening?
 seo:
   title: StressWise Academy
   description: Sinds 2020 werk ik met veel plezier samen met de StressWise
