@@ -135,7 +135,7 @@ sections:
           wetenschappelijk perspectief was verfrissend én opende mijn ogen.
           Sindsdien geef ik trainingen én lezingen op dit gebied. "
     imgAlt: /
-    title: "Wie ben ik? "
+    title: Wie ben ik?
 seo:
   title: StressWise Academy
   description: StressWise Academy
