@@ -23,7 +23,7 @@ sections:
       ## ACT Therapeut
 
 
-      Binnen de tweejarige opleiding geef ik één lesdag, waarin we onszelf onder dompelen in de wereld van de meditatie. Meditatie en Mindfulness heeft een prominente positie binnen ACT. Tijdens die lesdag zullen we dan ook actief oefenen met verschillende meditatievormen n bekijken we wat de huidige wetenschappelijke kennis ons te bieden heeft over meditatie en mindfulness. 
+      Binnen de tweejarige opleiding geef ik één lesdag, waarin we onszelf onder dompelen in de wereld van de meditatie. Meditatie en Mindfulness heeft een prominente positie binnen ACT. Tijdens die lesdag zullen we dan ook actief oefenen met verschillende meditatievormen en bekijken we wat de huidige wetenschappelijke kennis ons te bieden heeft over meditatie en mindfulness. 
 
 
       Ter voorbereiding wil ik je adviseren om alvast zelf te starten met mediteren. Hoe meer meditatie-ervaring je hebt, hoe meer deze dag je zal opleveren. Weet je niet goed waar je moet beginnen, begin dan met het gebruik van een meditatieapp. Inmiddels stikt het van de meditatieapps, zoals Headspace en Calm. Ik vind zelf de nieuwere app, [Petit Bambou](https://www.petitbambou.com/nl), een erg prettige Nederlandstalige app om mee te starten. 
@@ -38,7 +38,7 @@ sections:
       #### [Practical Meditation](https://partner.bol.com/click/click?p=2&t=url&s=1072144&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Ff%2Fpractical-meditation%2F9200000084329858%2F&name=Practical%20Meditation%2C%20Giovanni%20Dienstmann)
 
 
-      *Pratical Meditation* van Giovanni Dienstamann is een absolute aanrader, zeer geschikt voor zorgprofessionals. Giovanni is in staat geweest een compact boek te schrijven, waardoor je  op een overzichtelijke wijze -   kennis maakt met verschillende meditatiestromingen en oefeningen. Dit boek kan perfect als inspiratiebron dienen voor jouw meditatie-oefeningen.
+      *Pratical Meditation* van Giovanni Dienstamann is een absolute aanrader, zeer geschikt voor zorgprofessionals. Giovanni is in staat geweest een compact boek te schrijven, waardoor je op een overzichtelijke wijze kennis maakt met verschillende meditatiestromingen en oefeningen. Dit boek kan perfect als inspiratiebron dienen voor jouw meditatie-oefeningen.
 
 
       #### [Altered Traits](https://partner.bol.com/click/click?p=2&t=url&s=1072144&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Ff%2Faltered-traits%2F9200000074437562%2F&name=Altered%20Traits)
@@ -50,13 +50,13 @@ sections:
       #### [Voordelen van meditatie](https://www.scientificamerican.com/article/neuroscience-reveals-the-secrets-of-meditation-s-benefits/)
 
 
-      Richard Davidson schreef in 2014 een artikel in de Scientific American over de voordelen van meditatie. Lees deze journalisiteke wetenschapspublicatie, ideaal voor als je er niet aan toe komt om het boek *Altered Traits* te lezen. 
+      Richard Davidson schreef in 2014 een artikel in de Scientific American over de voordelen van meditatie. Lees deze journalistieke wetenschapspublicatie, ideaal wanneer je er niet aan toe komt om het boek *Altered Traits* te lezen. 
 
 
       #### [Neurowetenschappelijk onderzoek](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00776/full)
 
 
-      In het *journal Frontiers of Psychology* verscheen in 2015 een *perspective article* dat in slechts 10 pagina's een mooie samenvatting geeft van het neurowetenschappelijk onderzoek gericht op meditatie.
+      In het *journal Frontiers of Psychology* verscheen in 2015 een *perspective article* dat in slechts 10 pagina's, een mooie samenvatting geeft van het neurowetenschappelijk onderzoek gericht op meditatie.
 
 
       #### [Video van Yewande Pearse ](https://www.youtube.com/watch?v=rZN6DcV5chA)
@@ -68,15 +68,13 @@ sections:
       #### [Video van Daniel Goleman](https://www.youtube.com/watch?v=10J6crRacZg&list=PLm4qFsAspR3bsGIjxmwQoSxMiIemXj9mq&index=21&t=74s)
 
 
-      Daniel Goleman, mede auteur van *Altered Traits*, legt in een korte video uit wat voor unieke bevinden zijn collega Richard Davidson heeft gedaan met zijn onderzoeksteam. 
+      Daniel Goleman, mede auteur van *Altered Traits*, legt in een korte video uit wat voor unieke bevindingen zijn collega Richard Davidson heeft gedaan met zijn onderzoeksteam. 
 
 
       ### Huiswerkopdracht
 
 
-      Schrijf een meditatie-oefening uit op papier, van begin tot eind, van ongeveer 10-30 minuten. Dit kan een oefening zijn, die je kent óf een, die je bewerkt óf een, die je zelf bedenkt. Welke meditatie-oefening of meditatie-techniek je kiest is helemaal aan jou. Zorg ervoor dat je begint met een intro, waarbij je ontspannen kan beginnen met de oefening én een outro om langzaam uit de oefening te komen.
-
-      Beantwoord de volgende vragen voordat je begint, zodat je alvast bewust nadenkt waarom je bepaalde keuzes maakt.
+      Schrijf een meditatie-oefening uit op papier, van begin tot eind, van ongeveer 10-30 minuten. Dit kan een oefening zijn, die je kent óf een, die je bewerkt óf een, die je zelf bedenkt. Welke meditatie-oefening of meditatie-techniek je kiest, is helemaal aan jou. Zorg ervoor dat je begint met een intro, waarbij je ontspannen kan beginnen met de oefening én een outro om langzaam uit de oefening te komen. Beantwoord de volgende vragen voordat je begint, zodat je alvast bewust bedenkt waarom je bepaalde keuzes maakt.
 
 
       1. Binnen welke ACT-zuil wil je een meditatie-oefening ontwikkelen?
@@ -85,7 +83,7 @@ sections:
 
       3. Op wat voor (korte termijn en/of lange termijn) effect hoop je, nadat de meditatie is afgerond?
 
-      4. In welke situatie - gemoedstoestand - zou je deze meditatiewillen gebruiken?
+      4. In welke situatie - gemoedstoestand - zou je deze meditatie willen gebruiken?
 
       5. Wat is de belangrijkste ‘opdracht’ voor jou, tijdens de meditatie-oefening?
   - type: preview
