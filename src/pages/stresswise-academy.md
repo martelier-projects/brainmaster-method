@@ -114,7 +114,7 @@ sections:
     image: /assets/images/vrouw-mediteren-zon.jpg
   - type: text-media
     show: true
-    order: image-text
+    order: text-image
     component: text-media
     imgSrc: /assets/images/foto-website-coachingspagina.jpg
     sections:
