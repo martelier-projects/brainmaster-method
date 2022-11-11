@@ -62,13 +62,13 @@ sections:
       #### [Video van Yewande Pearse ](https://www.youtube.com/watch?v=rZN6DcV5chA)
 
 
-      Neurowetenschapper Yewande Pearse legt in een korte video uit wat voor effecten meditatie kunnen hebben op je hersenen. 
+      Neurowetenschapper Yewande Pearse legt in een korte video uit wat voor effecten meditatie kan hebben op je hersenen. 
 
 
       #### [Video van Daniel Goleman](https://www.youtube.com/watch?v=10J6crRacZg&list=PLm4qFsAspR3bsGIjxmwQoSxMiIemXj9mq&index=21&t=74s)
 
 
-      Daniel Goleman, mede auteur van Altered Traits, legt in een korte video uit wat voor unieke bevinden zijn collega Richard Davidson heeft gedaan met zijn onderzoeksteam. 
+      Daniel Goleman, mede auteur van *Altered Traits*, legt in een korte video uit wat voor unieke bevinden zijn collega Richard Davidson heeft gedaan met zijn onderzoeksteam. 
 
 
       ### Huiswerkopdracht
