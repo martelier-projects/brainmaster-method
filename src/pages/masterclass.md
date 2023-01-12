@@ -19,74 +19,96 @@ sections:
 
 
       Sommige masterclasses zijn fysiek én andere digitaal. De meeste zijn toegankelijk voor internationale deelnemers, dus zal de voertaal Engels zijn.
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: >-
-      ## Coming soon
-
-
-      Nieuwe masterclasses voor de periode januari 2023 t/m juli 2023 worden snel gepubliceerd.
   - type: preview
     component: preview
-    description: Meditation is for everyone! In fact, meditation is very scientific!
-      So what happens in your brain during meditation? During the session,
-      participants’ brain activity will be measured and analyzed.
-    title: Neurofeedback Meditation session (5 April)
-    linkLabel: Go on!
-    url: https://www.wesharetalent.com/events/neurofeedback-meditation-session-by-phantus/
-    image: /assets/images/yoga-bos-vrouw.jpg
-  - type: preview
-    component: preview
-    title: Sleep is your superpower (29 April)
+    title: Sleep is your superpower (25-01-2023)
     description: "It’s time to wake up energetic and get rid of sleepless nights.
       “Sleep is your life-support system and Mother Nature’s best effort yet at
       immortality”, says sleep researcher and bestselling author ‘Why We Sleep’
-      Matt Walker. "
+      Matt Walker. In an interactive session you will learn about this
+      superpower and you will have the opportunity to ask all your sleep-related
+      questions to a sleep coach. Vitality coach Pjotr ​​Peulen likes to share
+      how he helps clients sleep better and deeper. The science is further than
+      you probably think in unraveling many sleep mysteries. Together with Pjotr
+      ​​you can get acquainted with the latest neuroscientific breakthroughs and
+      take the first step towards a better night’s sleep.     During this
+      session the following questions will be answered:  Why do we sleep? What
+      happens while sleeping? How can you actually sleep better? And there is
+      room to get answers to your own questions"
     linkLabel: Go on!
-    url: https://www.wesharetalent.com/events/sleep-is-your-superpower-by-phantus-29-april/
+    url: https://wesharetalent.com/event/sleep-is-your-superpower/
     image: /assets/images/slapen-meisje-handen.jpg
   - type: preview
     component: preview
-    title: Meditation Session (17 May)
-    description: "Meditation is for everyone! In fact, meditation is very
-      scientific! Research has already shown that meditation can be used to
-      improve your concentration, improve your mood, better regulate stress, and
-      increase compassion for yourself and others. "
-    linkLabel: Go on!
-    url: https://www.wesharetalent.com/events/mediatio-basic-session-by-phantus/
-    image: /assets/images/vrouw-mediteren-zon.jpg
-  - type: preview
-    component: preview
-    title: Sleep is your superpower (8 June)
-    description: "It’s time to wake up energetic and get rid of sleepless nights.
-      “Sleep is your life-support system and Mother Nature’s best effort yet at
-      immortality”, says sleep researcher and bestselling author ‘Why We Sleep’
-      Matt Walker. "
-    linkLabel: Go on!
-    url: https://www.wesharetalent.com/events/sleep-is-your-superpower-by-phantus-8-june/
-    image: /assets/images/meisje-slapen-masker-telefoon.jpg
-  - type: preview
-    component: preview
-    url: https://www.wesharetalent.com/events/how-to-reflect-look-back-to-go-forward-by-phantus/
-    title: How to reflect (24 June)
-    description: "When is the last time you took time to reflect on your work or
-      life? Did you have a eureka-moment or find out what is holding you back?
-      Probably not. Most people have no idea how to reflect properly because
-      they don’t know how their brains work. "
-    linkLabel: "Go on! "
+    url: https://wesharetalent.com/event/reflecteren-kan-je-leren/
+    title: Reflecteren kan je leren (24-02-2023)
+    description: Wanneer heb jij voor het laatst gereflecteerd op je werk óf op je
+      leven? Weet je nog hoe je dat reflectiemoment hebt aangepakt? Grote kans
+      dat je maar wat deed. Geen zorgen hoor, dat doet iedereen! Daar brengt
+      vitaliteitscoach Pjotr Peulen graag verandering in. Hij deelt graag een
+      van de technieken met je uit zijn methode om slimmer te werken.  Je moet
+      terugblikken om vooruit te kunnen kijken. We moeten leren van tegenslagen
+      op werk én in ons privéleven. Je brein doet dat al op de automatische
+      piloot, maar er zijn stappen en oefeningen om dit proces te begeleiden.
+      Een aantal stappen waardoor je niet blijft hangen in een loopje van zorgen
+      en angsten, maar constructief terugblikt om vooruit te kunnen komen.
+    linkLabel: Meer weten!
     image: /assets/images/hand-laptop-pen.jpg
   - type: preview
     component: preview
-    title: More GRIP on your work (6 July)
-    description: “Your agenda is sacred”, says Rick Pastoor in his book GRIP. And he
-      is right! Our days are getting fuller and our to-do lists longer. To stay
-      standing, we need a smarter way to deal with our agenda and all your
-      digital productivity tools. How to do this, without spending hours
-      organizing?
-    linkLabel: Go on!
-    url: https://www.wesharetalent.com/events/more-grip-on-your-work-by-phantus/
+    title: Nog meer GRIP op je werk (15-03-2023)
+    description: “Je agenda is heilig”, zegt Rick Pastoor in zijn boek GRIP. En
+      gelijk heeft hij! Om je hoofd boven water te houden moet je zorgvuldig
+      omgaan met je agenda, slack, e-mail en al je digitale productivity tools.
+      Maar hoe doe je dit zonder uren kwijt te zijn aan
+      organiseren?  Vitaliteitscoach Pjotr Peulen deelt graag een nieuwe
+      techniek met je uit zijn methode om slimmer te werken. Een manier om met
+      zo min mogelijk tijd, toch al je taken gedaan te krijgen én nooit meer een
+      afspraak te vergeten. Pjotr legt je stap voor stap uit hoe je agenda,
+      takenlijst en projectenbord met elkaar samen kunnen werken, in plaats van
+      allemaal verschillende eilandjes te zijn. Hierdoor stromen taken door een
+      geoliede machine én kom je nooit meer tijd te kort.
+    linkLabel: Meer weten!
+    url: https://wesharetalent.com/event/nog-meer-grip-op-je-werk/
     image: /assets/images/man-tablet-computer.jpg
+  - type: preview
+    component: preview
+    url: https://wesharetalent.com/event/voltooi-je-stresscirkel/
+    linkLabel: Meer weten!
+    description: "Voel jij je overspannen? Dan ben je niet alleen. Stress en
+      burn-out lijken de laatste jaren alleen maar toe te nemen. Daarom is het
+      tijd om te praten over de natuurlijke en gezonde stresscirkel. Samen
+      zullen we onderzoeken hoe je op een gezonde manier kan omgaan met stress,
+      zodat je na een stressvolle situatie weer ontspannen en energiek kan
+      voelen.  Vitaliteitscoach Pjotr Peulen deelt graag hoe hij cliënten helpt
+      om hun eigen stressreactie te herkennen en er vervolgens gezond op te
+      reageren. Hij gebruikt hiervoor een door hemzelf aangepaste versie van de
+      stresscirkel omschreven in het boek Burnout: The secret to solving the
+      stress cycle door Dr Emily Nagoski en Dr Amelia Nagoski. Wanneer is de
+      stresscirkel voltooid? Zodra we ons weer ontspannen en veilig voelen na
+      een stressvolle situatie."
+    title: Voltooi je stresscirkel (26-04-2023)
+    image: /assets/images/man-stress.jpg
+  - type: preview
+    component: preview
+    title: Sleep is your superpower (31-05-2023)
+    description: "Het is tijd om weer energiek wakker te worden en af te rekenen met
+      slapeloze nachten. “Sleep is your life-support system and Mother Nature’s
+      best effort yet at immortality”, zeg slaaponderzoeker en auteur van de
+      bestseller ‘Why we sleep’ Matt Walker. In een interactieve sessie zal je
+      leren over deze superpower en krijg je de mogelijkheid om al je
+      slaapgerelateerde vragen te stellen aan een slaapcoach. Coach Pjotr Peulen
+      deelt graag hoe hij cliënten helpt beter en dieper te slapen. De
+      wetenschap is verder dan je waarschijnlijk denkt in het ontrafelen van de
+      vele slaap mysteries. Samen met Pjotr kan je kennis maken met de laatste
+      neurowetenschappelijke doorbraken en de eerste stap zetten naar een beter
+      nachtrust.  Tijdens deze sessie zullen de volgende vragen beantwoord
+      worden:  Waarom slapen we? Wat gebeurt er tijdens slaap? Hoe kan je
+      daadwerkelijk beter slapen? En is er ruimte om antwoorden te krijgen op
+      jouw eigen vragen"
+    linkLabel: Meer weten!
+    url: https://wesharetalent.com/event/sleep-is-your-superpower-3/
+    image: /assets/images/meisje-slapen-masker-telefoon.jpg
 seo:
   title: Masterclass
   description: masterclass
