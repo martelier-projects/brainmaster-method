@@ -18,7 +18,7 @@ sections:
       Ik deel graag mijn kennis en ervaring als vitaliteitscoach met jou. Hopelijk helpt het jou om je energieker, gezonder en gelukkiger te gaan voelen. In samenwerking met WeShareTalent geef ik een aantal gratis masterclasses. Hieronder vind je een overzicht van de aankomende masterclasses. Klik op de masterclass waar je aan mee wil doen en meld je aan! 
 
 
-      Sommige masterclasses zijn fysiek én andere digitaal. De meeste zijn toegankelijk voor internationale deelnemers, dus zal de voertaal Engels zijn.
+      Bij sommige masterclasses zal de voertaal Nederlands zijn en bij sommige Engels. Alle masterclasses zijn digitaal.
   - type: preview
     component: preview
     title: Sleep is your superpower (25-01-2023)
