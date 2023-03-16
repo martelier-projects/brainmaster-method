@@ -34,12 +34,6 @@ sections:
 
 
       Behoefte aan een inspirerende en interactieve training? Ik geef regelmatig trainingen op het gebied van slimmer werken, burn-out preventie, meditatie of beter slapen. Ik denk graag mee om jullie teamdag of leerdag tot een succes te maken.
-
-
-      ### StapBudget
-
-
-      De overheid wil goede scholing mogelijk maken voor een brede doelgroep. Daarom kunnen kunnen werkenden en werkzoekenden vanaf 2022 tot €1.000 STAP-budget aanvragen voor een opleiding of training. Je kunt dit budget gebruiken om mijn trainingen gratis te volgen via mijn samenwerking met de StressWise Academy. Schrijf je in voor deze training via het inschrijfformulier en geef aan dat je gebruik wil maken van je STAP-budget.
   - type: preview
     component: preview
     description: Vergroot je mentale vermogen en je werkprestaties. Tijdens deze
@@ -52,7 +46,7 @@ sections:
       zijn om slimmer te werken.
     title: Slimmer Werken
     linkLabel: Meer info
-    url: https://stresswiseacademy.nl/training/training-slimmer-werken/
+    url: https://calendly.com/pjotr-peulen/bellen
     image: /assets/images/man-tablet-computer.jpg
   - type: preview
     component: preview
@@ -69,7 +63,7 @@ sections:
       te combineren, heeft deze training alles in huis om je – weer – weerbaar
       te voelen.
     linkLabel: Meer info
-    url: https://stresswiseacademy.nl/training/burn-out-preventie/
+    url: https://calendly.com/pjotr-peulen/bellen
     image: /assets/images/man-stress.jpg
   - type: preview
     component: preview
@@ -86,7 +80,7 @@ sections:
       inzichten én word je vaardig in het werken met meditatie als
       zorgprofessional. "
     linkLabel: Meer info
-    url: https://stresswiseacademy.nl/training/meditatie-voor-zorgprofessionals/
+    url: https://calendly.com/pjotr-peulen/bellen
     image: /assets/images/meditatie-voor-zorgprofessionals.jpg
   - type: rich-text
     show: false
