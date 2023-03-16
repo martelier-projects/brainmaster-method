@@ -1,4 +1,29 @@
 sections:
+  - type: text-media
+    show: true
+    order: image-text
+    component: text-media
+    imgSrc: /assets/images/foto-website-coachingspagina.jpg
+    title: Wie is coach Pjotr?
+    imgAlt: /
+    sections:
+      - title: Coach & Trainer
+        text: "Vanuit mijn eigen praktijk ben ik actief als coach en trainer. Ik richt
+          mij op drie thema's: 1. Beter Slapen; 2. Voel je weerbaar; 3. Slimmer
+          Werken. Het doel is simpel: dat jij je gezonder, energieker en
+          gelukkiger gaan voelen. "
+      - title: StressWise Academy
+        text: "Sinds 2020 werk ik met veel plezier samen met de StressWise Academy. Ik
+          geef regelmatig lessen binnen de tweejarige ACT-therapeutenopleiding
+          als gastdocent over de werking van het menselijk brein, tijdens
+          meditatie-oefeningen en andere interventies. "
+      - title: E-health
+        text: "E-health is bezig met een opmars én ik geloof dat E-health van
+          toegevoegde waarde kan zijn voor zorgprofessionals. Zo werk ik binnen
+          mijn eigen trajecten al met een E-health component. Momenteel wordt
+          mijn methode omgezet in een E-health programma waar verschillende
+          coaches en therapeuten gebruik van kunnen maken in hun eigen praktijk.
+          "
   - type: in-page-nav
     component: in-page-nav-for-flexibles
   - type: embed
