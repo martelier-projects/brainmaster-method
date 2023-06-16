@@ -15,7 +15,7 @@ sections:
       ## Boek een coachsessie
 
 
-      Boek een losse coachsessie van 60 minuten. Ideaal voor:
+      Boek een losse coachsessie, ideaal voor:
 
 
       * Als je een extra sessie plannen na het afronden van een coachingstraject 
@@ -37,7 +37,7 @@ sections:
       Kies een van onderstaande coachsessies. 
 
 
-      30 Minuten Coachsessie
+      [30 Minuten Coachsessie](https://form.jotform.com/231662738892367)
 
 
       [60 Minuten Coachsessie](https://form.jotform.com/231663306765358)
