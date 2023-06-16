@@ -133,6 +133,13 @@ sections:
           per maand. "
   - type: preview
     component: preview
+    url: /boek-een-coachsessie/
+    linkLabel: Boek een coachsessie
+    title: Losse coachsessie
+    description: "Wil je liever losse coachsessies boeken? "
+    image: /assets/images/hand-telefoon-plannen-zon.jpg
+  - type: preview
+    component: preview
     title: Meld je aan
     description: "Maak optimaal gebruik van alles wat vitaliteitscoaching je te
       bieden heeft. Meld je aan voor één van de persoonlijke coachingstrajecten.
