@@ -1,6 +1,6 @@
 ---
 indexPage: false
-title: Boek een coachsessie
+title: Boek een coachsessie [oud]
 permalink: /boek-een-coachsessie/chakfhf344isenrzdfj3q4j234vgjs/
 layout: layouts/default-template.njk
 header:
