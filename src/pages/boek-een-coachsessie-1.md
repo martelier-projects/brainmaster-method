@@ -45,7 +45,7 @@ sections:
       Boek een losse coachsessie, ideaal voor:
 
 
-      * Als je een extra sessie plannen na het afronden van een coachingstraject 
+      * Als je een extra sessie wil plannen na het afronden van een coachingstraject 
 
       * Als je iedere maand zelf wil bepalen hoeveel sessies je nodig heb
 
