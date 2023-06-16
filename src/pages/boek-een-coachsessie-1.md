@@ -25,23 +25,19 @@ sections:
       * Als je laagdrempelig wil starten en onderzoeken of coaching iets voor jou is
 
 
-
-
       ### Betalen & Inplannen
 
 
       Je kan makkelijk voor een losse coachsessie betalen via iDeal of CreditCard. Vervolgens kan je via Calendly een afspraak inplannen in mijn agenda. De aankomende tijd ben ik alleen op de vrijdagen beschikbaar voor nieuwe coachsessies.
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: >-
-      ## Coachsessie inplannen
+
+
+      ### Coachsessie kiezen
 
 
       Kies een van onderstaande coachsessies. 
 
 
-      [30 Minuten Coachsessie](https://form.jotform.com/231662738892367)
+      30 Minuten Coachsessie
 
 
       [60 Minuten Coachsessie](https://form.jotform.com/231663306765358)
