@@ -133,7 +133,7 @@ sections:
           per maand. "
   - type: preview
     component: preview
-    url: /boek-een-coachsessie/
+    url: https://pjotr-peulen-s-school.teachable.com/
     linkLabel: Boek een coachsessie
     title: Boek losse coachsessies
     description: Wil je liever een losse coachsessie boeken? Bekijk en kies een van
