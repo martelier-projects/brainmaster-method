@@ -1,11 +1,1 @@
-sections:
-  - type: preview
-    component: preview
-    title: Masterclass
-    description: Ik deel graag mijn kennis en ervaring als vitaliteitscoach met jou.
-      Hopelijk helpt het jou om je energieker, gezonder en gelukkiger te gaan
-      voelen. In samenwerking met WeShareTalent geef ik een aantal gratis
-      masterclasses.
-    linkLabel: Lees meer!
-    url: /masterclass/
-    image: /assets/images/vrouw-laptop-tablet-licht.jpg
+sections: []
