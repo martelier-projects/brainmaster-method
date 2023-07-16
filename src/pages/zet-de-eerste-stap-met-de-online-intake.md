@@ -98,6 +98,15 @@ sections:
         title: Oefeningen & Opdrachten
     imgSrc: /assets/images/iphone-coaching-app.jpg
     imgAlt: /
+  - type: preview
+    component: preview
+    title: Spreek met Coach Pjotr
+    description: "Heb je nog vragen óf wil je beginnen met een coachingstraject?
+      Plan dan een afspraak in met mij, Coach Pjotr. Dit gesprek, de digitale
+      intake, duurt een half uur en zal plaatsvinden via een videobelgesprek. "
+    linkLabel: Plan een digitale intake
+    url: /online-intake/digitale-intake/
+    image: /assets/images/preview-gesprek-laptop-1080-x-800-px-1080-x-700-px-.jpg
   - type: rich-text
     show: true
     component: rich-text
@@ -122,15 +131,6 @@ sections:
         icon: Module
         text: "Voor € 585,- (incl. BTW) per maand heb je recht op 240 coachingsminuten
           per maand. "
-  - type: preview
-    component: preview
-    title: Spreek met Coach Pjotr
-    description: "Heb je nog vragen óf wil je beginnen met een coachingstraject?
-      Plan dan een afspraak in met mij, Coach Pjotr. Dit gesprek, de digitale
-      intake, duurt een half uur en zal plaatsvinden via een videobelgesprek. "
-    linkLabel: Plan een digitale intake
-    url: /online-intake/digitale-intake/
-    image: /assets/images/preview-gesprek-laptop-1080-x-800-px-1080-x-700-px-.jpg
   - type: preview
     component: preview
     url: /boek-een-coachsessie/
