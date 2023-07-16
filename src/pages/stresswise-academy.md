@@ -111,6 +111,14 @@ sections:
       4. In welke situatie - gemoedstoestand - zou je deze meditatie willen gebruiken?
 
       5. Wat is de belangrijkste ‘opdracht’ voor jou, tijdens de meditatie-oefening?
+  - type: rich-text
+    show: true
+    component: rich-text
+    text: >-
+      ## Praktische tips
+
+
+      Tijdens de lesdag zullen we veel mediteren, dus trek iets comfortabels aan waar je goed in kan mediteren. Neem je uitgeschreven meditatie op papier mee naar de lesdag, hier ga je tijdens de les mee aan de slag.
 seo:
   title: StressWise Academy
   description: Sinds 2020 werk ik met veel plezier samen met de StressWise
