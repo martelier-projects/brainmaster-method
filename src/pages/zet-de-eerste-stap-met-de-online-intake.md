@@ -135,8 +135,10 @@ sections:
     component: preview
     url: /boek-een-coachsessie/
     linkLabel: Boek een coachsessie
-    title: Losse coachsessie
-    description: "Wil je liever losse coachsessies boeken? "
+    title: Boek losse coachsessies
+    description: Wil je liever een losse coachsessie boeken? Bekijk en kies een van
+      de verschillende coaching opties en laat coach Pjotr je inspireren,
+      motiveren en adviseren.
     image: /assets/images/hand-telefoon-plannen-zon.jpg
   - type: preview
     component: preview
