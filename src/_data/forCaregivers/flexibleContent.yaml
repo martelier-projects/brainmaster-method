@@ -1,10 +1,9 @@
 sections:
   - type: preview
     component: preview
-    title: Plan een kennismaking
-    description: "Plan gerust een belafspraak om kennis te maken. Ik werk veel samen
-      met huisartsen, psychologen en therapeuten. Wellicht ligt er voor ons ook
-      een vruchtbare samenwerking in het verschiet. "
-    linkLabel: Plan een kennismaking
-    url: https://calendly.com/pjotr-peulen/bellen
+    title: StressWise Academy
+    description: "Volg jij de tweejarige ACT Therapeuten opleiding bij StressWise
+      Academy? Bekijk dan deze pagina voor achtergrond informatie en huiswerk. "
+    linkLabel: Ik wil meer weten
+    url: /swa/
     image: /assets/images/hand-telefoon-plannen-zon.jpg
