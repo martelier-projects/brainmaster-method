@@ -6,7 +6,7 @@ sections:
     order: image-text
     component: text-media
     imgSrc: /assets/images/foto-website-coachingspagina.jpg
-    title: Wie is coach Pjotr?
+    title: Wie is Pjotr?
     imgAlt: /
     sections:
       - title: Coach & Trainer
