@@ -124,15 +124,6 @@ sections:
           per maand. "
   - type: preview
     component: preview
-    url: /boek-een-coachsessie/
-    linkLabel: Boek een coachsessie
-    title: Boek losse coachsessies
-    description: Wil je liever een losse coachsessie boeken? Bekijk en kies een van
-      de verschillende coaching opties en laat coach Pjotr je inspireren,
-      motiveren en adviseren.
-    image: /assets/images/hand-telefoon-plannen-zon.jpg
-  - type: preview
-    component: preview
     title: Spreek met Coach Pjotr
     description: "Heb je nog vragen óf wil je beginnen met een coachingstraject?
       Plan dan een afspraak in met mij, Coach Pjotr. Dit gesprek, de digitale
@@ -140,6 +131,15 @@ sections:
     linkLabel: Plan een digitale intake
     url: /online-intake/digitale-intake/
     image: /assets/images/preview-gesprek-laptop-1080-x-800-px-1080-x-700-px-.jpg
+  - type: preview
+    component: preview
+    url: /boek-een-coachsessie/
+    linkLabel: Boek een coachsessie
+    title: Boek losse coachsessies
+    description: Wil je liever een losse coachsessie boeken? Bekijk en kies een van
+      de verschillende coaching opties en laat coach Pjotr je inspireren,
+      motiveren en adviseren.
+    image: /assets/images/hand-telefoon-plannen-zon.jpg
 seo:
   title: Online Intake
   description: Online Intake
