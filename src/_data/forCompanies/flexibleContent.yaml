@@ -8,28 +8,6 @@ sections:
     show: true
     component: rich-text
     text: >-
-      ## Workshops
-
-
-      Voel je vitaler na een inspirerende workshop, na een inspiratiesessie! Ik deel graag mijn kennis en ervaring als met jouw team! Maak vrijblijvend kennis met mijn methode door één van mijn drie inspiratiesessies.
-  - type: buttons
-    component: buttons
-    buttons:
-      - label: Inspiratiesessie
-        link: /inspiratiesessie/
-  - type: preview
-    component: preview
-    title: Kennismaking
-    description: Plan gerust een belafspraak in om kennis te maken. Pjotr denkt
-      graag mee hoe hij met zijn vaardigheden en kennis jullie organisatie
-      vitaler kan maken. Hopelijk tot snel!
-    linkLabel: Plan een kennismaking
-    image: /assets/images/hand-telefoon-plannen-zon.jpg
-    url: https://www.calendly.com/pjotr-peulen/bellen
-  - type: rich-text
-    show: true
-    component: rich-text
-    text: >-
       ## Trainingen
 
 
