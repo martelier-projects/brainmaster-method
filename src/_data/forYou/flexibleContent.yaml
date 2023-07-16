@@ -1,9 +1,10 @@
 sections:
   - type: preview
     component: preview
-    title: Kies jouw coaching
+    title: Boek een losse coachsessie
     url: https://pjotr-peulen-s-school.teachable.com/
-    description: Bekijk en kies een van de verschillende coaching opties en laat
-      coach Pjotr je inspireren, motiveren en adviseren.
+    description: Wil je liever een losse coachsessie boeken? Bekijk en kies een van
+      de verschillende coaching opties en laat coach Pjotr je inspireren,
+      motiveren en adviseren.
     linkLabel: Bekijk de opties
     image: /assets/images/hand-telefoon-plannen-zon.jpg
