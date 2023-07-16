@@ -29,7 +29,7 @@ sections:
       ## Achtergrond informatie
 
 
-      Er zijn tal van boeken geschreven over meditatie. Helaas zitten er ook veel boeken tussen, die zich baseren op onvoldoende of zelfs incorrecte informatie. Veel populaire meditatieboeken overdrijven bijvoorbeeld de werking van meditatie of citeren slecht uitgevoerde onderzoeken. Echter, er zijn twee boeken, die ik kan aanraden. Ook wil ik je wijzen op twee artikelen en twee video's. Veel plezier tijdens het voorbereiden!
+      Er zijn tal van boeken geschreven over meditatie. Helaas zitten er ook veel boeken tussen, die zich baseren op onvoldoende of zelfs incorrecte informatie. Veel populaire meditatieboeken overdrijven bijvoorbeeld de werking van meditatie of citeren slecht uitgevoerde onderzoeken. Echter, er zijn twee boeken, die ik kan aanraden. Ook wil ik je wijzen op twee artikelen en twee video's. Bestuur de bronnen waar jij je goed bij voelt. Veel plezier tijdens het voorbereiden!
 
 
       #### [Practical Meditation](https://partner.bol.com/click/click?p=2&t=url&s=1072144&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Ff%2Fpractical-meditation%2F9200000084329858%2F&name=Practical%20Meditation%2C%20Giovanni%20Dienstmann)
