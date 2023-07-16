@@ -98,15 +98,6 @@ sections:
         title: Oefeningen & Opdrachten
     imgSrc: /assets/images/iphone-coaching-app.jpg
     imgAlt: /
-  - type: preview
-    component: preview
-    title: Spreek met Coach Pjotr
-    description: "Heb je nog vragen óf wil je de Vitality Check bespreken? Plan dan
-      een afspraak in met mij, Coach Pjotr. Dit gesprek, de digitale intake,
-      duurt een half uur en zal plaatsvinden via een videobelgesprek. "
-    linkLabel: Plan een digitale intake
-    url: /online-intake/digitale-intake/
-    image: /assets/images/preview-gesprek-laptop-1080-x-800-px-1080-x-700-px-.jpg
   - type: rich-text
     show: true
     component: rich-text
@@ -142,13 +133,13 @@ sections:
     image: /assets/images/hand-telefoon-plannen-zon.jpg
   - type: preview
     component: preview
-    title: Meld je aan
-    description: "Maak optimaal gebruik van alles wat vitaliteitscoaching je te
-      bieden heeft. Meld je aan voor één van de persoonlijke coachingstrajecten.
-      "
-    linkLabel: Maak een keuze
-    url: https://www.coachaccountable.com/offering/PKTIFIh6g5Z9WK3RbNvLkWOvak9LREQ
-    image: /assets/images/mock.jpg
+    title: Spreek met Coach Pjotr
+    description: "Heb je nog vragen óf wil je beginnen met een coachingstraject?
+      Plan dan een afspraak in met mij, Coach Pjotr. Dit gesprek, de digitale
+      intake, duurt een half uur en zal plaatsvinden via een videobelgesprek. "
+    linkLabel: Plan een digitale intake
+    url: /online-intake/digitale-intake/
+    image: /assets/images/preview-gesprek-laptop-1080-x-800-px-1080-x-700-px-.jpg
 seo:
   title: Online Intake
   description: Online Intake
